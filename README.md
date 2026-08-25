@@ -8,7 +8,7 @@ Ver `ESTRUCTURA.md` para el índice completo y el criterio editorial acordado
 ## Estado
 - [x] Estructura de 10 capítulos definida
 - [x] Introducción — borrador 1
-- [ ] Capítulo 1 — Salud (pendiente: reencuadre de controversias médicas)
+- [x] Capítulo 1 — Salud (borrador 1, encuadre de controversias documentadas)
 - [ ] Capítulo 2 — Geopolítica (base ya escrita, pendiente revisión de fuentes)
 - [ ] Capítulos 3–10 — pendientes
 - [ ] Conclusión
