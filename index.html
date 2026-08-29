@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Piensa o Te Piensan</title>
+  <meta name="description" content="Libro de pensamiento crítico. Índice, introducción, capítulos y conclusión." />
+  <meta name="theme-color" content="#f3eee4" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #f3eee4;
+      --bg-elev: #ebe4d6;
+      --ink: #1a1714;
+      --muted: #6f675e;
+      --subtle: #8a8176;
+      --line: #d4cbb8;
+      --accent: #3e4a3c;
+      --accent-fg: #f3eee4;
+      --font-ui: "Instrument Sans", system-ui, sans-serif;
+      --font-read: "Newsreader", "Iowan Old Style", Georgia, serif;
+      --sidebar: 17.5rem;
+      --read-size: 1.2rem;
+    }
+    [data-theme="night"] {
+      --bg: #141210;
+      --bg-elev: #1c1916;
+      --ink: #ece6db;
+      --muted: #a39a8e;
+      --subtle: #7d7468;
+      --line: #2e2a25;
+      --accent: #c5cdc0;
+      --accent-fg: #141210;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; min-height: 100%; background: var(--bg); color: var(--ink); }
+    html { -webkit-font-smoothing: antialiased; }
+    body { font-family: var(--font-ui); }
+    button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
+    a { color: inherit; }
+    .app { display: flex; min-height: 100dvh; }
+    .sidebar {
+      position: sticky; top: 0; height: 100dvh; width: var(--sidebar); flex: none;
+      border-right: 1px solid var(--line); background: var(--bg);
+      display: flex; flex-direction: column; padding: 1.5rem 1.1rem 1.25rem;
+    }
+    .brand { display: block; text-decoration: none; padding: 0 0.4rem 1.25rem; border-bottom: 1px solid var(--line); }
+    .brand small { display: block; font-size: 0.68rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--subtle); font-weight: 500; }
+    .brand strong { display: block; margin-top: 0.35rem; font-family: var(--font-read); font-size: 1.35rem; font-weight: 500; letter-spacing: -0.03em; line-height: 1.15; text-wrap: balance; }
+    .nav { overflow: auto; flex: 1; padding: 0.85rem 0; }
+    .nav a {
+      display: grid; grid-template-columns: 2.1rem 1fr; gap: 0.35rem 0.55rem;
+      padding: 0.55rem 0.5rem; border-radius: 8px; text-decoration: none; color: var(--muted);
+    }
+    .nav a:hover { background: var(--bg-elev); color: var(--ink); }
+    .nav a.active { background: var(--bg-elev); color: var(--ink); }
+    .nav .num { font-size: 0.72rem; letter-spacing: 0.08em; color: var(--subtle); padding-top: 0.18rem; font-variant-numeric: tabular-nums; }
+    .nav .ttl { font-size: 0.9rem; line-height: 1.3; font-weight: 500; }
+    .tools { display: flex; gap: 0.4rem; padding-top: 0.75rem; border-top: 1px solid var(--line); }
+    .tools button {
+      flex: 1; min-height: 44px; border: 1px solid var(--line); border-radius: 8px;
+      font-size: 0.78rem; font-weight: 500; color: var(--muted);
+    }
+    .tools button:hover { color: var(--ink); background: var(--bg-elev); }
+    .main { flex: 1; min-width: 0; }
+    .topbar {
+      display: none; position: sticky; top: 0; z-index: 20;
+      background: color-mix(in srgb, var(--bg) 92%, transparent);
+      backdrop-filter: blur(10px); border-bottom: 1px solid var(--line);
+      padding: 0.65rem 0.9rem; align-items: center; gap: 0.6rem; min-height: 52px;
+    }
+    .progress { position: sticky; top: 0; z-index: 5; height: 2px; background: var(--line); }
+    .progress > i { display: block; height: 100%; width: 0; background: var(--ink); }
+    .sheet {
+      max-width: 42rem; margin: 0 auto; padding: 3.2rem 1.5rem 6rem;
+    }
+    .kicker {
+      font-size: 0.72rem; letter-spacing: 0.18em; text-transform: uppercase;
+      color: var(--subtle); font-weight: 500; margin: 0 0 0.7rem;
+    }
+    .prose { font-family: var(--font-read); font-size: var(--read-size); line-height: 1.62; color: var(--ink); }
+    .prose h1 { font-size: 2.15rem; font-weight: 500; letter-spacing: -0.03em; line-height: 1.15; margin: 0 0 1.6rem; text-wrap: balance; }
+    .prose h2 { font-size: 1.35rem; font-weight: 500; letter-spacing: -0.02em; line-height: 1.25; margin: 2.4rem 0 0.8rem; text-wrap: balance; }
+    .prose p { margin: 0 0 1.05em; text-wrap: pretty; }
+    .prose strong { font-weight: 600; }
+    .prose em { font-style: italic; }
+    .prose ul, .prose ol { margin: 0 0 1.1em; padding-left: 1.2em; }
+    .prose li { margin: 0.25em 0; }
+    .prose hr { border: 0; border-top: 1px solid var(--line); margin: 2.2rem 0; }
+    .prose blockquote { margin: 1.3em 0; padding: 0 0 0 1rem; border-left: 2px solid var(--line); color: var(--muted); }
+    .prose a { color: var(--accent); text-underline-offset: 3px; }
+    .pager { display: flex; justify-content: space-between; gap: 0.75rem; margin-top: 3rem; padding-top: 1.4rem; border-top: 1px solid var(--line); }
+    .pager a {
+      display: flex; flex-direction: column; gap: 0.2rem; text-decoration: none;
+      min-height: 44px; max-width: 46%; font-size: 0.92rem; font-weight: 500;
+    }
+    .pager a span { font-size: 0.68rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--subtle); font-weight: 500; }
+    .pager a.next { text-align: right; margin-left: auto; }
+    .home { max-width: 44rem; margin: 0 auto; padding: 3.4rem 1.5rem 5rem; }
+    .home h1 { font-family: var(--font-read); font-size: clamp(2.4rem, 6vw, 3.6rem); font-weight: 500; letter-spacing: -0.035em; line-height: 1.05; margin: 0.4rem 0 1rem; text-wrap: balance; }
+    .home .lead { font-family: var(--font-read); font-size: 1.25rem; line-height: 1.5; color: var(--muted); max-width: 36rem; }
+    .toc { display: grid; gap: 0.45rem; margin-top: 2.4rem; }
+    .toc a {
+      display: grid; grid-template-columns: 5.5rem 1fr; gap: 0.8rem; align-items: baseline;
+      padding: 0.85rem 0; border-top: 1px solid var(--line); text-decoration: none;
+    }
+    .toc a:last-child { border-bottom: 1px solid var(--line); }
+    .toc .k { font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--subtle); }
+    .toc .t { font-family: var(--font-read); font-size: 1.2rem; font-weight: 500; }
+    .err, .load { color: var(--muted); font-family: var(--font-read); font-size: 1.15rem; padding: 3rem 1.5rem; }
+    .scrim { display: none; position: fixed; inset: 0; background: rgb(20 18 16 / 0.4); z-index: 30; }
+    @media (max-width: 860px) {
+      .sidebar {
+        position: fixed; z-index: 40; transform: translateX(-105%);
+        transition: transform 250ms cubic-bezier(0.22, 1, 0.36, 1);
+      }
+      .sidebar.open { transform: none; }
+      .topbar { display: flex; }
+      .scrim.on { display: block; }
+      .sheet, .home { padding-top: 1.6rem; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .sidebar { transition: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <div class="scrim" id="scrim"></div>
+    <aside class="sidebar" id="sidebar">
+      <a class="brand" href="#/">
+        <small>Borrador de lectura</small>
+        <strong>Piensa o Te Piensan</strong>
+      </a>
+      <nav class="nav" id="nav"></nav>
+      <div class="tools">
+        <button type="button" id="btn-theme" aria-label="Cambiar tema">Noche</button>
+        <button type="button" id="btn-minus" aria-label="Letra más chica">A−</button>
+        <button type="button" id="btn-plus" aria-label="Letra más grande">A+</button>
+      </div>
+    </aside>
+    <div class="main">
+      <div class="topbar">
+        <button type="button" id="btn-menu" aria-label="Índice" style="min-width:44px;min-height:44px;font-weight:600">Índice</button>
+        <span id="crumb" style="font-size:0.88rem;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Portada</span>
+      </div>
+      <div class="progress" aria-hidden="true"><i id="bar"></i></div>
+      <div id="root"></div>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    const CHAPTERS = [
+      { slug: "introduccion", file: "es/00-introduccion.md", num: "00", kicker: "Prólogo", title: "Introducción" },
+      { slug: "salud", file: "es/01-salud.md", num: "01", kicker: "Capítulo 1", title: "La salud en la encrucijada" },
+      { slug: "geopolitica", file: "es/02-geopolitica.md", num: "02", kicker: "Capítulo 2", title: "Geopolítica y los hilos del poder" },
+      { slug: "atentados", file: "es/03-atentados.md", num: "03", kicker: "Capítulo 3", title: "Atentados y encubrimientos" },
+      { slug: "democracia", file: "es/04-democracia.md", num: "04", kicker: "Capítulo 4", title: "Democracia y el espejismo electoral" },
+      { slug: "medios", file: "es/05-medios.md", num: "05", kicker: "Capítulo 5", title: "Medios de comunicación" },
+      { slug: "clima", file: "es/06-clima.md", num: "06", kicker: "Capítulo 6", title: "Cambio climático" },
+      { slug: "economia", file: "es/07-economia.md", num: "07", kicker: "Capítulo 7", title: "Economía e inflación" },
+      { slug: "espacio", file: "es/08-espacio.md", num: "08", kicker: "Capítulo 8", title: "Espacio y Tierra" },
+      { slug: "extraterrestre", file: "es/09-extraterrestre.md", num: "09", kicker: "Capítulo 9", title: "Vida extraterrestre" },
+      { slug: "mas-alla", file: "es/10-mas-alla.md", num: "10", kicker: "Capítulo 10", title: "Más allá de la muerte" },
+      { slug: "conclusion", file: "es/conclusion.md", num: "Fin", kicker: "Cierre", title: "El camino del pensador inquisitivo" },
+    ];
+
+    const root = document.getElementById("root");
+    const nav = document.getElementById("nav");
+    const bar = document.getElementById("bar");
+    const crumb = document.getElementById("crumb");
+    const sidebar = document.getElementById("sidebar");
+    const scrim = document.getElementById("scrim");
+    const cache = new Map();
+
+    nav.innerHTML = CHAPTERS.map((c) =>
+      `<a href="#/${c.slug}" data-slug="${c.slug}"><span class="num">${c.num}</span><span class="ttl">${c.title}</span></a>`
+    ).join("");
+
+    function closeMenu() {
+      sidebar.classList.remove("open");
+      scrim.classList.remove("on");
+    }
+    document.getElementById("btn-menu").onclick = () => {
+      sidebar.classList.add("open");
+      scrim.classList.add("on");
+    };
+    scrim.onclick = closeMenu;
+
+    function slug() {
+      return (location.hash.replace(/^#\/?/, "") || "").replace(/\/$/, "");
+    }
+
+    async function loadMd(file) {
+      if (cache.has(file)) return cache.get(file);
+      const res = await fetch(file, { cache: "no-store" });
+      if (!res.ok) throw new Error("No se pudo leer " + file);
+      const text = await res.text();
+      cache.set(file, text);
+      return text;
+    }
+
+    function setActive(s) {
+      nav.querySelectorAll("a").forEach((a) => a.classList.toggle("active", a.dataset.slug === s));
+    }
+
+    function home() {
+      crumb.textContent = "Portada";
+      setActive("");
+      bar.style.width = "0";
+      root.innerHTML = `
+        <section class="home">
+          <p class="kicker">Libro en edición</p>
+          <h1>Piensa o Te Piensan</h1>
+          <p class="lead">Pensamiento crítico sin catecismo. Elegí un capítulo e andá yendo. El índice queda a la izquierda — o en el botón Índice, si estás en el teléfono.</p>
+          <div class="toc">
+            ${CHAPTERS.map((c) => `<a href="#/${c.slug}"><span class="k">${c.kicker}</span><span class="t">${c.title}</span></a>`).join("")}
+          </div>
+        </section>`;
+    }
+
+    async function chapter(s) {
+      const i = CHAPTERS.findIndex((c) => c.slug === s);
+      if (i < 0) return home();
+      const c = CHAPTERS[i];
+      const prev = CHAPTERS[i - 1];
+      const next = CHAPTERS[i + 1];
+      crumb.textContent = c.kicker + " · " + c.title;
+      setActive(s);
+      root.innerHTML = `<p class="load">Cargando…</p>`;
+      try {
+        const md = await loadMd(c.file);
+        const html = marked.parse(md, { mangle: false, headerIds: false });
+        root.innerHTML = `
+          <article class="sheet">
+            <p class="kicker">${c.kicker}</p>
+            <div class="prose">${html}</div>
+            <nav class="pager">
+              ${prev ? `<a href="#/${prev.slug}"><span>Anterior</span>${prev.title}</a>` : "<span></span>"}
+              ${next ? `<a class="next" href="#/${next.slug}"><span>Siguiente</span>${next.title}</a>` : ""}
+            </nav>
+          </article>`;
+        window.scrollTo(0, 0);
+      } catch (err) {
+        root.innerHTML = `<p class="err">${err.message}. Si esto es Vercel, confirmá que el archivo ${c.file} esté en el repo.</p>`;
+      }
+    }
+
+    function render() {
+      closeMenu();
+      const s = slug();
+      if (!s) home();
+      else chapter(s);
+    }
+
+    window.addEventListener("hashchange", render);
+    window.addEventListener("scroll", () => {
+      const max = document.documentElement.scrollHeight - innerHeight;
+      bar.style.width = (max > 0 ? (scrollY / max) * 100 : 0) + "%";
+    }, { passive: true });
+
+    const rootEl = document.documentElement;
+    const savedTheme = localStorage.getItem("potp-theme");
+    if (savedTheme === "night") {
+      rootEl.setAttribute("data-theme", "night");
+      document.getElementById("btn-theme").textContent = "Día";
+    }
+    document.getElementById("btn-theme").onclick = () => {
+      const night = rootEl.getAttribute("data-theme") !== "night";
+      rootEl.setAttribute("data-theme", night ? "night" : "day");
+      localStorage.setItem("potp-theme", night ? "night" : "day");
+      document.getElementById("btn-theme").textContent = night ? "Día" : "Noche";
+    };
+    let size = Number(localStorage.getItem("potp-size") || 1.2);
+    rootEl.style.setProperty("--read-size", size + "rem");
+    document.getElementById("btn-minus").onclick = () => {
+      size = Math.max(1, size - 0.08);
+      rootEl.style.setProperty("--read-size", size + "rem");
+      localStorage.setItem("potp-size", String(size));
+    };
+    document.getElementById("btn-plus").onclick = () => {
+      size = Math.min(1.6, size + 0.08);
+      rootEl.style.setProperty("--read-size", size + "rem");
+      localStorage.setItem("potp-size", String(size));
+    };
+
+    render();
+  </script>
+</body>
+</html>
