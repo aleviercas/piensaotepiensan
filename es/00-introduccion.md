@@ -34,13 +34,15 @@ Vivimos una era de paradojas. Nunca la humanidad tuvo tanto acceso a la informac
 
 Este libro no busca reemplazar un dogma por otro. No es una colección de certezas alternativas para gente cansada de las certezas oficiales. Es una invitación a ejercitar el músculo que más atrofiado tenemos: la capacidad de sostener una pregunta incómoda el tiempo suficiente como para investigarla en serio, en lugar de resolverla por comodidad ideológica —venga esa comodidad de donde venga.
 
+Hay un sesgo concreto, y conviene nombrarlo de entrada. En las últimas dos décadas, las instituciones que producen el “consenso” —agencias sanitarias, universidades, redacciones, organismos internacionales— se corrieron, en bloque, hacia un paquete: precaución sanitaria máxima, clima como urgencia moral, multiculturalismo como tabú inverso, y “desinformación” como delito administrativo. Un asistente de escritura entrenado en ese corpus tiende a suavizar lo que ese paquete no soporta. Este libro, cuando tropieza con ese suavizado, lo recorta. No para correr el texto a “la derecha”. Para dejar el hecho donde estaba antes de que lo peinaran.
+
 ## La rebelión del pensamiento inquisitivo
 
 Este es un libro para inconformes cognitivos: los que no se conforman ni con la respuesta fácil del sistema ni con la respuesta fácil de quienes dicen combatirlo. No pretendo tener todas las respuestas —de hecho, desconfío de quien asegura tenerlas—, pero sí me comprometo a algo concreto: formular las preguntas que muchos evitan, mostrar de dónde vienen las distintas versiones de cada historia, y dejar que seas vos quien saque las conclusiones, con las mejores fuentes que pueda ofrecerte de cada lado.
 
 ## Advertencia para el lector
 
-Si asumís que las instituciones —gobiernos, corporaciones, medios, agencias sanitarias— actúan siempre de manera transparente y desinteresada, algunos capítulos de este libro te van a resultar incómodos. Pero también te vas a encontrar, en más de un caso, con que la versión "oficial" resiste el escrutinio mejor de lo que sugieren sus críticos. Ese es precisamente el punto: la honestidad intelectual no elige bando de antemano.
+Si asumís que las instituciones —gobiernos, corporaciones, medios, agencias sanitarias— actúan siempre de manera transparente y desinteresada, varios capítulos te van a resultar agresivos. Si asumís, al revés, que “oficial” equivale a “mentira” y que todo disidente es un mártir, también te vas a chocar: hay conspiraciones de café que no sobreviven a un expediente. El punto no es empatar. El punto es no elegir el veredicto antes de leer el expediente.
 
 *"Para hacer el mal, el hombre primero debe creer que lo que hace es bueno."* — Aleksandr Solzhenitsyn
 
