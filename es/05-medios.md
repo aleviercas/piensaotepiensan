@@ -34,6 +34,15 @@ En 2023, más de un centenar de economistas —con Nobels en cartas abiertas— 
 
 Los pronósticos de colapso no se cumplieron. El costo del ajuste, sí existió, y se concentró en 2024. Un consenso de expertos puede acertar el diagnóstico (la inflación argentina era fiscal-monetaria) y errar el veredicto político (que la sociedad no lo bancaría). Lo que este caso no autoriza es el giro automático de las redacciones: cuando el número malo aparece, es “el modelo”; cuando el número bueno aparece, es “a costa de los pobres”, como si el 211% no hubiera sido, él mismo, el impuesto a los pobres. El Gini importa. El 211% también. Solo uno de los dos era compatible con seguir como estábamos.
 
+## 5.5 La falacia que mueve el siglo: matar al mensajero
+
+El capítulo 2 lo mostró con Tommy Robinson y las nenas de Rotherham. El 1, con Great Barrington. El 6, con quien pide calibrar un modelo climático. El mecanismo es el mismo, y merece un nombre en el capítulo de medios porque es, hoy, el principal producto de las redacciones: **no se discute el dato; se discute si el que lo trae es presentable**.
+
+Presentable, en 2015-2025, quiso decir: no de derecha, no religioso, no “antivacunas”, no “negacionista”, no “islamófobo”, no “trumpista”. El adjetivo hace el trabajo que el expediente no puede. Un informe de Alexis Jay, un mail de Fauci, un paper de Lewis y Curry, un video de un túnel bajo UNRWA, entran al noticiero ya masticados por la biografía de quien los comparte. El lector que se deja hacer ese trabajo no está informándose. Está delegando el veto.
+
+La pregunta, otra vez: **si el dato es verdadero, ¿qué agrega la ficha policial del que lo gritó?** Si es falso, ¿no alcanza con mostrarlo falso? El medio que necesita las dos cosas —desmentir y linchar— no está seguro de la primera.
+
 ## Reflexión final
+
 
 No hay medio virgen. La pregunta no es “¿a quién sigo?”. Es “¿este dato tiene fuente primaria, o tiene un eslogan?”. Es más lenta que elegir un canal y jubilarse. Es la única que no te convierte en el cliente de alguien.

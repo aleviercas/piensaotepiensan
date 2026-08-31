@@ -4,19 +4,22 @@ Empezamos este libro con la Alegoría de la Caverna de Platón: prisioneros que 
 
 ## Lo que este recorrido mostró, capítulo por capítulo
 
-En **salud**, la desconfianza hacia las instituciones médicas no fue un capricho de internet. Se censuró el laboratorio, se vendió una vacuna que no se había medido para transmisión, se cerraron escuelas contra el riesgo real de los chicos, y se llamó “ciencia” a esa secuencia. Corregir eso no autoriza el espejo —no toda vacuna es veneno, no todo oncólogo es un agente—. Autoriza, sí, a no volver a tragar un mandato sanitario con eslogan.
+En **salud**, la desconfianza hacia las instituciones médicas no fue un capricho de internet. Se censuró el laboratorio, se vendió una vacuna que no se había medido para transmisión, se cerraron escuelas contra el riesgo real de los chicos, y se llamó “ciencia” a esa secuencia. 2020 mató más que una gripe mala y mucho menos que una peste negra: los dos recortes —“pandemia del siglo” y “gripecita”— sirven a alguien. Event 201 no prueba que “ya sabían”; prueba que la clase que después cerró el mundo llevaba años ensayando el poder de cerrarlo. Corregir eso no autoriza el espejo —no toda vacuna es veneno, no todo oncólogo es un agente—. Autoriza, sí, a no volver a tragar un mandato sanitario con eslogan.
 
-En **geopolítica** y **atentados**, la sospecha hacia el Estado está justificada por el propio archivo de ese Estado: golpes de la CIA, AMIA sin condenados, Nord Stream sin dueño, un 7 de octubre que las redacciones diluyeron en “contexto”. Esa justificación no convierte en cierta cualquier acusación que llene un hueco. Convierte en obligatoria la pregunta que el comunicado de prensa no quiere.
+En **geopolítica** y **atentados**, la sospecha hacia el Estado está justificada por el propio archivo de ese Estado: golpes de la CIA, AMIA sin condenados, Nord Stream sin dueño, un 7 de octubre que las redacciones diluyeron en “contexto”, un búnker de Hamas bajo el techo de UNRWA, 1.400 nenas en Rotherham tapadas por miedo al adjetivo, y unas islas en el Atlántico Sur que no se volvieron británicas por azar en 1833. Esa justificación no convierte en cierta cualquier acusación que llene un hueco. Convierte en obligatoria la pregunta que el comunicado de prensa no quiere.
+
 
 En **democracia** y **medios**, hay fraudes de verdad (Venezuela, Bielorrusia, Carolina del Norte) y hay sesgos de verdad (Twitter Files, laptop Biden, DSA). El estándar no puede depender de si el resultado te gusta. Tampoco puede ser, y acá el sentido común de redacción falla, tratar cada irregularidad en una democracia occidental como si mencionarla fuera un golpe de Estado.
 
-En **clima**, el calentamiento y el CO2 humano son el núcleo sólido. El resto del paquete —modelos sin calibrar, catástrofe, net-zero, cierre nuclear, herejía del disidente— es política con bata. Cuestionar la solución no es negar el termómetro. Empaquetarlos fue el truco. Desempaquetarlos es el trabajo.
+En **clima**, el calentamiento y el CO2 humano son el núcleo sólido. El cálculo del 0,0012% es aritmética correcta y física mala: multiplica un stock por un flujo. El registro de 600 millones de años muestra un planeta más verde con más CO2; el de 800.000 años muestra que 420 ppm es un pico para nuestra especie. 1940-1975 industrializó y no calentó; *Newsweek* anunció el hielo en 1975. El resto del paquete —modelos sin calibrar, catástrofe, net-zero, cierre nuclear, herejía del disidente— es política con bata. Cuestionar la solución no es negar el termómetro. Empaquetarlos fue el truco. Desempaquetarlos es el trabajo.
+
 
 En **economía**, la inflación argentina no era un enigma de márgenes. Era un fisco con rotativa. El fiat, el oro, el cripto y el CBDC son trade-offs de poder: quién se come la devaluación, quién ve tu gasto, quién te apaga la cuenta.
 
 En **espacio** y **UAP**, el consenso a veces se corrige (Göbekli Tepe, Chicxulub) y a veces se sostiene porque la hipótesis rival no produce un objeto. El secretismo militar explica ovnis de verdad que después fueron un U-2. No cierra, por decreto, cada testimonio bajo juramento.
 
-En **espiritualidad**, las preguntas grandes —la muerte, Jesús, la conciencia, una religión que es también código penal— no se cierran con un paper. Se miden, cuando tocan la policía y a las mujeres, por lo que hacen cuando mandan.
+En **espiritualidad**, las preguntas grandes —la muerte, Jesús, Isaías, Tomás, un fariseo que se cayó del caballo, la conciencia, una religión que es también código penal— no se cierran con un paper. Se miden, cuando tocan la policía y a las mujeres, por lo que hacen cuando mandan. Y se dejan abiertas, cuando tocan el sepulcro, porque el laboratorio no entra ahí. El experimento de un Nazareno en el Twitter de 2026 no es piedad: es el mismo test de micrófono que el resto del libro aplicó a un virus y a un gasoducto.
+
 
 ## El método, no la conclusión
 

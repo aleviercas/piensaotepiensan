@@ -36,7 +36,16 @@ Este libro no busca reemplazar un dogma por otro. No es una colección de certez
 
 Hay un sesgo concreto, y conviene nombrarlo de entrada. En las últimas dos décadas, las instituciones que producen el “consenso” —agencias sanitarias, universidades, redacciones, organismos internacionales— se corrieron, en bloque, hacia un paquete: precaución sanitaria máxima, clima como urgencia moral, multiculturalismo como tabú inverso, y “desinformación” como delito administrativo. Un asistente de escritura entrenado en ese corpus tiende a suavizar lo que ese paquete no soporta. Este libro, cuando tropieza con ese suavizado, lo recorta. No para correr el texto a “la derecha”. Para dejar el hecho donde estaba antes de que lo peinaran.
 
+## Cómo leer este libro (y cómo no)
+
+Cada capítulo está armado, en lo posible, con el mismo esqueleto: lo que no se discute, la narrativa que se vende, la lectura que esa narrativa omite, y una pregunta que no se cierra. No es un truco de manual. Es una defensa contra el propio autor. Si en algún párrafo el texto se pone himno —de un lado o del otro— el esqueleto está para que lo notes.
+
+Hay temas en los que el autor tiene pulso: Argentina, las Malvinas, la fe, el hartazgo con el paquete de las agencias. Ese pulso no autoriza a colar un cálculo tramposo ni a negar un muerto. Donde el cálculo viral (el 0,0012% del aire, el “es solo una gripe”, el “la ONU es Hamas”) no resiste el expediente, el libro lo dice. Donde el expediente oficial no resiste la pregunta (el laboratorio, Rotherham, 1833, Isaías, Event 201), también lo dice. El lector que busque un combo ya armado para Amazon o para un grupo de WhatsApp va a tropezar. El que busque un método, no.
+
+Este texto apunta, en esta edición, a un libro corto de no ficción: del orden de cuarenta mil palabras. No es un tratado. Es un recorrido. Si un capítulo se queda corto, la bibliografía y las fuentes nombradas están para seguir. Si un capítulo se pasa, está para que lo discutas, no para que lo recites.
+
 ## La rebelión del pensamiento inquisitivo
+
 
 Este es un libro para inconformes cognitivos: los que no se conforman ni con la respuesta fácil del sistema ni con la respuesta fácil de quienes dicen combatirlo. No pretendo tener todas las respuestas —de hecho, desconfío de quien asegura tenerlas—, pero sí me comprometo a algo concreto: formular las preguntas que muchos evitan, mostrar de dónde vienen las distintas versiones de cada historia, y dejar que seas vos quien saque las conclusiones, con las mejores fuentes que pueda ofrecerte de cada lado.
 

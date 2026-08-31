@@ -46,6 +46,15 @@ Lo que no es caricatura:
 
 La pregunta útil no es “¿Schwab manda en tu municipio?”. Es por qué presidentes electos se sacan la foto, copian el glosario y vuelven a casa a regularte la calefacción. Esa pregunta molesta más que la teoría del gobierno sombra, porque no tiene un solo cuello al que agarrar: tiene una clase.
 
-## Reflexión final
+## 4.4 Lo que una urna no puede: el Estado profundo y el voto que llega tarde
+
+Hay un argumento, y no es de Telegram, que las democracias liberales prefieren no nombrar: **una parte creciente de lo que te rige no se vota**. Bancos centrales, agencias sanitarias, cortes constitucionales, fiscalías, organismos de “integridad de la información”, directorios de plataformas, agencias de inteligencia. Se les llama, según el humor, instituciones, burocracia o *deep state*. El nombre importa menos que el hecho: duran más que el presidente, no rinden examen cada cuatro años, y en 2020-2022 demostraron que pueden cerrar una economía, un aula y una boca con un decreto y un mail al moderador.
+
+Eso no prueba que “las elecciones no sirven”. Prueba que **sirven para menos de lo que el acto escolar promete**. Se puede votar un ajuste y encontrarse con un juez que lo frena, un banco central que emite igual, una OMS que baja línea y un DSA que multa al que la discute. El ciudadano que sale de eso diciendo “entonces da lo mismo” se equivoca: Venezuela y Suiza no dan lo mismo. El que sale diciendo “voté, listo” también se equivoca: votó el menú, no la cocina.
+
+**Argentina.** El clientelismo del 4.1 no es el único agujero. Hay un Senado que se parece a un directorio de familias, hay un Consejo de la Magistratura que se pelea como un club, hay sindicatos que no se votan en la práctica, hay un Banco Central que durante décadas fue la rotativa de quien perdía el Congreso. Milei ganó una elección y se encontró, como todos, con que el organigrama real no cabía en el recinto. Eso no anula el voto de 2023. Lo pone en su sitio: necesario, no suficiente.
+
+La pregunta abierta, y es la de este capítulo: **si el poder que más te toca la vida cotidiana no se vota, ¿qué estamos celebrando cada dos años, además de un ritual?**
+
 
 La desconfianza selectiva es tribuna: fraude cuando pierde el mío, fiesta cívica cuando gana. El estándar tiene que ser el mismo. Eso incluye, y acá el capítulo original de este libro se quedaba corto, no dejar que el miedo a “sonar a Trump” te impida mirar una laptop, un cambio de reglas y una red de ONGs metida en el cuarto oscuro. Mirar no es concluir. Negarse a mirar, sí es una conclusión.

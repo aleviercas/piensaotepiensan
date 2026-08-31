@@ -28,6 +28,17 @@ Bitcoin nació en 2009, después de que los bancos centrales salvaran a los banc
 
 **CBDC: la otra punta del mismo palo.** Más de 130 países exploran moneda digital de banco central. China ya piloto el e-yuan a escala. A diferencia del efectivo, cada transacción puede quedar, por diseño, a la vista del emisor. Dinero que vence, dinero que no sirve para comprar carne o pasajes, dinero que se apaga si tu puntaje social no da. Organizaciones de derechos civiles de varios países lo marcaron. La ironía del capítulo: la tecnología que nació para escapar del Estado aceleró la herramienta de control estatal más fina que se haya dibujado. Bitcoin no te salva de un Estado que te prohíbe el nudo de salida. Un Estado con CBDC y sin efectivo te salva de tener que prohibirlo: te apaga la cuenta.
 
+## 7.4 Argentina: el laboratorio que el mundo no quiere copiar, y a veces copia
+
+Ningún país ilustra mejor este capítulo. Décadas de emitir para tapar el fisco, cepo, default, cepo otra vez, una unidad de cuenta que la gente abandonó en la cabeza (el dólar) mientras el Estado le exigía pesos. El 211% de 2023 no fue un “shock de oferta”. Fue el final de una película que el espectador ya se sabía de memoria.
+
+**Lo que la teoría predice y Buenos Aires confirma.** Si la inflación es un fenómeno monetario, cerrar la canilla tiene que bajarla. Bajó. Si el ajuste recesivo pega primero en el consumo, la pobreza tiene que saltar. Saltó, en 2024, y después retrocedió cuando la inflación dejó de comerse el salario cada semana. Los dos datos son ciertos. Las redacciones eligieron, mes a mes, el que les servía para el titular. El Gini empeoró en el tramo fino; el impuesto inflacionario, que es el más regresivo de todos, aflojó. Solo un moralista de café puede tratar el segundo como un detalle.
+
+**El FMI no es un ángel ni un vampiro.** Es un acreedor con condicionalidades, un recetario que a veces acierta el diagnóstico (el fisco) y a veces impone el timing de un país que no es un PowerPoint. Tratar cada acuerdo como traición a la patria es el himno de quien no tiene otro plan que emitir. Tratar cada acuerdo como ciencia es el himno de quien no vive el tarifazo. El medio, otra vez, es más seco: un país que no cierra las cuentas va a hablar con el Fondo, o con el brics, o con quien le preste. El prestamista siempre cobra. La pregunta es si cobramos nosotros, en inflación, o cobra él, en reforma.
+
+**Dólar e inflación importada.** Una economía bimonetaria no es una teoría: es el kiosco. El que ahorra en dólares no es un cipayo. Es alguien que ya hizo la cuenta que el Banco Central no quería que hiciera. Prohibirle esa cuenta —cepo, dólar ahorro, dólar tarjeta, el menú de apodos— es el Estado peleando contra la unidad de medida. Pelear contra el metro no te alarga la tela.
+
 ## Reflexión final
+
 
 No hay sistema monetario inocente. El oro disciplina y a veces asfixia. El fiat financia guerras, pandemias y clientelismo con una rotativa. El cripto todavía no es dinero cotidiano y ya es un chivo energético. El CBDC es el efectivo con GPS. Entender el trade-off de cada uno —quién se come la inflación, quién ve tu gasto, quién te presta en el pánico— sirve más que extrañar un patrón perfecto que nunca existió sin policía.
