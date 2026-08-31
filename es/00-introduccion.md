@@ -34,13 +34,24 @@ Vivimos una era de paradojas. Nunca la humanidad tuvo tanto acceso a la informac
 
 Este libro no busca reemplazar un dogma por otro. No es una colección de certezas alternativas para gente cansada de las certezas oficiales. Es una invitación a ejercitar el músculo que más atrofiado tenemos: la capacidad de sostener una pregunta incómoda el tiempo suficiente como para investigarla en serio, en lugar de resolverla por comodidad ideológica —venga esa comodidad de donde venga.
 
+Hay un sesgo concreto, y conviene nombrarlo de entrada. En las últimas dos décadas, las instituciones que producen el “consenso” —agencias sanitarias, universidades, redacciones, organismos internacionales— se corrieron, en bloque, hacia un paquete: precaución sanitaria máxima, clima como urgencia moral, multiculturalismo como tabú inverso, y “desinformación” como delito administrativo. Un asistente de escritura entrenado en ese corpus tiende a suavizar lo que ese paquete no soporta. Este libro, cuando tropieza con ese suavizado, lo recorta. No para correr el texto a “la derecha”. Para dejar el hecho donde estaba antes de que lo peinaran.
+
+## Cómo leer este libro (y cómo no)
+
+Cada capítulo está armado, en lo posible, con el mismo esqueleto: lo que no se discute, la narrativa que se vende, la lectura que esa narrativa omite, y una pregunta que no se cierra. No es un truco de manual. Es una defensa contra el propio autor. Si en algún párrafo el texto se pone himno —de un lado o del otro— el esqueleto está para que lo notes.
+
+Hay temas en los que el autor tiene pulso: Argentina, las Malvinas, la fe, el hartazgo con el paquete de las agencias. Ese pulso no autoriza a colar un cálculo tramposo ni a negar un muerto. Donde el cálculo viral (el 0,0012% del aire, el “es solo una gripe”, el “la ONU es Hamas”) no resiste el expediente, el libro lo dice. Donde el expediente oficial no resiste la pregunta (el laboratorio, Rotherham, 1833, Isaías, Event 201), también lo dice. El lector que busque un combo ya armado para Amazon o para un grupo de WhatsApp va a tropezar. El que busque un método, no.
+
+Este texto apunta, en esta edición, a un libro corto de no ficción: del orden de cuarenta mil palabras. No es un tratado. Es un recorrido. Si un capítulo se queda corto, la bibliografía y las fuentes nombradas están para seguir. Si un capítulo se pasa, está para que lo discutas, no para que lo recites.
+
 ## La rebelión del pensamiento inquisitivo
+
 
 Este es un libro para inconformes cognitivos: los que no se conforman ni con la respuesta fácil del sistema ni con la respuesta fácil de quienes dicen combatirlo. No pretendo tener todas las respuestas —de hecho, desconfío de quien asegura tenerlas—, pero sí me comprometo a algo concreto: formular las preguntas que muchos evitan, mostrar de dónde vienen las distintas versiones de cada historia, y dejar que seas vos quien saque las conclusiones, con las mejores fuentes que pueda ofrecerte de cada lado.
 
 ## Advertencia para el lector
 
-Si asumís que las instituciones —gobiernos, corporaciones, medios, agencias sanitarias— actúan siempre de manera transparente y desinteresada, algunos capítulos de este libro te van a resultar incómodos. Pero también te vas a encontrar, en más de un caso, con que la versión "oficial" resiste el escrutinio mejor de lo que sugieren sus críticos. Ese es precisamente el punto: la honestidad intelectual no elige bando de antemano.
+Si asumís que las instituciones —gobiernos, corporaciones, medios, agencias sanitarias— actúan siempre de manera transparente y desinteresada, varios capítulos te van a resultar agresivos. Si asumís, al revés, que “oficial” equivale a “mentira” y que todo disidente es un mártir, también te vas a chocar: hay conspiraciones de café que no sobreviven a un expediente. El punto no es empatar. El punto es no elegir el veredicto antes de leer el expediente.
 
 *"Para hacer el mal, el hombre primero debe creer que lo que hace es bueno."* — Aleksandr Solzhenitsyn
 

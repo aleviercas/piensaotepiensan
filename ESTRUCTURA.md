@@ -1,72 +1,75 @@
 # Estructura del libro — "Piensa o Te Piensan" (título provisorio)
 
-Tamaño objetivo: ~40.000 palabras totales (ebook corto, formato KDP/MercadoLibre)
+Tamaño objetivo: ~40.000 palabras (ebook corto, KDP).
+Edición actual: ver `es/` (en crecimiento; los capítulos 1, 2, 6 y 10 son los más largos).
 
-- Introducción (~2.500 palabras)
-- 10 capítulos (~3.500 palabras c/u)
-- Conclusión (~2.500 palabras)
-
-Encuadre general: cada afirmación controvertida se presenta como
-**hecho verificable → narrativa oficial → controversia documentada (ambas fuentes) → pregunta abierta al lector.**
-No se afirman como hechos cerrados cuestiones médicas o causales que siguen en disputa científica.
+Encuadre: **hecho verificable → narrativa oficial → controversia documentada → pregunta abierta**.
+El consenso institucional es un dato sociológico, no una prueba.
+Un cálculo viral no se copia si la física no lo sostiene; un tabú de redacción no se respeta si el expediente lo contradice.
 
 ## CAPÍTULO 1 — La salud en la encrucijada
-1.1 El origen del COVID-19: hipótesis zoonótica vs. fuga de laboratorio
-1.2 PCR y barbijos: lo que dicen los estudios y sus críticos
-1.3 Vacunas ARNm: beneficios documentados, señales de alerta y debate abierto
-1.4 Cáncer: tratamientos establecidos, sus límites y por qué las alternativas generan debate
-1.5 Reflexión: qué perdimos (y qué podemos recuperar) en la confianza médica
+1.1 Origen del COVID-19: laboratorio, DEFUSE, Proximal Origin, censura
+1.2 ¿Tres gripes o una peste? 600 mil vs 1,8 millones en 2020, certificados, respiradores, peste negra
+1.3 Event 201, Gates, los cuerpos de Wuhan
+1.4 PCR, barbijos, confinamientos, exceso posterior
+1.5 Vacunas ARNm: beneficio, transmisión, miocarditis, mandatos
+1.6 Cáncer
+1.7 Reflexión
 
 ## CAPÍTULO 2 — Geopolítica y los hilos del poder global
-2.1 Ucrania: la guerra como negocio y como tablero geopolítico
-2.2 Israel-Palestina: historias en conflicto
-2.3 Nord Stream: sabotaje sin culpable oficial
-2.4 Irán: relato dominante vs. contexto histórico
-2.5 OTAN: de escudo a espada
+2.1 Ucrania
+2.2 Israel-Palestina, 7 de octubre, UNRWA, túneles, OMS/ONU
+2.3 Nord Stream
+2.4 Irán
+2.5 OTAN
+2.6 Islam político y demografía
+2.7 Rotherham, grooming gangs, falacia contra Tommy Robinson
+2.8 Malvinas: 1764-1833, invasiones inglesas 1806-1807, 1982
 
 ## CAPÍTULO 3 — Atentados y encubrimientos
-3.1 11-S: las preguntas oficiales sin cerrar
-3.2 AMIA: Argentina en el tablero geopolítico
-3.3 Terrorismo de falsa bandera: patrones documentados vs. especulación
-3.4 Servicios de inteligencia y cambio de régimen: casos documentados
+3.1 11-S
+3.2 AMIA
+3.3 Falsa bandera documentada
+3.4 CIA y cambios de régimen
+3.5 Muertes convenientes
 
 ## CAPÍTULO 4 — Democracia, poder y el espejismo electoral
-4.1 Vulnerabilidades reales en sistemas electorales (casos verificados)
-4.2 Dictaduras del siglo XXI: mecanismos de control
-4.3 Ingeniería social global: el debate sobre instituciones como el FEM
+4.1 Urnas, 2020, clientelismo
+4.2 Dictaduras del siglo XXI
+4.3 FEM / Davos
+4.4 El poder que no se vota
 
-## CAPÍTULO 5 — Medios de comunicación: ingeniería del consentimiento
-5.1 Modelos de propaganda (Chomsky y otros)
-5.2 Censura digital y moderación de contenido: el debate
-5.3 Alternativas informativas y periodismo ciudadano
+## CAPÍTULO 5 — Medios
+5.1 Chomsky
+5.2 Twitter Files, DSA
+5.3 Periodismo ciudadano
+5.4 Mundial 2026 y Milei
+5.5 Matar al mensajero
 
-## CAPÍTULO 6 — Cambio climático: ¿consenso o dogma?
-6.1 Qué dice el consenso científico y dónde hay debate genuino
-6.2 Intereses económicos del "capitalismo verde"
-6.3 Geoingeniería: los riesgos de jugar con el termostato planetario
+## CAPÍTULO 6 — Cambio climático
+6.1 Sólido vs paquete
+6.2 El 0,04%, el 3% y el truco aritmético
+6.3 Registro profundo: ¿máximo o mínimo? Hojas fósiles, temperatura que adelanta al CO2
+6.4 1940-1975 y Newsweek 1975
+6.5 Sol, nubes, bamboleo
+6.6 Extremos, modelos, Climategate
+6.7 Política energética
+6.8 Geoingeniería
 
-## CAPÍTULO 7 — Economía e inflación: la ilusión del dinero
-7.1 Del patrón oro al dinero fiduciario
-7.2 Inflación: causas en disputa entre escuelas económicas
-7.3 Criptomonedas y el futuro del dinero
+## CAPÍTULO 7 — Economía
+7.1 Oro vs fiat
+7.2 Inflación
+7.3 Cripto y CBDC
+7.4 Argentina como laboratorio
 
-## CAPÍTULO 8 — Espacio y Tierra: misterios no resueltos
-8.1 La Luna: por qué persisten las dudas
-8.2 Civilizaciones antiguas y tecnologías perdidas
-8.3 Catastrofismo: releyendo la historia geológica
-
-## CAPÍTULO 9 — Vida extraterrestre: ¿estamos solos?
-9.1 Evidencia UAP y desclasificación gubernamental
-9.2 Implicaciones filosóficas y religiosas
-9.3 Tecnología derivada y presupuestos reservados
-
-## CAPÍTULO 10 — Más allá de la muerte: espiritualidad y existencia
-10.1 Experiencias cercanas a la muerte: lo que dice la investigación seria
-10.2 El Jesús histórico vs. el Cristo de la fe
-10.3 Conciencia y realidad: el problema mente-cerebro
-10.4 Religión, ley y derechos de la mujer: casos concretos y voces reformistas
-
-## CONCLUSIÓN
-- El camino del pensador inquisitivo
-- Recapitulación de paradigmas desafiados
-- Invitación a la rebelión intelectual continua
+## CAPÍTULO 8 — Espacio y Tierra
+## CAPÍTULO 9 — Vida extraterrestre
+## CAPÍTULO 10 — Más allá de la muerte
+10.1 ECM / AWARE
+10.2 Jesús histórico
+10.3 Isaías y las costuras de la Biblia
+10.4 Providencia
+10.5 Agustín, Tomás, Pablo
+10.6 Si Jesús viniera un martes de 2026
+10.7 Conciencia
+10.8 Islam, ley y mujeres

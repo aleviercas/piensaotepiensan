@@ -1,20 +1,12 @@
-# Piensa o Te Piensan (título provisorio)
+# Piensa o Te Piensan
 
-Libro corto (ebook, ~40.000 palabras) sobre pensamiento crítico, para publicar en Amazon KDP y MercadoLibre, con traducción posterior a otros idiomas.
+Libro de pensamiento crítico (borrador). Lectura en el navegador:
 
-Ver `ESTRUCTURA.md` para el índice completo y el criterio editorial acordado
-(controversias documentadas con ambas fuentes, sin afirmar como hecho lo que sigue en disputa).
+- **Producción:** [piensaotepiensan.vercel.app](https://piensaotepiensan.vercel.app)
+- **Preview de esta rama:** el deploy de Vercel de `revision-evidencia`
 
-## Estado
-- [x] Estructura de 10 capítulos definida
-- [x] Introducción — borrador 1
-- [x] Capítulo 1 — Salud (borrador 1, encuadre de controversias documentadas)
-- [ ] Capítulo 2 — Geopolítica (base ya escrita, pendiente revisión de fuentes)
-- [ ] Capítulos 3–10 — pendientes
-- [ ] Conclusión
-- [ ] Exportación a .docx para KDP
-- [ ] Traducciones (en/pt/otros)
+Abrí el índice, la introducción, cada capítulo y la conclusión. El markdown vive en `es/`.
 
-## Cómo seguir trabajando
-Cada capítulo vive en `es/NN-nombre.md`. Se revisa y aprueba antes de pasar al siguiente.
-Al cerrar el manuscrito completo en español, se exporta a `.docx` (carpeta `exportado/`) y recién ahí se traduce.
+## Cómo leer en local
+
+Cualquier servidor estático en la raíz del repo sirve `index.html`, que pide los `.md` de `es/`.
