@@ -60,4 +60,10 @@ Eso no prueba que “las elecciones no sirven”. Prueba que **sirven para menos
 
 La pregunta abierta, y es la de este capítulo: **si el poder que más toca la vida cotidiana no se vota, ¿qué se celebra cada dos años, además de un ritual?**
 
-La desconfianza selectiva es tribuna: fraude cuando pierde el mío, fiesta cívica cuando gana. El estándar tiene que ser el mismo. Eso incluye, y acá el capítulo original de este libro se quedaba corto, no dejar que el miedo a “sonar a Trump” impida mirar una laptop, un cambio de reglas y una red de ONGs metida en el cuarto oscuro. Mirar no es concluir. Negarse a mirar, sí es una conclusión.
+No hay que responder con amargura. Venezuela y Suiza no dan lo mismo: el voto, cuando existe de verdad, sigue siendo el freno menos malo que inventamos. El que sale de una elección diciendo “entonces da igual” le hace el trabajo al que no se presenta. El que sale diciendo “voté, listo” le hace el trabajo al que no se vota. El medio —incómodo, poco heroico— es mirar la urna y, al mismo tiempo, mirar el banco central, el juez, la agencia y la plataforma. En cualquier país.
+
+Quien llegó a este capítulo creyendo que “en mi país las elecciones se respetan”, no tiene por qué irse ofendido. Tal vez tenga razón en lo grosso. La invitación es más chica: fijarse si las reglas se cambiaron en el último tramo, si un escándalo auténtico se silenció a dos semanas, si una ONG con plata extranjera se sentó en la oficina electoral. Mirar eso no es un golpe de Estado. Es civismo. Quien llegó convencido de que “todo está amañado”, tampoco tiene que irse confirmado: Carolina del Norte anuló un distrito, Arizona no le dio el estado a quien lo pedía, y hay dictaduras de verdad que usan esa frase para no irse nunca. El estándar es el mismo para los dos. Si el dato es cierto, se mira. Si no lo es, se suelta. El miedo a “sonar a” alguien —Trump, Maduro, el vecino— no es un argumento.
+
+## Reflexión final
+
+La democracia no es un altar ni un teatro. Es un procedimiento, con agujeros, que todavía deja más aire que sus alternativas. Este capítulo no pide dejar de votar. Pide no confundir el rito con el poder. Y pide, con la misma calma, no usar el fraude del otro como único fraude que existe.

@@ -39,13 +39,13 @@ Vivimos una era de paradojas. Nunca la humanidad tuvo tanto acceso a la informac
 
 Este libro no busca reemplazar un dogma por otro. No es una colección de certezas alternativas para gente cansada de las certezas oficiales. Es una invitación a ejercitar el músculo que más atrofiado tenemos: la capacidad de sostener una pregunta incómoda el tiempo suficiente como para investigarla en serio, en lugar de resolverla por comodidad ideológica —venga esa comodidad de donde venga.
 
-Hay un sesgo concreto, y conviene nombrarlo de entrada. En las últimas dos décadas, las instituciones que producen el “consenso” —agencias sanitarias, universidades, redacciones, organismos internacionales— se corrieron, en bloque, hacia un paquete: precaución sanitaria máxima, clima como urgencia moral, multiculturalismo como tabú inverso, y “desinformación” como delito administrativo. Un asistente de escritura entrenado en ese corpus tiende a suavizar lo que ese paquete no soporta. Este libro, cuando tropieza con ese suavizado, lo recorta. No para correr el texto a “la derecha”. Para dejar el hecho donde estaba antes de que lo peinaran.
+Hay un sesgo concreto, y conviene nombrarlo de entrada, sin pelearse con quien no lo ve igual. En las últimas dos décadas, las instituciones que producen el “consenso” —agencias sanitarias, universidades, redacciones, organismos internacionales— se inclinaron, en bloque, hacia un mismo paquete: máxima precaución sanitaria, clima como urgencia moral, multiculturalismo como tema que casi no se puede tocar, y “desinformación” como problema de policía. Un asistente de escritura entrenado en ese material tiende a suavizar lo que ese paquete no soporta. Este libro, cuando tropieza con ese suavizado, vuelve al hecho. No para empujar al lector hacia “la derecha”. Para dejar la pregunta donde estaba antes de que la peinaran.
 
 ## Cómo leer este libro (y cómo no)
 
-Cada capítulo está armado, en lo posible, con el mismo esqueleto: lo que no se discute, la narrativa que se vende, la lectura que esa narrativa omite, y una pregunta que no se cierra. No es un truco de manual. Es una defensa contra el propio autor. Si en algún párrafo el texto se pone himno —de un lado o del otro— el esqueleto está para que lo notes.
+Cada capítulo está armado, en lo posible, con el mismo esqueleto: lo que no se discute, la narrativa que se vende, la lectura que esa narrativa omite, y una pregunta que no se cierra. No es un truco de manual. Es una defensa contra el propio autor. Si en algún párrafo el texto se pone himno —de un lado o del otro— el esqueleto está para que se note, y se pueda dejar de lado.
 
-Hay temas en los que el autor tiene pulso: la fe, el hartazgo con el paquete de las agencias, un país del sur que ya hizo de laboratorio. Ese pulso no autoriza a inflar un muerto ni a esconder un número. Donde un atajo de redes (el 0,0012% del aire, “es solo una gripe”, “la ONU es Hamas”) comprime una intuición, el libro **no la tira**: la escribe con las unidades correctas y deja la pregunta en pie. Donde el expediente oficial no resiste (el laboratorio, Rotherham, 1833, Isaías, Event 201), también lo dice. El lector que busque un combo ya armado para Amazon o para un grupo de WhatsApp va a tropezar. El que busque un método, no.
+Hay temas en los que el autor tiene pulso: la fe, un país del sur que ya hizo de laboratorio, el cansancio con las agencias. Ese pulso no autoriza a inflar un muerto ni a esconder un dato. Donde una cuenta sencilla (el 0,04% del aire, una gripe que no era la peste, una agencia de la ONU que no es un ejército) abre una duda, el libro la escribe con calma y la deja viva. Donde el relato oficial se queda corto (el laboratorio, Rotherham, 1833, Isaías, Event 201), también lo dice. Quien busque un combo ya armado va a tropezar. Quien busque un método, no.
 
 A veces el método se encuentra con otra cosa, que no entra en una tabla: una coincidencia que llega a tiempo, un libro que aparece cuando hacía falta, un encuentro que nadie agendó. Carl Jung le puso **sincronicidad**. La fe le pone **providencia**. Este libro no va a demostrar ninguna de las dos con un p-valor. Tampoco va a declararlas superstición porque el laboratorio no las pesa. El capítulo 10 vuelve ahí. En la introducción alcanza con esto: quien se pone a buscar la verdad de los hechos, tarde o temprano tropieza con el hecho de que no controla el calendario.
 
@@ -58,10 +58,10 @@ Este es un libro para inconformes cognitivos, en cualquier país: los que no se 
 
 ## Advertencia para el lector
 
-Si se asume que las instituciones —gobiernos, corporaciones, medios, agencias sanitarias— actúan siempre de manera transparente y desinteresada, varios capítulos van a resultar agresivos. Si se asume, al revés, que “oficial” equivale a “mentira” y que todo disidente es un mártir, también hay choque: hay conspiraciones de café que no sobreviven a un expediente. El punto no es empatar. El punto es no elegir el veredicto antes de leer el expediente.
+Si se parte de que las instituciones —gobiernos, corporaciones, medios, agencias sanitarias— actúan siempre de manera transparente y desinteresada, varios capítulos van a rozar. Si se parte, al revés, de que “oficial” equivale a “mentira” y que todo disidente es un mártir, también hay roce: hay historias de café que no sobreviven a un expediente. El punto no es ganar. El punto es no elegir el veredicto antes de leer.
 
 *"Para hacer el mal, el hombre primero debe creer que lo que hace es bueno."* — Aleksandr Solzhenitsyn
 
 Hoy podríamos añadir: para mantener a una sociedad pasiva, alcanza con convencerla de que ya tiene todas las respuestas.
 
-**Bienvenido a la resistencia intelectual. El viaje empieza acá.**
+**Bienvenido. El viaje es una invitación, no un reclutamiento.**
