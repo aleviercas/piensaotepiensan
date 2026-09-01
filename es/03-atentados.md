@@ -14,7 +14,7 @@ Este es, probablemente, el tema donde más importa separar con cuidado lo docume
 
 ## 3.2 AMIA: Argentina en el tablero geopolítico
 
-El atentado a la sede de la AMIA en Buenos Aires, el 18 de julio de 1994, dejó 85 muertos y sigue siendo la peor masacre terrorista de la historia argentina, todavía sin un solo condenado.
+El atentado a la sede de la AMIA en Buenos Aires, el 18 de julio de 1994, dejó 85 muertos y sigue siendo la peor masacre terrorista de la historia argentina, todavía sin un solo condenado. Se cuenta acá no porque el libro sea una gacetilla local: se cuenta porque es un caso completo —un atentado, un Estado acusado, un fiscal muerto, un memorándum, Interpol, petróleo— que un lector en Madrid, en Miami o en Tel Aviv puede usar de plantilla. Cambien AMIA por Lockerbie, por el AMIA de otro nombre, por un consulado, y el esquema se reconoce: **la geopolítica entra por la puerta de una asociación de barrio**.
 
 **Lo documentado por la Justicia argentina:** en 2006, el fiscal Alberto Nisman formalizó una acusación contra varios altos funcionarios iraníes y contra Hezbolá como autores intelectuales y materiales del atentado, pedido que derivó en alertas rojas de Interpol contra varios de ellos —vigentes todavía—. Irán nunca los entregó y niega toda responsabilidad.
 

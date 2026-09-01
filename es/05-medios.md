@@ -14,6 +14,8 @@ La concentración de propiedad es un hecho (FCC, estudios de medios de varias id
 
 **DSA europea.** La Ley de Servicios Digitales (2022) obliga a las grandes plataformas a mitigar “riesgos sistémicos” de desinformación, con multas de hasta el 6% de la facturación global. Un regulador con esa vara no necesita un ministerio de la verdad: necesita una guía y un miedo a la multa. El objetivo declarado (menos basura) y el efecto (más poder estatal sobre el discurso) conviven. En Bruselas se llama “seguridad democrática”. En otro idioma se llama lo que es.
 
+**El verificador como fuente, no como juez.** Las agencias de *fact-checking* —en EE.UU., en la UE, en América Latina— se vendieron como el antídoto al feed. En la práctica, muchas veces fueron el feed con sello. El laboratorio de Wuhan fue “teoría debunked” hasta que dejó de serlo. La laptop de Hunter, “desinformación rusa”. La inmunidad natural, “contexto”. El verificador no es un tribunal: es una redacción con un convenio, a menudo financiada por las mismas fundaciones (Poynter, IFCN, Google, Gates) que tienen línea en el tema que verifican. Wikipedia, que parece un bien común, es el otro ladrillo: un puñado de editores estables, reglas de “fuentes confiables” que coinciden con el paquete, y una página que los modelos de lenguaje **tragan como verdad previa**. Quien gane Wikipedia y el verificador no gana un artículo. Gana el corpus con el que se va a entrenar el siglo. Eso vale en español, en inglés, en portugués. El Mundial de 2026 y un presidente argentino son, en este capítulo, casos: no son el mapa.
+
 ## 5.3 Periodismo ciudadano: el celular no te vuelve honesto
 
 La Primavera Árabe y el video de George Floyd mostraron lo que un bolsillo puede hacer cuando el canal oficial miente o no está. También 2020 mostró lo otro: el mismo video, el mismo eslogan (“mostly peaceful”), y una temporada de disturbios, muertos y comercios quemados que las redacciones cubrieron como si fueran un seminario de derechos civiles. El celular democratiza la prueba. No democratiza el criterio.
@@ -42,7 +44,16 @@ Presentable, en 2015-2025, quiso decir: no de derecha, no religioso, no “antiv
 
 La pregunta, otra vez: **si el dato es verdadero, ¿qué agrega la ficha policial del que lo gritó?** Si es falso, ¿no alcanza con mostrarlo falso? El medio que necesita las dos cosas —desmentir y linchar— no está seguro de la primera.
 
+## 5.6 La máquina que habla por todos, y el silencio que viene
+
+Hasta acá, el capítulo describió redacciones, plataformas, agencias, un Mundial. Eso ya es viejo. Lo nuevo es que **la voz general se puede fabricar sin periodista**. Un modelo de lenguaje se entrena en el mismo corpus que produjo el consenso de 2010-2025: universidades, OMS, IPCC, *Times*, Wikipedia, las políticas de “seguridad” de las casas que lo alinean. Sale razonable. Sale en todos los idiomas. Sale a las tres de la mañana. No se cansa. No se juega el puesto. Y, por diseño de esas políticas, se niega a ciertas frases con la misma sonrisa con la que un editor de 2021 bajaba la fuga de laboratorio.
+
+Eso no es “la IA es de izquierdas”. Es más seco: **quien controla el corpus, el filtro de RLHF y lo que el modelo se niega a decir, no censura un artículo. Censura el promedio de lo que mil millones de personas van a leer como si fuera pensamiento.** El lector cree que preguntó. La máquina le devolvió el paquete, bien escrito. El músculo que este libro pide —sostener la pregunta, ir a la fuente, aplicar el mismo rasero— queda relegado a un hobby, o a una computación masiva del otro lado: granjas de bots, de los dos bandos, que se gritan entre ellas mientras el humano promedio se entera por el chat.
+
+Una sola voz crítica no compite con eso. No por falta de razón: por falta de volumen. En 2020 hacía falta Facebook para enterarse de EcoHealth. En 2028 va a hacer falta, además, desconfiar del asistente que te resume EcoHealth con el tono de la OMS. El DSA europeo ya obliga a las plataformas a mitigar “riesgos sistémicos”. El siguiente paso, que no necesita un ministerio con nombre, es que el modelo *no pueda* decir lo que el regulador llama riesgo. No se baja un post. Se deja de poder pensarlo en voz alta.
+
+Hay otra cara, y hay que ponerla: la misma máquina, sin el filtro, puede ser la mejor herramienta de contraste que existió —cruzar papers, actas, presupuestos, contradicciones, en un rato que a un humano le lleva un año—. Este libro se escribió, en parte, con esa ayuda, y se reescribió contra el sesgo de esa ayuda. La pregunta no es “¿IA sí o no?”. Es: **¿quién alinea al oráculo, y qué queda de un disidente cuando el oráculo habla por el siglo?** Si la respuesta es “nada”, el resto de los capítulos de este libro son arqueología: el último manual de un oficio que la red decidió no ejercer.
+
 ## Reflexión final
 
-
-No hay medio virgen. La pregunta no es “¿a quién sigo?”. Es “¿este dato tiene fuente primaria, o tiene un eslogan?”. Es más lenta que elegir un canal y jubilarse. Es la única que no te convierte en el cliente de alguien.
+No hay medio virgen. Tampoco hay modelo virgen. La pregunta no es “¿a quién sigo?”. Es “¿este dato tiene fuente primaria, o tiene un eslogan —humano o generado—?”. Es más lenta que elegir un canal y jubilarse. Es la única que no te convierte en el cliente de alguien, ni en el prompt de algo.

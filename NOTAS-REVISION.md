@@ -1,30 +1,30 @@
 # Notas de revisión de evidencia
 
-Rama: `revision-evidencia`
-Objetivo: recortar el sesgo de redacción “institucional-progresista” que había quedado en el borrador (suavizado de laboratorio COVID, clima como paquete cerrado, islam como malentendido cultural, 7 de octubre diluido, 2020 como tabú) **sin** reemplazarlo por el dogma contrario.
+Objetivo: recortar el sesgo de redacción “institucional-progresista” del borrador **sin** reemplazarlo por el dogma contrario. Libro para un lector de cualquier país; ejemplos argentinos como laboratorio.
 
-No se afirma como hecho cerrado lo que sigue en disputa. Sí se deja de tratar el consenso de agencias, redacciones y ONGs como el default que “resiste el escrutinio”.
+No se afirma como hecho cerrado lo que sigue en disputa. Sí se deja de tratar el consenso de agencias, redacciones y ONGs como el default.
 
-## Qué se tocó, y qué no
+## Ronda 2 (extensión, coherencia, temas pedidos)
 
 | Archivo | Qué cambió | Qué no se hizo |
 |---|---|---|
-| `es/00-introduccion.md` | Se nombra el sesgo de corpus de las instituciones 2000-2025. Se saca la advertencia de que “la versión oficial a menudo resiste”. | No se convierte la intro en un manifiesto partidario. |
-| `es/01-salud.md` | DEFUSE, furina, Proximal Origin/Fauci, censura, Cochrane/Jefferson, Herby-Jonung-Hanke, Suecia 2020-22, exceso post-2021, ensayos que no midieron transmisión, miocarditis, inmunidad natural, ivermectina (evidencia mixta + trato institucional), VAERS y subreporte. | No se dice que las vacunas “no sirvieron” en mayores, ni que el PCR es un fraude, ni turbo-cáncer como hecho. |
-| `es/02-geopolitica.md` | 7/10, carta de Hamas, UNRWA, ofertas de paz, *cui bono* Nord Stream, Irán como teocracia exportadora, sección **2.6 Islam político y Europa** (Pew, doctrina, Rotherham, demografía). | No se niega la Nakba ni el costo civil en Gaza. No se trata a cada musulmán como yihadista. |
-| `es/04-democracia.md` | Voto de extranjeros como debate cívico, no como tabú moral. 2020 en tres capas (sin prueba de vuelco nacional / demandas que no llegaron al fondo / laptop, reglas, CTCL). FEM como red y glosario, no como sótano. | No se afirma que “se robaron 2020”. |
-| `es/05-medios.md` | Twitter Files sin el “ambos lados” que lo diluye. Espantapájaros del microchip. Floyd + 2020. Milei: el 211% también era impuesto a los pobres. | No se canoniza a Musk ni a un canal alternativo. |
-| `es/06-clima.md` | Reescritura. Núcleo sólido (calentamiento, CO2, fósiles) vs. paquete (97%, modelos calientes, extremos, RCP8.5, net-zero, anti-nuclear). Lewis/Curry, muertes por desastre a la baja, Nordhaus/Lomborg, China, Climategate sin “fue fraude total”. | No se niega el efecto invernadero ni se adopta el hoax. |
-| `es/07-economia.md` | “Greedflation” como moralina. Ciclo austríaco de los 20. Bitcoin: energía varada, no solo “consume como Holanda”. | No se vende el patrón oro como paraíso. |
-| `es/10-mas-alla.md` | 10.4: *fiqh*, Pew, apostasía, asimetría con el cristianismo actual. Reformistas sin usarlos para tapar la media. | No se esencializa a 1.800 millones de personas. |
-| `es/conclusion.md` | Alineada con lo anterior. El miedo a “quedar de derecha” también edita. | Sigue siendo un libro de método, no de militancia. |
-| `es/03-atentados.md`, `08`, `09` | Sin reescritura de fondo: ya separaban archivo de especulación. | — |
+| `es/00-introduccion.md` | Hechos antes que ideología. Tesla ampliado. IA y pensamiento crítico escaso. Público mundial. El 0,0012% ya no se “tira”: se reescribe. Providencia/sincronicidad. | No se vuelve manifiesto partidario. |
+| `es/01-salud.md` | Autismo y calendario (1 en 31, 1986, Thompson, aluminio). IgG4 (Irrgang), EM (abstract indexado ≠ comunicado OMS). Fenbendazol, Tippens, Gibson en Rogan 2025. | No se afirma “las vacunas causan autismo” ni “turbo-cáncer” como hecho poblacional ni “la OMS admitió la EM”. |
+| `es/03-atentados.md` | AMIA como caso-plantilla, no gacetilla. | — |
+| `es/04-democracia.md` | Brasil, México, UK, UE. ID digital, ESG, 15 minutos. | No se afirma que “se robaron 2020”. |
+| `es/05-medios.md` | 5.6 IA: corpus, RLHF, verificadores, Wikipedia como entrenamiento. Mundial/Milei como casos, no el mapa. | No se canoniza un modelo ni se pide apagar la IA. |
+| `es/06-clima.md` | 6.2 reescrito: intuición del 0,04% en pie; extra humano ~0,014% del aire; Tyndall y sensibilidad aparte. Glaciares / Pequeña Edad de Hielo / ciclo de Eddy. | No se niega el efecto invernadero. |
+| `es/07-economia.md` | 1933, petrodólar, Weimar/Zimbabue/Turquía/M2. Laboratorio, no parroquia. | No se vende el oro como paraíso. |
+| `es/08-espacio.md` | Egipto, pirámides en varios continentes, Sacsayhuamán, Rapa Nui, Durupınar, gigantes, Darwin/Cámbrico/información. Tierra de 66 Ma se mantiene (Chicxulub). | No se afirma “encontraron el arca”, ni aliens canteros, ni Tierra joven. |
+| `es/09-extraterrestre.md` | Bases nucleares, USO, cruce con cap. 8. | No se afirma hangar de naves. |
+| `es/10-mas-alla.md` | Jung, Pauli, sincronicidad junto a providencia. | No se “demuestra” a Dios. |
+| `es/conclusion.md` | Alineada: 0,014%, autismo, IA, Darwin, público mundial. | Sigue siendo método, no militancia. |
+| `index` (sin extensión) | **Borrado.** Era el índice binario de git: Vercel lo servía en `/` y el navegador lo descargaba. | — |
+| `vercel.json` | Rewrite `/` → `/index.html`, Content-Disposition inline. | — |
 
-## Criterio aplicado (para el autor)
+## Criterio
 
-1. Si Claude había dejado el consenso como “lo sólido” y la crítica como nota al pie, se invirtió la carga: el consenso tiene que ganarse el párrafo, igual que el disidente.
-2. Si faltaba un hecho incómodo (7 de octubre, DEFUSE, Pew, nuclear alemana, laptop Biden), se agregó.
-3. Si un pasaje era un sermón moral (migrantes, “este libro prefiere no reproducir”, LGBT ruso como única clave), se recortó.
-4. No se rellenó con conspiración de café (microchips, “It’s done” de Truss, Agüero = vacuna, Nord Stream “probado” Biden).
-
-Revisá el diff de la PR. Si un párrafo se pasó de largo o se quedó corto, se corrige sobre esta rama, no se vuelve al suavizado.
+1. Si un atajo de redes comprime una intuición (0,04% × 3%), se escriben las unidades bien y se deja la pregunta.
+2. Si un tuit atribuye a la OMS lo que es un abstract indexado, se dice las dos cosas.
+3. Si un capítulo parecía una carta a argentinos, se abre el mapa y se deja el caso local como laboratorio.
+4. No se rellena con conspiración de café (arca “encontrada”, Smithsonian y gigantes como hecho, turbo-cáncer como epidemia demostrada).

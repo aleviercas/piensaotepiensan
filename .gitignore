@@ -1,0 +1,8 @@
+# Git internals accidentally committed once; never again.
+/index
+/HEAD
+/COMMIT_EDITMSG
+/config
+/description
+/exclude
+.DS_Store
