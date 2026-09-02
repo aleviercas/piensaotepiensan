@@ -40,3 +40,19 @@ No hace falta volverse un disidente de profesión. Hace falta, de vez en cuando,
 La caverna de Platón no tiene una sola salida hacia una única luz. Tiene salidas parciales. La tarea de una vida es ir encontrándolas, dispuesto a descubrir que alguna de las que ya se creían cruzadas apenas llevaba a otro rincón, con otras sombras, pero sombras al fin. Si en el camino aparece una coincidencia que nadie agendó —un libro, un encuentro, una pregunta que llega a tiempo—, este texto no va a prohibir llamarla providencia. Tampoco va a obligar. Pide lo mismo que en el resto: no elegir el veredicto antes de mirar.
 
 Gracias por acompañar este recorrido, estés donde estés. La pregunta que sigue —la próxima creencia propia o ajena que merece revisión— ya es enteramente tuya.
+
+## Un hábito, no una militancia
+
+Si este libro se usa como munición —para ganar en una mesa, para humillar a un cuñado, para decorar un canal— habrá fallado, aunque cada dato esté en su sitio. Fue escrito para otra cosa: para que alguien que piensa distinto pueda leerlo sin sentirse tonto, y para que alguien que ya dudaba no se vuelva un predicador.
+
+Tres hábitos, si queda alguno:
+
+**Uno.** Cuando una noticia le mueva el piso, no la reenvíe en el minuto. Espere a saber si hay un documento o solo un tono. El capítulo 5 dejó cinco preguntas. Con una alcanza.
+
+**Dos.** Cuando un experto —o un disidente— le pida un acto de fe (cerrar, inyectar, votar, apagar, odiar), pregunte qué se midió y qué no. El “confiá” de 2020 fue caro. El “no confíes nunca” también lo es: deja a la gente sola con un foro. El medio es más aburrido y más adulto.
+
+**Tres.** Deje una coincidencia en paz. Si un libro, un encuentro o una pregunta llegan a tiempo, no hace falta montar una religión ni declarar un sesgo. El capítulo 10 le puso dos nombres, providencia y sincronicidad, y no cerró ninguno. Quien no tenga esa palabra, que use otra: *asombro*. El asombro es compatible con el método. El desprecio, no.
+
+Este no es un libro para argentinos, ni para “los de un lado”, ni para los que ya tienen el combo armado. Es un cuaderno para cualquiera que, en cualquier ciudad, sienta que le están vendiendo la película demasiado redonda. Si una página no convence, se deja. Si una página raspa, se mira. Cambiar de idea no es perder. Es, otra vez, una medida de inteligencia.
+
+Y si, al terminar, usted sigue pensando lo mismo que al empezar, no pasa nada. El punto no era convertirlo. El punto era que, la próxima vez que un noticiero, un ministerio o un chat le entregue una certeza empaquetada, tenga a mano una pregunta. Con eso alcanza. El resto —el color, el partido, la camiseta— se adquiere después, si se adquiere. Nunca antes.
