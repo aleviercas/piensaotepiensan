@@ -41,6 +41,8 @@ No hay un experimento para eso. Hay biografías. Hay el mar Rojo y hay, en escal
 
 La otra cara de la providencia, la que el devoto a veces no quiere, es esta: **no podemos comprender el universo ni la creación**. Job no recibió una teodicea. Recibió una pregunta: ¿dónde estabas tú cuando yo fundaba la tierra? Un libro de pensamiento crítico que cierre Dios con un silogismo está haciendo, con otra bata, lo mismo que el que cierra el clima con un 97%. La honestidad acá es doble: no declarar muerto a Dios porque un laboratorio no lo pesó, y no declarar resuelto el mal porque un versículo consuela.
 
+Hay una versión cotidiana, que no necesita un mar Rojo. Un trabajo que se pierde y, meses después, era el que había que perder. Un libro que cae en las manos el mes en que hacía falta. Una persona que aparece sin que nadie la agendara. Quien ha vivido una de esas secuencias sabe de qué se habla, aunque no tenga la palabra. Quien no las ha vivido tiene derecho a no creerlas: el sesgo de confirmación es real, y este libro lo dijo. Lo que se pide no es un salto. Es no ridiculizar de entrada a quien, sin dejar de pensar, nota un orden. La fe llama a ese orden **providencia**. Jung, **sincronicidad**. Un materialista honesto puede decir “no lo sé”. Las tres posturas caben. La que no cabe es la burla automática, que es, otra vez, un modo de no mirar.
+
 ## 10.5 La razón que se arrodilla: Agustín, Tomás, Pablo
 
 Antes de que el ateísmo ilustrado se proclamara dueño de la razón, la razón ya había sido usada para **acercarse** a Dios, no para despedirlo.

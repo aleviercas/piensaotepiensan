@@ -51,6 +51,24 @@ A veces el método se encuentra con otra cosa, que no entra en una tabla: una co
 
 Este texto apunta, en esta edición, a un libro corto de no ficción: del orden de cuarenta mil palabras. No es un tratado. Es un recorrido. Si un capítulo se queda corto, la bibliografía y las fuentes nombradas están para seguir. Si un capítulo se pasa, está para que lo discutas, no para que lo recites.
 
+## Un cuaderno, no un púlpito
+
+Este es el primer libro de alguien que no vive de escribir. Eso no es una disculpa: es una brújula. Un académico tiene que defender una tesis. Un columnista tiene que alimentar un bando. Un curioso puede permitirse otra cosa: sentarse con una pregunta hasta que deje de picar, y si la respuesta no cierra, dejarla abierta.
+
+Varias de las ideas de estas páginas empezaron como anotaciones, como una cuenta en un papel, como una noticia que no encajaba. No vinieron empaquetadas. El trabajo de armarlas en capítulos es, precisamente, el riesgo: al ordenarlas, alguien —incluso quien ayuda a escribir— puede entender otra cosa de la que se quiso decir. Por eso este libro se ofrece como conversación. Si un párrafo no suena a lo que usted pensaba, no es un dogma que haya que tragar. Es un borrador que se puede devolver.
+
+La curiosidad va primero. El color político, si aparece, aparece después. Invertir ese orden —elegir la tribu y después buscar los datos que la decoren— es lo que este texto pide no hacer, ni al autor ni al lector.
+
+## Cómo disentir con estas páginas
+
+Hay una manera fácil de leer un libro como este: buscar la frase que confirma lo que ya se creía y subrayarla. Hay otra, un poco más lenta, que es la que se pide acá. Cuando algo roce, no hace falta cerrar el libro ni mandarlo a la hoguera del bando contrario. Alcanza con tres gestos:
+
+1. **Separar el hecho de la interpretación.** “El CO2 es una pizca del aire” es un hecho. “Entonces no puede mandar el clima” es una interpretación. Se puede aceptar el primero y discutir la segunda, sin pelearse.
+2. **Preguntar qué ganaría el autor si usted cambiara de idea.** Si la respuesta es “un voto, una camiseta, un enemigo”, desconfíe. Si la respuesta es “nada, salvo que mire otra vez”, quédese un rato más.
+3. **Probar el mismo rasero al revés.** Si este libro pide evidencia para un mandato sanitario, también la pide para un video de un foro. El método que solo funciona hacia un lado no es método.
+
+Nadie está obligado a salir de estas páginas convertido. Estar obligado a no pensarlas, eso sí sería extraño, en un siglo que presume de información.
+
 ## La rebelión del pensamiento inquisitivo
 
 

@@ -34,6 +34,19 @@ Antes de entrar en casos puntuales, vale aclarar qué significa "falsa bandera" 
 
 **La pregunta abierta:** que estos tres casos estén confirmados no prueba que cualquier atentado señalado como "falsa bandera" lo sea —esa es exactamente la clase de salto lógico que este libro pide evitar—. Lo que sí establecen es que la sospecha de falsa bandera no es, en sí misma, descabellada: es una herramienta real del repertorio de los estados, usada más de una vez, y eso alcanza para justificar que cada caso nuevo se investigue con rigor en vez de descartarse de entrada por "sonar a teoría conspirativa".
 
+## 3.3b Cómo se volvió insulto una palabra
+
+En 1967, un despacho interno de la CIA —después desclasificado— pidió a sus contactos en los medios que trataran las críticas a la Comisión Warren como *conspiracy theory*: no como hipótesis a contrastar, sino como síntoma. La palabra ya existía. Lo que cambió es el uso: **pasar del expediente al diagnóstico del que pregunta**. Quien duda de un comunicado oficial no discute un hecho: “es de esos”. El truco es viejo y no es de un solo bando. Hoy lo usa un ministerio contra quien pregunta por un laboratorio, y lo usa un foro contra quien pide una prueba. En los dos casos, la palabra ahorra el trabajo.
+
+Este libro no va a rehabilitar cualquier relato de un sótano. Va a pedir, con calma, que se separe:
+
+- lo que un Estado **ya admitió** (Gladio, Tonkín, Northwoods, Irán 53, Guatemala 54);
+- lo que un Estado **retuvo y después soltó** (las 28 páginas sauditas, Khashoggi);
+- lo que sigue **abierto** (AMIA, Nisman, el Edificio 7 para una minoría de ingenieros);
+- lo que **no tiene más que un video y una coincidencia**.
+
+Mezclar las cuatro bandejas es lo que produce, a la vez, al crédulo y al cínico. El crédulo traga el combo. El cínico escupe el combo. El curioso abre una bandeja por vez. Es más lento. Es el único modo de no volver a 1967, cuando la palabra ya hacía el trabajo que el expediente no podía.
+
 ## 3.4 Servicios de inteligencia y cambio de régimen: casos documentados
 
 A diferencia de otros temas de este libro, acá el terreno es mayormente firme: la CIA reconoció oficialmente, en documentos desclasificados propios, su participación directa en el derrocamiento de gobiernos elegidos democráticamente.

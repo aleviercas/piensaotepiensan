@@ -43,3 +43,7 @@ cd piensaotepiensan
 # cualquier static server en la raíz abre index.html
 python3 -m http.server 8000
 ```
+
+## En edición
+
+Hay una página extra en el índice, **Para el autor: lista de ideas**, que no forma parte del libro. Sirve para confirmar o corregir cada idea antes de Amazon. Cuando esa ronda termine, se saca.

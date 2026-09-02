@@ -6,6 +6,10 @@ En 1988, Herman y Chomsky publicaron *Manufacturing Consent*: los medios “libr
 
 La concentración de propiedad es un hecho (FCC, estudios de medios de varias ideologías). Un sistema de propaganda perfecto no habría publicado Watergate. Un sistema de sesgo estructural sí publica Watergate y, al mismo tiempo, trata el laboratorio de Wuhan como tabú. Las dos cosas cupieron en el mismo *Times*.
 
+Hay un antecedente que conviene nombrar sin inflarlo. La Comisión Church del Senado de Estados Unidos, en los años 70, documentó que la CIA había pagado a periodistas y usado agencias de prensa como cubierta: lo que después se popularizó como **Operation Mockingbird**. No prueba que cada editorial de hoy salga de Langley. Prueba que **el Estado ya supo, con factura, vestirse de redacción**. Quien descarte esa posibilidad en 2026 porque “eso sería conspiración” está discutiendo con la palabra, no con el archivo.
+
+**Russiagate, el otro Watergate que no fue.** Durante años, una parte importante de la prensa anglosajona trató como hecho casi cerrado que la campaña de Trump 2016 era un apéndice del Kremlin. El expediente Durham, el inspector general del Departamento de Justicia y el propio retiro de la “seguro de Steele” fueron dejando otra foto: una pesquisa que nació sesgada, una prensa que corrió más rápido que la prueba, y un costo —años de un país hablando de un golpe ruso— que nadie devolvió. No hace falta admirar a Trump para notar el mecanismo: **cuando el enemigo es inaceptable, el periodismo se vuelve fiscal**. El fiscal, al menos, tiene que ir a juicio. La tapa, no.
+
 ## 5.2 Censura digital: no fue un “error de ambos lados”
 
 **Twitter Files.** Tras comprar Twitter, Musk abrió los archivos a periodistas (Bari Weiss, Matt Taibbi, Michael Shellenberger). El FBI y Homeland Security pasaban listas. La laptop de Hunter Biden se ahogó en octubre de 2020 con una justificación —“hackeo ruso”— que la empresa no tenía. El “error de ambos lados” que se usa para suavizar esto es un truco: sí, Twitter a veces rechazó pedidos. El hecho central es otro. Agencias federales y una plataforma privada coordinaron para moldear el debate preelectoral y el debate COVID. Eso tiene un nombre más viejo que Silicon Valley: censura por contratista.
@@ -22,11 +26,13 @@ La Primavera Árabe y el video de George Floyd mostraron lo que un bolsillo pued
 
 Lo falso viaja más rápido que la corrección, sí, porque la indignación retiene mejor que la nota al pie. Eso vale para QAnon y vale para “la vacuna impide el contagio”. El algoritmo no es de izquierdas ni de derechas: es de atención. La redacción que lo denuncia solo cuando le pega a su bando no está denunciando al algoritmo.
 
-## 5.4 Estudio de caso: la campaña contra Messi y Argentina en el Mundial 2026
+**El otro filtro, el que no se denuncia.** Quien huye de la tele y se instala en un canal de YouTube, en un Telegram o en un directo de tres horas no se volvió, por eso, inmune. Ahí también hay propietario, hay publicidad (o hay un gurú que vive de la bronca), hay fuentes, hay *flak* y hay ideología. Chomsky sirve para los dos lados si uno se lo aplica. Un medio alternativo puede haber acertado el laboratorio en 2020 y, el martes siguiente, vender un remedio, un golpe o un enemigo. El método de este libro no cambia de canal: **¿hay documento, o hay tono?** El celular democratiza la prueba. No canoniza al que la grita.
 
-Pocas semanas después del torneo, FIFA y verificadores midieron el fenómeno en tiempo real. El Servicio de Protección en Redes de FIFA escaneó más de 53 millones de publicaciones y marcó más de 7 millones como potencialmente abusivas —catorce veces más que en 2022—, con más de 200.000 denunciadas o bajadas. Chequeado y otros documentaron falsedades puntuales contra la Selección y Messi: un video de Infantino “furioso” que era de otro partido; una imagen de IA con Infantino “inyectando” a Messi; un audio sintético sobre un festejo real; un supuesto documento de agencia “PR360 Sports” pagando posts anti-Argentina, con pinta de haber nacido en un modelo de lenguaje. Un audio adulterado atribuyó racismo a un relator argentino y corrió antes del desmentido.
+## 5.4 Estudio de caso: cuando un mundial se vuelve un laboratorio de relatos
 
-Que eso haya sido una operación centralizada, paga, para hacer ganar a España, nadie lo demostró. Lo que sí se vio es el mecanismo de este capítulo: recorte, IA, algoritmo, audiencia que consume el Mundial en clips de quince segundos. No hace falta un sótano. Hace falta una hinchada predispuesta y un feed que cobra por bronca.
+Pocas semanas después del Mundial de Clubes de 2026, FIFA y verificadores midieron el fenómeno en tiempo real. El Servicio de Protección en Redes de FIFA escaneó más de 53 millones de publicaciones y marcó más de 7 millones como potencialmente abusivas —catorce veces más que en 2022—, con más de 200.000 denunciadas o bajadas. Hubo videos de dirigentes “furiosos” que eran de otro partido, imágenes de inteligencia artificial, audios sintéticos, un supuesto documento de agencia pagando posts. Un recorte, una hinchada predispuesta, un feed que cobra por bronca.
+
+Se cuenta acá no porque el fútbol de un país sea el centro del mundo. Se cuenta porque **cualquiera que haya visto un mundial, una elección o una pandemia en el teléfono ya vio el mismo aparato**. Cambien a Messi por un candidato, por un científico, por un pastor: el clip de quince segundos hace el trabajo que antes hacía el editorial. Que haya habido una operación centralizada, paga, para hacer ganar a alguien, nadie lo demostró. Lo que sí se vio es el mecanismo de este capítulo. No hace falta un sótano. Hace falta una audiencia y un algoritmo.
 
 ## 5.4bis Estudio de caso: el consenso de “expertos” y Milei
 
@@ -57,6 +63,20 @@ Hay otra cara, y hay que ponerla: la misma máquina, sin el filtro, puede ser la
 Si la respuesta fuera “nada”, estas páginas serían arqueología. Todavía no lo son. El lector que abre un chat y le cree al primer párrafo razonable está en su derecho de cansarse: pensar cansa. La invitación es más liviana de lo que parece. No hace falta volverse un detective. Hace falta, de vez en cuando, preguntar: ¿de dónde salió esto? ¿Hay un documento, o hay un tono? ¿El verificador tiene el mismo financiador que el tema que verifica? ¿Wikipedia, en esta ficha, cita un paper o cita un diario que cita un comunicado? Tres preguntas, no una ideología. El que las hace no se vuelve antisistema. Se vuelve un poco más difícil de programar.
 
 Quien trabaja en un medio, o en una plataforma, o entrena modelos, no es el villano de este capítulo. Muchos de ellos también sienten el recorte. La cortesía de este libro con ellos es la misma que pide para el lector: no tratar la duda como una falta moral. Un periodista que publica el laboratorio en 2021 no era un héroe de un bando. Era alguien que hizo su trabajo un año tarde, y eso ya es mucho. Un ingeniero que abre el filtro de un modelo no está “pasándose al otro lado”. Está devolviendo una pregunta al público.
+
+## 5.7 Cómo leer una noticia sin volverse un detective
+
+No hace falta dejar el trabajo para “informarse de verdad”. Hace falta un hábito chico, que cabe en el tiempo de un café. Cuando una noticia le mueva el piso —miedo, euforia, bronca—, pruebe esto, en cualquier idioma:
+
+1. **¿Quién firma, y quién paga?** Un medio, una ONG, un ministerio, un canal que vive de la bronca. El dato puede ser cierto en cualquiera. El ángulo, casi nunca es neutro.
+2. **¿Hay un documento, o hay un tono?** Un paper, un acta, un audio, una sentencia. Si solo hay adjetivos —“histórico”, “peligroso”, “negacionista”— está leyendo un editorial disfrazado.
+3. **¿El verificador tiene el mismo financiador que el tema que verifica?** No descalifica. Pesa.
+4. **¿Se puede decir lo contrario en esa misma pantalla?** Si la respuesta es no, el recorte ya empezó, aunque el dato sea verdad.
+5. **¿Usted lo reenviaría si lo hubiera publicado el diario que no le gusta?** Esa pregunta, sola, ahorra la mitad de los problemas.
+
+Cinco preguntas no son una ideología. Son un filtro. El que las hace no se vuelve antisistema. Se vuelve un poco más difícil de programar. Y, con la inteligencia artificial escribiendo el promedio de lo que “se debe pensar”, ese filtro va a ser, dentro de poco, lo más parecido a un músculo que nos quede. El capítulo lo dijo arriba: una sola voz crítica no compite en volumen. Compite, todavía, en que un humano decida no tragar el primer párrafo razonable.
+
+Quien no tenga ganas de hacer las cinco, que haga una. Ya es más que el feed.
 
 ## Reflexión final
 
