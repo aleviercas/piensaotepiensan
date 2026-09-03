@@ -1,6 +1,6 @@
 # Pendientes de revisión
 
-Última vez que el autor guardó: 2026-09-03T14:34:40.543Z
+Última vez que el autor guardó: 2026-09-03T14:41:10.159Z
 
 Este archivo lo escribe el autor desde la página de revisión. No es el libro. La próxima sesión de edición parte de acá.
 
