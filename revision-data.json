@@ -1,0 +1,378 @@
+{
+  "TONES": [
+    {
+      "id": "A",
+      "title": "Carta a un amigo",
+      "blurb": "Frase corta, pregunta al final. La que mejor cambia de idea."
+    },
+    {
+      "id": "B",
+      "title": "Cuaderno inquisitivo",
+      "blurb": "Usted piensa en voz alta. Admite pulso. Es la intro de hoy."
+    },
+    {
+      "id": "C",
+      "title": "Crónica de investigación",
+      "blurb": "Más fuentes, menos yo. Más frío."
+    },
+    {
+      "id": "D",
+      "title": "Manifiesto",
+      "blurb": "Enemigo claro. Viral. El que no está de acuerdo cierra el libro."
+    }
+  ],
+  "CHOICES": [
+    {
+      "id": "si",
+      "label": "Sí"
+    },
+    {
+      "id": "reves",
+      "label": "No, al revés"
+    },
+    {
+      "id": "fuerte",
+      "label": "Más fuerte"
+    },
+    {
+      "id": "suave",
+      "label": "Más suave"
+    },
+    {
+      "id": "sacar",
+      "label": "Sacar"
+    }
+  ],
+  "REVISION_ITEMS": [
+    {
+      "id": 1,
+      "section": "Introducción",
+      "prompt": "Esto es el cuaderno de alguien curioso, no un manifiesto."
+    },
+    {
+      "id": 2,
+      "section": "Introducción",
+      "prompt": "La ideología se adquiere después del razonamiento, no al revés."
+    },
+    {
+      "id": 3,
+      "section": "Introducción",
+      "prompt": "Tesla entra en la lista de quien pensó contra su industria, sin la mitología de internet."
+    },
+    {
+      "id": 4,
+      "section": "Introducción",
+      "prompt": "Con la IA, el pensamiento crítico va a ser un bien escaso."
+    },
+    {
+      "id": 5,
+      "section": "Introducción",
+      "prompt": "El libro está escrito desde un país, no solo para ese país."
+    },
+    {
+      "id": 6,
+      "section": "Introducción",
+      "prompt": "Providencia / sincronicidad se nombran ya en la intro, sin demostrarlas."
+    },
+    {
+      "id": 7,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "El laboratorio es la hipótesis que no se podía nombrar; el encubrimiento está más cerrado que el origen."
+    },
+    {
+      "id": 8,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "2020 no fue la peste negra ni “una gripecita”.",
+      "hint": "Si quería decir que sí fue solo una gripe, marque No, al revés y explíquelo."
+    },
+    {
+      "id": 9,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Event 201 no “prueba que ya sabían”; prueba que se ensayó el poder de una pandemia."
+    },
+    {
+      "id": 10,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Los cuerpos que se caían en Wuhan no se vieron en el resto del mundo; la pregunta es qué estábamos mirando."
+    },
+    {
+      "id": 11,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Las vacunas de ARNm: no se midió transmisión; hubo miocarditis; los mandatos se adelantaron al dato."
+    },
+    {
+      "id": 12,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Cuestionar vacunas antes del COVID era tabú; el mandato de 2021 destapó la olla del calendario infantil y el autismo."
+    },
+    {
+      "id": 13,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "No se afirma “las vacunas causan autismo” como hecho cerrado; se afirma que la pregunta merece estudio.",
+      "hint": "¿Es eso lo que quería, o quería afirmar la causa?",
+      "priority": true
+    },
+    {
+      "id": 14,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Fenbendazol y los amigos de Mel Gibson: no son farsantes; es una esperanza de estudio, no una receta.",
+      "priority": true
+    },
+    {
+      "id": 15,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Ivermectina: evidencia mixta y un trato institucional hostil, no una cura milagrosa."
+    },
+    {
+      "id": 61,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Paper Wang et al. (Nano Today, 2026): las LNP, en ratones, favorecen metástasis vía mtDNA y NETs. Se cuenta el paper, no se canta “turbo-cáncer demostrado en humanos”.",
+      "hint": "¿Más fuerte (decir que las LNP causan turbo-cáncer)? ¿O está bien el tono de pregunta?",
+      "priority": true
+    },
+    {
+      "id": 16,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "7 de octubre, Hamas, UNRWA, ofertas de paz: el relato de “contexto” no puede tapar la masacre ni el fuero."
+    },
+    {
+      "id": 17,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "Islam político en Europa: Pew, doctrina, Rotherham, demografía. No todo musulmán es yihadista; el problema no es imaginario."
+    },
+    {
+      "id": 18,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "Malvinas: Bougainville 1764, Francia cede a España, 1833, 1982 un error, invasiones 1806-1807. Nada es azar.",
+      "hint": "Si falta un dato que usted tenía, escríbalo acá."
+    },
+    {
+      "id": 19,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "Nord Stream: cui bono, sin decretar al autor."
+    },
+    {
+      "id": 20,
+      "section": "Capítulo 3 — Atentados",
+      "prompt": "11-S: negligencia y capítulo saudita documentados; Edificio 7 se deja como minoría de ingenieros, no como demolición probada.",
+      "hint": "¿Quería ir más lejos con el WTC7?",
+      "priority": true
+    },
+    {
+      "id": 21,
+      "section": "Capítulo 3 — Atentados",
+      "prompt": "AMIA / Nisman: homicidio para la Justicia, sin condenados; plantilla para cualquier lector."
+    },
+    {
+      "id": 22,
+      "section": "Capítulo 3 — Atentados",
+      "prompt": "Falsa bandera: Gladio, Tonkín, Northwoods existen; eso no prueba el atentado de mañana."
+    },
+    {
+      "id": 23,
+      "section": "Capítulo 3 — Atentados",
+      "prompt": "La palabra “conspiración” se usó como insulto (despacho CIA 1967)."
+    },
+    {
+      "id": 24,
+      "section": "Capítulo 4 — Democracia",
+      "prompt": "2020 en EE.UU.: no hay prueba de vuelco nacional; sí hay laptop, reglas cambiadas, CTCL, censura.",
+      "hint": "¿Más fuerte (“se robaron”)?",
+      "priority": true
+    },
+    {
+      "id": 25,
+      "section": "Capítulo 4 — Democracia",
+      "prompt": "FEM / Davos: red y glosario, no gobierno mundial con organigrama."
+    },
+    {
+      "id": 26,
+      "section": "Capítulo 4 — Democracia",
+      "prompt": "El poder que más toca la vida (bancos centrales, agencias, plataformas) no se vota."
+    },
+    {
+      "id": 27,
+      "section": "Capítulo 4 — Democracia",
+      "prompt": "2020 fue un ensayo de estado de excepción también en democracias."
+    },
+    {
+      "id": 28,
+      "section": "Capítulo 5 — Medios",
+      "prompt": "Twitter Files, laptop, DSA: no fue “un error de ambos lados”."
+    },
+    {
+      "id": 29,
+      "section": "Capítulo 5 — Medios",
+      "prompt": "Con la IA, una sola voz crítica no compite en volumen con el promedio fabricado."
+    },
+    {
+      "id": 30,
+      "section": "Capítulo 5 — Medios",
+      "prompt": "El Mundial 2026 es un laboratorio de relatos, no el centro del libro."
+    },
+    {
+      "id": 31,
+      "section": "Capítulo 5 — Medios",
+      "prompt": "Los medios alternativos también tienen filtro."
+    },
+    {
+      "id": 32,
+      "section": "Capítulo 6 — Clima",
+      "prompt": "La cuenta del 0,04% y del 3% es su pregunta de proporción, no un truco que el libro le corrige.",
+      "hint": "¿Quedó bien esta vez, o todavía se siente “corregido”?",
+      "priority": true
+    },
+    {
+      "id": 33,
+      "section": "Capítulo 6 — Clima",
+      "prompt": "Se invita a cuestionar que el cambio climático lo mande el carbono humano.",
+      "hint": "¿Más fuerte: decir que no lo manda?",
+      "priority": true
+    },
+    {
+      "id": 34,
+      "section": "Capítulo 6 — Clima",
+      "prompt": "Temperatura primero, CO2 después, en el archivo profundo. Correlación no es causa.",
+      "priority": true
+    },
+    {
+      "id": 35,
+      "section": "Capítulo 6 — Clima",
+      "prompt": "1940-1975: industrialización y frío; Newsweek anunció el hielo.",
+      "priority": true
+    },
+    {
+      "id": 36,
+      "section": "Capítulo 6 — Clima",
+      "prompt": "CO2 como alimento de plantas; planeta más verde en el pasado con más CO2; hojas fósiles.",
+      "priority": true
+    },
+    {
+      "id": 37,
+      "section": "Capítulo 6 — Clima",
+      "prompt": "El Sol, los ciclos, la Pequeña Edad de Hielo, los glaciares que ya retrocedían antes del auto.",
+      "priority": true
+    },
+    {
+      "id": 38,
+      "section": "Capítulo 6 — Clima",
+      "prompt": "El libro NO dice “el efecto invernadero es un hoax”.",
+      "hint": "¿Está bien dejar esa puerta, o quería cerrarla?",
+      "priority": true
+    },
+    {
+      "id": 39,
+      "section": "Capítulo 7 — Economía",
+      "prompt": "La inflación es, sobre todo, un fenómeno monetario. La “codicia” no explica diez años."
+    },
+    {
+      "id": 40,
+      "section": "Capítulo 7 — Economía",
+      "prompt": "CBDC = efectivo con GPS; el efectivo es un derecho, no un permiso."
+    },
+    {
+      "id": 41,
+      "section": "Capítulo 7 — Economía",
+      "prompt": "Argentina es un laboratorio visible, no la parroquia del libro."
+    },
+    {
+      "id": 42,
+      "section": "Capítulo 8 — Espacio",
+      "prompt": "Alunizaje: la evidencia en contra de la farsa es, para este libro, la más fuerte de todos los temas.",
+      "hint": "¿Está de acuerdo, o quería dejar más duda?",
+      "priority": true
+    },
+    {
+      "id": 43,
+      "section": "Capítulo 8 — Espacio",
+      "prompt": "Pirámides en más de un continente: ¿difusión, arquetipo o saber perdido?"
+    },
+    {
+      "id": 44,
+      "section": "Capítulo 8 — Espacio",
+      "prompt": "Sacsayhuamán: no se copia bien ni con la maquinaria de hoy; la pregunta es qué técnica se perdió."
+    },
+    {
+      "id": 45,
+      "section": "Capítulo 8 — Espacio",
+      "prompt": "Rapa Nui / moáis / una cultura que desaparece."
+    },
+    {
+      "id": 46,
+      "section": "Capítulo 8 — Espacio",
+      "prompt": "Diluvio + Durupınar: no se canta victoria; no se despacha de un portazo."
+    },
+    {
+      "id": 47,
+      "section": "Capítulo 8 — Espacio",
+      "prompt": "Gigantes / nefilim: coincidencia de textos y folclore; no hay inventario forense que cierre."
+    },
+    {
+      "id": 48,
+      "section": "Capítulo 8 — Espacio",
+      "prompt": "Darwin explica adaptación; se queda corto con el origen de la información. No se afirma una Tierra de 6.000 años.",
+      "hint": "¿Está bien, o quería ir hacia Tierra joven?",
+      "priority": true
+    },
+    {
+      "id": 49,
+      "section": "Capítulo 9 — Extraterrestre",
+      "prompt": "Grusch bajo juramento vs. AARO que no encuentra; las dos cosas se sostienen."
+    },
+    {
+      "id": 50,
+      "section": "Capítulo 9 — Extraterrestre",
+      "prompt": "Roswell, Rendlesham, Phoenix, Nimitz, hilo nuclear: se cuentan como casos, no como prueba."
+    },
+    {
+      "id": 51,
+      "section": "Capítulo 9 — Extraterrestre",
+      "prompt": "Un contacto no derrumba la fe; el Vaticano ya lo dijo."
+    },
+    {
+      "id": 52,
+      "section": "Capítulo 10 — Más allá",
+      "prompt": "ECM / AWARE: abierto, no prueba del cielo."
+    },
+    {
+      "id": 53,
+      "section": "Capítulo 10 — Más allá",
+      "prompt": "Isaías, Salmo 22, Miqueas, Daniel: la red de anuncios es el hecho literario más extraño del Mediterráneo."
+    },
+    {
+      "id": 54,
+      "section": "Capítulo 10 — Más allá",
+      "prompt": "Pablo, Agustín, Tomás: la razón que se arrodilla."
+    },
+    {
+      "id": 55,
+      "section": "Capítulo 10 — Más allá",
+      "prompt": "Si Jesús viniera un martes de 2026: medios, redes, fariseos nuevos, odio y milagro virales."
+    },
+    {
+      "id": 56,
+      "section": "Capítulo 10 — Más allá",
+      "prompt": "Providencia y sincronicidad: se nombran, no se demuestran."
+    },
+    {
+      "id": 57,
+      "section": "Capítulo 10 — Más allá",
+      "prompt": "Islam: el fiqh clásico, no solo el dictador; asimetría con el cristianismo actual en apostasía y mujeres."
+    },
+    {
+      "id": 58,
+      "section": "Conclusión",
+      "prompt": "El libro es un método de tres pasos, no un combo para un grupo."
+    },
+    {
+      "id": 59,
+      "section": "Conclusión",
+      "prompt": "Cambiar de idea es una medida de inteligencia, no una derrota."
+    },
+    {
+      "id": 60,
+      "section": "Conclusión",
+      "prompt": "Con la IA, quien no entrenó el músculo de contrastar se va a enterar de “la verdad” por un chat."
+    }
+  ]
+}

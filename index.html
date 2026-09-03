@@ -121,6 +121,43 @@
       .scrim.on { display: block; }
       .sheet, .home { padding-top: 1.6rem; }
     }
+
+    .rev-page textarea {
+      width: 100%; font: inherit; color: var(--ink); background: var(--bg-elev);
+      border: 1px solid var(--line); border-radius: 10px; padding: 0.7rem 0.85rem;
+      line-height: 1.5; resize: vertical; outline: none;
+    }
+    .rev-page textarea:focus { border-color: var(--ink); }
+    .rev-card {
+      border: 1px solid var(--line); border-radius: 16px; padding: 1rem 1.1rem; margin: 0.85rem 0;
+    }
+    .rev-card p { margin: 0 0 0.4rem; font-size: 0.98rem; font-weight: 500; line-height: 1.35; }
+    .rev-num { font-family: ui-monospace, monospace; font-size: 0.78rem; color: var(--subtle); margin-right: 0.3rem; }
+    .rev-tag { font-size: 0.7rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--subtle); font-weight: 500; }
+    .rev-hint { color: var(--muted) !important; font-size: 0.82rem !important; font-weight: 400 !important; }
+    .rev-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.7rem 0 0.65rem; }
+    .rev-chip {
+      min-height: 40px; padding: 0 0.85rem; border-radius: 999px; border: 1px solid var(--line);
+      font-size: 0.8rem; font-weight: 500; color: var(--muted);
+    }
+    .rev-chip.on { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+    .rev-tone {
+      text-align: left; border: 1px solid var(--line); border-radius: 12px; padding: 0.75rem 0.9rem; background: var(--bg);
+    }
+    .rev-tone.on { border-color: var(--ink); }
+    .rev-tone strong { display: block; font-size: 0.9rem; font-weight: 500; }
+    .rev-tone span { display: block; margin-top: 0.25rem; color: var(--muted); font-size: 0.8rem; line-height: 1.35; }
+    .rev-tones { display: grid; gap: 0.5rem; }
+    @media (min-width: 640px) { .rev-tones { grid-template-columns: 1fr 1fr; } }
+    .rev-box { margin-top: 1.6rem; border: 1px solid var(--line); border-radius: 16px; padding: 1rem 1.1rem; background: var(--bg-elev); }
+    .rev-label { font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--subtle); font-weight: 500; }
+    .rev-toolbar { display: flex; align-items: center; gap: 0.75rem; margin: 1.2rem 0 0.4rem; }
+    .rev-toolbar span { color: var(--subtle); font-variant-numeric: tabular-nums; margin-left: auto; }
+    .rev-foot {
+      position: sticky; bottom: 0; margin: 2rem -1.5rem -6rem; padding: 0.85rem 1.5rem;
+      border-top: 1px solid var(--line); background: color-mix(in srgb, var(--bg) 92%, transparent);
+      color: var(--muted); font-size: 0.88rem;
+    }
     @media (prefers-reduced-motion: reduce) {
       .sidebar { transition: none; }
     }
@@ -151,6 +188,7 @@
     </div>
   </div>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="revision.js"></script>
   <script>
     const CHAPTERS = [
       { slug: "introduccion", file: "es/00-introduccion.md", num: "00", kicker: "Prólogo", title: "Introducción" },
@@ -165,7 +203,7 @@
       { slug: "extraterrestre", file: "es/09-extraterrestre.md", num: "09", kicker: "Capítulo 9", title: "Vida extraterrestre" },
       { slug: "mas-alla", file: "es/10-mas-alla.md", num: "10", kicker: "Capítulo 10", title: "Más allá de la muerte" },
       { slug: "conclusion", file: "es/conclusion.md", num: "Fin", kicker: "Cierre", title: "El camino del pensador inquisitivo" },
-      { slug: "revision", file: "es/revision-autor.md", num: "Ed.", kicker: "Edición", title: "Para el autor: lista de ideas" },
+      { slug: "revision", file: "es/revision-autor.md", num: "Ed.", kicker: "Edición", title: "Revisión: marcá y comentá" },
     ];
 
     const root = document.getElementById("root");
@@ -231,6 +269,10 @@
       crumb.textContent = c.kicker + " · " + c.title;
       setActive(s);
       root.innerHTML = `<p class="load">Cargando…</p>`;
+      if (s === "revision" && window.renderRevision) {
+        await window.renderRevision(root);
+        return;
+      }
       try {
         const md = await loadMd(c.file);
         const html = marked.parse(md, { mangle: false, headerIds: false });
