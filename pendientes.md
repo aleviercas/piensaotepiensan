@@ -1,18 +1,15 @@
 # Pendientes de revisión
 
-Última vez que el autor guardó: 2026-09-03T14:41:10.159Z
+Última vez que el autor guardó: 2026-09-03T14:42:04.282Z
 
 Este archivo lo escribe el autor desde la página de revisión. No es el libro. La próxima sesión de edición parte de acá.
 
-## Tonalidad elegida: Carta a un amigo
+## Tonalidad elegida: (sin elegir)
 
 ## Notas generales
 
-esto es una prueba de comentario del autor: el tono A y el item 1 mas fuerte
+(vacío)
 
-## Ítems marcados (1)
+## Ítems marcados (0)
 
-### Introducción
-
-**1.** Esto es el cuaderno de alguien curioso, no un manifiesto.
-- Marca: Más fuerte
+Todavía no hay marcas. El autor puede ir comentando idea por idea en la página de revisión.
