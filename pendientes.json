@@ -1,11 +1,5 @@
 {
-  "tone": "A",
-  "notes": "esto es una prueba de comentario del autor: el tono A y el item 1 mas fuerte",
-  "items": {
-    "1": {
-      "choice": "fuerte",
-      "comment": ""
-    }
-  },
-  "updatedAt": "2026-09-03T14:41:10.159Z"
+  "notes": "",
+  "items": {},
+  "updatedAt": "2026-09-03T14:42:04.282Z"
 }
