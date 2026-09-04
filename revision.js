@@ -57,7 +57,7 @@
     } catch (_) {}
 
     const CHOICE_LABEL = {
-      si: "Sí",
+      si: "Confirmo",
       reves: "No, al revés",
       fuerte: "Más fuerte",
       suave: "Más suave",
@@ -117,7 +117,7 @@
           <p class="kicker">Edición · no es el libro</p>
           <div class="prose">
             <h1>Marcá y comentá</h1>
-            <p>Cada idea del libro está acá. Elegí una marca y escribí cómo lo querías decir. En esta página las notas quedan en tu navegador: <strong>descargá el archivo</strong> o dejá el comentario en Grok para que el editor lo suba al repositorio y lo retome en la próxima sesión.</p>
+            <p>Casi todas las ideas del libro están acá. <strong>Confirmo</strong> = esta idea es mía: si los datos tiran para otro lado, el editor avisa y se decide juntos; no se reescribe en contra. En esta página las notas quedan en tu navegador: descargá el archivo o dejá el comentario en Grok para que se suba al repositorio.</p>
           </div>
           <div class="rev-box">
             <p class="rev-label">Tonalidad del libro</p>

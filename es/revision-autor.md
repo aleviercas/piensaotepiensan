@@ -1,15 +1,28 @@
 # Para el autor — lista de ideas (esto no es el libro)
 
-Esta página es una herramienta de edición. **No forma parte del libro.** Sirve para que el autor marque, idea por idea, qué quedó bien, qué se entendió al revés y qué falta. Cuando esta ronda termine, se saca del índice.
+Esta página es una herramienta de edición. **No forma parte del libro.** Sirve para que el autor marque, idea por idea, qué quedó bien, qué se entendió al revés y qué falta.
 
-Cómo usarla: lea la frase en **negrita** (lo que el libro *está diciendo ahora*). Responda con una de estas cuatro:
+**Cómo usarla ahora:** hay un formulario en **Revisión: marcá y comentá**. Cada marca y cada comentario se guardan solos en el repositorio (`pendientes.md`). La próxima sesión de edición parte de esa lista: se investiga e implementa lo que el autor dejó escrito. No hace falta un ensayo. Un comentario corto al lado del número alcanza.
 
-- **Sí** — es lo que quería.
-- **No, al revés** — se interpretó mal; en el próximo mensaje dígalo con sus palabras.
+Si está leyendo el Markdown plano y no el formulario, abra esa entrada del índice.
+
+---
+
+**Pacto:** si el autor marca **Confirmo**, esa idea no se reescribe en contra. Si al chequear los datos tiran para otro lado, se avisa en la próxima sesión y se decide juntos (dejar, sacar, o decirlo de otra forma). No se contradice en el libro a espaldas del autor.
+
+Cómo marcar:
+
+- **Confirmo** — esta idea es mía; no la cambies sin avisarme.
+- **No, al revés** — se interpretó mal; en el recuadro dígalo con sus palabras.
 - **Más fuerte** — la idea es esa, pero quedó demasiado suave.
 - **Más suave** — la idea es esa, pero quedó demasiado punzante.
+- **Sacar** — no va en el libro.
 
-No hace falta revisar las doce de un tirón. Capítulo por capítulo alcanza.
+No hace falta revisar las ~170 de un tirón. Capítulo por capítulo alcanza. Las marcadas **sensible** son las que más se malinterpretaron en rondas anteriores.
+
+
+---
+
 
 ---
 

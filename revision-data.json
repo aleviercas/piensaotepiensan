@@ -24,7 +24,7 @@
   "CHOICES": [
     {
       "id": "si",
-      "label": "Sí"
+      "label": "Confirmo"
     },
     {
       "id": "reves",
@@ -52,12 +52,28 @@
     {
       "id": 2,
       "section": "Introducción",
-      "prompt": "La ideología se adquiere después del razonamiento, no al revés."
+      "prompt": "La ideología se adquiere después del razonamiento, no al revés.",
+      "priority": true
+    },
+    {
+      "id": 64,
+      "section": "Introducción",
+      "prompt": "Einstein al abrir: la medida de la inteligencia es la capacidad de cambiar."
+    },
+    {
+      "id": 65,
+      "section": "Introducción",
+      "prompt": "La lista de quien preguntó (Jesús, Sócrates, la caverna, Galileo, Semmelweis, Wright, Tesla, Hayek, Friedman, Malala, Milei) es tributo, no canon de que siempre tuvieron razón."
     },
     {
       "id": 3,
       "section": "Introducción",
       "prompt": "Tesla entra en la lista de quien pensó contra su industria, sin la mitología de internet."
+    },
+    {
+      "id": 66,
+      "section": "Introducción",
+      "prompt": "Pensamiento crítico, no “sentido común”: el sentido común a veces es repetición."
     },
     {
       "id": 4,
@@ -70,20 +86,82 @@
       "prompt": "El libro está escrito desde un país, no solo para ese país."
     },
     {
+      "id": 67,
+      "section": "Introducción",
+      "prompt": "Las instituciones del consenso se inclinaron a un paquete: precaución sanitaria, clima moral, multiculturalismo intocable, desinformación como policía."
+    },
+    {
+      "id": 68,
+      "section": "Introducción",
+      "prompt": "Cada capítulo: lo que no se discute / la narrativa / lo que omite / una pregunta abierta."
+    },
+    {
       "id": 6,
       "section": "Introducción",
       "prompt": "Providencia / sincronicidad se nombran ya en la intro, sin demostrarlas."
     },
     {
+      "id": 69,
+      "section": "Introducción",
+      "prompt": "Cómo disentir: separar hecho de interpretación; preguntar qué gana el autor; el mismo rasero al revés."
+    },
+    {
+      "id": 70,
+      "section": "Introducción",
+      "prompt": "Advertencia: ni “oficial = verdad” ni “oficial = mentira”."
+    },
+    {
+      "id": 71,
+      "section": "Introducción",
+      "prompt": "Primer libro, ~40.000 palabras, se ofrece como conversación / borrador, no como púlpito."
+    },
+    {
       "id": 7,
       "section": "Capítulo 1 — Salud",
-      "prompt": "El laboratorio es la hipótesis que no se podía nombrar; el encubrimiento está más cerrado que el origen."
+      "prompt": "El laboratorio es la hipótesis que no se podía nombrar; el encubrimiento está más cerrado que el origen.",
+      "priority": true
+    },
+    {
+      "id": 72,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "WIV, EcoHealth, Daszak, DEFUSE, sitio de furina: el expediente que coincidía y no se podía decir."
+    },
+    {
+      "id": 73,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "The proximal origin: el paper público vs. los mails/Slack (Andersen, Fauci, Farrar)."
+    },
+    {
+      "id": 74,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Zoonosis: nunca apareció el animal intermediario; el mercado puede ser amplificador."
+    },
+    {
+      "id": 75,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "FBI y DOE se inclinaron al lab; CIA sin determinación. No es un blog."
     },
     {
       "id": 8,
       "section": "Capítulo 1 — Salud",
       "prompt": "2020 no fue la peste negra ni “una gripecita”.",
-      "hint": "Si quería decir que sí fue solo una gripe, marque No, al revés y explíquelo."
+      "hint": "Si quería decir que sí fue solo una gripe, marque No, al revés.",
+      "priority": true
+    },
+    {
+      "id": 76,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "La cuenta: gripe 290-650 mil vs. ~1,8 millones COVID en 2020 (OMS). Tres veces una gripe mala, no la peste."
+    },
+    {
+      "id": 77,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Murió con vs. murió de infló certificados; el exceso de mortalidad, igual, fue real."
+    },
+    {
+      "id": 78,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Respiradores mal usados y atención diferida: una parte de los muertos es de la respuesta, no del virus."
     },
     {
       "id": 9,
@@ -91,26 +169,154 @@
       "prompt": "Event 201 no “prueba que ya sabían”; prueba que se ensayó el poder de una pandemia."
     },
     {
+      "id": 79,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Gates: un privado donante que no se vota, y agencias que no pueden perderlo."
+    },
+    {
+      "id": 80,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Juegos militares de Wuhan: pista anecdótica, no prueba."
+    },
+    {
       "id": 10,
       "section": "Capítulo 1 — Salud",
       "prompt": "Los cuerpos que se caían en Wuhan no se vieron en el resto del mundo; la pregunta es qué estábamos mirando."
     },
     {
+      "id": 81,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "PCR: la técnica no es fraude; tratar un Ct de 39 como enfermo contagioso sí fue fraude comunicacional."
+    },
+    {
+      "id": 82,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Barbijos: Cochrane y DANMASK no sostienen el mandato escolar; el mecanismo de laboratorio existe."
+    },
+    {
+      "id": 83,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Great Barrington, Suecia, Herby: lockdowns de costo enorme y beneficio marginal; Collins pidió “derribo devastador”."
+    },
+    {
+      "id": 84,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Exceso 2021-23 en edades laborales: abierto (secuelas, atención, hipótesis vacuna). No se cierra con “era COVID”."
+    },
+    {
+      "id": 85,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "En 2020-21, contra Delta, en mayores, sí bajaron internaciones. ¿Para quién, contra qué cepa, a qué costo?"
+    },
+    {
       "id": 11,
       "section": "Capítulo 1 — Salud",
-      "prompt": "Las vacunas de ARNm: no se midió transmisión; hubo miocarditis; los mandatos se adelantaron al dato."
+      "prompt": "Las vacunas de ARNm: no se midió transmisión; hubo miocarditis; los mandatos se adelantaron al dato.",
+      "priority": true
+    },
+    {
+      "id": 86,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Los ensayos de Pfizer/Moderna midieron síntomas, no contagio. El eslogan del abuelo no estaba en el prospecto."
+    },
+    {
+      "id": 87,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Miocarditis en varones jóvenes post-ARNm: confirmada (Israel, nórdicos, UK, Canadá, EE.UU.)."
+    },
+    {
+      "id": 88,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "VAERS: ni “millones de muertos por la vacuna” ni “como es pasivo no hay señal”."
+    },
+    {
+      "id": 89,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Inmunidad natural: los mandatos tardaron más de un año en reconocerla."
+    },
+    {
+      "id": 15,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Ivermectina: evidencia mixta y un trato institucional hostil, no una cura milagrosa."
+    },
+    {
+      "id": 90,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "IgG4 (Irrgang 2023): mecanismo plausible publicado; no es “cáncer turbo en todo el mundo”."
+    },
+    {
+      "id": 61,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Wang et al. (Nano Today, 2026): LNP en ratones, metástasis vía mtDNA y NETs. Se cuenta el paper, no se canta causa en humanos.",
+      "hint": "¿Más fuerte?",
+      "priority": true
+    },
+    {
+      "id": 62,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Hulscher/McCullough (Zenodo, 2026): ladrillos publicados (333 casos, Corea, IgG4, LNP); no se copia “turbo-cáncer es real / 197.000”.",
+      "hint": "¿Más fuerte (afirmar la causa)?",
+      "priority": true
+    },
+    {
+      "id": 63,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "SV40: polio 1955-63 llevó el virus; Pfizer, el promotor del plásmido (McKernan/Speicher), no el virus. Pegarlas le regala el desmentido.",
+      "hint": "¿Dejarlas juntas como en el clip de Kennedy?",
+      "priority": true
+    },
+    {
+      "id": 91,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "La captura “la OMS admite EM”: es un abstract indexado, no un comunicado de Ginebra."
+    },
+    {
+      "id": 92,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "AstraZeneca: TTS admitido en tribunal UK; distinguir plataformas, no “todas las vacunas”."
     },
     {
       "id": 12,
       "section": "Capítulo 1 — Salud",
-      "prompt": "Cuestionar vacunas antes del COVID era tabú; el mandato de 2021 destapó la olla del calendario infantil y el autismo."
+      "prompt": "Cuestionar vacunas antes del COVID era tabú; el mandato de 2021 destapó la olla del calendario y el autismo.",
+      "priority": true
     },
     {
       "id": 13,
       "section": "Capítulo 1 — Salud",
       "prompt": "No se afirma “las vacunas causan autismo” como hecho cerrado; se afirma que la pregunta merece estudio.",
-      "hint": "¿Es eso lo que quería, o quería afirmar la causa?",
+      "hint": "¿O quería afirmar la causa?",
       "priority": true
+    },
+    {
+      "id": 93,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "1986: escudo NCVIA + pocas dosis. Hoy: árbol de dosis y 1 niño de 31 con TEA. “Es el diagnóstico” no cierra el salto."
+    },
+    {
+      "id": 94,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Aluminio (Tomljenovic/Shaw): correlación alta, no causación. Mérito de estudio."
+    },
+    {
+      "id": 95,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Timerosal se sacó ~2001 y la curva no quebró: limpia una molécula, no el calendario."
+    },
+    {
+      "id": 96,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "William Thompson (CDC): silbato interno sobre MMR y varones afroamericanos. Wakefield puede ser basura y el silbato, cierto."
+    },
+    {
+      "id": 97,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "El 2,3% de la quimio es un paper australiano 2004 con contexto; no es el veredicto global."
+    },
+    {
+      "id": 98,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Ivermectina en cáncer: hay placa, no hay fase III. El incentivo explica la ausencia de ensayo, no prueba la cura."
     },
     {
       "id": 14,
@@ -119,46 +325,57 @@
       "priority": true
     },
     {
-      "id": 15,
-      "section": "Capítulo 1 — Salud",
-      "prompt": "Ivermectina: evidencia mixta y un trato institucional hostil, no una cura milagrosa."
+      "id": 99,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "Ucrania: audio de Nuland y Maidán sucio; la invasión rusa de 2022 sigue siendo invasión. Dos villanos caben."
     },
     {
-      "id": 61,
-      "section": "Capítulo 1 — Salud",
-      "prompt": "Paper Wang et al. (Nano Today, 2026): las LNP, en ratones, favorecen metástasis vía mtDNA y NETs. Se cuenta el paper, no se canta “turbo-cáncer demostrado en humanos”.",
-      "hint": "¿Más fuerte (decir que las LNP causan turbo-cáncer)? ¿O está bien el tono de pregunta?",
-      "priority": true
+      "id": 100,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "Labs en Ucrania: programa del Pentágono, opacidad; no hay prueba pública de armas ofensivas."
     },
     {
-      "id": 62,
-      "section": "Capítulo 1 — Salud",
-      "prompt": "Hulscher/McCullough (Zenodo, 2026): se cuentan los ladrillos publicados (333 casos, cohort coreano, IgG4, LNP) y no se copia el slogan “turbo-cáncer es real”.",
-      "hint": "¿Más fuerte (afirmar la causa y las 197.000 muertes)?",
-      "priority": true
-    },
-    {
-      "id": 63,
-      "section": "Capítulo 1 — Salud",
-      "prompt": "SV40: la polio 1955-63 llevó el virus; el ARNm de Pfizer, el promotor del plásmido (McKernan/Speicher), no el virus. Pegarlas en un clip le regala el desmentido.",
-      "hint": "¿Está bien despegar las dos historias, o quería dejarlas juntas como en el video de Kennedy?",
-      "priority": true
+      "id": 101,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "Lockheed/BlackRock: el lucro de terceros no borra la invasión ni la santifica."
     },
     {
       "id": 16,
       "section": "Capítulo 2 — Geopolítica",
-      "prompt": "7 de octubre, Hamas, UNRWA, ofertas de paz: el relato de “contexto” no puede tapar la masacre ni el fuero."
+      "prompt": "7 de octubre, Hamas, UNRWA, ofertas de paz: el “contexto” no tapa la masacre ni el fuero.",
+      "priority": true
     },
     {
-      "id": 17,
+      "id": 102,
       "section": "Capítulo 2 — Geopolítica",
-      "prompt": "Islam político en Europa: Pew, doctrina, Rotherham, demografía. No todo musulmán es yihadista; el problema no es imaginario."
+      "prompt": "Hamas no es el FLN: carta 1988 islamista, túneles bajo civiles, “genocidio” vacía la palabra."
     },
     {
-      "id": 18,
+      "id": 103,
       "section": "Capítulo 2 — Geopolítica",
-      "prompt": "Malvinas: Bougainville 1764, Francia cede a España, 1833, 1982 un error, invasiones 1806-1807. Nada es azar.",
-      "hint": "Si falta un dato que usted tenía, escríbalo acá."
+      "prompt": "UNRWA: túneles bajo su techo. ¿Incompetencia o le conviene no saber?"
+    },
+    {
+      "id": 104,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "OMS y ONU comparten techo e incentivos. Eso no es “la OMS es Hamas”.",
+      "hint": "Si quería la frase más dura, Más fuerte.",
+      "priority": true
+    },
+    {
+      "id": 105,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "Camp David 2000, Clinton, Olmert 2008: ofertas de Estado palestino rechazadas o caídas."
+    },
+    {
+      "id": 106,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "AIPAC cabildea; reducir Israel a “los judíos compran el Congreso” es el atajo viejo."
+    },
+    {
+      "id": 107,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "Israel toleró redes islamistas en los 80; de ahí a “fabricó a Hamas” hay un salto."
     },
     {
       "id": 19,
@@ -166,11 +383,64 @@
       "prompt": "Nord Stream: cui bono, sin decretar al autor."
     },
     {
+      "id": 108,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "Hersh acusa a Biden/Noruega; no está en tribunal. El móvil de Biden/Nuland/Blinken sí está en cámara."
+    },
+    {
+      "id": 109,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "Pista del yate Andromeda: la persiguió Alemania; a analistas navales les resulta poco seria."
+    },
+    {
+      "id": 110,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "Liz Truss “It’s done”: tuit de Kim Dotcom, sin verificación. Recortar."
+    },
+    {
+      "id": 111,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "Irán: teocracia con misiles, no “actor incomprendido”."
+    },
+    {
+      "id": 112,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "OTAN: expansión, miedo y guerras de elección."
+    },
+    {
+      "id": 17,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "Islam político en Europa: Pew, doctrina, Rotherham, demografía. No todo musulmán es yihadista; el problema no es imaginario.",
+      "priority": true
+    },
+    {
+      "id": 113,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "Rotherham y Tommy Robinson: se discute al mensajero para no mirar las 1.400 nenas."
+    },
+    {
+      "id": 18,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "Malvinas: Bougainville 1764, Francia cede a España, 1833, 1982 un error, invasiones 1806-1807. Nada es azar.",
+      "hint": "Si falta un dato, escríbalo.",
+      "priority": true
+    },
+    {
+      "id": 114,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "Rusia: imperio, sangre y valores — se nombra sin romanticismo ni demonología barata."
+    },
+    {
       "id": 20,
       "section": "Capítulo 3 — Atentados",
-      "prompt": "11-S: negligencia y capítulo saudita documentados; Edificio 7 se deja como minoría de ingenieros, no como demolición probada.",
+      "prompt": "11-S: negligencia y capítulo saudita documentados; Edificio 7 se deja como minoría de ingenieros, no demolición probada.",
       "hint": "¿Quería ir más lejos con el WTC7?",
       "priority": true
+    },
+    {
+      "id": 115,
+      "section": "Capítulo 3 — Atentados",
+      "prompt": "11-S: 19 secuestradores, 15 sauditas; compensación a familias vs. un juicio con prueba."
     },
     {
       "id": 21,
@@ -188,11 +458,78 @@
       "prompt": "La palabra “conspiración” se usó como insulto (despacho CIA 1967)."
     },
     {
+      "id": 116,
+      "section": "Capítulo 3 — Atentados",
+      "prompt": "CIA: Irán 1953, Guatemala 1954, Congo 1961, Chile 1973. El archivo propio. Eso no prueba el golpe de mañana."
+    },
+    {
+      "id": 117,
+      "section": "Capítulo 3 — Atentados",
+      "prompt": "Khashoggi: el hecho está; la cadena de mando hacia MBS, disputada."
+    },
+    {
+      "id": 118,
+      "section": "Capítulo 3 — Atentados",
+      "prompt": "Michèle Rivasi: paro cardíaco; no hay expediente de asesinato. Sirve de contraejemplo a la sospecha viral.",
+      "hint": "¿Sacar? ¿O dejarlo como aviso?",
+      "priority": true
+    },
+    {
+      "id": 119,
+      "section": "Capítulo 3 — Atentados",
+      "prompt": "JFK: Warren vs. HSCA; la pista LBJ tiene motivo y no tiene hecho forense certificado."
+    },
+    {
+      "id": 120,
+      "section": "Capítulo 3 — Atentados",
+      "prompt": "Trump 2024 (Butler): negligencia del Servicio Secreto documentada; no hace falta una teoría para que sea grave."
+    },
+    {
+      "id": 121,
+      "section": "Capítulo 4 — Democracia",
+      "prompt": "Clientelismo (planes, puntero) es compra de voluntad antes de la urna, no “estigma de pobres”."
+    },
+    {
+      "id": 122,
+      "section": "Capítulo 4 — Democracia",
+      "prompt": "Voto de extranjeros en CABA/PBA: legal; preguntar si el no ciudadano decide el gobierno local no es xenofobia."
+    },
+    {
+      "id": 123,
+      "section": "Capítulo 4 — Democracia",
+      "prompt": "Fraude probado: NC-9 2018 (Dowless). DEF CON abre máquinas. “Inhackeable” no."
+    },
+    {
+      "id": 124,
+      "section": "Capítulo 4 — Democracia",
+      "prompt": "Florida 2000: 537 votos, chads, Corte 5-4. Falla de sistema, no fraude demostrado."
+    },
+    {
       "id": 24,
       "section": "Capítulo 4 — Democracia",
-      "prompt": "2020 en EE.UU.: no hay prueba de vuelco nacional; sí hay laptop, reglas cambiadas, CTCL, censura.",
+      "prompt": "2020 en EE.UU.: no hay prueba de vuelco nacional; sí laptop, reglas cambiadas, CTCL, censura.",
       "hint": "¿Más fuerte (“se robaron”)?",
       "priority": true
+    },
+    {
+      "id": 125,
+      "section": "Capítulo 4 — Democracia",
+      "prompt": "Venezuela, Bielorrusia, Nicaragua: el fraude no es ambiguo. El tratamiento mediático sí depende del bando."
+    },
+    {
+      "id": 126,
+      "section": "Capítulo 4 — Democracia",
+      "prompt": "Brasil, México, UK, UE: la urna es un tramo del poder, no el poder."
+    },
+    {
+      "id": 127,
+      "section": "Capítulo 4 — Democracia",
+      "prompt": "Dictaduras del siglo XXI: elecciones de fachada, crédito social, Xinjiang."
+    },
+    {
+      "id": 27,
+      "section": "Capítulo 4 — Democracia",
+      "prompt": "2020 fue un ensayo de estado de excepción también en democracias (Canadá, Australia, NZ, pases QR)."
     },
     {
       "id": 25,
@@ -205,9 +542,24 @@
       "prompt": "El poder que más toca la vida (bancos centrales, agencias, plataformas) no se vota."
     },
     {
-      "id": 27,
+      "id": 128,
       "section": "Capítulo 4 — Democracia",
-      "prompt": "2020 fue un ensayo de estado de excepción también en democracias."
+      "prompt": "“Amenaza a la democracia” cambió de lado según el bando. Doble rasero."
+    },
+    {
+      "id": 129,
+      "section": "Capítulo 5 — Medios",
+      "prompt": "Chomsky describió filtros; el filtro dominante 2010-25 es el paquete progresista, no el anticomunismo."
+    },
+    {
+      "id": 130,
+      "section": "Capítulo 5 — Medios",
+      "prompt": "Mockingbird (Comisión Church): el Estado ya se vistió de redacción. No prueba cada editorial de hoy."
+    },
+    {
+      "id": 131,
+      "section": "Capítulo 5 — Medios",
+      "prompt": "Russiagate no fue Watergate: la prensa se volvió fiscal sin juicio."
     },
     {
       "id": 28,
@@ -215,9 +567,19 @@
       "prompt": "Twitter Files, laptop, DSA: no fue “un error de ambos lados”."
     },
     {
-      "id": 29,
+      "id": 132,
       "section": "Capítulo 5 — Medios",
-      "prompt": "Con la IA, una sola voz crítica no compite en volumen con el promedio fabricado."
+      "prompt": "Fact-checkers y Wikipedia alimentan el corpus con el que se entrena el siglo."
+    },
+    {
+      "id": 31,
+      "section": "Capítulo 5 — Medios",
+      "prompt": "Los medios alternativos también tienen filtro (dueño, bronca, gurú)."
+    },
+    {
+      "id": 133,
+      "section": "Capítulo 5 — Medios",
+      "prompt": "El celular democratiza la prueba, no el criterio (Floyd, “mostly peaceful”)."
     },
     {
       "id": 30,
@@ -225,15 +587,50 @@
       "prompt": "El Mundial 2026 es un laboratorio de relatos, no el centro del libro."
     },
     {
-      "id": 31,
+      "id": 134,
       "section": "Capítulo 5 — Medios",
-      "prompt": "Los medios alternativos también tienen filtro."
+      "prompt": "Milei: el consenso de economistas/Nobels erró el veredicto de colapso; el costo del ajuste existió."
+    },
+    {
+      "id": 135,
+      "section": "Capítulo 5 — Medios",
+      "prompt": "Matar al mensajero: si el dato es verdadero, ¿qué agrega la ficha de quien lo gritó?"
+    },
+    {
+      "id": 29,
+      "section": "Capítulo 5 — Medios",
+      "prompt": "Con la IA, una sola voz crítica no compite en volumen con el promedio fabricado."
+    },
+    {
+      "id": 136,
+      "section": "Capítulo 5 — Medios",
+      "prompt": "Cinco preguntas para leer una noticia (fuente, interés, documento vs. tono, el otro rasero, qué se omite)."
+    },
+    {
+      "id": 137,
+      "section": "Capítulo 6 — Clima",
+      "prompt": "El aire se calentó y el CO2 subió. El tubo de Tyndall/Arrhenius existe. Negar el tubo no es pensamiento crítico."
+    },
+    {
+      "id": 138,
+      "section": "Capítulo 6 — Clima",
+      "prompt": "El “97%” (Cook 2013) es consenso sobre un enunciado mínimo, no sobre catástrofe ni net-zero."
+    },
+    {
+      "id": 139,
+      "section": "Capítulo 6 — Clima",
+      "prompt": "Sensibilidad climática: Lewis/Curry más baja que el central del IPCC. El número cambia la política."
+    },
+    {
+      "id": 140,
+      "section": "Capítulo 6 — Clima",
+      "prompt": "Modelos CMIP6 corren calientes; el IPCC advirtió no usar el promedio crudo."
     },
     {
       "id": 32,
       "section": "Capítulo 6 — Clima",
       "prompt": "La cuenta del 0,04% y del 3% es su pregunta de proporción, no un truco que el libro le corrige.",
-      "hint": "¿Quedó bien esta vez, o todavía se siente “corregido”?",
+      "hint": "¿Todavía se siente “corregido”?",
       "priority": true
     },
     {
@@ -244,9 +641,25 @@
       "priority": true
     },
     {
+      "id": 141,
+      "section": "Capítulo 6 — Clima",
+      "prompt": "El vapor de agua es el gran gas de invernadero y no se vota; el CO2 de chimenea, sí. Por eso se lo carga."
+    },
+    {
       "id": 34,
       "section": "Capítulo 6 — Clima",
       "prompt": "Temperatura primero, CO2 después, en el archivo profundo. Correlación no es causa.",
+      "priority": true
+    },
+    {
+      "id": 142,
+      "section": "Capítulo 6 — Clima",
+      "prompt": "Dos fotos: altos para el Pleistoceno, bajos para 200 millones de años. Las dos son reales."
+    },
+    {
+      "id": 36,
+      "section": "Capítulo 6 — Clima",
+      "prompt": "CO2 como alimento de plantas; planeta más verde; hojas fósiles; verdor satelital (Zhu/NASA).",
       "priority": true
     },
     {
@@ -256,16 +669,25 @@
       "priority": true
     },
     {
-      "id": 36,
-      "section": "Capítulo 6 — Clima",
-      "prompt": "CO2 como alimento de plantas; planeta más verde en el pasado con más CO2; hojas fósiles.",
-      "priority": true
-    },
-    {
       "id": 37,
       "section": "Capítulo 6 — Clima",
       "prompt": "El Sol, los ciclos, la Pequeña Edad de Hielo, los glaciares que ya retrocedían antes del auto.",
       "priority": true
+    },
+    {
+      "id": 143,
+      "section": "Capítulo 6 — Clima",
+      "prompt": "El debate existe (Lindzen, Curry, Koonin, etc.) aunque se finja que no."
+    },
+    {
+      "id": 144,
+      "section": "Capítulo 6 — Clima",
+      "prompt": "Política energética: el dogma sí se puede medir (costo, red, pobres)."
+    },
+    {
+      "id": 145,
+      "section": "Capítulo 6 — Clima",
+      "prompt": "Geoingeniería: el plan B de quienes no se bancan el plan A."
     },
     {
       "id": 38,
@@ -275,9 +697,44 @@
       "priority": true
     },
     {
+      "id": 146,
+      "section": "Capítulo 7 — Economía",
+      "prompt": "Nixon 1971: se cortó el oro. Desde entonces la moneda es fe."
+    },
+    {
+      "id": 147,
+      "section": "Capítulo 7 — Economía",
+      "prompt": "Petrodólar: privilegio estadounidense, tablero global, no folklore."
+    },
+    {
+      "id": 148,
+      "section": "Capítulo 7 — Economía",
+      "prompt": "Efecto Cantillon: el dinero nuevo llega primero a bancos y activos, último al sueldo."
+    },
+    {
+      "id": 149,
+      "section": "Capítulo 7 — Economía",
+      "prompt": "Oro 1933 (EO 6102) y el debate de la Depresión: ninguna escuela tiene el video completo."
+    },
+    {
       "id": 39,
       "section": "Capítulo 7 — Economía",
       "prompt": "La inflación es, sobre todo, un fenómeno monetario. La “codicia” no explica diez años."
+    },
+    {
+      "id": 150,
+      "section": "Capítulo 7 — Economía",
+      "prompt": "Shocks de oferta mueven precios; no sostienen inflación alta años si la moneda no acompaña."
+    },
+    {
+      "id": 151,
+      "section": "Capítulo 7 — Economía",
+      "prompt": "Bitcoin: tope 21M, volatilidad de riesgo, El Salvador no lo volvió moneda de kiosco."
+    },
+    {
+      "id": 152,
+      "section": "Capítulo 7 — Economía",
+      "prompt": "Minería y luz: se usa de maza moral; el banco también gasta energía."
     },
     {
       "id": 40,
@@ -285,16 +742,36 @@
       "prompt": "CBDC = efectivo con GPS; el efectivo es un derecho, no un permiso."
     },
     {
+      "id": 153,
+      "section": "Capítulo 7 — Economía",
+      "prompt": "Nigeria eNaira, euro digital, UPI: cuando el efectivo desaparece, disentir pasa a ser un permiso."
+    },
+    {
       "id": 41,
       "section": "Capítulo 7 — Economía",
       "prompt": "Argentina es un laboratorio visible, no la parroquia del libro."
     },
     {
+      "id": 154,
+      "section": "Capítulo 7 — Economía",
+      "prompt": "Alquileres, comida, casas: más dinero persiguiendo lo que no se imprime."
+    },
+    {
       "id": 42,
       "section": "Capítulo 8 — Espacio",
       "prompt": "Alunizaje: la evidencia en contra de la farsa es, para este libro, la más fuerte de todos los temas.",
-      "hint": "¿Está de acuerdo, o quería dejar más duda?",
+      "hint": "¿De acuerdo, o más duda?",
       "priority": true
+    },
+    {
+      "id": 155,
+      "section": "Capítulo 8 — Espacio",
+      "prompt": "Göbekli Tepe: el consenso se corrige ante un objeto."
+    },
+    {
+      "id": 156,
+      "section": "Capítulo 8 — Espacio",
+      "prompt": "Guiza: el relato de rampas y cobre no reprodujo el granito de 70 toneladas. No hace falta un alienígena para decirlo."
     },
     {
       "id": 43,
@@ -312,9 +789,24 @@
       "prompt": "Rapa Nui / moáis / una cultura que desaparece."
     },
     {
+      "id": 157,
+      "section": "Capítulo 8 — Espacio",
+      "prompt": "Baalbek, Puma Punku, Anticitera: tres grados de evidencia; el consenso sobre “lo que aquella época podía” ya se equivocó."
+    },
+    {
+      "id": 158,
+      "section": "Capítulo 8 — Espacio",
+      "prompt": "Hancock y civilización perdida: patrón, todavía no un objeto tipo Göbekli Tepe."
+    },
+    {
       "id": 46,
       "section": "Capítulo 8 — Espacio",
       "prompt": "Diluvio + Durupınar: no se canta victoria; no se despacha de un portazo."
+    },
+    {
+      "id": 159,
+      "section": "Capítulo 8 — Espacio",
+      "prompt": "Ryan y Pitman (mar Negro ~5600 a.C.): un diluvio local enorme puede volverse memoria universal."
     },
     {
       "id": 47,
@@ -325,8 +817,23 @@
       "id": 48,
       "section": "Capítulo 8 — Espacio",
       "prompt": "Darwin explica adaptación; se queda corto con el origen de la información. No se afirma una Tierra de 6.000 años.",
-      "hint": "¿Está bien, o quería ir hacia Tierra joven?",
+      "hint": "¿O quería Tierra joven?",
       "priority": true
+    },
+    {
+      "id": 160,
+      "section": "Capítulo 8 — Espacio",
+      "prompt": "Abiogénesis no es Darwin. Miller-Urey no produjo una célula. El Cámbrico incomoda el gradualismo."
+    },
+    {
+      "id": 161,
+      "section": "Capítulo 8 — Espacio",
+      "prompt": "Tejidos blandos en dinosaurio (Schweitzer): no prueban el jueves pasado; incomodan “todo se destruye en milenios”."
+    },
+    {
+      "id": 162,
+      "section": "Capítulo 8 — Espacio",
+      "prompt": "Chicxulub: el catastrofismo puede ser ciencia. Velikovsky, no. Dryas Reciente, en disputa."
     },
     {
       "id": 49,
@@ -339,6 +846,16 @@
       "prompt": "Roswell, Rendlesham, Phoenix, Nimitz, hilo nuclear: se cuentan como casos, no como prueba."
     },
     {
+      "id": 163,
+      "section": "Capítulo 9 — Extraterrestre",
+      "prompt": "SETI mira una frecuencia; UAP mira el radar. No son el mismo expediente."
+    },
+    {
+      "id": 164,
+      "section": "Capítulo 9 — Extraterrestre",
+      "prompt": "Tecnología derivada y presupuestos reservados: se nombra la hipótesis, no se canta el hangar."
+    },
+    {
       "id": 51,
       "section": "Capítulo 9 — Extraterrestre",
       "prompt": "Un contacto no derrumba la fe; el Vaticano ya lo dijo."
@@ -349,9 +866,19 @@
       "prompt": "ECM / AWARE: abierto, no prueba del cielo."
     },
     {
+      "id": 165,
+      "section": "Capítulo 10 — Más allá",
+      "prompt": "Jesús histórico vs. Cristo de la fe: se distinguen; no se disuelve uno en el otro."
+    },
+    {
       "id": 53,
       "section": "Capítulo 10 — Más allá",
       "prompt": "Isaías, Salmo 22, Miqueas, Daniel: la red de anuncios es el hecho literario más extraño del Mediterráneo."
+    },
+    {
+      "id": 166,
+      "section": "Capítulo 10 — Más allá",
+      "prompt": "Las “costuras” de la Biblia se nombran sin tirar el libro."
     },
     {
       "id": 54,
@@ -369,9 +896,15 @@
       "prompt": "Providencia y sincronicidad: se nombran, no se demuestran."
     },
     {
+      "id": 167,
+      "section": "Capítulo 10 — Más allá",
+      "prompt": "Conciencia / mente-cerebro: el laboratorio no cierra el sepulcro."
+    },
+    {
       "id": 57,
       "section": "Capítulo 10 — Más allá",
-      "prompt": "Islam: el fiqh clásico, no solo el dictador; asimetría con el cristianismo actual en apostasía y mujeres."
+      "prompt": "Islam: el fiqh clásico, no solo el dictador; asimetría con el cristianismo actual en apostasía y mujeres.",
+      "priority": true
     },
     {
       "id": 58,
@@ -387,6 +920,11 @@
       "id": 60,
       "section": "Conclusión",
       "prompt": "Con la IA, quien no entrenó el músculo de contrastar se va a enterar de “la verdad” por un chat."
+    },
+    {
+      "id": 168,
+      "section": "Conclusión",
+      "prompt": "Un hábito, no una militancia: no humillar al que piensa distinto; no munición para el cuñado."
     }
   ]
 }
