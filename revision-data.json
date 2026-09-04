@@ -131,6 +131,20 @@
       "priority": true
     },
     {
+      "id": 62,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Hulscher/McCullough (Zenodo, 2026): se cuentan los ladrillos publicados (333 casos, cohort coreano, IgG4, LNP) y no se copia el slogan “turbo-cáncer es real”.",
+      "hint": "¿Más fuerte (afirmar la causa y las 197.000 muertes)?",
+      "priority": true
+    },
+    {
+      "id": 63,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "SV40: la polio 1955-63 llevó el virus; el ARNm de Pfizer, el promotor del plásmido (McKernan/Speicher), no el virus. Pegarlas en un clip le regala el desmentido.",
+      "hint": "¿Está bien despegar las dos historias, o quería dejarlas juntas como en el video de Kennedy?",
+      "priority": true
+    },
+    {
       "id": 16,
       "section": "Capítulo 2 — Geopolítica",
       "prompt": "7 de octubre, Hamas, UNRWA, ofertas de paz: el relato de “contexto” no puede tapar la masacre ni el fuero."
