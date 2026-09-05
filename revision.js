@@ -137,18 +137,26 @@
         b.onclick = () => {
           data.tone = b.getAttribute("data-tone");
           save(data);
-          paint();
+          root.querySelectorAll("[data-tone]").forEach((x) => {
+            x.classList.toggle("on", x.getAttribute("data-tone") === data.tone);
+          });
         };
       });
       root.querySelectorAll("[data-choice]").forEach((b) => {
-        b.onclick = () => {
+        b.onclick = (ev) => {
+          ev.preventDefault();
           const id = b.getAttribute("data-id");
           const choice = b.getAttribute("data-choice");
           const prev = data.items[id] || { comment: "" };
           prev.choice = prev.choice === choice ? undefined : choice;
           data.items[id] = prev;
           save(data);
-          paint();
+          const card = b.closest(".rev-card");
+          if (card) {
+            card.querySelectorAll("[data-choice]").forEach((x) => {
+              x.classList.toggle("on", x.getAttribute("data-choice") === prev.choice);
+            });
+          }
         };
       });
       root.querySelectorAll("[data-comment]").forEach((t) => {
@@ -167,7 +175,6 @@
       };
       const dl = document.getElementById("rev-dl");
       if (dl) dl.onclick = download;
-      window.scrollTo(0, 0);
     }
 
     paint();
