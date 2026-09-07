@@ -2,7 +2,7 @@
 
 ## 2.1 Ucrania: guerra proxy, no cuento de hadas
 
-**Lo que no se discute.** En febrero de 2014, tras meses de protestas en Maidán, Víktor Yanukóvich —que había rechazado el acuerdo de asociación con la UE a favor de uno con Rusia— huyó y el Parlamento lo destituyó. Días antes se filtró la llamada de Victoria Nuland, subsecretaria de Estado de EE.UU., discutiendo con el embajador en Kiev quién debía sentarse en el próximo gobierno. Eso no es “teoría”: es un audio.
+**Lo que está en el expediente.** En febrero de 2014, tras meses de protestas en Maidán, Víktor Yanukóvich —que había rechazado el acuerdo de asociación con la UE a favor de uno con Rusia— huyó y el Parlamento lo destituyó. Días antes se filtró la llamada de Victoria Nuland, subsecretaria de Estado de EE.UU., discutiendo con el embajador en Kiev quién debía sentarse en el próximo gobierno. Eso no es “teoría”: es un audio.
 
 **La narrativa occidental** habla de una revolución democrática contra un presidente corrupto, con Washington en el rol de hincha diplomático.
 
