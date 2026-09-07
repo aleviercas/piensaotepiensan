@@ -127,6 +127,7 @@
           <textarea id="rev-notes" rows="5" placeholder="Lo que no entra en un ítem: un párrafo que no suena a vos, algo que falta, un dato a investigar…">${data.notes || ""}</textarea>
           <div class="rev-toolbar">
             <button type="button" id="rev-dl" class="rev-chip on">Descargar pendientes.md</button>
+            <button type="button" id="rev-copy" class="rev-chip on">Copiar respuestas</button>
             <span id="rev-count">${count(data, meta.REVISION_ITEMS)}/${meta.REVISION_ITEMS.length}</span>
           </div>
           ${sections.join("")}
@@ -175,6 +176,17 @@
       };
       const dl = document.getElementById("rev-dl");
       if (dl) dl.onclick = download;
+      const cp = document.getElementById("rev-copy");
+      if (cp) cp.onclick = async () => {
+        const md = toMarkdown(data, meta);
+        try {
+          await navigator.clipboard.writeText(md);
+          cp.textContent = "Copiado";
+          setTimeout(() => { cp.textContent = "Copiar respuestas"; }, 2000);
+        } catch (_) {
+          download();
+        }
+      };
     }
 
     paint();
