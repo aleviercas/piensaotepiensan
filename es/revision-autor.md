@@ -137,7 +137,21 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 
 ---
 
-## Capítulo 8 — Espacio y Tierra
+## Capítulo 8 — Inteligencia artificial
+
+169. **Un modelo no piensa: predice.** ¿Sí / no?
+170. **Quien controla corpus y filtro censura el promedio de lo que se lee como pensamiento.** ¿Sí / no?
+171. **Manejo de masas: oráculo personalizado; deepfakes obligan a pesar más.** ¿Sí / no?
+172. **Stack CBDC + modelo + puntaje.** ¿Sí / no / más fuerte?
+173. **CAIS 2023: los constructores firmaron “extinción”.** ¿Sí / no?
+174. **Hinton 2026: un 10% no le pareció descabellado.** ¿Sí / más suave (no poner el número) / más fuerte?
+175. **La primera extinción ya empezó: la del hábito de pensar.** ¿Sí / no?
+176. **Supervivencia: archivo, no conciencia; efectivo y poder apagar.** ¿Sí / no?
+177. **Este libro se escribió con IA y contra el sesgo de esa IA.** ¿Sí / no?
+
+---
+
+## Capítulo 9 — Espacio y Tierra
 
 42. **Alunizaje: la evidencia en contra de la farsa es, para este libro, la más fuerte de todos los temas.** ¿Está de acuerdo, o quería dejar más duda?
 43. **Pirámides en más de un continente: ¿difusión, arquetipo o saber perdido?** ¿Sí / no?
@@ -149,7 +163,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 
 ---
 
-## Capítulo 9 — Extraterrestre
+## Capítulo 10 — Extraterrestre
 
 49. **Grusch bajo juramento vs. AARO que no encuentra; las dos cosas se sostienen.** ¿Sí / no / más fuerte (hay hangar)?
 50. **Roswell, Rendlesham, Phoenix, Nimitz, hilo nuclear: se cuentan como casos, no como prueba.** ¿Sí / no / sacar alguno?
@@ -157,7 +171,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 
 ---
 
-## Capítulo 10 — Más allá
+## Capítulo 11 — Más allá
 
 52. **ECM / AWARE: abierto, no prueba del cielo.** ¿Sí / no?
 53. **Isaías, Salmo 22, Miqueas, Daniel: la red de anuncios es el hecho literario más extraño del Mediterráneo.** ¿Sí / no / más fuerte?

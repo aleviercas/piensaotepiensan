@@ -1,7 +1,7 @@
 # Estructura del libro — "Piensa o Te Piensan" (título provisorio)
 
 Tamaño objetivo: ~40.000 palabras (ebook corto, KDP).
-Edición actual: ver `es/` (en crecimiento).
+Edición actual: ~48.000 (en crecimiento; capítulo 8 de IA añadido).
 
 Encuadre: **hecho verificable → narrativa oficial → controversia documentada → pregunta abierta**.
 El consenso institucional es un dato sociológico, no una prueba.
@@ -66,24 +66,35 @@ La ideología se adquiere después de mirar los hechos, no al revés.
 7.3 Cripto y CBDC
 7.4 Un laboratorio que el mundo a veces copia
 
-## CAPÍTULO 8 — Espacio y Tierra
-8.1 Luna
-8.2 Göbekli Tepe, Egipto, pirámides en varios continentes, Sacsayhuamán, Rapa Nui
-8.3 Diluvio, Durupınar, gigantes
-8.4 Dinosaurios, Darwin, información, Cámbrico
-8.5 Catastrofismo (Chicxulub, Dryas, Velikovsky)
+## CAPÍTULO 8 — Inteligencia artificial
+8.1 Lo que se da por cerrado
+8.2 La máquina no piensa: predice
+8.3 El pensamiento crítico como bien escaso
+8.4 Manejo de masas: del feed al oráculo
+8.5 El stack: CBDC + modelo + puntaje
+8.6 Extinción: lo que firman los que construyen (CAIS 2023, Hinton 2026)
+8.7 Supervivencia: archivo, no conciencia
 
-## CAPÍTULO 9 — Vida extraterrestre
-9.1 UAP, Grusch, AARO, bases nucleares, USO
-9.2 Drake, Fermi, fe, cruce con el cap. 8
-9.3 Presupuestos negros
+## CAPÍTULO 9 — Espacio y Tierra
+9.1 Luna
+9.2 Göbekli Tepe, Egipto, pirámides en varios continentes, Sacsayhuamán, Rapa Nui
+9.3 Diluvio, Durupınar, gigantes
+9.4 Dinosaurios, Darwin, información, Cámbrico
+9.5 Catastrofismo (Chicxulub, Dryas, Velikovsky)
 
-## CAPÍTULO 10 — Más allá de la muerte
-10.1 ECM / AWARE
-10.2 Jesús histórico
-10.3 Isaías y las costuras de la Biblia
-10.4 Providencia y sincronicidad (Jung, Pauli)
-10.5 Agustín, Tomás, Pablo
-10.6 Si Jesús viniera un martes de 2026
-10.7 Conciencia
-10.8 Islam, ley y mujeres
+## CAPÍTULO 10 — Vida extraterrestre
+10.1 UAP, Grusch, AARO, bases nucleares, USO
+10.2 Drake, Fermi, fe, cruce con el cap. 9
+10.3 Presupuestos negros
+
+## CAPÍTULO 11 — Más allá de la muerte
+11.1 ECM / AWARE
+11.2 Jesús histórico
+11.3 Isaías y las costuras de la Biblia
+11.4 Providencia y sincronicidad (Jung, Pauli)
+11.5 Agustín, Tomás, Pablo
+11.6 Si Jesús viniera un martes de 2026
+11.7 Conciencia
+11.8 Islam, ley y mujeres
+
+## CAPÍTULO 12 — El camino del pensador inquisitivo

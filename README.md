@@ -4,7 +4,7 @@ Libro de pensamiento crítico (borrador en edición). No es un catecismo de un b
 
 **Leerlo:** [piensaotepiensan.vercel.app](https://piensaotepiensan.vercel.app)
 
-Ahí está el índice, la introducción, los diez capítulos y la conclusión. En el teléfono, el botón *Índice*. Noche / tamaño de letra abajo a la izquierda.
+Ahí está el índice, la introducción, once capítulos temáticos y el capítulo 12 (conclusión). En el teléfono, el botón *Índice*. Noche / tamaño de letra abajo a la izquierda.
 
 ## Índice
 
@@ -18,10 +18,11 @@ Ahí está el índice, la introducción, los diez capítulos y la conclusión. E
 | 5 | Medios de comunicación | [es/05-medios.md](es/05-medios.md) |
 | 6 | Cambio climático | [es/06-clima.md](es/06-clima.md) |
 | 7 | Economía e inflación | [es/07-economia.md](es/07-economia.md) |
-| 8 | Espacio y Tierra | [es/08-espacio.md](es/08-espacio.md) |
-| 9 | Vida extraterrestre | [es/09-extraterrestre.md](es/09-extraterrestre.md) |
-| 10 | Más allá de la muerte | [es/10-mas-alla.md](es/10-mas-alla.md) |
-| | Conclusión | [es/conclusion.md](es/conclusion.md) |
+| 8 | Inteligencia artificial | [es/08-inteligencia.md](es/08-inteligencia.md) |
+| 9 | Espacio y Tierra | [es/09-espacio.md](es/09-espacio.md) |
+| 10 | Vida extraterrestre | [es/10-extraterrestre.md](es/10-extraterrestre.md) |
+| 11 | Más allá de la muerte | [es/11-mas-alla.md](es/11-mas-alla.md) |
+| 12 | El camino del pensador inquisitivo | [es/conclusion.md](es/conclusion.md) |
 
 Estructura detallada: [ESTRUCTURA.md](ESTRUCTURA.md). Notas de revisión: [NOTAS-REVISION.md](NOTAS-REVISION.md).
 

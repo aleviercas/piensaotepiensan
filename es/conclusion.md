@@ -1,6 +1,6 @@
-# Conclusión — El camino del pensador inquisitivo
+# Capítulo 12 — El camino del pensador inquisitivo
 
-Empezamos este libro con la Alegoría de la Caverna de Platón: prisioneros que confunden sombras con realidad, y el riesgo de que quien logra salir a la luz sea tomado por loco al volver a contarlo. Diez capítulos después, hay que decir algo que al principio no era tan obvio: salir de la caverna no es encontrar una certeza total afuera. Es aprender a distinguir qué tipo de sombra te están vendiendo, y quién cobra por el proyector.
+Empezamos este libro con la Alegoría de la Caverna de Platón: prisioneros que confunden sombras con realidad, y el riesgo de que quien logra salir a la luz sea tomado por loco al volver a contarlo. Once capítulos temáticos después, hay que decir algo que al principio no era tan obvio: salir de la caverna no es encontrar una certeza total afuera. Es aprender a distinguir qué tipo de sombra te están vendiendo, y quién cobra por el proyector.
 
 ## Lo que este recorrido mostró, capítulo por capítulo
 
@@ -13,6 +13,8 @@ En **democracia** y **medios**, hay fraudes de verdad (Venezuela, Bielorrusia, C
 En **clima**, una cuenta sencilla abre la puerta: el CO2 es una pizca del aire, alrededor del 0,04%, alimento de plantas, y de esa pizca nosotros no somos la fuente principal. El planeta, en escalas largas, fue más verde con más carbono. Entre 1940 y 1975 el mundo se industrializó y la temperatura no acompañó; *Newsweek* llegó a anunciar el hielo. Los glaciares ya retrocedían al salir de la Pequeña Edad de Hielo, antes del auto masivo. Nada de eso obliga a dejar de mirar el termómetro; obliga a preguntar si el carbono de la chimenea es el villano principal o la perilla que sí se puede regular por decreto. Quien siga preocupado, que lo esté con los ojos abiertos. Quien empiece a dudar, que no se deje llamar ignorante por haber hecho una pregunta de proporción.
 
 En **economía**, la inflación no es un enigma de márgenes: es un fisco con rotativa. Argentina lo ilustra sin piedad, pero no es un caso parroquial: Weimar, Zimbabue, Turquía, Venezuela, el M2 de 2020 en Estados Unidos, son el mismo mecanismo con distinta bandera. El fiat, el oro, el cripto y el CBDC son trade-offs de poder: quién se come la devaluación, quién ve tu gasto, quién te apaga la cuenta.
+
+En **inteligencia artificial**, el consenso ya no necesita una redacción: se entrena y se sirve en un chat. El pensamiento crítico va camino de volverse un bien escaso, mientras la voz general se fabrica a escala y el dinero se puede diseñar para apagarse. Los que construyen la herramienta hablan de extinción —Hinton, en 2026, no le pareció descabellado un 10%— y, al mismo tiempo, de la siguiente versión. La supervivencia cotidiana es más seca que el cine: conservar un rincón donde todavía se pueda preguntar en voz alta y pagar el almuerzo en efectivo.
 
 En **espacio** y **UAP**, el consenso a veces se corrige (Göbekli Tepe, Chicxulub) y a veces se sostiene porque la hipótesis rival no produce un objeto. El secretismo militar explica ovnis de verdad que después fueron un U-2. No cierra, por decreto, cada testimonio bajo juramento. Tampoco cierra lo que este libro dejó abierto a propósito: pirámides en más de un continente, muros de Sacsayhuamán que no se dejan copiar con la maquinaria de hoy, moáis, un diluvio que aparece en culturas que no se hablaban, huesos de gigantes en la Biblia y dinosaurios en la piedra, y una teoría de Darwin que explica adaptación y se queda corta cuando se le pide que explique *de dónde salió la información*. Hay cosas que no se pueden explicar todavía. Declararlas explicadas para no quedar de místico es el mismo reflejo, invertido, que declararlas milagro para no estudiar.
 
@@ -48,7 +50,7 @@ Tres hábitos, si queda alguno:
 
 **Dos.** Cuando un experto —o un disidente— le pida un acto de fe (cerrar, inyectar, votar, apagar, odiar), pregunte qué se midió y qué no. El «confiá» de 2020 fue caro. El «no confíes nunca» también lo es: deja a la gente sola con un foro. El medio es más aburrido y más adulto.
 
-**Tres.** Deje una coincidencia en paz. Si un libro, un encuentro o una pregunta llegan a tiempo, no hace falta montar una religión ni declarar un sesgo. El capítulo 10 le puso dos nombres, providencia y sincronicidad, y no cerró ninguno. Quien no tenga esa palabra, que use otra: *asombro*. El asombro es compatible con el método; el desprecio, no.
+**Tres.** Deje una coincidencia en paz. Si un libro, un encuentro o una pregunta llegan a tiempo, no hace falta montar una religión ni declarar un sesgo. El capítulo 11 le puso dos nombres, providencia y sincronicidad, y no cerró ninguno. Quien no tenga esa palabra, que use otra: *asombro*. El asombro es compatible con el método; el desprecio, no.
 
 Este no es un libro para argentinos, ni para «los de un lado», ni para los que ya tienen el combo armado. Es un cuaderno para cualquiera que, en cualquier ciudad, sienta que le están vendiendo la película demasiado redonda. Si una página no convence, se deja; si una página raspa, se mira. Cambiar de idea no es perder. Es, otra vez, una medida de inteligencia.
 

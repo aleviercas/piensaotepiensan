@@ -1,8 +1,8 @@
-# Capítulo 10 — Más allá de la muerte: espiritualidad y existencia
+# Capítulo 11 — Más allá de la muerte: espiritualidad y existencia
 
 Este capítulo se escribe un poco distinto. No porque los hechos pesen menos, sino porque acá el cuaderno se acerca a lo que no entra del todo en una tabla: la muerte, un hombre de hace dos mil años, una red de textos, la coincidencia que llega a tiempo. Sigue siendo una invitación a mirar, no un púlpito. Quien no tenga esa palabra, que se quede igual: alcanza con no salir corriendo.
 
-## 10.1 Experiencias cercanas a la muerte: lo que dice la investigación seria
+## 11.1 Experiencias cercanas a la muerte: lo que dice la investigación seria
 
 **El estudio AWARE.** El cardiólogo Sam Parnia lideró desde 2008 un estudio multicéntrico (AWARE, luego AWARE II) en hospitales de Reino Unido y EE.UU., con un diseño que conviene tomar en serio precisamente porque no nació en una estantería de autoayuda. Colocaron imágenes visibles solo desde el techo de las salas de reanimación, para ver si quienes decían «salir del cuerpo» durante un paro las describían después. El trabajo se publicó en *Resuscitation*: no prueba el cielo, y sí obliga a no despachar el tema con un chiste.
 
@@ -10,7 +10,7 @@ Este capítulo se escribe un poco distinto. No porque los hechos pesen menos, si
 
 **La explicación neurológica.** Hipoxia, descarga de neurotransmisores, estimulación de zonas visuales y emocionales: en laboratorio se indujeron sensaciones parecidas, no idénticas. Esa vía explica una parte de lo que la gente relata, y no hay que fingir que no. Tampoco cierra, de forma consensuada, los pocos reportes de percepción verificable del entorno durante inconsciencia clínica. Siguen siendo el hueso duro, y el más fácil de inflar en YouTube.
 
-## 10.2 El Jesús histórico vs. el Cristo de la fe
+## 11.2 El Jesús histórico vs. el Cristo de la fe
 
 **Lo que la historiografía, creyente o no, da por razonablemente sólido.** Existió un Jesús de Nazaret, que predicó en Galilea y Judea en el siglo I, reunió gente y fue crucificado bajo Poncio Pilato, hacia el 30-33 d.C. Lo mencionan fuentes no cristianas de la época. El pasaje de Flavio Josefo fue retocado por copistas, y la crítica textual lo desmonta comparando manuscritos: eso no borra al hombre, borra el barniz.
 
@@ -18,7 +18,7 @@ Este capítulo se escribe un poco distinto. No porque los hechos pesen menos, si
 
 **La «búsqueda del Jesús histórico»** es un campo académico con escuelas internas, no un partido de «la ciencia vs. la religión». Hay quien ve un núcleo sólido con capa teológica encima, y quien ve sobre todo construcción comunitaria. El debate es de fuentes, no de eslóganes. Este capítulo no va a resolverlo; va a pedir que no se use «la historia» como mazo contra la fe, ni la fe como tapón contra la historia.
 
-## 10.3 Isaías, las costuras de la Biblia y lo que ningún otro libro tiene
+## 11.3 Isaías, las costuras de la Biblia y lo que ningún otro libro tiene
 
 Si el capítulo 2 pidió leer el Corán como lo leen sus juristas, este pide leer la Biblia como la leyeron sus propios autores: no como un folleto, sino como una biblioteca escrita a lo largo de más de mil años, en hebreo, arameo y griego, por reyes, profetas, pescadores y un fariseo que perseguía cristianos. Uno se sienta con esa biblioteca y, si no tiene prisa, nota algo que las facultades de religión comparada a veces diluyen y que el ateísmo de pamphlet niega de un saque: **esa biblioteca se cita a sí misma con una densidad que no tiene parangón**.
 
@@ -33,19 +33,19 @@ El *Treasury of Scripture Knowledge* y las concordancias clásicas recogen decen
 
 ¿Prueba eso, en el sentido de un laboratorio, que Jesús es Dios? No. El método histórico no trabaja milagros. ¿Es un azar más, del tamaño de los otros azares de este libro? El lector verá. Lo que este capítulo no va a hacer es tratar esa red como un adorno piadoso. Es el hecho literario más extraño que nos dejó el Mediterráneo, y merece el mismo respeto inquisitivo que un gasoducto o un virus.
 
-## 10.4 Providencia: lo que ocurre porque tiene que ocurrir
+## 11.4 Providencia: lo que ocurre porque tiene que ocurrir
 
 Hay una clase de hechos que el materialismo describe y no explica del todo: la coincidencia que llega a tiempo, el encuentro que no se buscó, la puerta que se cierra y resulta ser la que había que cerrar, el desastre que, mirado diez años después, era el desvío. La palabra vieja es **providencia**. No es «todo pasa por algo» de almanaque. Es la tesis de que hay una inteligencia que escribe con los materiales del azar, y que el hombre no es el autor de su propio destino aunque firme cada página.
 
 Carl Jung, que no era un pastor, le puso en 1952 otro nombre: **sincronicidad**. Una coincidencia significativa sin causa mecánica visible: el escarabajo que entra por la ventana cuando el paciente cuenta el sueño del escarabajo; el libro que aparece el día que hacía falta; dos extraños que se cruzan con la misma frase. Wolfgang Pauli, físico y premio Nobel, se tomó el asunto lo bastante en serio como para cartearse con Jung. El escéptico dice sesgo de confirmación: recordamos las coincidencias y olvidamos los miles de no-coincidencias. Tiene razón en el mecanismo. No tiene, automáticamente, razón en que el mecanismo agote el fenómeno. Un sesgo puede pintar una cara en las nubes. También puede, a veces, ser la única herramienta que tenemos para notar un patrón real. El mismo problema, invertido, que el capítulo del clima: correlación no es causación, y la ausencia de un p-valor no es prueba de que no hubo autor.
 
-No hay un experimento para eso: hay biografías. Hay el mar Rojo y hay, en escala menor, la vida de cualquiera que haya visto una secuencia que no controló y que, aun así, tenía forma. Hay, también, el hecho incómodo para el materialista consecuente: si la conciencia no se reduce al cerebro (sección 10.7), entonces un encuentro «a tiempo» no tiene por qué ser solo ruido de neuronas sincronizadas por azar. Puede ser —y este libro no lo demuestra— la misma inteligencia que el capítulo 8 dejó sin pesar cuando Darwin se queda corto.
+No hay un experimento para eso: hay biografías. Hay el mar Rojo y hay, en escala menor, la vida de cualquiera que haya visto una secuencia que no controló y que, aun así, tenía forma. Hay, también, el hecho incómodo para el materialista consecuente: si la conciencia no se reduce al cerebro (sección 11.7), entonces un encuentro «a tiempo» no tiene por qué ser solo ruido de neuronas sincronizadas por azar. Puede ser —y este libro no lo demuestra— la misma inteligencia que el capítulo 9 dejó sin pesar cuando Darwin se queda corto.
 
 La otra cara de la providencia, la que el devoto a veces no quiere, es esta: **no podemos comprender el universo ni la creación**. Job no recibió una teodicea: recibió una pregunta, ¿dónde estabas tú cuando yo fundaba la tierra? Un libro de pensamiento crítico que cierre a Dios con un silogismo está haciendo, con otra bata, lo mismo que el que cierra el clima con un 97%. La honestidad acá es doble: no declarar muerto a Dios porque un laboratorio no lo pesó, y no declarar resuelto el mal porque un versículo consuela.
 
 Hay una versión cotidiana, que no necesita un mar Rojo: un trabajo que se pierde y, meses después, era el que había que perder; un libro que cae en las manos el mes en que hacía falta; una persona que aparece sin que nadie la agendara. Quien ha vivido una de esas secuencias sabe de qué se habla, aunque no tenga la palabra. Quien no las ha vivido tiene derecho a no creerlas: el sesgo de confirmación es real, y este libro lo dijo. Lo que se pide no es un salto. Es no ridiculizar de entrada a quien, sin dejar de pensar, nota un orden. La fe llama a ese orden **providencia**; Jung, **sincronicidad**. Un materialista honesto puede decir «no lo sé». Las tres posturas caben. La que no cabe es la burla automática, que es, otra vez, un modo de no mirar.
 
-## 10.5 La razón que se arrodilla: Agustín, Tomás, Pablo
+## 11.5 La razón que se arrodilla: Agustín, Tomás, Pablo
 
 Antes de que el ateísmo ilustrado se proclamara dueño de la razón, la razón ya había sido usada para **acercarse** a Dios, no para despedirlo. Conviene sentarse un rato con tres hombres que pensaron de rodillas, no para canonizarlos, sino para no dejarle la palabra «razón» a quien la usa solo como escoba.
 
@@ -55,7 +55,7 @@ Antes de que el ateísmo ilustrado se proclamara dueño de la razón, la razón 
 
 **Pablo de Tarso.** Saulo era fariseo, cómplice de la muerte de Esteban, cazador de la secta. En el camino de Damasco, según Hechos 9, una luz, una voz, tres días ciego; después, el apóstol de los gentiles, azotado, naufragado, decapitado en Roma. La explicación naturalista es un ataque epiléptico, una crisis, una invención de Lucas. La explicación cristiana es que el perseguidor se encontró con el perseguido. Lo que ninguna de las dos borra es el **cambio de vida**: el hombre que iba a prender cristianos se pasa el resto de sus años fundándolos, y escribe cartas que todavía sostienen a la mitad de Occidente. Las conversiones existen sin milagro —hay alcohólicos que se paran, hay marxistas que se hacen monjes—, y Pablo es el caso extremo, el más incómodo para quien quiere que el cristianismo sea un rumor que creció solo. Alguien, en el año 34, dejó de matar a esa gente y se puso a morir por ella. ¿Qué vio?
 
-## 10.6 Si Jesús viniera un martes de 2026
+## 11.6 Si Jesús viniera un martes de 2026
 
 La pregunta no es piedad: es un experimento, del mismo tipo que este libro usó para el clima y para el virus. **¿Qué haría el aparato con un hecho que no puede absorber?** Llegaría, como la primera vez, sin credencial, sin paper en *Nature* y sin cuenta verificada, y haría cosas que el noticiero no puede clasificar: un ciego que ve, un muerto que camina, un discurso en el templo que no respeta ni al Sanedrín ni al algoritmo. Los milagros se viralizarían en una hora, y también se viralizaría el odio. Habría un hilo de «expertos» explicando el truco de magia, un fact-checker de la OMS advirtiendo contra curaciones no autorizadas, un panel de la ONU sobre el «discurso de odio» de quien llama hipócritas a los que mandan.
 
@@ -65,13 +65,13 @@ Los fariseos de entonces eran una casta sacerdotal con monopolio del rito; los d
 
 La pregunta que cierra el experimento no es «¿usted cree?». Es: **si el criterio que usamos para virus, para el clima y para un gasoducto es «¿quién tiene el micrófono?», qué nos hace pensar que, ante algo verdaderamente otro, el micrófono diría la verdad?**
 
-## 10.7 Conciencia y realidad: el problema mente-cerebro
+## 11.7 Conciencia y realidad: el problema mente-cerebro
 
 David Chalmers (1995) separó el «problema fácil» —qué zona se prende con qué estímulo— del «problema difícil»: por qué todo eso se *siente* como algo, en vez de procesarse a oscuras como una CPU. El fácil avanza, con mapas y con escáneres. El difícil no tiene ganador unánime, y conviene no fingir que sí.
 
 El fisicalismo, que es mayoría entre neurocientíficos, dice que la conciencia emerge de lo físico, aunque el cómo siga opaco. El panpsiquismo (Goff y otros, minoría seria) propone una experiencia rudimentaria como propiedad de la materia, no como milagro de los cerebros. El dualismo clásico no convence a la academia actual, porque no explica el enganche entre dos sustancias. Ninguna de estas posturas autoriza a un tuitero a decretar que «ya se sabe» qué pasa cuando el EEG se aplana, y ninguna, conviene decirlo acá, cierra la pregunta de Agustín: si hay un interior, ¿de dónde salió?
 
-## 10.8 Islam, ley y mujeres: el texto, no solo el régimen
+## 11.8 Islam, ley y mujeres: el texto, no solo el régimen
 
 El capítulo 2 ya trató al islam político como proyecto de poder. Acá va la pregunta que las facultades de religiones comparadas prefieren diluir: ¿cuánto de lo que sufren las mujeres bajo talibanes, ayatolás y comités de virtud está en el derecho clásico, y cuánto es «cultura local»? No es una pregunta para ganar una mesa; es para no convertir el sufrimiento en decorado.
 
