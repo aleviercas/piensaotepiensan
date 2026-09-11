@@ -73,7 +73,8 @@ La ideología se adquiere después de mirar los hechos, no al revés.
 8.4 Manejo de masas: del feed al oráculo
 8.5 El stack: CBDC + modelo + puntaje
 8.6 Extinción: lo que firman los que construyen (CAIS 2023, Hinton 2026)
-8.7 Supervivencia: archivo, no conciencia
+8.7 El caso extremo: Terminator / Skynet (mapa, no prueba; Skynet Day 2026)
+8.8 Supervivencia: archivo, no conciencia
 
 ## CAPÍTULO 9 — Espacio y Tierra
 9.1 Luna

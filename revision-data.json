@@ -757,173 +757,229 @@
       "prompt": "Alquileres, comida, casas: más dinero persiguiendo lo que no se imprime."
     },
     {
+      "id": 169,
+      "section": "Capítulo 8 — Inteligencia artificial",
+      "prompt": "Un modelo no piensa: predice. El cerebro oye una voz y le asigna una mente.",
+      "priority": true
+    },
+    {
+      "id": 170,
+      "section": "Capítulo 8 — Inteligencia artificial",
+      "prompt": "Quien controla corpus, RLHF y lo indecible censura el promedio de lo que se va a leer como pensamiento.",
+      "priority": true
+    },
+    {
+      "id": 171,
+      "section": "Capítulo 8 — Inteligencia artificial",
+      "prompt": "Manejo de masas: del feed único al oráculo personalizado; deepfakes obligan a pesar más, no a pensar menos."
+    },
+    {
+      "id": 172,
+      "section": "Capítulo 8 — Inteligencia artificial",
+      "prompt": "Stack de control: CBDC + modelo que no puede decir + puntaje. No hace falta un campo; hace falta una cuenta.",
+      "priority": true
+    },
+    {
+      "id": 173,
+      "section": "Capítulo 8 — Inteligencia artificial",
+      "prompt": "CAIS 2023: los que construyen firmaron “extinción” al lado de pandemias y guerra nuclear. No es un foro."
+    },
+    {
+      "id": 174,
+      "section": "Capítulo 8 — Inteligencia artificial",
+      "prompt": "Hinton 2026 (BBC): un 10% de extinción en una década no le pareció descabellado. No es tráiler; tampoco rumor.",
+      "hint": "¿Más fuerte: tratarlo como hecho? ¿Más suave: no poner el 10%?"
+    },
+    {
+      "id": 175,
+      "section": "Capítulo 8 — Inteligencia artificial",
+      "prompt": "La primera extinción que ya empezó es la del hábito de pensar; la biológica, si llega, encuentra a una población que ya no distingue documento de tono."
+    },
+    {
+      "id": 176,
+      "section": "Capítulo 8 — Inteligencia artificial",
+      "prompt": "Supervivencia: usar la máquina como archivo, no como conciencia. Poder apagarla y pagar en efectivo."
+    },
+    {
+      "id": 177,
+      "section": "Capítulo 8 — Inteligencia artificial",
+      "prompt": "Este libro se escribió con esa ayuda y se reescribió contra el sesgo de esa ayuda."
+    },
+    {
+      "id": 178,
+      "section": "Capítulo 8 — Inteligencia artificial",
+      "prompt": "Terminator / Skynet es el caso extremo de a dónde vamos: mapa, no prueba. El cine estorba si se usa para reírse o para cantar el Juicio Final.",
+      "hint": "¿Más fuerte (el filme como aviso que se está copiando en el presupuesto militar)? ¿Sacar el apodo Skynet Day de julio 2026?",
+      "priority": true
+    },
+    {
       "id": 42,
-      "section": "Capítulo 8 — Espacio",
+      "section": "Capítulo 9 — Espacio",
       "prompt": "Alunizaje: la evidencia en contra de la farsa es, para este libro, la más fuerte de todos los temas.",
       "hint": "¿De acuerdo, o más duda?",
       "priority": true
     },
     {
       "id": 155,
-      "section": "Capítulo 8 — Espacio",
+      "section": "Capítulo 9 — Espacio",
       "prompt": "Göbekli Tepe: el consenso se corrige ante un objeto."
     },
     {
       "id": 156,
-      "section": "Capítulo 8 — Espacio",
+      "section": "Capítulo 9 — Espacio",
       "prompt": "Guiza: el relato de rampas y cobre no reprodujo el granito de 70 toneladas. No hace falta un alienígena para decirlo."
     },
     {
       "id": 43,
-      "section": "Capítulo 8 — Espacio",
+      "section": "Capítulo 9 — Espacio",
       "prompt": "Pirámides en más de un continente: ¿difusión, arquetipo o saber perdido?"
     },
     {
       "id": 44,
-      "section": "Capítulo 8 — Espacio",
+      "section": "Capítulo 9 — Espacio",
       "prompt": "Sacsayhuamán: no se copia bien ni con la maquinaria de hoy; la pregunta es qué técnica se perdió."
     },
     {
       "id": 45,
-      "section": "Capítulo 8 — Espacio",
+      "section": "Capítulo 9 — Espacio",
       "prompt": "Rapa Nui / moáis / una cultura que desaparece."
     },
     {
       "id": 157,
-      "section": "Capítulo 8 — Espacio",
+      "section": "Capítulo 9 — Espacio",
       "prompt": "Baalbek, Puma Punku, Anticitera: tres grados de evidencia; el consenso sobre “lo que aquella época podía” ya se equivocó."
     },
     {
       "id": 158,
-      "section": "Capítulo 8 — Espacio",
+      "section": "Capítulo 9 — Espacio",
       "prompt": "Hancock y civilización perdida: patrón, todavía no un objeto tipo Göbekli Tepe."
     },
     {
       "id": 46,
-      "section": "Capítulo 8 — Espacio",
+      "section": "Capítulo 9 — Espacio",
       "prompt": "Diluvio + Durupınar: no se canta victoria; no se despacha de un portazo."
     },
     {
       "id": 159,
-      "section": "Capítulo 8 — Espacio",
+      "section": "Capítulo 9 — Espacio",
       "prompt": "Ryan y Pitman (mar Negro ~5600 a.C.): un diluvio local enorme puede volverse memoria universal."
     },
     {
       "id": 47,
-      "section": "Capítulo 8 — Espacio",
+      "section": "Capítulo 9 — Espacio",
       "prompt": "Gigantes / nefilim: coincidencia de textos y folclore; no hay inventario forense que cierre."
     },
     {
       "id": 48,
-      "section": "Capítulo 8 — Espacio",
+      "section": "Capítulo 9 — Espacio",
       "prompt": "Darwin explica adaptación; se queda corto con el origen de la información. No se afirma una Tierra de 6.000 años.",
       "hint": "¿O quería Tierra joven?",
       "priority": true
     },
     {
       "id": 160,
-      "section": "Capítulo 8 — Espacio",
+      "section": "Capítulo 9 — Espacio",
       "prompt": "Abiogénesis no es Darwin. Miller-Urey no produjo una célula. El Cámbrico incomoda el gradualismo."
     },
     {
       "id": 161,
-      "section": "Capítulo 8 — Espacio",
+      "section": "Capítulo 9 — Espacio",
       "prompt": "Tejidos blandos en dinosaurio (Schweitzer): no prueban el jueves pasado; incomodan “todo se destruye en milenios”."
     },
     {
       "id": 162,
-      "section": "Capítulo 8 — Espacio",
+      "section": "Capítulo 9 — Espacio",
       "prompt": "Chicxulub: el catastrofismo puede ser ciencia. Velikovsky, no. Dryas Reciente, en disputa."
     },
     {
       "id": 49,
-      "section": "Capítulo 9 — Extraterrestre",
+      "section": "Capítulo 10 — Extraterrestre",
       "prompt": "Grusch bajo juramento vs. AARO que no encuentra; las dos cosas se sostienen."
     },
     {
       "id": 50,
-      "section": "Capítulo 9 — Extraterrestre",
+      "section": "Capítulo 10 — Extraterrestre",
       "prompt": "Roswell, Rendlesham, Phoenix, Nimitz, hilo nuclear: se cuentan como casos, no como prueba."
     },
     {
       "id": 163,
-      "section": "Capítulo 9 — Extraterrestre",
+      "section": "Capítulo 10 — Extraterrestre",
       "prompt": "SETI mira una frecuencia; UAP mira el radar. No son el mismo expediente."
     },
     {
       "id": 164,
-      "section": "Capítulo 9 — Extraterrestre",
+      "section": "Capítulo 10 — Extraterrestre",
       "prompt": "Tecnología derivada y presupuestos reservados: se nombra la hipótesis, no se canta el hangar."
     },
     {
       "id": 51,
-      "section": "Capítulo 9 — Extraterrestre",
+      "section": "Capítulo 10 — Extraterrestre",
       "prompt": "Un contacto no derrumba la fe; el Vaticano ya lo dijo."
     },
     {
       "id": 52,
-      "section": "Capítulo 10 — Más allá",
+      "section": "Capítulo 11 — Más allá",
       "prompt": "ECM / AWARE: abierto, no prueba del cielo."
     },
     {
       "id": 165,
-      "section": "Capítulo 10 — Más allá",
+      "section": "Capítulo 11 — Más allá",
       "prompt": "Jesús histórico vs. Cristo de la fe: se distinguen; no se disuelve uno en el otro."
     },
     {
       "id": 53,
-      "section": "Capítulo 10 — Más allá",
+      "section": "Capítulo 11 — Más allá",
       "prompt": "Isaías, Salmo 22, Miqueas, Daniel: la red de anuncios es el hecho literario más extraño del Mediterráneo."
     },
     {
       "id": 166,
-      "section": "Capítulo 10 — Más allá",
+      "section": "Capítulo 11 — Más allá",
       "prompt": "Las “costuras” de la Biblia se nombran sin tirar el libro."
     },
     {
       "id": 54,
-      "section": "Capítulo 10 — Más allá",
+      "section": "Capítulo 11 — Más allá",
       "prompt": "Pablo, Agustín, Tomás: la razón que se arrodilla."
     },
     {
       "id": 55,
-      "section": "Capítulo 10 — Más allá",
+      "section": "Capítulo 11 — Más allá",
       "prompt": "Si Jesús viniera un martes de 2026: medios, redes, fariseos nuevos, odio y milagro virales."
     },
     {
       "id": 56,
-      "section": "Capítulo 10 — Más allá",
+      "section": "Capítulo 11 — Más allá",
       "prompt": "Providencia y sincronicidad: se nombran, no se demuestran."
     },
     {
       "id": 167,
-      "section": "Capítulo 10 — Más allá",
+      "section": "Capítulo 11 — Más allá",
       "prompt": "Conciencia / mente-cerebro: el laboratorio no cierra el sepulcro."
     },
     {
       "id": 57,
-      "section": "Capítulo 10 — Más allá",
+      "section": "Capítulo 11 — Más allá",
       "prompt": "Islam: el fiqh clásico, no solo el dictador; asimetría con el cristianismo actual en apostasía y mujeres.",
       "priority": true
     },
     {
       "id": 58,
-      "section": "Conclusión",
+      "section": "Capítulo 12 — Conclusión",
       "prompt": "El libro es un método de tres pasos, no un combo para un grupo."
     },
     {
       "id": 59,
-      "section": "Conclusión",
+      "section": "Capítulo 12 — Conclusión",
       "prompt": "Cambiar de idea es una medida de inteligencia, no una derrota."
     },
     {
       "id": 60,
-      "section": "Conclusión",
+      "section": "Capítulo 12 — Conclusión",
       "prompt": "Con la IA, quien no entrenó el músculo de contrastar se va a enterar de “la verdad” por un chat."
     },
     {
       "id": 168,
-      "section": "Conclusión",
+      "section": "Capítulo 12 — Conclusión",
       "prompt": "Un hábito, no una militancia: no humillar al que piensa distinto; no munición para el cuñado."
     }
   ]

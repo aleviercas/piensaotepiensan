@@ -148,6 +148,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 175. **La primera extinción ya empezó: la del hábito de pensar.** ¿Sí / no?
 176. **Supervivencia: archivo, no conciencia; efectivo y poder apagar.** ¿Sí / no?
 177. **Este libro se escribió con IA y contra el sesgo de esa IA.** ¿Sí / no?
+178. **Terminator / Skynet es el caso extremo de a dónde vamos: mapa, no prueba.** ¿Sí / más fuerte (aviso que se copia en el presupuesto militar) / sacar Skynet Day 2026?
 
 ---
 
