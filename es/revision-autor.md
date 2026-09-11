@@ -64,6 +64,8 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 4. **Con la IA, el pensamiento crítico va a ser un bien escaso.** ¿Sí / no / más fuerte?
 5. **El libro está escrito desde un país, no solo para ese país.** ¿Sí / no?
 6. **Providencia / sincronicidad se nombran ya en la intro, sin demostrarlas.** ¿Sí / no / sacar?
+179. **El mundo de Sofía se nombra en la intro: el gesto de las cartas, no una novela a copiar.** ¿Sí / más suave / sacar?
+180. **Forma: ensayo con una pregunta + tres tramos + voz de quien no está de acuerdo (1+3, no novela).** ¿Sí / no?
 
 ---
 

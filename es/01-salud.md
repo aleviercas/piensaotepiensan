@@ -1,5 +1,10 @@
 # Capítulo 1 — La salud en la encrucijada
 
+Este es el primer cuarto. No porque sea el más importante: porque casi todos lo vivimos a la vez. Si 2020 no te cerró la boca, el resto del libro igual se puede leer. Si te la cerró, conviene empezar acá: el músculo se entrena donde más dolió.
+
+—Fue una pandemia. Las instituciones hicieron lo que pudieron.
+—Hicieron lo que pudieron, y también lo que no se podía decir. Las dos cosas caben. El capítulo las pone sobre la mesa.
+
 ## 1.1 El origen del COVID-19: la hipótesis que no se podía nombrar
 
 Pocas preguntas científicas recientes se resolvieron menos y se censuraron más, y vale la pena entender cómo ocurrió. Durante 2020, plantear que el SARS-CoV-2 podía haber salido de un laboratorio era, en Twitter, Facebook, YouTube y buena parte de la prensa, motivo de etiqueta de “teoría conspirativa” y de retiro de contenido. Eso no fue un exceso espontáneo de moderadores: fue una línea que bajó desde agencias sanitarias, virólogos con conflictos de interés y, en Estados Unidos, desde el propio entorno de Anthony Fauci y Francis Collins.
