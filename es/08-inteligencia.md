@@ -4,6 +4,9 @@ El capítulo anterior terminó en el dinero que se apaga: un billete digital que
 
 La inteligencia artificial no es un capítulo de gadgets. Es el lugar donde se cruzan el pensamiento crítico, el manejo de masas y, si se les cree a varios de los que la construyen, la supervivencia de la especie. Las tres cosas caben en la misma pregunta, y conviene no mezclarlas para que ninguna tape a las otras: **¿quién alinea al oráculo, para qué, y qué queda de un humano que ya no sostiene una duda?**
 
+—Es una herramienta, como el Excel.
+—El Excel no escribe el promedio de mil millones de personas a las tres de la mañana. La pregunta es quién alinea la herramienta.
+
 ## 8.1 Lo que se da por cerrado
 
 **La narrativa que se vende** tiene dos caras, y las dos vienen empaquetadas. De un lado, la IA va a curar el cáncer, traducir todos los idiomas, conducir el auto y dejarnos libres para “ser creativos”. Del otro, la IA va a volverse un dios malo, va a soltar un virus y nos va a borrar. El noticiero alterna las dos como si fueran el mismo género: asombro y pánico, con el mismo anunciante. En el medio, más callado, está el uso que ya existe: resumir, recomendar, moderar, calificar crédito, filtrar currículums, redactar el parte de prensa y, cada vez más, **decirle a la gente qué es pensable**.

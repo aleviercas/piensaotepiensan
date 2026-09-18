@@ -2,6 +2,9 @@
 
 El mismo paquete, ahora con un gas. Si el consenso sanitario y el de las redacciones se inclinaron juntos, el climático es el tercero de la fila: urgencia moral, disidente como enemigo, perilla que sí se puede regular por decreto. Conviene la misma pregunta de proporción que en el virus: ¿qué se midió, y qué se vendió como si se hubiera medido?
 
+—El consenso científico no se discute.
+—El termómetro tampoco. Este capítulo discute si el carbono de la chimenea es el director de orquesta, no si existe el calor.
+
 ## 6.1 Lo que está sólido y lo que se vende como si lo estuviera
 
 Este capítulo no pide que se deje de mirar el termómetro; pide, más bien, que no se le entregue al carbono de la chimenea un poder que, por tamaño y por historia, tal vez no tiene. El aire se calentó y el CO2 subió, y esas dos curvas se pueden mirar juntas sin convertirlas, de inmediato, en un veredicto moral. Lo que suele venir después —que casi todo el calor es nuestro, que los modelos aciertan lo suficiente para rediseñar la economía, que los huracanes ya son la prueba, que el único camino decente es apagar el fósil a toda prisa, y que dudar de cualquiera de esos saltos es “negar la ciencia”— no es física: es un paquete. Se puede abrir, y se puede, incluso, seguir preocupado por el clima después de abrirlo. Este libro solo invita a no tragárselo cerrado.

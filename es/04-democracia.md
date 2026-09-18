@@ -2,6 +2,9 @@
 
 Del atentado al voto. Si el Estado puede archivar una explosión, también puede archivar una urna. Este capítulo no dice que toda elección es un fraude. Dice que la urna es un tramo del poder, no el poder, y que hay un organigrama que no se presenta a examen cada cuatro años.
 
+—Ganó quien ganó. Punto.
+—La urna es un tramo. Este capítulo pregunta qué hay detrás del tramo, no si a usted le gustó el resultado.
+
 ## 4.1 Vulnerabilidades reales en sistemas electorales
 
 Hay dos preguntas distintas, y conviene no pegarlas: ¿se puede manipular un sistema electoral? Sí, y hay casos firmes. ¿Hay un fraude de escala nacional detrás de cada resultado que no nos gusta? Casi nunca. El truco de las redacciones es usar la segunda para prohibir la primera. Este capítulo pide lo inverso: mirar la primera con calma, sin convertirlo en un himno sobre la segunda.

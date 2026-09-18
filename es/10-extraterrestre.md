@@ -2,6 +2,9 @@
 
 Del suelo al cielo. El capítulo anterior dejó objetos que no entran del todo en el relato de “aquella época no podía”. Este pregunta si, además, hay algo que no es de esta época. No hace falta un hangar para sostener la pregunta. Tampoco hace falta un hangar para cerrarla.
 
+—Son globos y drones.
+—Algunos, sí. El propio gobierno dejó de decir que son todos. Este capítulo no pide un ovni en el living.
+
 ## 10.1 Evidencia UAP y desclasificación gubernamental
 
 Este es, junto con el clima, uno de los pocos temas de este libro donde el propio gobierno de EE.UU. cambió radicalmente su postura pública en los últimos años, así que vale la pena reconstruir la cronología con calma y con precisión.

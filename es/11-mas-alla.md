@@ -4,6 +4,9 @@ Si las piedras no cierran y el radar tampoco, queda lo que menos se deja pesar: 
 
 Este capítulo se escribe un poco distinto. No porque los hechos pesen menos, sino porque acá el cuaderno se acerca a lo que no entra del todo en una tabla. Sigue siendo una invitación a mirar, no un púlpito. Quien no tenga esa palabra, que se quede igual: alcanza con no salir corriendo.
 
+—La fe es consuelo. No es un argumento.
+—Tampoco es un insulto a la razón. Este capítulo las pone juntas y ve cuál pesa.
+
 ## 11.1 Experiencias cercanas a la muerte: lo que dice la investigación seria
 
 **El estudio AWARE.** El cardiólogo Sam Parnia lideró desde 2008 un estudio multicéntrico (AWARE, luego AWARE II) en hospitales de Reino Unido y EE.UU., con un diseño que conviene tomar en serio precisamente porque no nació en una estantería de autoayuda. Colocaron imágenes visibles solo desde el techo de las salas de reanimación, para ver si quienes decían «salir del cuerpo» durante un paro las describían después. El trabajo se publicó en *Resuscitation*: no prueba el cielo, y sí obliga a no despachar el tema con un chiste.

@@ -66,7 +66,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 6. **Providencia / sincronicidad se nombran ya en la intro, sin demostrarlas.** ¿Sí / no / sacar?
 179. **El mundo de Sofía se nombra en la intro: el gesto de las cartas, no una novela a copiar.** ¿Sí / más suave / sacar?
 180. **Forma: ensayo con una pregunta + tres tramos + voz de quien no está de acuerdo (1+3, no novela).** ¿Sí / no?
-183. **Puentes entre capítulos y diálogos cortos en geopolítica (prueba): no todo el libro es diálogo.** ¿Repetir el diálogo en cada capítulo, o solo en algunos?
+183. **Puentes + diálogo corto a la puerta de cada capítulo (gesto Sofía). El cuerpo sigue ensayo.** ¿Sí / sacar alguno / más suave?
 
 ---
 

@@ -2,6 +2,9 @@
 
 Hasta acá, el libro miró lo que te piensan: el cuerpo, el mapa, la urna, el feed, el gas, el dinero, la máquina. Ahora mira lo que el laboratorio no cierra. Piedras que no se copian, un diluvio que aparece en culturas que no se hablaban, una teoría de Darwin que explica adaptación y se queda corta con el origen. El músculo es el mismo. El objeto, no.
 
+—Eso ya lo explicó la ciencia.
+—Una parte, sí. Este capítulo mira lo que todavía no entra, sin convertir cada piedra en un hangar.
+
 ## 9.1 La Luna: por qué persisten las dudas (y por qué la evidencia las responde)
 
 **Por qué la teoría del alunizaje falso sigue circulando.** Sigue viva, en buena medida, porque junta en un mismo relato varios elementos que a un ojo no entrenado le resultan extraños, y los presenta como si formaran un solo expediente. Las sombras que parecen no ser paralelas son, en realidad, un efecto óptico normal de las lentes gran angular sobre un terreno irregular. La ausencia de estrellas en las fotos se entiende cuando se recuerda que la cámara estaba calibrada para la luz brillante de la superficie lunar, no para el fondo oscuro del espacio: es el mismo motivo por el que una foto nocturna con flash tampoco muestra estrellas. Y la bandera que parece «ondear» sin viento se movía porque llevaba una barra horizontal para mantenerla extendida en ausencia de atmósfera; el movimiento que se ve es la inercia de esa barra al ser desplegada, no un soplo de aire.
