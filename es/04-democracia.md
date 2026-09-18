@@ -2,8 +2,8 @@
 
 Del atentado al voto. Si el Estado puede archivar una explosión, también puede archivar una urna. Este capítulo no dice que toda elección es un fraude. Dice que la urna es un tramo del poder, no el poder, y que hay un organigrama que no se presenta a examen cada cuatro años.
 
-—Ganó quien ganó. Punto.
-—La urna es un tramo. Este capítulo pregunta qué hay detrás del tramo, no si a usted le gustó el resultado.
+—Las democracias cuentan votos con reglas, jueces y periodistas. En 2020 se litigó y no se dio vuelta. Eso es el sistema funcionando, no un espejismo.
+—Se litigó, sí. Este capítulo no pide un vuelco nacional que no está en el expediente. Pide no confundir “no se dio vuelta” con “no hubo censura, ni reglas cambiadas, ni un poder que no se vota”.
 
 ## 4.1 Vulnerabilidades reales en sistemas electorales
 

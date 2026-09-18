@@ -4,8 +4,8 @@ Si las piedras no cierran y el radar tampoco, queda lo que menos se deja pesar: 
 
 Este capítulo se escribe un poco distinto. No porque los hechos pesen menos, sino porque acá el cuaderno se acerca a lo que no entra del todo en una tabla. Sigue siendo una invitación a mirar, no un púlpito. Quien no tenga esa palabra, que se quede igual: alcanza con no salir corriendo.
 
-—La fe es consuelo. No es un argumento.
-—Tampoco es un insulto a la razón. Este capítulo las pone juntas y ve cuál pesa.
+—Una experiencia de consuelo no demuestra un sepulcro vacío. El laboratorio no entra ahí, y eso no es una ofensa: es el límite del método.
+—El límite se firma. Este capítulo no pretende un p-valor para la resurrección. Pretende no llamar “solo consuelo” a un expediente histórico —y a una coincidencia que llega a tiempo— como si el laboratorio hubiera pesado los dos.
 
 ## 11.1 Experiencias cercanas a la muerte: lo que dice la investigación seria
 

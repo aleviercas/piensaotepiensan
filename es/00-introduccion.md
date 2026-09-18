@@ -30,7 +30,7 @@ En economía, **Friedrich Hayek** defendió la libertad de mercado en plena hege
 
 Ya en tiempos recientes, **Malala Yousafzai**, siendo apenas una adolescente, desafió la violencia del extremismo al defender el derecho de las niñas a la educación, sobrevivió a un atentado y se convirtió en símbolo mundial de esa valentía. En el plano político, dirigentes como **Javier Milei** mostraron que posturas tildadas al principio de extremas pueden imponerse cuando los consensos tradicionales dejan de dar respuestas.
 
-Lo que une a todas estas figuras —tan distintas en época, disciplina y convicciones— no es que hayan tenido siempre razón en cada detalle. Es que se animaron a preguntar donde otros solo repetían.
+Lo que une a todas estas figuras —tan distintas en época, disciplina y convicciones— no es que hayan tenido siempre razón en cada detalle. Es que se animaron a preguntar donde otros solo repetían. Tampoco es el truco de Galileo: si a Semmelweis le fue mal, no por eso cualquier disidente de hoy tiene razón. El archivo, no el halo.
 
 ## El elefante en la habitación global
 
@@ -38,11 +38,11 @@ Vivimos una era de paradojas. Nunca la humanidad tuvo tanto acceso a la informac
 
 Este libro no busca reemplazar un dogma por otro. No es una colección de certezas alternativas para gente cansada de las certezas oficiales. Es una invitación a ejercitar el músculo que más atrofiado tenemos: la capacidad de sostener una pregunta incómoda el tiempo suficiente como para investigarla en serio, en lugar de resolverla por comodidad ideológica, venga esa comodidad de donde venga.
 
-Hay un sesgo concreto, y conviene nombrarlo de entrada, sin pelearse con quien no lo ve igual. En las últimas dos décadas, las instituciones que producen el “consenso” —agencias sanitarias, universidades, redacciones, organismos internacionales— se inclinaron, en bloque, hacia un mismo paquete: máxima precaución sanitaria, clima como urgencia moral, multiculturalismo como tema que casi no se puede tocar, y “desinformación” como problema de policía. Un asistente de escritura entrenado en ese material tiende a suavizar lo que ese paquete no soporta. Este libro, cuando tropieza con ese suavizado, vuelve al hecho. No para empujar al lector hacia “la derecha”, sino para dejar la pregunta donde estaba antes de que la peinaran.
+Hay un sesgo concreto, y conviene nombrarlo de entrada, sin pelearse con quien no lo ve igual. En las últimas dos décadas, las instituciones que producen el “consenso” —agencias sanitarias, universidades, redacciones, organismos internacionales— tendieron, a la vez y sin necesidad de un sótano único, hacia un mismo paquete: máxima precaución sanitaria, clima como urgencia moral, multiculturalismo como tema que casi no se puede tocar, y “desinformación” como problema de policía. Un asistente de escritura entrenado en ese material tiende a suavizar lo que ese paquete no soporta. Este libro, cuando tropieza con ese suavizado, vuelve al hecho. No para empujar al lector hacia “la derecha”, sino para dejar la pregunta donde estaba antes de que la peinaran.
 
 ## Cómo leer este libro (y cómo no)
 
-Este libro no es *El mundo de Sofía*. No hay un curso de Tales a Sartre, ni un curso de “la verdad”. Hay otra caverna, la de este siglo: un virus, un clima, un feed, una máquina que ya escribe el promedio. La forma, sin embargo, quiere parecerse: un ensayo con una sola columna —**¿quién te está pensando, y qué pasa si dejás de preguntar?**— y, en cada cuarto, la voz de quien no está de acuerdo, dicha en serio, no de espantapájaros. Si el libro funciona, el que piensa distinto se reconoce en esa voz y no cierra.
+Este libro no es *El mundo de Sofía*. No hay un curso de Tales a Sartre, ni un curso de “la verdad”. Hay otra caverna, la de este siglo: un virus, un clima, un feed, una máquina que ya escribe el promedio. La forma, sin embargo, quiere parecerse: un ensayo con una sola columna —**¿quién te está pensando, y qué pasa si dejás de preguntar?**— y, en cada cuarto, la voz de quien no está de acuerdo, dicha en su mejor versión: la que él firmaría. Si el libro le gana a un muñeco, no le ganó a nadie. Si el que piensa distinto se reconoce en esa voz, tal vez no cierre.
 
 El recorrido tiene tres tramos, para que no parezca una lista de polémicas. Primero, el cuerpo y el mundo: salud, geopolítica, atentados —te taparon la boca con un virus, con una guerra, con una bomba. Después, el relato y las perillas: democracia, medios, clima, dinero, la máquina. Al final, lo que el laboratorio no cierra: la Tierra, lo que no se explica, la muerte, la fe. Una sola pregunta los une. Si un capítulo no sirve a esa pregunta, sobra.
 
@@ -63,6 +63,14 @@ Hay una manera fácil de leer un libro como este: buscar la frase que confirma l
 1. **Separar el hecho de la interpretación.** “El CO2 es una pizca del aire” es un hecho. “Entonces no puede mandar el clima” es una interpretación. Se puede aceptar el primero y discutir la segunda, sin pelearse.
 2. **Preguntar qué ganaría el autor si usted cambiara de idea.** Si la respuesta es un voto, una camiseta o un enemigo, desconfíe. Si la respuesta es “nada, salvo que mire otra vez”, quédese un rato más.
 3. **Probar el mismo rasero al revés.** Si este libro pide evidencia para un mandato sanitario, también la pide para un video de un foro. El método que solo funciona hacia un lado no es método.
+
+Esas tres no bastan si uno no nombra las trampas con las que se pelean las ideas. Van acá, con nombres feos y ejemplos de este mismo cuaderno, para que el lector pueda cazárselas al autor.
+
+**El hombre de paja.** Se reemplaza la tesis del otro por una más tonta, se le gana a esa, y se cobra como si se le hubiera ganado a él. “El consenso no se discute” es un cartel, no un climatólogo. “Las vacunas son veneno” es un cartel, no quien duda de un mandato. Si el otro no firmaría la frase que se le puso en la boca, no hubo discusión: hubo un muñeco.
+
+**El patio y la torre** (en inglés, *motte-and-bailey*). Se ocupa un patio amplio —“hay que rediseñar la economía”; “el laboratorio fue un complot”— y, cuando llegan los datos, uno se encierra en la torre —“el CO2 absorbe calor”; “no se podía nombrar la hipótesis”—. Las dos frases pueden ser ciertas. El truco es usar la misma palabra para las dos y tratar al que atacó el patio como si hubiera atacado la torre. “La ciencia del clima”, “seguir la ciencia”, “diversidad”, “cuestionar las vacunas”: el hechizo está en no partirlas. Este libro intenta partirlas. Si en algún párrafo las pega, es un fallo, no un método.
+
+**El hombre de acero.** Antes de responder, se dice la tesis del otro de un modo que *él firmaría*. Recién ahí se contesta. En cada capítulo, la primera voz que aparece —el amigo que no está de acuerdo— debería ser esa versión, no la más fácil de voltear. A veces se queda con un round: el tubo de Tyndall, los muertos de 2020, la urna que no se dio vuelta. Si siempre pierde, no es diálogo: es catecismo con dos voces.
 
 Nadie está obligado a salir de estas páginas convertido. Estar obligado a no pensarlas, eso sí sería extraño, en un siglo que presume de información.
 

@@ -134,6 +134,22 @@
       "hint": "¿Sacar alguno que suene forzado? ¿Más suaves?"
     },
     {
+      "id": 184,
+      "section": "Introducción",
+      "prompt": "Método nombrado: hombre de paja, patio y torre (motte-and-bailey), hombre de acero. El amigo debe firmar su frase.",
+      "priority": true
+    },
+    {
+      "id": 185,
+      "section": "Introducción",
+      "prompt": "El “paquete” es sesgo convergente, no un sótano único. (Se suavizó el “en bloque”.)"
+    },
+    {
+      "id": 186,
+      "section": "Introducción",
+      "prompt": "Truco de Galileo: el halo del disidente no prueba a este disidente. El archivo, no el santo."
+    },
+    {
       "id": 7,
       "section": "Capítulo 1 — Salud",
       "prompt": "El laboratorio es la hipótesis que no se podía nombrar; el encubrimiento está más cerrado que el origen.",

@@ -2,13 +2,14 @@
 
 Once cuartos después, el hilo era uno: **¿quién te está pensando?** Este cierre no agrega un tema. Recoge el método.
 
-—Al final querés que piense como vos.
-—Al final quiero que no dejes que te piensen. Si al cerrar pensás lo mismo, no pasa nada. Si preguntaste, sí.
+—Al final hay un combo: laboratorio, carbono, Davos, la máquina. Eso también es una iglesia, con otros santos.
+—Si se lee como combo, falló. El método era el rasero al revés, no la lista. Si al cerrar pensás lo mismo, no pasa nada. Si el combo te sirvió de munición, el libro te pidió que no.
 
 Empezamos este libro con la Alegoría de la Caverna de Platón: prisioneros que confunden sombras con realidad, y el riesgo de que quien logra salir a la luz sea tomado por loco al volver a contarlo. Once capítulos temáticos después, hay que decir algo que al principio no era tan obvio: salir de la caverna no es encontrar una certeza total afuera. Es aprender a distinguir qué tipo de sombra te están vendiendo, y quién cobra por el proyector.
 
 ## Lo que este recorrido mostró, capítulo por capítulo
 
+Lo que sigue no es el patio ganado. Es el mapa de preguntas. Si alguna frase se lee como veredicto, vuelva al rasero: hecho, interpretación, el mismo estándar al revés.
 En **salud**, la desconfianza hacia las instituciones médicas no nació de un capricho. Se silenció el laboratorio, se vendió una vacuna que no se había medido para transmisión, y se cerraron escuelas contra el riesgo real de los chicos. 2020, en el tablero de la OMS, fue del orden de **tres veces una gripe mala**: no la peste, no un resfrío. Esa misma campaña destapó una olla que antes no se tocaba: el calendario infantil, el autismo, los genéricos baratos que un oncólogo casi no puede mencionar. Si hay casos de cáncer que parecen ceder con moléculas viejas, la pregunta no es si el enfermo es un ingenuo: es por qué no hay un estudio para él. Dudar del mandato no obliga a tratar toda vacuna como veneno; obliga a no volver a tragar un eslogan.
 
 En **geopolítica** y **atentados**, la sospecha hacia el Estado está justificada por el propio archivo de ese Estado: golpes de la CIA, AMIA sin condenados, Nord Stream sin dueño, un 7 de octubre que las redacciones diluyeron en «contexto», un búnker de Hamas bajo el techo de UNRWA, 1.400 nenas en Rotherham tapadas por miedo al adjetivo, y unas islas en el Atlántico Sur que no se volvieron británicas por azar en 1833. Esa justificación no convierte en cierta cualquier acusación que llene un hueco; convierte en obligatoria la pregunta que el comunicado de prensa no quiere.

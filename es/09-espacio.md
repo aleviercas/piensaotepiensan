@@ -2,8 +2,8 @@
 
 Hasta acá, el libro miró lo que te piensan: el cuerpo, el mapa, la urna, el feed, el gas, el dinero, la máquina. Ahora mira lo que el laboratorio no cierra. Piedras que no se copian, un diluvio que aparece en culturas que no se hablaban, una teoría de Darwin que explica adaptación y se queda corta con el origen. El músculo es el mismo. El objeto, no.
 
-—Eso ya lo explicó la ciencia.
-—Una parte, sí. Este capítulo mira lo que todavía no entra, sin convertir cada piedra en un hangar.
+—La ciencia cierra lo que puede tocar, predecir y repetir. Lo que no produce objeto se queda en el estante, no en el templo.
+—Ese rasero es el de este capítulo. Lo que se discute es si a veces se declara “cerrado” para no quedar de místico: el mismo reflejo, invertido.
 
 ## 9.1 La Luna: por qué persisten las dudas (y por qué la evidencia las responde)
 

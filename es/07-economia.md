@@ -2,8 +2,8 @@
 
 Si se moraliza el aire, también se imprime el dinero. El capítulo anterior preguntó si el carbono de la chimenea manda el clima; este pregunta quién manda la moneda. Las dos perillas se venden como técnicas. Las dos son poder.
 
-—La inflación es los empresarios.
-—A veces hay un precio. Este capítulo pregunta quién imprimió antes de que el precio subiera.
+—Los precios suben también por guerra, sequía y empresas con margen. Culpar solo a la rotativa es otra teología.
+—Guerra, sequía y margen existen. Este capítulo pregunta por qué, cuando la base monetaria se duplica, el “es el empresario” aparece siempre primero en el noticiero.
 
 ## 7.1 Del patrón oro al dinero fiduciario
 

@@ -2,8 +2,8 @@
 
 El capítulo anterior dejó agresores y agredidos en fechas concretas —2022, el 7 de octubre, 1833—. Este baja un piso: del mapa a la bomba, del comunicado al archivo del propio Estado. El músculo no cambia. Una bandeja por vez.
 
-—Si no está en el informe, es un sótano.
-—Si está en el informe y no se lo nombra, también. Este capítulo pide las dos bandejas, no un combo.
+—La Comisión documentó negligencia, no un trabajo interno. Pedir un sótano para cada hueco no es rigor: es relleno.
+—De acuerdo: el hueco no prueba el sótano. Este capítulo pone el archivo en una bandeja y las teorías en otra. Si se pegan, se nota.
 
 ## 3.1 El 11-S: las preguntas oficiales sin cerrar
 

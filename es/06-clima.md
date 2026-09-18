@@ -2,8 +2,8 @@
 
 El mismo paquete, ahora con un gas. Si el consenso sanitario y el de las redacciones se inclinaron juntos, el climático es el tercero de la fila: urgencia moral, disidente como enemigo, perilla que sí se puede regular por decreto. Conviene la misma pregunta de proporción que en el virus: ¿qué se midió, y qué se vendió como si se hubiera medido?
 
-—El consenso científico no se discute.
-—El termómetro tampoco. Este capítulo discute si el carbono de la chimenea es el director de orquesta, no si existe el calor.
+—El CO2 absorbe infrarrojo, el aire se calentó un grado, y parte de ese carbono extra tiene firma fósil. Eso está medido. Dudar de la política no borra el tubo de Tyndall.
+—Este capítulo firma las tres. Lo que abre es lo de después: cuánto pesa esa molécula, qué tan calientes corren los modelos, y si “el 97%” cubre el net-zero o solo el enunciado mínimo. El tubo se queda. El patio de la política, no.
 
 ## 6.1 Lo que está sólido y lo que se vende como si lo estuviera
 
@@ -13,7 +13,7 @@ Este capítulo no pide que se deje de mirar el termómetro; pide, más bien, que
 
 **Lo que se presenta como cerrado y no lo está.**
 
-**La cifra del “97%”.** El paper más citado (Cook et al., 2013) no preguntó a los climatólogos “¿cuánto calentamiento, con qué sensibilidad, y qué política corresponde?”; clasificó resúmenes de papers. Dos tercios de esos papers *no tomaban posición* sobre la causa del calentamiento y, de los que sí la tomaban, el 97% coincidía en que hay un componente humano. Eso es un consenso sobre un enunciado mínimo —“los humanos influimos”—, no sobre catástrofe, sensibilidad alta ni net-zero 2050. Reciclar ese 97% como si fuera un veredicto sobre política energética es un truco retórico, no un dato científico.
+**La cifra del “97%”.** El paper más citado (Cook et al., 2013) no preguntó a los climatólogos “¿cuánto calentamiento, con qué sensibilidad, y qué política corresponde?”; clasificó resúmenes de papers. Dos tercios de esos papers *no tomaban posición* sobre la causa del calentamiento y, de los que sí la tomaban, el 97% coincidía en que hay un componente humano. Eso es un consenso sobre un enunciado mínimo —“los humanos influimos”—, no sobre catástrofe, sensibilidad alta ni net-zero 2050. Reciclar ese 97% como si fuera un veredicto sobre política energética es el patio y la torre: la torre es “hay componente humano”; el patio es “entonces esta política”. El que ataca el patio no está incendiendo la torre.
 
 **La sensibilidad climática.** Cuánto se calienta el planeta por cada duplicación de CO2 (ECS) es *el* número que importa para saber si estamos ante un inconveniente manejable o ante un apocalipsis. El IPCC AR6 da un rango “probable” de 2,5 °C a 4 °C, con 3 °C como valor central, y ese rango viene, en buena parte, de modelos. Estimaciones basadas en el registro instrumental histórico —Lewis y Curry (2018), Lewis (2022)— dan valores más bajos, del orden de 1,5 °C a 2,7 °C, con un valor central cerca de 2 °C. No es un detalle: si la sensibilidad real está en la parte baja, el calentamiento a 2100 bajo emisiones realistas es mucho menos dramático de lo que venden los documentales, y el costo de “apagar” la economía fósil en dos décadas supera con creces el beneficio climático. El IPCC lo admite como incertidumbre; el periodismo climático lo trata como herejía.
 

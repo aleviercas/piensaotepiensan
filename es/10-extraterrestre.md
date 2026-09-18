@@ -2,8 +2,8 @@
 
 Del suelo al cielo. El capítulo anterior dejó objetos que no entran del todo en el relato de “aquella época no podía”. Este pregunta si, además, hay algo que no es de esta época. No hace falta un hangar para sostener la pregunta. Tampoco hace falta un hangar para cerrarla.
 
-—Son globos y drones.
-—Algunos, sí. El propio gobierno dejó de decir que son todos. Este capítulo no pide un ovni en el living.
+—La mayoría de los avistamientos son globos, drones, óptica y secretos militares. El U-2 ya enseñó esa lección. Extraordinario pide prueba extraordinaria.
+—La lección del U-2 se firma. Este capítulo pregunta por el resto: testimonios bajo juramento e informes que ya no dicen “son todos globos”. Prueba extraordinaria, sí. Decreto, no.
 
 ## 10.1 Evidencia UAP y desclasificación gubernamental
 

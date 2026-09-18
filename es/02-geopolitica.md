@@ -2,8 +2,8 @@
 
 El capítulo anterior miró el cuerpo: un virus, una vacuna, un calendario. Este mira el mapa. El silencio es el mismo. En 2020 no se podía nombrar un laboratorio; en 2022 no se podía nombrar un audio de Nuland; en 2023 no se podía nombrar un sótano bajo la ONU. Distinto escenario, misma regla: **hay frases que el paquete no permite**.
 
-—Eso es mezclar. Una pandemia no es una guerra.
-—No las mezclo. Pregunto si el mismo músculo sirve en las dos. Si en una te dijeron “confiá” y en la otra “no contextualices”, conviene mirar quién escribe las dos frases.
+—Una guerra tiene causas, un agresor que cruza una frontera, y muertos que no son un “relato”. Mezclar eso con un virus es perder el hilo.
+—Las causas y la frontera importan. El hilo de este libro no es “todo es lo mismo”: es si, en las dos, te dijeron qué no se podía nombrar.
 
 ## 2.1 Ucrania: guerra proxy, no cuento de hadas
 
@@ -113,17 +113,15 @@ Rotherham ya dejó la palabra sobre la mesa: *diversidad*. Sirvió, durante quin
 
 La diversidad, si se usa en castellano, dice lo que dice: **no somos iguales**. Hay sexos, hay talentos, hay culturas, hay vocaciones, hay quien rinde en un examen y quien no, hay quien quiere un laboratorio y quien quiere un taller. Eso no es una ofensa. Es el punto de partida de cualquier sociedad que no sea un cuartel. La igualdad, en el uso que se volvió política, pide otra cosa: **que el resultado se parezca**. Misma foto en el directorio, mismos porcentajes en la lista, misma nota promedio entre grupos. Si las personas son diversas, el resultado va a ser diverso. Para que el resultado sea igual hay que dejar de tratar a la gente igual. Ahí está la contradicción, y no es un juego de palabras: es el motor de las políticas.
 
-—La diversidad es una fortaleza.
-—Si lo es, ¿por qué hay que imponerla con cupo? Una fortaleza se nota sola.
-—Porque el punto de partida no es justo.
-—El punto de partida no es justo, y las personas tampoco son copias. Si las personas son diversas, el resultado va a ser diverso. Forzar el mismo resultado es negar la diversidad que se dice celebrar.
+—El punto de partida no es justo: siglos de exclusión no se corrigen con “la misma regla a partir de mañana”.
+—El punto de partida no es justo, de acuerdo. El debate es si la corrección es la misma regla hacia adelante, o una vara distinta según el casillero. Lo segundo usa la palabra diversidad para pedir un recuento.
 
 Hay una igualdad que no pisa a nadie, y conviene no tirarla con el agua sucia: **igualdad ante la ley**. La misma regla, el mismo delito, el mismo contrato. Esa igualdad *permite* la diversidad, porque no le pide al carpintero que rinda como el cirujano ni al cirujano que vote como el carpintero. La otra, la de los resultados, se hace llamar *equidad* en los folletos y DEI en los organigramas —diversidad, equidad, inclusión—. Equidad, ahí, no significa “no hagas trampa”. Significa: si el grupo A no llega al porcentaje, cambiale la vara. La vara distinta es lo contrario de la regla igual.
 
 En las empresas eso dejó de ser un folleto de recursos humanos y se volvió métrica. McKinsey, a partir de 2015, vendió que más diversidad en el directorio correlacionaba con más ganancia. El argumento era irresistible para un consejo que quería ser bueno y, de yapa, más rico. Green y Hand, entre otros, intentaron repetir el estudio en el S&P 500 y no hallaron el vínculo. McKinsey no publica la lista de empresas, de modo que el paper estrella de una década no se puede auditar como se audita un ensayo clínico. En 2023, la Corte Suprema de Estados Unidos, en *Students for Fair Admissions*, cortó el uso de la raza en las admisiones universitarias. Entre 2024 y 2026, decenas de compañías achicaron o desarmaron oficinas de DEI: no porque se hubieran vuelto malas de golpe, sino porque el argumento de “es buen negocio” no sobrevivió al mercado ni al expediente. Un informe de la Casa Blanca, en 2026, estimó en decenas de miles de millones, en un solo año, el costo de promover por raza y sexo en lugar de por el trabajo. Se puede discutir la cifra. No se puede discutir que **la política existió, se midió poco y se vendió mucho**.
 
 —Entonces estás contra las minorías.
-—Estoy contra tratar a alguien como un porcentaje. Si una ingeniera es la mejor, que entre. Si entra porque es ingeniera *y* porque completa un casillero, el casillero la insulta a ella primero.
+—Esa frase ya es un muñeco: nadie en este capítulo pidió planteles de un solo color. Estoy contra tratar a alguien como un porcentaje. Si una ingeniera es la mejor, que entre. Si entra porque es ingeniera *y* porque completa un casillero, el casillero la insulta a ella primero.
 
 La inclusión, tercera palabra del paquete, pide no notar la contradicción. Quien pregunta si un cupo es justo se vuelve, en el mail interno, alguien que “no crea un espacio seguro”. El espacio seguro de una empresa no es un derecho: es un filtro. El mismo filtro que, en Rotherham, le dijo a un policía que nombrar el patrón era racismo. La escala cambia. El truco, no: **una virtud que no se puede medir se usa para no medir lo que molesta**.
 

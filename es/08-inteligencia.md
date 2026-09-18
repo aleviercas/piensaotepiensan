@@ -4,8 +4,8 @@ El capítulo anterior terminó en el dinero que se apaga: un billete digital que
 
 La inteligencia artificial no es un capítulo de gadgets. Es el lugar donde se cruzan el pensamiento crítico, el manejo de masas y, si se les cree a varios de los que la construyen, la supervivencia de la especie. Las tres cosas caben en la misma pregunta, y conviene no mezclarlas para que ninguna tape a las otras: **¿quién alinea al oráculo, para qué, y qué queda de un humano que ya no sostiene una duda?**
 
-—Es una herramienta, como el Excel.
-—El Excel no escribe el promedio de mil millones de personas a las tres de la mañana. La pregunta es quién alinea la herramienta.
+—Una herramienta no tiene intención. El martillo no te piensa. El riesgo es de quien lo usa, no de un Skynet.
+—Sin intención, de acuerdo. El problema no es un alma en el servidor: es mil millones de personas tomando por propia una frase que nadie pensó. Eso no necesita Skynet para ser grave.
 
 ## 8.1 Lo que se da por cerrado
 

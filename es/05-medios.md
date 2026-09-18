@@ -2,8 +2,8 @@
 
 Quien no se vota, igual habla. El capítulo anterior dejó el poder que no sale en la boleta; este mira quién escribe la frase que esa boleta cree haber elegido. El laboratorio de 2020, el audio de Nuland, las 1.400 nenas: ninguno llegó primero al noticiero. Llegó el recorte.
 
-—La prensa se equivoca, pero no miente en bloque.
-—No hace falta un bloque. Alcanza un recorte que se repite. El recorte ya es una línea.
+—Redacciones distintas se pelean entre sí. No hay un ministerio de la verdad. Un error repetido no es, por eso, un complot.
+—Se pelean, y aun así recortan las mismas cosas durante los mismos años. El recorte no necesita un ministerio: necesita un paquete y un miedo. Eso es lo que se mira.
 
 ## 5.1 Modelos de propaganda: Chomsky y el filtro que él no vio
 

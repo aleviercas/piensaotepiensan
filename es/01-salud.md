@@ -2,8 +2,8 @@
 
 Este es el primer cuarto. No porque sea el más importante: porque casi todos lo vivimos a la vez. Si 2020 no te cerró la boca, el resto del libro igual se puede leer. Si te la cerró, conviene empezar acá: el músculo se entrena donde más dolió.
 
-—Fue una pandemia. Las instituciones hicieron lo que pudieron.
-—Hicieron lo que pudieron, y también lo que no se podía decir. Las dos cosas caben. El capítulo las pone sobre la mesa.
+—Hubo un virus nuevo, hospitales saturados, y se decidió con datos incompletos. Eso no es un complot.
+—De acuerdo en las tres. Este capítulo pregunta qué se silenció mientras se decidía, no si el virus era de plástico.
 
 ## 1.1 El origen del COVID-19: la hipótesis que no se podía nombrar
 
