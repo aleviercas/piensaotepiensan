@@ -1,6 +1,8 @@
 # Capítulo 10 — Vida extraterrestre: ¿estamos solos?
 
-## 9.1 Evidencia UAP y desclasificación gubernamental
+Del suelo al cielo. El capítulo anterior dejó objetos que no entran del todo en el relato de “aquella época no podía”. Este pregunta si, además, hay algo que no es de esta época. No hace falta un hangar para sostener la pregunta. Tampoco hace falta un hangar para cerrarla.
+
+## 10.1 Evidencia UAP y desclasificación gubernamental
 
 Este es, junto con el clima, uno de los pocos temas de este libro donde el propio gobierno de EE.UU. cambió radicalmente su postura pública en los últimos años, así que vale la pena reconstruir la cronología con calma y con precisión.
 
@@ -16,7 +18,7 @@ Este es, junto con el clima, uno de los pocos temas de este libro donde el propi
 
 **Un patrón que el informe no disuelve.** Pilotos de la Marina, de la USAF y de otras fuerzas (Reino Unido, Francia con el GEIPAN, Chile, Brasil) llevan décadas reportando objetos que aceleran sin pico sónico, que bajan al mar (USO) y que, en más de un recuento, coinciden con silos nucleares o con portaaviones. El caso de Malmstrom (1967) y los de bases nucleares estadounidenses de los años 60 y 70 están en declaraciones de oficiales, no en un subreddit. Se puede explicar cada uno con un error de sensor, un globo, un programa negro. Se puede, también, notar que **el patrón es internacional y anterior a Musk, a Grusch y al *Times***. Un patrón no es una nave en un hangar; es lo que un libro de este tipo no tiene derecho a borrar para quedar serio.
 
-## 9.1b Algunos casos que no caben en un globo
+## 10.1b Algunos casos que no caben en un globo
 
 Antes de saltar a la filosofía, conviene sentarse con cuatro historias que el manual trata de distinta manera: una se «cerró», otra se archivó, otra la vieron miles, otra la grabó la Marina. Ninguna prueba un hangar, y las cuatro piden no reírse primero.
 
@@ -30,7 +32,7 @@ Antes de saltar a la filosofía, conviene sentarse con cuatro historias que el m
 
 **El hilo nuclear.** Malmstrom, 1967: oficiales relatan que diez misiles Minuteman se apagaron a la vez mientras se veía un objeto sobre la base. Hay relatos parecidos en otros silos de esa década, y del lado soviético. Un escéptico dirá *empate*: anécdotas. Un curioso dirá: **si alguien, humano o no, estuviera estudiando lo más peligroso que inventamos, ¿no miraría primero los silos?** La pregunta no recluta; ordena la prioridad de lo que vale la pena desclasificar.
 
-## 9.2 Implicaciones filosóficas y religiosas
+## 10.2 Implicaciones filosóficas y religiosas
 
 **La ecuación de Drake y la paradoja de Fermi.** La ecuación de Drake (1961) intenta estimar cuántas civilizaciones tecnológicas podrían existir en la galaxia multiplicando factores como la tasa de formación estelar, la fracción de estrellas con planetas, y la probabilidad de que surja vida inteligente capaz de comunicarse. El problema real, reconocido por la propia comunidad científica, es que la mayoría de sus variables son actualmente desconocidas o apenas estimables. Por eso economistas y astrónomos serios llegan a resultados que van desde «estamos solos en la galaxia» hasta «debería haber miles de civilizaciones», dependiendo casi enteramente de qué supuestos se elijan. La paradoja de Fermi —si hay tantas posibilidades de vida inteligente, ¿por qué no vimos ninguna evidencia clara?— sigue sin una respuesta consensuada. Las hipótesis van desde que la vida compleja es extremadamente rara, hasta que las civilizaciones tecnológicas se autodestruyen antes de expandirse, pasando por la posibilidad más prosaica de que la distancia y el tiempo cósmico simplemente hacen del contacto algo estadísticamente improbable en cualquier ventana temporal dada.
 
@@ -40,7 +42,7 @@ Hay un cruce con el capítulo 9 que conviene no mezclar y no silenciar. Si hubo 
 
 Si la conciencia no se agota en el cráneo (capítulo 11) y si el cielo de las pirámides no se agota en el turismo, un contacto —si alguna vez se documenta— no sería, para la fe, el fin del relato. Sería, como Göbekli Tepe, una fecha que obliga a reescribir el prólogo. La sincronicidad de Jung, que no es un ovni, apunta en la misma dirección incómoda: hay orden que no sale de la mecánica que tenemos. Un plato volador no prueba a Dios, y la negativa a mirar el plato tampoco.
 
-## 9.2b SETI mira una frecuencia; UAP mira el radar
+## 10.2b SETI mira una frecuencia; UAP mira el radar
 
 Hay dos conversaciones que se venden como una sola, y no lo son.
 
@@ -52,7 +54,7 @@ Jacques Vallée, que no es un presentador de documentales, llevó décadas propo
 
 ¿Cambiaría la fe un contacto confirmado? El Observatorio Vaticano ya dijo que no tiene por qué. Un cristiano puede leer «otras ovejas que no son de este redil» sin forzar el versículo. Un ateo puede seguir siéndolo: un vecino en otra estrella no le devuelve el cielo a nadie. Lo que sí cambiaría, y esto vale para cualquiera, es **el prólogo de la especie**: ya no seríamos el único cuento. Ese vértigo merece más respeto que un chiste de alien con ojos grandes.
 
-## 9.3 Tecnología derivada y presupuestos reservados
+## 10.3 Tecnología derivada y presupuestos reservados
 
 **Lo que es un hecho verificable.** El presupuesto «negro» (clasificado, no fiscalizado públicamente en su detalle) del gobierno de EE.UU. para inteligencia y defensa ronda, según estimaciones de organizaciones especializadas en transparencia presupuestaria como la Federación de Científicos Americanos, decenas de miles de millones de dólares anuales. Una porción de ese presupuesto financia, por diseño, programas cuya existencia ni siquiera se reconoce públicamente hasta décadas después. El propio programa de aviones espía U-2 y el bombardero furtivo F-117 permanecieron clasificados durante años antes de revelarse, y en su momento generaron avistamientos de «ovnis» reales que después resultaron ser pruebas de esas mismas aeronaves experimentales.
 

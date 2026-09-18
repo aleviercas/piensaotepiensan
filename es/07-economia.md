@@ -1,5 +1,7 @@
 # Capítulo 7 — Economía e inflación: la ilusión del dinero
 
+Si se moraliza el aire, también se imprime el dinero. El capítulo anterior preguntó si el carbono de la chimenea manda el clima; este pregunta quién manda la moneda. Las dos perillas se venden como técnicas. Las dos son poder.
+
 ## 7.1 Del patrón oro al dinero fiduciario
 
 Hasta 1971 el dólar —y el sistema de Bretton Woods— prometía oro a tasa fija. El 15 de agosto de ese año Nixon cortó la convertibilidad, apretado por Vietnam, el gasto interno y la salida de reservas. Desde entonces casi toda moneda es fe: vale lo que el emisor y el tenedor crean que va a valer mañana.

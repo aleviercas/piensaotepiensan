@@ -1,5 +1,10 @@
 # Capítulo 2 — Geopolítica y los hilos del poder global
 
+El capítulo anterior miró el cuerpo: un virus, una vacuna, un calendario. Este mira el mapa. El silencio es el mismo. En 2020 no se podía nombrar un laboratorio; en 2022 no se podía nombrar un audio de Nuland; en 2023 no se podía nombrar un sótano bajo la ONU. Distinto escenario, misma regla: **hay frases que el paquete no permite**.
+
+—Eso es mezclar. Una pandemia no es una guerra.
+—No las mezclo. Pregunto si el mismo músculo sirve en las dos. Si en una te dijeron “confiá” y en la otra “no contextualices”, conviene mirar quién escribe las dos frases.
+
 ## 2.1 Ucrania: guerra proxy, no cuento de hadas
 
 **Lo que está en el expediente.** En febrero de 2014, después de meses de protestas en Maidán, Víktor Yanukóvich huyó y el Parlamento lo destituyó. Yanukóvich había rechazado el acuerdo de asociación con la Unión Europea a favor de uno con Rusia. Días antes de su caída, sin embargo, se filtró una llamada de Victoria Nuland, entonces subsecretaria de Estado de Estados Unidos, en la que discutía con el embajador en Kiev quién debía sentarse en el próximo gobierno. Eso no es una “teoría” que circule en un foro: es un audio, y el audio se puede escuchar. Por eso este capítulo empieza ahí, y no en el cuento de hadas que vino después.
@@ -102,7 +107,29 @@ Rotherham no fue un pueblo maldito. Rochdale, Oxford —Operation Bullfinch—, 
 
 No: el que las violó no fue Robinson, y el que las tapó tampoco. El que las tapó fue el Estado —policía, municipio, escuela, fiscalía— y una prensa que encontró más cómodo linchar al mensajero que nombrar al patrón. “No me importa lo que haga Tommy Robinson” no es una frase de odio; es la frase de alguien que se niega a que le cambien el tema. El tema es: **por qué, en el país de la Magna Carta, durante quince años, violar nenas pobres fue un costo aceptable del relato de la diversidad**. Hasta que esa pregunta se pueda hacer en la BBC sin que el entrevistador salte a la biografía del entrevistado, el tabú sigue en pie, porque el tabú no se mide por lo que se puede decir en un bar, sino por lo que se puede preguntar en cámara.
 
-## 2.8 Malvinas: nada de esto fue azar
+## 2.8 Diversidad e igualdad: dos palabras que no caben juntas
+
+Rotherham ya dejó la palabra sobre la mesa: *diversidad*. Sirvió, durante quince años, para no nombrar un patrón. Conviene, ahora, mirar la palabra misma, y la que le pegan al lado en cada folleto de empresa y en cada ministerio: *igualdad*. Juntas suenan a virtud. Separadas, se pisan.
+
+La diversidad, si se usa en castellano, dice lo que dice: **no somos iguales**. Hay sexos, hay talentos, hay culturas, hay vocaciones, hay quien rinde en un examen y quien no, hay quien quiere un laboratorio y quien quiere un taller. Eso no es una ofensa. Es el punto de partida de cualquier sociedad que no sea un cuartel. La igualdad, en el uso que se volvió política, pide otra cosa: **que el resultado se parezca**. Misma foto en el directorio, mismos porcentajes en la lista, misma nota promedio entre grupos. Si las personas son diversas, el resultado va a ser diverso. Para que el resultado sea igual hay que dejar de tratar a la gente igual. Ahí está la contradicción, y no es un juego de palabras: es el motor de las políticas.
+
+—La diversidad es una fortaleza.
+—Si lo es, ¿por qué hay que imponerla con cupo? Una fortaleza se nota sola.
+—Porque el punto de partida no es justo.
+—El punto de partida no es justo, y las personas tampoco son copias. Si las personas son diversas, el resultado va a ser diverso. Forzar el mismo resultado es negar la diversidad que se dice celebrar.
+
+Hay una igualdad que no pisa a nadie, y conviene no tirarla con el agua sucia: **igualdad ante la ley**. La misma regla, el mismo delito, el mismo contrato. Esa igualdad *permite* la diversidad, porque no le pide al carpintero que rinda como el cirujano ni al cirujano que vote como el carpintero. La otra, la de los resultados, se hace llamar *equidad* en los folletos y DEI en los organigramas —diversidad, equidad, inclusión—. Equidad, ahí, no significa “no hagas trampa”. Significa: si el grupo A no llega al porcentaje, cambiale la vara. La vara distinta es lo contrario de la regla igual.
+
+En las empresas eso dejó de ser un folleto de recursos humanos y se volvió métrica. McKinsey, a partir de 2015, vendió que más diversidad en el directorio correlacionaba con más ganancia. El argumento era irresistible para un consejo que quería ser bueno y, de yapa, más rico. Green y Hand, entre otros, intentaron repetir el estudio en el S&P 500 y no hallaron el vínculo. McKinsey no publica la lista de empresas, de modo que el paper estrella de una década no se puede auditar como se audita un ensayo clínico. En 2023, la Corte Suprema de Estados Unidos, en *Students for Fair Admissions*, cortó el uso de la raza en las admisiones universitarias. Entre 2024 y 2026, decenas de compañías achicaron o desarmaron oficinas de DEI: no porque se hubieran vuelto malas de golpe, sino porque el argumento de “es buen negocio” no sobrevivió al mercado ni al expediente. Un informe de la Casa Blanca, en 2026, estimó en decenas de miles de millones, en un solo año, el costo de promover por raza y sexo en lugar de por el trabajo. Se puede discutir la cifra. No se puede discutir que **la política existió, se midió poco y se vendió mucho**.
+
+—Entonces estás contra las minorías.
+—Estoy contra tratar a alguien como un porcentaje. Si una ingeniera es la mejor, que entre. Si entra porque es ingeniera *y* porque completa un casillero, el casillero la insulta a ella primero.
+
+La inclusión, tercera palabra del paquete, pide no notar la contradicción. Quien pregunta si un cupo es justo se vuelve, en el mail interno, alguien que “no crea un espacio seguro”. El espacio seguro de una empresa no es un derecho: es un filtro. El mismo filtro que, en Rotherham, le dijo a un policía que nombrar el patrón era racismo. La escala cambia. El truco, no: **una virtud que no se puede medir se usa para no medir lo que molesta**.
+
+Este libro no pide planteles de un solo color ni de un solo sexo. Pide no mentir con el diccionario. Diversidad es que somos distintos. Igualdad de resultados es que no deberíamos serlo. Las dos frases juntas, en un slide de PowerPoint, no son una síntesis: son un hechizo. El hechizo se rompe con una pregunta, la de siempre: **¿querés la misma regla, o el mismo recuento?** Las dos cosas a la vez no se tienen. Quien las venda juntas, en Davos o en un onboarding, está vendiendo la segunda y usando la primera de adorno.
+
+## 2.9 Malvinas: nada de esto fue azar
 
 Un libro escrito en castellano que hable de geopolítica y se saltee las Malvinas está haciendo el mismo truco que le critica a la BBC: borrar el archivo propio. La historia no empieza en 1982, y no empieza en un mapa rosa del Imperio. Empieza cuando alguien llega, se queda, y otro llega después y decide que el que estaba ya no cuenta.
 
@@ -131,3 +158,5 @@ El Kremlin habla de Occidente decadente y de “ideología de género” como am
 La geopolítica no ofrece un ángel y un demonio, pero tampoco un empate eterno. Hay agresores y hay agredidos en cada fecha concreta: el 24 de febrero de 2022, el 7 de octubre de 2023, el 18 de julio de 1994 en Buenos Aires, el 3 de enero de 1833 en las Malvinas. El ejercicio no es “elegir bando y buscarle atenuantes al propio”. Es poder nombrar lo que se ve —quién dispara primero, quién usa civiles, quién miente con un comunicado— sin que el miedo a quedar mal en una cena edite la frase.
 
 Quien llegó a este capítulo con otra brújula no tiene que tirarla: alcanza con ponerla al lado del expediente y ver si sigue apuntando igual. Si sigue, bien. Si no, también. Cambiar de idea, acá, no es traición. Es haber leído.
+
+El mapa deja agresores y agredidos en fechas concretas. El capítulo que sigue baja un piso: del comunicado a la bomba, del Estado que pide confianza al archivo de ese mismo Estado.

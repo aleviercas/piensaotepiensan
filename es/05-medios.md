@@ -1,5 +1,7 @@
 # Capítulo 5 — Medios de comunicación: ingeniería del consentimiento
 
+Quien no se vota, igual habla. El capítulo anterior dejó el poder que no sale en la boleta; este mira quién escribe la frase que esa boleta cree haber elegido. El laboratorio de 2020, el audio de Nuland, las 1.400 nenas: ninguno llegó primero al noticiero. Llegó el recorte.
+
 ## 5.1 Modelos de propaganda: Chomsky y el filtro que él no vio
 
 En 1988, Herman y Chomsky publicaron *Manufacturing Consent*, y lo que proponían era más sutil que un ministerio de censura: los medios que se llaman “libres” no necesitan un telegrama para callar, porque ya filtran por propiedad, por publicidad, por fuentes oficiales, por el *flak* de los grupos de presión y por la ideología dominante de su época, que entonces era el anticomunismo. Ese modelo explica bastante bien Irak 2003 y al *New York Times* disculpándose después por haber copiado al servicio de inteligencia; explica peor Watergate, los Papeles del Pentágono y, sobre todo, lo que vino después. El filtro dominante de las redacciones de 2010-2025 ya no era el anticomunismo, sino el paquete progresista —raza, género, clima, “desinformación”— y la simbiosis con el Estado administrativo. Chomsky describió el poder de su época; el poder cambió de signo, y el método, no.

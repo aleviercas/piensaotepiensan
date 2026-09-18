@@ -1,6 +1,8 @@
 # Capítulo 9 — Espacio y Tierra: misterios no resueltos
 
-## 8.1 La Luna: por qué persisten las dudas (y por qué la evidencia las responde)
+Hasta acá, el libro miró lo que te piensan: el cuerpo, el mapa, la urna, el feed, el gas, el dinero, la máquina. Ahora mira lo que el laboratorio no cierra. Piedras que no se copian, un diluvio que aparece en culturas que no se hablaban, una teoría de Darwin que explica adaptación y se queda corta con el origen. El músculo es el mismo. El objeto, no.
+
+## 9.1 La Luna: por qué persisten las dudas (y por qué la evidencia las responde)
 
 **Por qué la teoría del alunizaje falso sigue circulando.** Sigue viva, en buena medida, porque junta en un mismo relato varios elementos que a un ojo no entrenado le resultan extraños, y los presenta como si formaran un solo expediente. Las sombras que parecen no ser paralelas son, en realidad, un efecto óptico normal de las lentes gran angular sobre un terreno irregular. La ausencia de estrellas en las fotos se entiende cuando se recuerda que la cámara estaba calibrada para la luz brillante de la superficie lunar, no para el fondo oscuro del espacio: es el mismo motivo por el que una foto nocturna con flash tampoco muestra estrellas. Y la bandera que parece «ondear» sin viento se movía porque llevaba una barra horizontal para mantenerla extendida en ausencia de atmósfera; el movimiento que se ve es la inercia de esa barra al ser desplegada, no un soplo de aire.
 
@@ -8,7 +10,7 @@
 
 En 2009, la sonda india Chandrayaan-1 y la NASA fotografiaron desde órbita lunar los sitios de aterrizaje de las misiones Apolo, y en esas imágenes se ven las bases de los módulos y los rastros de pisadas, todavía visibles. Sondas de Japón y de China lo corroboraron después. Este es, probablemente, el tema de todo el libro donde la evidencia acumulada en contra de la teoría alternativa es más abrumadora y menos disputada por especialistas de cualquier país o ideología.
 
-## 8.2 Civilizaciones antiguas y tecnologías perdidas
+## 9.2 Civilizaciones antiguas y tecnologías perdidas
 
 **Lo que la arqueología convencional tuvo que revisar, con evidencia real.** El yacimiento de Göbekli Tepe, en Turquía, se descubrió en los años noventa y se excavó en profundidad desde entonces. Contiene estructuras monumentales de piedra talladas hace unos 11.600 años, varios miles de años antes de lo que la arqueología asumía posible para sociedades sin agricultura sedentaria ni escritura. Eso obligó a revisar, de verdad, el supuesto de que la organización social compleja necesitaba agricultura previa. Es un ejemplo real de cómo el consenso se corrige ante un objeto, no ante un documental.
 
@@ -32,7 +34,7 @@ Tres sitios, tres grados de evidencia, y la misma invitación: **mirar el objeto
 
 **Donde la evidencia se vuelve más débil, y aun así hay que nombrarla.** Las hipótesis de una civilización perdida tecnológicamente avanzada (Graham Hancock y otros) no tienen, hasta hoy, un objeto inequívoco —un engranaje, un texto, una ciudad bajo el hielo con fecha— que obligue al consenso como Göbekli Tepe obligó. Tienen, eso sí, una lista creciente de sitios mal fechados, de estructuras bajo el agua (Yonaguni, disputada) y de mapas que parecen saber costas que el Holoceno tapó. La diferencia con Göbekli Tepe es de grado, no de policía: ahí hay una estructura que cambió una fecha; acá hay un patrón que todavía no cambió el manual. Un patrón no es un dogma, y tampoco es, todavía, un hallazgo.
 
-## 8.3 El diluvio, el arca y los que eran más grandes
+## 9.3 El diluvio, el arca y los que eran más grandes
 
 Casi todas las culturas que se molestaron en escribir tienen un diluvio: Gilgamesh, el Génesis, los Andes, China, los aborígenes australianos, Mesoamérica. O el mar subió de verdad, o el ser humano tiene un arquetipo muy insistente. Ryan y Pitman propusieron, con datos del mar Negro, una inundación súbita hacia el 5600 a.C. que pudo sembrar el relato en el Cercano Oriente. Eso no «prueba el Génesis»; prueba que **un diluvio local enorme puede volverse memoria universal**.
 
@@ -44,7 +46,7 @@ El tamaño, la zona y el texto coinciden lo justo para no poder despachar el sit
 
 Lo que sí hay es esto: **el texto sagrado y el folclore coinciden en que hubo gente más grande, la paleontología admite megafauna y homínidos de talla distinta, y el museo llama mito a todo lo que no tiene ficha**. El método de este libro no es «los gigantes existieron, punto». Es: ¿por qué esa coincidencia entre Biblia, pueblos que no se conocían y huesos que, cuando aparecen, se reetiqueta de inmediato?
 
-## 8.4 Dinosaurios, Darwin y lo que la teoría no carga
+## 9.4 Dinosaurios, Darwin y lo que la teoría no carga
 
 Este capítulo ya aceptó, en la sección que sigue, que un asteroide de diez kilómetros cerró el Cretácico hace 66 millones de años, y **no vamos a fingir una Tierra de seis mil años para salvar un versículo**. El archivo de fósiles, el iridio y Chicxulub son objetos. Lo que sí se puede preguntar, sin dejar de ser adultos, es otra cosa: **si Darwin explica la adaptación, ¿explica también el origen de la información?**
 
@@ -56,7 +58,7 @@ Los tejidos blandos en huesos de dinosaurio (Mary Schweitzer, 2005 en adelante: 
 
 Nada de eso «tira» a Darwin al cesto. Tira, sí, **la costumbre de tratar *El origen de las especies* como un Génesis laico**. La teoría explica muy bien cómo se reparte lo que hay, y explica peor de dónde salió lo que hay, por qué el Cámbrico no se parece a una rampita, y por qué la conciencia —capítulo 11— no aparece en ningún fósil. Un creacionista de Tierra joven y un neo-darwinista de cátedra tienen, en este punto, el mismo vicio: cierran la pregunta con un libro. Este capítulo la deja abierta, porque **hay cosas que no se pueden explicar todavía**, y esa frase no es una rendición: es el requisito para seguir buscando —y, para quien tenga oídos, el umbral de la providencia: el orden que se ve y el Autor que no se pesa.
 
-## 8.5 Catastrofismo: releyendo la historia geológica
+## 9.5 Catastrofismo: releyendo la historia geológica
 
 **Lo que hoy es ciencia establecida, y antes fue herejía.** La hipótesis de que un asteroide de unos 10 kilómetros impactó la península de Yucatán hace 66 millones de años y provocó la extinción masiva que incluyó a los dinosaurios no aviares —propuesta por Luis y Walter Álvarez en 1980— fue recibida al principio con fuerte escepticismo por la comunidad de paleontólogos, que favorecía explicaciones graduales (vulcanismo, cambio climático lento). El hallazgo del cráter de Chicxulub en 1990, con una edad y una composición química consistentes con la capa de iridio, terminó de consolidar la hipótesis. El catastrofismo geológico no es, en sí mismo, seudociencia: una de las hipótesis catastrofistas más importantes de la historia de la ciencia terminó siendo correcta y hoy es material de escuela.
 

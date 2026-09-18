@@ -1,5 +1,7 @@
 # Capítulo 3 — Atentados y encubrimientos
 
+El capítulo anterior dejó agresores y agredidos en fechas concretas —2022, el 7 de octubre, 1833—. Este baja un piso: del mapa a la bomba, del comunicado al archivo del propio Estado. El músculo no cambia. Una bandeja por vez.
+
 ## 3.1 El 11-S: las preguntas oficiales sin cerrar
 
 Este es, probablemente, el tema donde más importa separar con cuidado lo documentado de lo especulativo, porque ambos lados del debate suelen mezclarlos. Quien ya “sabe” que fue un trabajo interno mezcla el memo de agosto con el Edificio 7 y lo sirve en un solo plato. Quien ya “sabe” que no hay nada que mirar usa ese plato para no abrir ni el memo. Este capítulo pide otra cosa, más lenta: una bandeja por vez.

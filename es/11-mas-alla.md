@@ -1,6 +1,8 @@
 # Capítulo 11 — Más allá de la muerte: espiritualidad y existencia
 
-Este capítulo se escribe un poco distinto. No porque los hechos pesen menos, sino porque acá el cuaderno se acerca a lo que no entra del todo en una tabla: la muerte, un hombre de hace dos mil años, una red de textos, la coincidencia que llega a tiempo. Sigue siendo una invitación a mirar, no un púlpito. Quien no tenga esa palabra, que se quede igual: alcanza con no salir corriendo.
+Si las piedras no cierran y el radar tampoco, queda lo que menos se deja pesar: la muerte, un hombre de hace dos mil años, la coincidencia que llega a tiempo.
+
+Este capítulo se escribe un poco distinto. No porque los hechos pesen menos, sino porque acá el cuaderno se acerca a lo que no entra del todo en una tabla. Sigue siendo una invitación a mirar, no un púlpito. Quien no tenga esa palabra, que se quede igual: alcanza con no salir corriendo.
 
 ## 11.1 Experiencias cercanas a la muerte: lo que dice la investigación seria
 

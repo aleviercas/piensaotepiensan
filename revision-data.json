@@ -128,6 +128,12 @@
       "priority": true
     },
     {
+      "id": 183,
+      "section": "Introducción",
+      "prompt": "Puentes entre capítulos (pasillos) y diálogos cortos en geopolítica como prueba: no todo el libro es diálogo.",
+      "hint": "¿Repetir el diálogo a la puerta de cada capítulo, o solo en algunos?"
+    },
+    {
       "id": 7,
       "section": "Capítulo 1 — Salud",
       "prompt": "El laboratorio es la hipótesis que no se podía nombrar; el encubrimiento está más cerrado que el origen.",
@@ -429,6 +435,18 @@
       "id": 113,
       "section": "Capítulo 2 — Geopolítica",
       "prompt": "Rotherham y Tommy Robinson: se discute al mensajero para no mirar las 1.400 nenas."
+    },
+    {
+      "id": 181,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "Diversidad e igualdad se pisan: si somos diversos, el resultado es diverso; igualdad de resultados pide otra vara. Igualdad ante la ley sí cabe.",
+      "hint": "¿Más fuerte (atacar también la igualdad ante la ley)? El editor no lo hizo: esa igualdad permite la diversidad.",
+      "priority": true
+    },
+    {
+      "id": 182,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "DEI empresarial: McKinsey no se replica; SFFA 2023; retiro 2024-2026. Cupo insulta primero a quien entra por el casillero."
     },
     {
       "id": 18,

@@ -1,5 +1,7 @@
 # Capítulo 12 — El camino del pensador inquisitivo
 
+Once cuartos después, el hilo era uno: **¿quién te está pensando?** Este cierre no agrega un tema. Recoge el método.
+
 Empezamos este libro con la Alegoría de la Caverna de Platón: prisioneros que confunden sombras con realidad, y el riesgo de que quien logra salir a la luz sea tomado por loco al volver a contarlo. Once capítulos temáticos después, hay que decir algo que al principio no era tan obvio: salir de la caverna no es encontrar una certeza total afuera. Es aprender a distinguir qué tipo de sombra te están vendiendo, y quién cobra por el proyector.
 
 ## Lo que este recorrido mostró, capítulo por capítulo

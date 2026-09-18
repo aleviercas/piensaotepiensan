@@ -28,7 +28,8 @@ La ideología se adquiere después de mirar los hechos, no al revés.
 2.5 OTAN
 2.6 Islam político y demografía
 2.7 Rotherham, grooming gangs, falacia contra Tommy Robinson
-2.8 Malvinas: 1764-1833, invasiones inglesas 1806-1807, 1982
+2.8 Diversidad e igualdad (DEI, cupo vs. regla igual)
+2.9 Malvinas: 1764-1833, invasiones inglesas 1806-1807, 1982
 
 ## CAPÍTULO 3 — Atentados y encubrimientos
 3.1 11-S

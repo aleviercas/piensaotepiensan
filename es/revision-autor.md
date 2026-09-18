@@ -66,6 +66,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 6. **Providencia / sincronicidad se nombran ya en la intro, sin demostrarlas.** ¿Sí / no / sacar?
 179. **El mundo de Sofía se nombra en la intro: el gesto de las cartas, no una novela a copiar.** ¿Sí / más suave / sacar?
 180. **Forma: ensayo con una pregunta + tres tramos + voz de quien no está de acuerdo (1+3, no novela).** ¿Sí / no?
+183. **Puentes entre capítulos y diálogos cortos en geopolítica (prueba): no todo el libro es diálogo.** ¿Repetir el diálogo en cada capítulo, o solo en algunos?
 
 ---
 
@@ -87,6 +88,8 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 
 16. **7 de octubre, Hamas, UNRWA, ofertas de paz: el relato de “contexto” no puede tapar la masacre ni el fuero.** ¿Sí / no / más suave?
 17. **Islam político en Europa: Pew, doctrina, Rotherham, demografía. No todo musulmán es yihadista; el problema no es imaginario.** ¿Sí / no / más fuerte?
+181. **Diversidad e igualdad se pisan: si somos diversos, el resultado es diverso; igualdad de resultados pide otra vara. Igualdad ante la ley sí cabe.** ¿Sí / más fuerte / más suave?
+182. **DEI en empresas: McKinsey no se replica; cupo insulta primero a quien entra por el casillero.** ¿Sí / no / sacar?
 18. **Malvinas: Bougainville 1764, Francia cede a España, 1833 expulsión, 1982 un error, las invasiones a Buenos Aires 1806-1807 como contexto. Nada es azar.** ¿Sí / no? ¿Falta algún dato que usted tenía?
 19. **Nord Stream: *cui bono*, sin decretar al autor.** ¿Sí / no / más fuerte (señalar a alguien)?
 
