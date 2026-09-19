@@ -50,7 +50,7 @@ Hay que oír al que no está de acuerdo, en su mejor versión, no en la del cart
 
 De acuerdo: la báscula, en el flujo anual, no le da la razón al titular. Recortar esa suma viral es el mismo gesto que recortar el “It’s done” de Liz Truss: un hecho (el cráter arde; el teléfono fue hackeado) estirado hasta una ficción. Si este libro pide rigor para el 97%, también lo pide para el Etna.
 
-Lo que sí queda, y no necesita una suma falsa, es la pregunta política. El Etna no paga multa. El Sol no paga multa. El vapor de agua no paga multa. El auto, sí. Pinatubo, en 1991, enfrió el planeta un rato con **azufre**, no con carbono: el golpe climático de un volcán, cuando se mide, suele ser de signo contrario al cuento del CO2. Entonces el video sirve para esto, no para aquello: **¿estamos midiendo el clima, o estamos eligiendo la palanca que se puede regular por decreto?** La palanca no prueba que el auto no cuente. Prueba que conviene no confundir la foto del cráter con el inventario.
+Lo que sí queda, y no necesita una suma falsa, es la pregunta política. El Etna no paga multa. El Sol no paga multa. El vapor de agua no paga multa. El auto, sí. Pinatubo, en 1991, enfrió el planeta un rato con **azufre**, no con carbono: el golpe climático de un volcán, cuando se mide, suele ser de signo contrario al cuento del CO2. El apartado 6.8 lo desarma. Entonces el video sirve para esto, no para aquello: **¿estamos midiendo el clima, o estamos eligiendo la palanca que se puede regular por decreto?** La palanca no prueba que el auto no cuente. Prueba que conviene no confundir la foto del cráter con el inventario.
 
 ## 6.3 El registro profundo: ¿estamos en un máximo, o en un mínimo?
 
@@ -124,9 +124,27 @@ Si el diagnóstico físico tiene grises, la política que se vendió encima tien
 
 **Quién financia a quién.** Se menciona siempre que los escépticos recibieron dinero de petroleras, y es verdad en varios casos, y hay que decirlo. Se menciona mucho menos que el grueso de la investigación climática, de las ONGs, de los medios especializados y de las consultoras ESG vive de gobiernos, filantropía alineada —Gates, Rockefeller, Bezos Earth Fund— y de un mercado regulatorio que *necesita* el relato de urgencia para justificar su propia existencia. El sesgo de financiamiento no es un argumento solo contra un lado. Quien aplica la regla “sigue el dinero” únicamente al disidente no está siguiendo el dinero: está protegiendo al donante correcto.
 
-## 6.8 Geoingeniería: el plan B de quienes no se bancan el plan A
+## 6.8 El efecto Pinatubo: azufre que enfría, carbono que no
 
-No hay tratado internacional vinculante que regule la geoingeniería solar —inyectar aerosoles en la estratosfera para reflejar luz—. En 2022, la startup Make Sunsets empezó a lanzar globos con dióxido de azufre desde México sin permiso, y México lo prohibió en 2023. El experimento académico más cauteloso (SCoPEx, Harvard) se canceló por presión política e indígena. La paradoja es real: la investigación seria se frena, y el actor privado sin control ya soltó material.
+El 15 de junio de 1991 el monte Pinatubo, en Luzón, Filipinas, explotó con un índice VEI 6: la mayor erupción del siglo que los satélites pudieron mirar de frente. Inyectó del orden de **17 a 20 millones de toneladas de dióxido de azufre** en la estratosfera (Self/USGS; Bluth et al.). En semanas ese SO2 se volvió una niebla de sulfato (H₂SO₄) que dio la vuelta al planeta. Durante uno o dos años, la Tierra recibió menos sol: el forzamiento radiativo llegó a unos **−4 W/m²** en el pico. En el hemisferio norte la superficie se enfrió **0,5 a 0,6 °C**; en el globo, del orden de 0,4 °C en 1992-93. Un trabajo posterior (2024) recorta esa cifra hacia ~0,2 °C y un año: el dipolo existe; el decimal se discute. El polvo cayó. Para 1995 el velo se había ido.
+
+James Hansen y el GISS, en 1992, predijeron ese enfriamiento con un modelo, *antes* de que la curva bajara del todo. El episodio se usa, con razón, como examen: el clima responde a un forzamiento, y ese modelo no se inventó el signo. Hay que oír eso en acero:
+
+—Pinatubo demuestra que el sistema es sensible y que los modelos aciertan un dipolo. Si un velo de azufre enfría medio grado, un extra de invernadero también empuja. Negar lo segundo después de haber visto lo primero es capricho.
+
+De acuerdo en lo primero: **el dipolo es real**. Lo que el episodio no demuestra es que el CO2 *del volcán* haya sido el termostato. El USGS estima el carbono de Pinatubo en unas centésimas de gigatonelada —el de Santa Helena, 1980, en 0,01 Gt—. El golpe medido fue el **azufre**, que refleja sol. El carbono volcánico, en esa erupción, es un extra en el ruido del inventario humano. Patio y torre, otra vez: la torre es “un VEI 6 de azufre enfría un rato”; el patio es “entonces los volcanes mandan el clima y el auto no cuenta”. El que ataca el patio no está negando Pinatubo.
+
+Quedan tres lecciones que sí caben en este libro, y ninguna pide un himno.
+
+**Uno.** El clima, en la escala de un año o dos, se mueve más por un cambio de **albedo** —cuánta luz se devuelve— que por el CO2 que un cráter agrega esa misma semana. Quien venda el video del Etna como si fuera Pinatubo está mezclando gases: uno refleja, el otro absorbe, y las cantidades no se parecen.
+
+**Dos.** Enfriar no es gratis. Trenberth y Dai (2007) midieron, después de Pinatubo, una caída sustancial de la precipitación sobre tierra y un mínimo récord de escorrentía hacia el océano en 1991-92. Japón tuvo, en 1993, el peor verano de arroz de la posguerra. El velo que baja la temperatura también desordena el ciclo del agua. Copiar Pinatubo a propósito —inyectar azufre cada año, como propone una rama de la geoingeniería— no es “apagar el calor”: es comprar sequía, ozono y un rebote si se corta el grifo. El apartado siguiente parte de ahí.
+
+**Tres.** El enfriamiento fue transitorio. Un volcán no firma un tratado. El velo cae, el sol vuelve, y la curva de temperatura retoma. Eso vale para el que quiere usar Pinatubo como “el clima lo mandan los cráteres” y para el que quiere usarlo como termostato permanente: **ni lo uno ni lo otro**. Fue un experimento de la naturaleza, de dos años, con azufre. El expediente está. El patio, no.
+
+## 6.9 Geoingeniería: el plan B de quienes no se bancan el plan A
+
+No hay tratado internacional vinculante que regule la geoingeniería solar —inyectar aerosoles en la estratosfera para reflejar luz—. Pinatubo es el análogo que citan: si un volcán enfrió medio grado con azufre, un programa de sulfatos podría “comprar tiempo”. En 2022, la startup Make Sunsets empezó a lanzar globos con dióxido de azufre desde México sin permiso, y México lo prohibió en 2023. El experimento académico más cauteloso (SCoPEx, Harvard) se canceló por presión política e indígena. La paradoja es real: la investigación seria se frena, y el actor privado sin control ya soltó material.
 
 Los modelos coinciden en un riesgo no especulativo: si se enfría el planeta por aerosoles y después se corta el programa —guerra, quiebra, veto—, hay un rebote de calentamiento más rápido que el gradual actual, y también podrían alterarse monzones de los que dependen miles de millones. Es un termostato con efectos colaterales continentales y sin dueño legal.
 
@@ -134,4 +152,4 @@ La pregunta útil no es si “el cambio climático es real” —en el sentido e
 
 ## Reflexión final
 
-Se puede mirar el termómetro y, al mismo tiempo, dudar de que el carbono de la chimenea sea el director de orquesta. Se puede mirar el 0,04% —una pizca, alimento de plantas, una rebanada humana todavía más chica— y no por eso “negar la física”. Se puede mirar un planeta que, durante millones de años, fue más verde con más CO2, y preguntar de qué, exactamente, estamos huyendo a toda velocidad. Quien salga de este capítulo más convencido de cortar emisiones, que lo haga con los ojos abiertos. Quien salga con una duda que antes no se permitía, que no se deje tratar como enemigo. Las dos salidas caben; la que no cabe es tragar el paquete entero para no quedar mal.
+Se puede mirar el termómetro y, al mismo tiempo, dudar de que el carbono de la chimenea sea el director de orquesta. Se puede mirar el 0,04% —una pizca, alimento de plantas, una rebanada humana todavía más chica— y no por eso “negar la física”. Se puede mirar Pinatubo y admitir el velo de azufre sin convertir cada cráter en un argumento. Se puede mirar un planeta que, durante millones de años, fue más verde con más CO2, y preguntar de qué, exactamente, estamos huyendo a toda velocidad. Quien salga de este capítulo más convencido de cortar emisiones, que lo haga con los ojos abiertos. Quien salga con una duda que antes no se permitía, que no se deje tratar como enemigo. Las dos salidas caben; la que no cabe es tragar el paquete entero para no quedar mal.

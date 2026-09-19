@@ -743,6 +743,12 @@
       "prompt": "Geoingeniería: el plan B de quienes no se bancan el plan A."
     },
     {
+      "id": 188,
+      "section": "Capítulo 6 — Clima",
+      "prompt": "Pinatubo 1991: 17-20 Mt de SO2, enfriamiento ~0,4-0,6 °C un par de años. El golpe fue azufre, no CO2. Hansen acertó el signo. Sequía/escorrentía (Trenberth). No prueba que los volcanes manden el clima.",
+      "priority": true
+    },
+    {
       "id": 38,
       "section": "Capítulo 6 — Clima",
       "prompt": "El libro NO dice “el efecto invernadero es un hoax”.",

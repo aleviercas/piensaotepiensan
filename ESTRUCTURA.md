@@ -60,7 +60,8 @@ La ideología se adquiere después de mirar los hechos, no al revés.
 6.5 Sol, nubes, bamboleo, glaciares y Pequeña Edad de Hielo
 6.6 Extremos, modelos, Climategate
 6.7 Política energética
-6.8 Geoingeniería
+6.8 El efecto Pinatubo: azufre que enfría, no el CO2 del cráter
+6.9 Geoingeniería
 
 ## CAPÍTULO 7 — Economía
 7.1 Oro vs fiat, 1933, petrodólar
