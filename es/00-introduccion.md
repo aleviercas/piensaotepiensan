@@ -1,6 +1,11 @@
 # Introducción
 
-## Más allá de las convenciones: el arte de cuestionar
+## Un sobre, para empezar
+
+*¿Quién eres?*
+*¿Quién te está pensando?*
+
+Sofía Amundsen encontró dos preguntas en el buzón y no las tiró. Este cuaderno no tiene buzón. Tiene un índice. Si las dos líneas de arriba no te interesan, el índice sobra. Si te quedás, el resto es el intento de no entregar el veredicto antes de la conversación.
 
 *"La medida de la inteligencia es la capacidad de cambiar."* — Albert Einstein
 
@@ -18,7 +23,7 @@ Entre quienes desafiaron los paradigmas de su tiempo, pocos lo hicieron con la p
 
 Siglos antes, **Sócrates** enseñó a pensar sin ofrecer respuestas, solo preguntas. Su método —el diálogo y la duda sistemática— cuestionó los valores que Atenas daba por sentados, y le valió la condena a muerte. Su discípulo **Platón** nos dejó una de las metáforas más duraderas sobre la verdad: la Alegoría de la Caverna. Unos prisioneros encadenados solo ven sombras en una pared y las toman por realidad. Cuando uno logra salir a la luz, comprende que vivió en la ilusión; pero al volver para contarlo, lo toman por loco. Esa caverna sigue describiendo al ser humano frente a un conocimiento nuevo: muchos prefieren la comodidad de las sombras conocidas antes que una luz que obliga a repensar todo.
 
-Hay un libro, más cercano, que me enseñó esa caverna sin sermón. *El mundo de Sofía*, de Jostein Gaarder, es una de las lecturas que más me marcaron. Sofía no recibe un catecismo: recibe cartas. *¿Quién eres? ¿De dónde viene el mundo?* Un desconocido le va dejando la historia de la filosofía como quien deja un sobre en el buzón, y ella, que podría haber tirado el sobre, se queda. Ese gesto —preguntar sin humillar, no entregar el veredicto antes de la conversación— es el que este cuaderno quiere copiar. No es una novela. No va a inventar un Alberto Knox ni una adolescente en Noruega. Pero le pide prestado a Gaarder lo que Platón ya había inventado: que pensar se enseña en diálogo, no en púlpito.
+Hay un libro, más cercano, que me enseñó esa caverna sin sermón. *El mundo de Sofía*, de Jostein Gaarder, es una de las lecturas que más me marcaron. Sofía no recibe un catecismo: recibe cartas. *¿Quién eres? ¿De dónde viene el mundo?* Un desconocido le va dejando la historia de la filosofía como quien deja un sobre en el buzón, y ella, que podría haber tirado el sobre, se queda. Ese gesto —preguntar sin humillar, no entregar el veredicto antes de la conversación— es el que este cuaderno quiere copiar. No va a inventar un Alberto Knox ni una adolescente en Noruega. Va a dejar, entre tramo y tramo, un sobre corto. Si lo tirás, no hay examen. Si lo abrís, el siguiente capítulo es la carta que sigue.
 
 **Cristóbal Colón** desafió la concepción cerrada del mundo lanzándose a océanos que muchos creían el borde del abismo. **Fernando de Magallanes** fue más lejos y demostró, con el viaje, que la Tierra era esférica y que los mares unían continentes en vez de separarlos. **Giordano Bruno** imaginó un universo infinito y fue ejecutado por herejía; su muerte sigue simbolizando el precio que a veces se paga por pensar más allá de lo permitido. **Galileo Galilei**, heredero de ese mismo fuego, confirmó con el telescopio que la Tierra no era el centro del universo. La Inquisición lo condenó y lo obligó a retractarse, pero sus hallazgos sentaron las bases de la ciencia moderna.
 
@@ -42,7 +47,7 @@ Hay un sesgo concreto, y conviene nombrarlo de entrada, sin pelearse con quien n
 
 ## Cómo leer este libro (y cómo no)
 
-Este libro no es *El mundo de Sofía*. No hay un curso de Tales a Sartre, ni un curso de “la verdad”. Hay otra caverna, la de este siglo: un virus, un clima, un feed, una máquina que ya escribe el promedio. La forma, sin embargo, quiere parecerse: un ensayo con una sola columna —**¿quién te está pensando, y qué pasa si dejás de preguntar?**— y, en cada cuarto, la voz de quien no está de acuerdo, dicha en su mejor versión: la que él firmaría. Si el libro le gana a un muñeco, no le ganó a nadie. Si el que piensa distinto se reconoce en esa voz, tal vez no cierre.
+Este libro no es *El mundo de Sofía*. No hay un curso de Tales a Sartre, ni un curso de “la verdad”, ni un filósofo que te espera en una cabaña. Hay otra caverna, la de este siglo: un virus, un clima, un feed, una máquina que ya escribe el promedio. La forma, sin embargo, quiere el mismo gesto: un ensayo con una sola columna —**¿quién te está pensando, y qué pasa si dejás de preguntar?**—, en cada cuarto la voz de quien no está de acuerdo, dicha en su mejor versión: la que él firmaría, y, entre tramo y tramo, un sobre. Si el libro le gana a un muñeco, no le ganó a nadie. Si el que piensa distinto se reconoce en esa voz, tal vez no cierre.
 
 El recorrido tiene tres tramos, para que no parezca una lista de polémicas. Primero, el cuerpo y el mundo: salud, geopolítica, atentados —te taparon la boca con un virus, con una guerra, con una bomba. Después, el relato y las perillas: democracia, medios, clima, dinero, la máquina. Al final, lo que el laboratorio no cierra: la Tierra, lo que no se explica, la muerte, la fe. Una sola pregunta los une. Si un capítulo no sirve a esa pregunta, sobra.
 
@@ -86,4 +91,15 @@ Si se parte de que las instituciones —gobiernos, corporaciones, medios, agenci
 
 Hoy podríamos añadir: para mantener a una sociedad pasiva, alcanza con convencerla de que ya tiene todas las respuestas.
 
-**Bienvenido. El viaje es una invitación, no un reclutamiento.**
+---
+
+### Primer sobre
+
+*¿Quién eres?*
+*¿Quién te está pensando?*
+
+No hace falta que contestes ahora. Sofía tampoco contestó en el acto: se quedó con el papel y fue a clase. El primer tramo es el cuerpo y el mundo —un virus, un mapa, una bomba—. Si 2020 no te cerró la boca, igual se puede leer. Si te la cerró, conviene empezar ahí: el músculo se entrena donde más dolió.
+
+Nadie toma asistencia. El sobre se puede dejar sobre la mesa.
+
+**El viaje es una invitación, no un reclutamiento.**

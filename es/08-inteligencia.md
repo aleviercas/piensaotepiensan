@@ -118,3 +118,15 @@ Este capítulo no va a dictar si la especie se extingue en 2036. No tiene el exp
 La pregunta adulta no es “¿estás a favor o en contra de la IA?”. Esa ya la respondió el mercado. Es esta, más lenta: **cuando el oráculo hable por el siglo, ¿va a quedar alguien que le pida la fuente —y que pueda pagar el almuerzo en efectivo el día que la fuente no guste?**
 
 Si la respuesta es sí, la máquina puede ser la mejor aliada que tuvo el pensamiento crítico: un archivo que no se cansa. Si la respuesta es no, estas páginas son, en el peor caso, un manual de arqueología, y en el menos malo, un aviso que llegó a tiempo. Este libro se escribe como si todavía hubiera tiempo. El resto —apagar, regular, copiar, rezar, programar— se adquiere después de mirar. No antes.
+
+---
+
+### Tercer sobre
+
+Hasta acá, el que te piensa tiene oficina, redacción o servidor. Ahora el laboratorio no cierra: piedras que no se copian, luces que no son todas globos, un sepulcro, una coincidencia que llega a tiempo.
+
+Hacia el final, Sofía se pregunta si ella misma está dentro de un libro. Este cuaderno no va a ese juego. Va a este: hay cosas que el método no pesa, y declararlas pesadas para no quedar de místico es otra forma de que te piensen.
+
+Si llegaste hasta acá, ya entrenaste el músculo. El último tramo pide no usarlo como mazo contra lo que no entra en una tabla.
+
+*¿Qué hacés con una pregunta que el laboratorio no puede firmar?*

@@ -134,6 +134,18 @@
       "hint": "¿Sacar alguno que suene forzado? ¿Más suaves?"
     },
     {
+      "id": 189,
+      "section": "Introducción",
+      "prompt": "Apertura a lo Gaarder: dos preguntas (¿quién eres? / ¿quién te está pensando?) y el primer sobre al cierre de la intro.",
+      "priority": true
+    },
+    {
+      "id": 190,
+      "section": "Introducción",
+      "prompt": "Tres sobres entre tramos (después de atentados, después de IA) y un sobre final en el cap. 12. No es novela: son cartas cortas.",
+      "priority": true
+    },
+    {
       "id": 184,
       "section": "Introducción",
       "prompt": "Método nombrado: hombre de paja, patio y torre (motte-and-bailey), hombre de acero. El amigo debe firmar su frase.",

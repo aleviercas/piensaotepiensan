@@ -87,3 +87,15 @@ La teoría se popularizó sobre todo a partir del testimonio de Madeleine Brown,
 ## Reflexión final
 
 Este capítulo probablemente sea el que mejor resume el método de todo el libro: no toda sospecha es cierta, pero tampoco toda sospecha es descabellada. La diferencia entre una y otra no la da la intuición ni la desconfianza general hacia el poder —por más justificada que esté—, sino la calidad y el origen de la evidencia disponible en cada caso particular. Ese criterio, aburrido y poco viral, es el único que sostiene este libro capítulo tras capítulo. Si sirvió de algo, sirvió para poder dejar un caso abierto sin convertirlo en un dogma, y para poder cerrar otro sin que eso suene a lealtad.
+
+---
+
+### Segundo sobre
+
+Ya viste tres cuartos: un virus, un mapa, una explosión. Si sentís que te están reclutando, paramos. El método no era cambiar de iglesia. Era dejar una pregunta abierta un día más.
+
+El próximo tramo es más seco: la urna, el titular, el gas, el billete, la máquina. Menos sangre. Más perilla. Si el primero te cansó, este pide otro músculo: el de no tragar el recorte que se repite.
+
+*¿Quién escribe la frase que después votás?*
+
+Tampoco hace falta contestar ahora. Sofía, a esta altura, ya había aprendido que Alberto no le tomaba prueba: le dejaba otra carta. Esta es esa carta.
