@@ -54,7 +54,7 @@ La ideología se adquiere después de mirar los hechos, no al revés.
 
 ## CAPÍTULO 6 — Cambio climático
 6.1 Sólido vs paquete
-6.2 Una pregunta de proporción: el 0,04% y nuestra parte
+6.2 Una pregunta de proporción: el 0,04% y nuestra parte; Etna y la suma viral que no cierra
 6.3 Registro profundo: ¿máximo o mínimo? Hojas fósiles, temperatura que adelanta al CO2
 6.4 1940-1975 y Newsweek 1975
 6.5 Sol, nubes, bamboleo, glaciares y Pequeña Edad de Hielo
