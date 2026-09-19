@@ -1,13 +1,15 @@
 # Capítulo 6 — Cambio climático: ¿consenso o dogma?
 
-El mismo paquete, ahora con un gas. Si el consenso sanitario y el de las redacciones se inclinaron juntos, el climático es el tercero de la fila: urgencia moral, disidente como enemigo, perilla que sí se puede regular por decreto. Conviene la misma pregunta de proporción que en el virus: ¿qué se midió, y qué se vendió como si se hubiera medido?
+El mismo paquete, ahora con un gas. Si el consenso sanitario y el de las redacciones se inclinaron juntos, el climático es el tercero de la fila: urgencia moral, disidente como enemigo, perilla que sí se puede regular por decreto. Vale la misma pregunta de proporción que en el virus: ¿qué se midió, y qué se vendió como si se hubiera medido?
 
 —El CO2 absorbe infrarrojo, el aire se calentó un grado, y parte de ese carbono extra tiene firma fósil. Eso está medido. Dudar de la política no borra el tubo de Tyndall.
 —Este capítulo firma las tres. Lo que abre es lo de después: cuánto pesa esa molécula, qué tan calientes corren los modelos, y si “el 97%” cubre el net-zero o solo el enunciado mínimo. El tubo se queda. El patio de la política, no.
 
 ## 6.1 Lo que está sólido y lo que se vende como si lo estuviera
 
-Este capítulo no pide que se deje de mirar el termómetro; pide, más bien, que no se le entregue al carbono de la chimenea un poder que, por tamaño y por historia, tal vez no tiene. El aire se calentó y el CO2 subió, y esas dos curvas se pueden mirar juntas sin convertirlas, de inmediato, en un veredicto moral. Lo que suele venir después —que casi todo el calor es nuestro, que los modelos aciertan lo suficiente para rediseñar la economía, que los huracanes ya son la prueba, que el único camino decente es apagar el fósil a toda prisa, y que dudar de cualquiera de esos saltos es “negar la ciencia”— no es física: es un paquete. Se puede abrir, y se puede, incluso, seguir preocupado por el clima después de abrirlo. Este libro solo invita a no tragárselo cerrado.
+Este capítulo no pide que se deje de mirar el termómetro. Pide que no se le entregue al carbono de la chimenea un poder que, por tamaño y por historia, tal vez no tiene. El aire se calentó y el CO2 subió. Esas dos curvas se pueden mirar juntas sin convertirlas, de inmediato, en un veredicto moral.
+
+Lo que suele venir después es otra cosa: que casi todo el calor es nuestro; que los modelos aciertan lo suficiente para rediseñar la economía; que los huracanes ya son la prueba; que el único camino decente es apagar el fósil a toda prisa; y que dudar de cualquiera de esos saltos es “negar la ciencia”. Eso no es física. Es un paquete. Se puede abrir. Incluso se puede seguir preocupado por el clima después de abrirlo. Este libro solo invita a no tragárselo cerrado.
 
 **Algunas cosas sí se miden.** La temperatura media de superficie, en las series más usadas, subió alrededor de un grado desde el siglo XIX, y el CO2 del aire pasó de unas 280 partes por millón a más de 420. Una parte de ese carbono extra tiene firma de combustibles fósiles. El CO2 absorbe radiación infrarroja: lo midieron Tyndall y Arrhenius hace más de un siglo, con un tubo y un termómetro, y negar el tubo no es pensamiento crítico, como tampoco lo es negarse a preguntar **cuánto pesa esa molécula frente al Sol, al vapor de agua, a las nubes y al océano**.
 
@@ -21,7 +23,7 @@ Este capítulo no pide que se deje de mirar el termómetro; pide, más bien, que
 
 ## 6.2 Una pregunta de proporción: el 0,04% y nuestra parte
 
-Antes de aceptar que el carbono que sale de nuestras chimeneas es el termostato del planeta, vale la pena sentarse un minuto con una cuenta sencilla. No es un truco de redes ni un “caso de estudio” contra nadie: es la pregunta con la que mucha gente, este autor incluido, empezó a dudar. **¿De qué tamaño es, en el aire que respiramos, eso que se nos carga como culpa civilizatoria?**
+Antes de aceptar que el carbono que sale de nuestras chimeneas es el termostato del planeta, vale sentarse un minuto con una cuenta sencilla. No es un truco de redes ni un “caso de estudio” contra nadie. Es la pregunta con la que mucha gente, este autor incluido, empezó a dudar. **¿De qué tamaño es, en el aire que respiramos, eso que se nos carga como culpa civilizatoria?**
 
 Casi todo el aire es nitrógeno y oxígeno, y el dióxido de carbono es una pizca: unas cuatro partes en diez mil. **El 0,04%.** No se ve ni se huele, y las plantas lo comen; sin esa pizca no habría bosques, ni trigo, ni nosotros. Tratarlo como un veneno que “ensucia” el cielo es, de entrada, un mal retrato, porque es comida de la fotosíntesis. Los invernaderos lo inyectan a propósito, precisamente porque las plantas crecen mejor.
 

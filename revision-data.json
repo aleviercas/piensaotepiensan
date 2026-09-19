@@ -146,6 +146,12 @@
       "priority": true
     },
     {
+      "id": 191,
+      "section": "Introducción",
+      "prompt": "Estilo: carta (vos), frases más cortas, menos jerga de expediente. Títulos más simples. El muñeco / patio-torre / mejor versión, sin inglés de manual.",
+      "hint": "¿Se lee más fácil? ¿Quedó demasiado coloquial?"
+    },
+    {
       "id": 184,
       "section": "Introducción",
       "prompt": "Método nombrado: hombre de paja, patio y torre (motte-and-bailey), hombre de acero. El amigo debe firmar su frase.",
