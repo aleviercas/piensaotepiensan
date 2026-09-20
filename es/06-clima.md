@@ -1,6 +1,6 @@
 # Capítulo 6 — Cambio climático: ¿consenso o dogma?
 
-El mismo paquete, ahora con un gas. Si el consenso sanitario y el de las redacciones se inclinaron juntos, el climático es el tercero de la fila: urgencia moral, disidente como enemigo, perilla que sí se puede regular por decreto. Vale la misma pregunta de proporción que en el virus: ¿qué se midió, y qué se vendió como si se hubiera medido?
+El mismo paquete, ahora con un gas. Si el consenso sanitario y el de las redacciones se inclinaron juntos, el climático es el tercero de la fila: urgencia moral, disidente como enemigo, palanca que sí se puede regular por decreto. Vale la misma pregunta de proporción que en el virus: ¿qué se midió, y qué se vendió como si se hubiera medido?
 
 —El CO2 absorbe infrarrojo, el aire se calentó un grado, y parte de ese carbono extra tiene firma fósil. Eso está medido. Dudar de la política no borra el tubo de Tyndall.
 —Este capítulo firma las tres. Lo que abre es lo de después: cuánto pesa esa molécula, qué tan calientes corren los modelos, y si “el 97%” cubre el net-zero o solo el enunciado mínimo. El tubo se queda. El patio de la política, no.
@@ -15,9 +15,11 @@ Lo que suele venir después es otra cosa: que casi todo el calor es nuestro; que
 
 **Lo que se presenta como cerrado y no lo está.**
 
-**La cifra del “97%”.** El paper más citado (Cook et al., 2013) no preguntó a los climatólogos “¿cuánto calentamiento, con qué sensibilidad, y qué política corresponde?”; clasificó resúmenes de papers. Dos tercios de esos papers *no tomaban posición* sobre la causa del calentamiento y, de los que sí la tomaban, el 97% coincidía en que hay un componente humano. Eso es un consenso sobre un enunciado mínimo —“los humanos influimos”—, no sobre catástrofe, sensibilidad alta ni net-zero 2050. Reciclar ese 97% como si fuera un veredicto sobre política energética es el patio y la torre: la torre es “hay componente humano”; el patio es “entonces esta política”. El que ataca el patio no está incendiendo la torre.
+**La cifra del “97%”.** El paper más citado (Cook y otros, 2013) no preguntó a los climatólogos “¿cuánto calentamiento, con qué sensibilidad, y qué política corresponde?”. Clasificó resúmenes de papers. Dos tercios de esos papers *no tomaban posición* sobre la causa del calentamiento. De los que sí la tomaban, el 97% coincidía en que hay un componente humano. Eso es un consenso sobre un enunciado mínimo —“los humanos influimos”—, no sobre catástrofe, sensibilidad alta ni net-zero 2050. Reciclar ese 97% como si fuera un veredicto sobre política energética es el patio y la torre: la torre es “hay componente humano”; el patio es “entonces esta política”. Quien ataca el patio no está incendiendo la torre.
 
-**La sensibilidad climática.** Cuánto se calienta el planeta por cada duplicación de CO2 (ECS) es *el* número que importa para saber si estamos ante un inconveniente manejable o ante un apocalipsis. El IPCC AR6 da un rango “probable” de 2,5 °C a 4 °C, con 3 °C como valor central, y ese rango viene, en buena parte, de modelos. Estimaciones basadas en el registro instrumental histórico —Lewis y Curry (2018), Lewis (2022)— dan valores más bajos, del orden de 1,5 °C a 2,7 °C, con un valor central cerca de 2 °C. No es un detalle: si la sensibilidad real está en la parte baja, el calentamiento a 2100 bajo emisiones realistas es mucho menos dramático de lo que venden los documentales, y el costo de “apagar” la economía fósil en dos décadas supera con creces el beneficio climático. El IPCC lo admite como incertidumbre; el periodismo climático lo trata como herejía.
+**La sensibilidad climática.** Cuánto se calienta el planeta por cada duplicación de CO2 (ECS) es *el* número que importa para saber si estamos ante un inconveniente manejable o ante un apocalipsis. El IPCC, en su sexto informe, da un rango “probable” de 2,5 °C a 4 °C, con 3 °C como valor central, y ese rango viene, en buena parte, de modelos. Estimaciones basadas en el registro instrumental —Lewis y Curry (2018), Lewis (2022)— dan valores más bajos, del orden de 1,5 °C a 2,7 °C, con un valor central cerca de 2 °C.
+
+No es un detalle. Si la sensibilidad real está en la parte baja, el calentamiento a 2100 bajo emisiones realistas es mucho menos dramático de lo que venden los documentales, y el costo de “apagar” la economía fósil en dos décadas supera con creces el beneficio climático. El IPCC lo admite como incertidumbre. El periodismo climático lo trata como herejía.
 
 **Los modelos corren calientes.** La generación CMIP6 incluye modelos con ECS superior a 5 °C que ya calentaron de más el período observado, y el propio IPCC tuvo que advertir que no se usara el promedio crudo de esos modelos como proyección. Cuando un instrumento sistemáticamente sobreestima el pasado, un adulto no lo usa como oráculo del futuro sin calibrarlo. En clima, usarlo y llamar “negacionista” a quien pide la calibración se volvió costumbre.
 
@@ -36,7 +38,7 @@ Quien defiende el relato oficial responde, y hay que escucharlo: un compuesto pu
 - sí, una traza puede hacer algo;
 - y sí, sigue siendo una traza, y nuestra rebanada de esa traza es chica.
 
-La pregunta que este libro quiere dejar abierta no es “¿el CO2 existe?”. Es esta, más honesta: **¿alcanza esa rebanada para explicar el clima del siglo, o se la está usando de perilla porque es la única que se puede regular por decreto?** El vapor de agua es el gran gas de invernadero y no se vota; el Sol no se vota; las nubes no se votan. El carbono de la chimenea, sí. Eso no prueba que no cuente: prueba que conviene preguntar si no le estamos pidiendo que cargue con todo.
+La pregunta que este libro quiere dejar abierta no es “¿el CO2 existe?”. Es esta, más honesta: **¿alcanza esa rebanada para explicar el clima del siglo, o se la está usando de perilla porque es la única que se puede regular por decreto?** El vapor de agua es el gran gas de invernadero y no se vota; el Sol no se vota; las nubes no se votan. El carbono de la chimenea, sí. Eso no prueba que no cuente: prueba que vale preguntar si no le estamos pidiendo que cargue con todo.
 
 Hay más, y va en la misma dirección. En los últimos doscientos millones de años el CO2 del aire estuvo, gran parte del tiempo, muy por encima de hoy: mil partes por millón, a veces más. El planeta no era un desierto: era más verde, y las hojas fósiles de entonces están hechas para un aire más rico. Hoy estamos, en esa escala larga, cerca de un mínimo; más bajo, casi solo en las edades de hielo. Si el carbono fuera un veneno climático automático, esa historia sería otra.
 
@@ -128,7 +130,9 @@ Si el diagnóstico físico tiene grises, la política que se vendió encima tien
 
 ## 6.8 El efecto Pinatubo: azufre que enfría, carbono que no
 
-El 15 de junio de 1991 el monte Pinatubo, en Luzón, Filipinas, explotó con un índice VEI 6: la mayor erupción del siglo que los satélites pudieron mirar de frente. Inyectó del orden de **17 a 20 millones de toneladas de dióxido de azufre** en la estratosfera (Self/USGS; Bluth et al.). En semanas ese SO2 se volvió una niebla de sulfato (H₂SO₄) que dio la vuelta al planeta. Durante uno o dos años, la Tierra recibió menos sol: el forzamiento radiativo llegó a unos **−4 W/m²** en el pico. En el hemisferio norte la superficie se enfrió **0,5 a 0,6 °C**; en el globo, del orden de 0,4 °C en 1992-93. Un trabajo posterior (2024) recorta esa cifra hacia ~0,2 °C y un año: el dipolo existe; el decimal se discute. El polvo cayó. Para 1995 el velo se había ido.
+El 15 de junio de 1991 el monte Pinatubo, en Luzón, Filipinas, explotó con un índice VEI 6: la mayor erupción del siglo que los satélites pudieron mirar de frente. Inyectó del orden de **17 a 20 millones de toneladas de dióxido de azufre** en la estratosfera (Self y el USGS; Bluth y otros). En semanas ese SO2 se volvió una niebla de sulfato que dio la vuelta al planeta.
+
+Durante uno o dos años, la Tierra recibió menos sol: el forzamiento radiativo llegó a unos **−4 W/m²** en el pico. En el hemisferio norte la superficie se enfrió **0,5 a 0,6 °C**; en el globo, del orden de 0,4 °C en 1992-93. Un trabajo posterior (2024) recorta esa cifra hacia ~0,2 °C y un año: el dipolo existe; el decimal se discute. El polvo cayó. Para 1995 el velo se había ido.
 
 James Hansen y el GISS, en 1992, predijeron ese enfriamiento con un modelo, *antes* de que la curva bajara del todo. El episodio se usa, con razón, como examen: el clima responde a un forzamiento, y ese modelo no se inventó el signo. Hay que oír eso en acero:
 
@@ -144,7 +148,7 @@ Quedan tres lecciones que sí caben en este libro, y ninguna pide un himno.
 
 **Tres.** El enfriamiento fue transitorio. Un volcán no firma un tratado. El velo cae, el sol vuelve, y la curva de temperatura retoma. Eso vale para el que quiere usar Pinatubo como “el clima lo mandan los cráteres” y para el que quiere usarlo como termostato permanente: **ni lo uno ni lo otro**. Fue un experimento de la naturaleza, de dos años, con azufre. El expediente está. El patio, no.
 
-## 6.9 Geoingeniería: el plan B de quienes no se bancan el plan A
+## 6.9 Geoingeniería: el plan B de quienes no logran el plan A
 
 No hay tratado internacional vinculante que regule la geoingeniería solar —inyectar aerosoles en la estratosfera para reflejar luz—. Pinatubo es el análogo que citan: si un volcán enfrió medio grado con azufre, un programa de sulfatos podría “comprar tiempo”. En 2022, la startup Make Sunsets empezó a lanzar globos con dióxido de azufre desde México sin permiso, y México lo prohibió en 2023. El experimento académico más cauteloso (SCoPEx, Harvard) se canceló por presión política e indígena. La paradoja es real: la investigación seria se frena, y el actor privado sin control ya soltó material.
 
