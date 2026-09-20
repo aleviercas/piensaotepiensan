@@ -61,7 +61,7 @@ Cada capítulo, en lo posible, se arma igual: **lo que se da por cerrado**, la n
 
 Sacar un límite no es tragar el siguiente. Hoy se discute casi todo y, al mismo tiempo, se exige que una acepte como hecho la realidad interior de cualquiera: que hay más de dos sexos, o que un humano que se siente perro —los *therian*— vive, en serio, otra especie. Creerlo con toda el alma es un hecho *sobre esa persona*. No es un hecho sobre el mundo. Hay realidades imaginarias. La biología de los mamíferos sigue teniendo dos sexos. Un hombre no es un perro porque se lo crea. La amabilidad no pide reescribir el diccionario del cuerpo. El método es el mismo que en el resto del libro: **un sentimiento es un dato; no es física.**
 
-Hay temas en los que el autor tiene pulso: la fe, las Malvinas, el cansancio con las agencias. Ese pulso no autoriza a inflar un muerto ni a esconder un dato. Donde una cuenta sencilla —el 0,04% del aire, una gripe unas tres veces más fuerte que un año malo, una agencia de la ONU que no es un ejército— abre una duda, el libro la escribe con calma y la deja viva. Donde el relato oficial se queda corto —el laboratorio, Rotherham, 1833, Isaías, Event 201—, también lo dice. Quien busque un combo ya armado va a tropezar. Quien busque un método, no.
+Hay temas en los que el autor tiene pulso: la fe, las Malvinas, el cansancio con las agencias. Ese pulso no autoriza a inflar un muerto ni a esconder un dato. Donde una cuenta sencilla abre una duda, el libro la escribe con calma y la deja viva. Donde el relato oficial se queda corto —el laboratorio, Rotherham, 1833, Isaías, Event 201—, también lo dice. Quien busque un combo ya armado va a tropezar. Quien busque un método, no.
 
 A veces el método se encuentra con otra cosa, que no entra en una tabla: una coincidencia que llega a tiempo, un libro que aparece cuando hacía falta, un encuentro que nadie agendó. Carl Jung le puso **sincronicidad**. La fe le pone **providencia**. Este libro no va a demostrar ninguna de las dos con un número, y tampoco va a declararlas superstición porque el laboratorio no las pesa. El capítulo 11 vuelve ahí. En la introducción alcanza con esto: quien se pone a buscar la verdad de los hechos, tarde o temprano tropieza con el hecho de que no controla el calendario.
 
@@ -71,7 +71,7 @@ La curiosidad va primero. El color político, si aparece, aparece después. Inve
 
 Hay una manera fácil de leer un libro como este: buscar la frase que confirma lo que ya se creía y subrayarla. Hay otra, un poco más lenta. Cuando algo roce, no hace falta cerrar el libro ni mandarlo a la hoguera. Alcanza con tres gestos:
 
-1. **Separar el hecho de la interpretación.** “El CO2 es una pizca del aire” es un hecho. “Entonces no puede mandar el clima” es una interpretación. Se puede aceptar el primero y discutir la segunda, sin pelearse.
+1. **Separar el hecho de la interpretación.** “Hubo un virus nuevo y hospitales saturados” es un hecho. “Entonces hacía falta cerrar el mundo” es una interpretación. Se puede aceptar el primero y discutir la segunda, sin pelearse.
 2. **Preguntar qué ganaría el autor si usted cambiara de idea.** Si la respuesta es un voto, una camiseta o un enemigo, desconfíe. Si la respuesta es “nada, salvo que mire otra vez”, quédese un rato más.
 3. **Probar el mismo rasero al revés.** Si este libro pide evidencia para un mandato sanitario, también la pide para un video de un foro. El método que solo funciona hacia un lado no es método.
 

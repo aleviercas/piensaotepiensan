@@ -134,7 +134,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 
 ## Capítulo 6 — Clima *(acá hubo malentendido)*
 
-32. **La cuenta del 0,04% y del 3% es *su* pregunta de proporción, no un truco que el libro le corrige.** ¿Quedó bien esta vez, o todavía se siente “corregido”?
+32. **La cuenta del 0,04% y del 3% vive solo en el cap. 6: es la conclusión para mostrar que el CO2 humano no da para el villano. No es estribillo ni una corrección al autor.** ¿Quedó solo ahí?
 187. **Etna 2026: el video no gana el inventario anual (volcanes << humanidad). Sí queda: se multa el auto, no el cráter. Recortar la suma viral.** El titular decía que el Etna soltó más que meses de recortes de la UE; la báscula no lo sostiene. ¿Dejarlo así, o afirmar el titular?
 188. **Pinatubo 1991: azufre (17-20 Mt SO2), enfriamiento ~0,5 °C un par de años. Hansen acertó el signo. El golpe no fue CO2. Sequía (Trenberth). No prueba que los volcanes manden el clima.** ¿Sí / más fuerte / más suave?
 33. **Se invita a cuestionar que el cambio climático lo mande el carbono humano.** ¿Sí / no / más fuerte (decir que *no* lo manda)?
