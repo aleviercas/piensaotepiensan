@@ -92,10 +92,10 @@ Este capítulo probablemente sea el que mejor resume el método de todo el libro
 
 ### Segundo sobre
 
-Ya viste tres cuartos: un virus, un mapa, una explosión. Si sentís que te están reclutando, paramos. El método no era cambiar de iglesia. Era dejar una pregunta abierta un día más.
+Ya vio tres cuartos: un virus, un mapa, una explosión. Si siente que lo están reclutando, paramos. El método no era cambiar de iglesia. Era dejar una pregunta abierta un día más.
 
-El próximo tramo es más seco: la urna, el titular, el gas, el billete, la máquina. Menos sangre. Más perilla. Si el primero te cansó, este pide otro músculo: el de no tragar el recorte que se repite.
+El próximo tramo es más seco: la urna, el titular, el gas, el billete, la máquina. Menos sangre. Más perilla. Si el primero lo cansó, este pide otro músculo: el de no tragar el recorte que se repite.
 
-*¿Quién escribe la frase que después votás?*
+*¿Quién escribe la frase que usted después vota?*
 
 Tampoco hace falta contestar ahora. Sofía, a esta altura, ya había aprendido que Alberto no le tomaba prueba: le dejaba otra carta. Esta es esa carta.

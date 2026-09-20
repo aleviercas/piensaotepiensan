@@ -5,11 +5,11 @@
 *¿Quién eres?*
 *¿Quién te está pensando?*
 
-Sofía Amundsen encontró dos preguntas en el buzón y no las tiró. Este cuaderno no tiene buzón. Tiene un índice. Si las dos líneas de arriba no te interesan, el índice sobra. Si te quedás, el resto es el intento de no entregar el veredicto antes de la conversación.
+Sofía Amundsen encontró dos preguntas en el buzón y no las tiró. Este cuaderno no tiene buzón: tiene un índice. Si las dos líneas de arriba no le interesan, el índice sobra. Si se queda, el resto es el intento de no entregar el veredicto antes de la conversación.
 
 *"La medida de la inteligencia es la capacidad de cambiar."* — Albert Einstein
 
-Los grandes avances no salieron, por lo general, del que asiente. Salieron de gente que dudó de lo que venía envuelto en autoridad: un comité, un ministerio, un titular. Este libro es un tributo a ese espíritu. No a una tribu.
+Los grandes avances no salieron, por lo general, del que asiente. Salieron de gente que dudó de lo que venía envuelto en autoridad: un comité, un ministerio, un titular. Este libro es un tributo a ese espíritu, no a una tribu.
 
 Tampoco es un manifiesto. Es el cuaderno de alguien curioso que intenta ver los hechos —lo que se puede chequear, lo que se omite, lo que se infla— **antes** de ponerles un color político. La camiseta se adquiere después de ese razonamiento, no al revés. Quien elige primero el bando y después busca los datos que lo decoren no está pensando: está tapizando. Estas páginas se escriben en el otro orden. El riesgo es evidente: quedar mal con los dos costados.
 
@@ -17,7 +17,7 @@ Un profesor de mi universidad solía decir que el sentido común es el menos com
 
 Esa independencia va a ser más cara, no más barata. Con la inteligencia artificial, el “consenso” ya no necesita una redacción ni un ministerio: se entrena en masa, se sirve en un chat y suena razonable. Quien controle los textos con los que se entrena la máquina, las políticas de “seguridad” y lo que el modelo se niega a decir no está censurando un artículo. Está censurando el *promedio* de lo que mil millones de personas van a leer como si lo hubieran pensado ellas. Una voz crítica, sola, no compite con una máquina que produce el mismo párrafo en todos los idiomas a las tres de la mañana.
 
-Por eso este libro insiste en el músculo que la máquina no tiene: **sostener una pregunta cuando el feed ya trajo la respuesta**. El capítulo de medios vuelve sobre esto. El 8 lo toma de frente. Acá alcanza con marcarlo: si no entrenamos ese músculo ahora, dentro de una generación “pensar” va a parecer un hobby de anticuarios.
+Por eso este libro insiste en el músculo que la máquina no tiene: **sostener una pregunta cuando el feed ya trajo la respuesta**. El capítulo de medios vuelve sobre esto; el 8 lo toma de frente. Aquí alcanza con marcarlo: si no entrenamos ese músculo ahora, dentro de una generación “pensar” va a parecer un hobby de anticuarios.
 
 ## Quienes preguntaron
 
@@ -27,7 +27,7 @@ Entre quienes desafiaron lo que su época daba por cerrado, pocos lo hicieron co
 
 Siglos antes, **Sócrates** enseñó a pensar sin ofrecer respuestas: solo preguntas. El diálogo le valió la condena. Su discípulo **Platón** nos dejó la imagen que este libro no va a soltar: la caverna. Unos prisioneros ven sombras en una pared y las toman por el mundo. Cuando uno sale a la luz y vuelve a contarlo, lo toman por loco. Muchos prefieren la sombra conocida. Una luz que obliga a repensar todo es, todavía, una ofensa.
 
-Hay un libro, más cercano, que me enseñó esa caverna sin sermón. *El mundo de Sofía*, de Jostein Gaarder, es una de las lecturas que más me marcaron. Sofía no recibe un catecismo: recibe cartas. *¿Quién eres? ¿De dónde viene el mundo?* Un desconocido le va dejando la historia de la filosofía como quien deja un sobre en el buzón, y ella, que podría haber tirado el sobre, se queda. Ese gesto —preguntar sin humillar, no entregar el veredicto antes de la conversación— es el que este cuaderno quiere copiar. No va a inventar un Alberto Knox ni una adolescente en Noruega. Va a dejar, entre tramo y tramo, un sobre corto. Si lo tirás, no hay examen. Si lo abrís, el siguiente capítulo es la carta que sigue.
+Hay un libro, más cercano, que me enseñó esa caverna sin sermón. *El mundo de Sofía*, de Jostein Gaarder, es una de las lecturas que más me marcaron. Sofía no recibe un catecismo: recibe cartas. *¿Quién eres? ¿De dónde viene el mundo?* Un desconocido le va dejando la historia de la filosofía como quien deja un sobre en el buzón, y ella, que podría haber tirado el sobre, se queda. Ese gesto —preguntar sin humillar, no entregar el veredicto antes de la conversación— es el que este cuaderno quiere copiar. No va a inventar un Alberto Knox ni una adolescente en Noruega. Va a dejar, entre tramo y tramo, un sobre corto. Si lo deja, no hay examen. Si lo abre, el siguiente capítulo es la carta que sigue.
 
 **Cristóbal Colón** se lanzó a océanos que muchos creían el borde del abismo. **Magallanes** fue más lejos y, con el viaje, mostró que los mares unían continentes en vez de separarlos. **Giordano Bruno** imaginó un universo infinito y fue ejecutado por herejía. **Galileo** apuntó el telescopio y confirmó que la Tierra no era el centro; la Inquisición lo obligó a retractarse. Sus hallazgos, no su proceso, sentaron la ciencia que después los citó.
 
@@ -41,21 +41,21 @@ Ya en este siglo, **Malala Yousafzai**, apenas una adolescente, desafió la viol
 
 Lo que une a todas estas figuras no es que hayan tenido siempre razón en cada detalle. Es que se animaron a preguntar donde otros solo repetían. Tampoco es el truco de Galileo: si a Semmelweis le fue mal, no por eso cualquier disidente de hoy tiene razón. El archivo, no el halo.
 
-## El elefante
+## El elefante en la habitación
 
 Nunca hubo tanto acceso a la información. Pocas veces tanta confusión sobre qué creer. Relatos que parecían sólidos se agrietan. Explicaciones alternativas —algunas firmes, otras no— compiten por la atención.
 
-Este libro no busca reemplazar un dogma por otro. No es un combo de certezas para gente cansada de las oficiales. Es una invitación a sostener una pregunta incómoda el tiempo suficiente como para investigarla en serio, en lugar de resolverla por comodidad ideológica, venga esa comodidad de donde venga.
+Este libro no busca reemplazar un dogma por otro. No es una colección de certezas para quien ya se cansó de las oficiales. Es una invitación a sostener una pregunta incómoda el tiempo suficiente como para investigarla en serio, en lugar de resolverla por comodidad ideológica, venga esa comodidad de donde venga.
 
 Hay un sesgo concreto, y hay que nombrarlo de entrada, sin pelearse con quien no lo ve igual. En las últimas dos décadas, las instituciones que producen el “consenso” —agencias sanitarias, universidades, redacciones, organismos internacionales— tendieron, a la vez y sin necesidad de un sótano único, hacia un mismo paquete: máxima precaución sanitaria, clima como urgencia moral, multiculturalismo como tema que casi no se puede tocar, y “desinformación” como problema de policía. Un asistente de escritura entrenado en ese material tiende a suavizar lo que ese paquete no soporta. Este libro, cuando tropieza con ese suavizado, vuelve al hecho. No para empujar al lector hacia “la derecha”. Para dejar la pregunta donde estaba antes de que la peinaran.
 
 ## Cómo leer este libro (y cómo no)
 
-Este libro no es *El mundo de Sofía*. No hay un curso de Tales a Sartre, ni un curso de “la verdad”, ni un filósofo que te espera en una cabaña. Hay otra caverna, la de este siglo: un virus, un clima, un feed, una máquina que ya escribe el promedio.
+Este libro no es *El mundo de Sofía*. No hay un curso de Tales a Sartre, ni un curso de “la verdad”, ni un filósofo que lo espere a usted en una cabaña. Hay otra caverna, la de este siglo: un virus, un clima, un feed, una máquina que ya escribe el promedio.
 
-La forma, sin embargo, quiere el mismo gesto. Un ensayo con una sola columna: **¿quién te está pensando, y qué pasa si dejás de preguntar?** En cada cuarto, la voz de quien no está de acuerdo, dicha en su mejor versión: la que él firmaría. Entre tramo y tramo, un sobre. Si el libro le gana a un muñeco, no le ganó a nadie. Si el que piensa distinto se reconoce en esa voz, tal vez no cierre.
+La forma, sin embargo, quiere el mismo gesto. Un ensayo con una sola columna: **¿quién te está pensando, y qué pasa si dejás de preguntar?** En cada cuarto, la voz de quien no está de acuerdo, dicha en su mejor versión: la que él firmaría. Entre tramo y tramo, un sobre. Si el libro le gana a un espantapájaros, no le ganó a nadie. Si quien piensa distinto se reconoce en esa voz, tal vez no cierre.
 
-El recorrido tiene tres tramos, para que no parezca una lista de polémicas. Primero, el cuerpo y el mundo: salud, geopolítica, atentados. Te taparon la boca con un virus, con una guerra, con una bomba. Después, el relato y las perillas: democracia, medios, clima, dinero, la máquina. Al final, lo que el laboratorio no cierra: la Tierra, lo que no se explica, la muerte, la fe. Una sola pregunta los une. Si un capítulo no sirve a esa pregunta, sobra.
+El recorrido tiene tres tramos, para que no parezca una lista de polémicas. Primero, el cuerpo y el mundo: salud, geopolítica, atentados. Le taparon la boca con un virus, con una guerra, con una bomba. Después, el relato y las perillas: democracia, medios, clima, dinero, la máquina. Al final, lo que el laboratorio no cierra: la Tierra, lo que no se explica, la muerte, la fe. Una sola pregunta los une. Si un capítulo no sirve a esa pregunta, sobra.
 
 Cada capítulo, en lo posible, se arma igual: **lo que se da por cerrado**, la narrativa que se vende, lo que esa narrativa omite, y una pregunta que no se traga. No es un candado de temas prohibidos. Si el libro sirve de algo, **saca límites**: pregunta justo ahí donde se dijo “esto ya no se toca”. El esqueleto es, además, una defensa contra el propio autor. Si en algún párrafo el texto se pone himno —de un lado o del otro—, se nota, y se puede dejar de lado.
 
@@ -72,12 +72,12 @@ La curiosidad va primero. El color político, si aparece, aparece después. Inve
 Hay una manera fácil de leer un libro como este: buscar la frase que confirma lo que ya se creía y subrayarla. Hay otra, un poco más lenta. Cuando algo roce, no hace falta cerrar el libro ni mandarlo a la hoguera. Alcanza con tres gestos:
 
 1. **Separar el hecho de la interpretación.** “El CO2 es una pizca del aire” es un hecho. “Entonces no puede mandar el clima” es una interpretación. Se puede aceptar el primero y discutir la segunda, sin pelearse.
-2. **Preguntar qué ganaría el autor si vos cambiaras de idea.** Si la respuesta es un voto, una camiseta o un enemigo, desconfiá. Si la respuesta es “nada, salvo que mires otra vez”, quedate un rato más.
+2. **Preguntar qué ganaría el autor si usted cambiara de idea.** Si la respuesta es un voto, una camiseta o un enemigo, desconfíe. Si la respuesta es “nada, salvo que mire otra vez”, quédese un rato más.
 3. **Probar el mismo rasero al revés.** Si este libro pide evidencia para un mandato sanitario, también la pide para un video de un foro. El método que solo funciona hacia un lado no es método.
 
-Esas tres no bastan si uno no nombra las trampas. Van acá, con ejemplos de este mismo cuaderno, para que puedas cazárselas al autor.
+Esas tres no bastan si uno no nombra las trampas. Van aquí, con ejemplos de este mismo cuaderno, para que el lector pueda cazárselas al autor.
 
-**El muñeco.** Se reemplaza lo que el otro dice por una versión más tonta, se le gana a esa, y se cobra como si se le hubiera ganado a él. “El consenso no se discute” es un cartel, no un climatólogo. “Las vacunas son veneno” es un cartel, no quien duda de un mandato. Si el otro no firmaría la frase que se le puso en la boca, no hubo discusión: hubo un espantapájaros.
+**El hombre de paja.** Se reemplaza lo que el otro dice por una versión más débil, se le gana a esa, y se cobra como si se le hubiera ganado a él. “El consenso no se discute” es un cartel, no un climatólogo. “Las vacunas son veneno” es un cartel, no quien duda de un mandato. Si el otro no firmaría la frase que se le puso en la boca, no hubo discusión: hubo un espantapájaros.
 
 **El patio y la torre.** Se ocupa un patio amplio —“hay que rediseñar la economía”; “el laboratorio fue un complot”— y, cuando llegan los datos, uno se encierra en la torre —“el CO2 absorbe calor”; “no se podía nombrar la hipótesis”—. Las dos frases pueden ser ciertas. El truco es usar la misma palabra para las dos y tratar al que atacó el patio como si hubiera atacado la torre. “La ciencia del clima”, “seguir la ciencia”, “diversidad”, “cuestionar las vacunas”: el hechizo está en no partirlas. Este libro intenta partirlas. Si en algún párrafo las pega, es un fallo, no un método.
 
@@ -87,7 +87,7 @@ Nadie está obligado a salir de estas páginas convertido. Estar obligado a no p
 
 ## Para quién es este cuaderno
 
-Es un libro para inconformes, en cualquier país: para quienes no se conforman ni con la respuesta fácil del sistema ni con la respuesta fácil de quienes dicen combatirlo. No pretendo tener todas las respuestas —de hecho, desconfío de quien asegura tenerlas—. Sí me comprometo a algo concreto: formular las preguntas que muchos evitan, mostrar de dónde vienen las distintas versiones de cada historia, y dejar que seas vos quien saque las conclusiones, con las mejores fuentes que pueda ofrecerte de cada lado.
+Es un libro para inconformes, en cualquier país: para quienes no se conforman ni con la respuesta fácil del sistema ni con la respuesta fácil de quienes dicen combatirlo. No pretendo tener todas las respuestas —de hecho, desconfío de quien asegura tenerlas—. Sí me comprometo a algo concreto: formular las preguntas que muchos evitan, mostrar de dónde vienen las distintas versiones de cada historia, y dejar que sea el lector quien saque las conclusiones, con las mejores fuentes que pueda ofrecerle de cada lado.
 
 Si se parte de que las instituciones —gobiernos, corporaciones, medios, agencias sanitarias— actúan siempre de manera transparente y desinteresada, varios capítulos van a rozar. Si se parte, al revés, de que “oficial” equivale a “mentira” y que todo disidente es un mártir, también hay roce: hay historias de café que no sobreviven a un archivo. El punto no es ganar. El punto es no elegir el veredicto antes de leer.
 
@@ -102,8 +102,8 @@ Hoy podríamos añadir: para mantener a una sociedad pasiva, alcanza con convenc
 *¿Quién eres?*
 *¿Quién te está pensando?*
 
-No hace falta que contestes ahora. Sofía tampoco contestó en el acto: se quedó con el papel y fue a clase. El primer tramo es el cuerpo y el mundo —un virus, un mapa, una bomba—. Si 2020 no te cerró la boca, igual se puede leer. Si te la cerró, mejor empezar ahí: el músculo se entrena donde más dolió.
+No hace falta que conteste ahora. Sofía tampoco contestó en el acto: se quedó con el papel y fue a clase. El primer tramo es el cuerpo y el mundo —un virus, un mapa, una bomba—. Si 2020 no le cerró la boca, igual se puede leer. Si se la cerró, tiene sentido empezar ahí: el músculo se entrena donde más dolió.
 
-Nadie toma asistencia. El sobre se puede dejar sobre la mesa.
+Nadie toma asistencia. El sobre puede quedarse sobre la mesa.
 
 **El viaje es una invitación, no un reclutamiento.**

@@ -3,13 +3,13 @@
 Once cuartos después, el hilo era uno: **¿quién te está pensando?** Este cierre no agrega un tema. Recoge el método.
 
 —Al final hay un combo: laboratorio, carbono, Davos, la máquina. Eso también es una iglesia, con otros santos.
-—Si se lee como combo, falló. El método era el rasero al revés, no la lista. Si al cerrar pensás lo mismo, no pasa nada. Si el combo te sirvió de munición, el libro te pidió que no.
+—Si se lee como combo, falló. El método era el rasero al revés, no la lista. Si al cerrar piensa lo mismo, no pasa nada. Si el combo le sirvió de munición, el libro le pidió que no.
 
 ### El sobre era este
 
-No hay más carta. Sofía tampoco se volvió Tales en un semestre, y no hacía falta. Lo que queda es el hábito de no tirar el sobre la próxima vez que llegue uno —de un ministerio, de un tío, de un chat.
+No hay más carta. Sofía tampoco se volvió Tales en un semestre, y no hacía falta. Lo que queda es el hábito de no tirar el sobre la próxima vez que llegue uno —de un ministerio, de un pariente, de un chat.
 
-Si al cerrar pensás lo mismo que al empezar, no pasa nada. El punto no era convertirte. El punto era que la pregunta ya es tuya.
+Si al cerrar piensa lo mismo que al empezar, no pasa nada. El punto no era convertirlo. El punto era que la pregunta ya es suya.
 
 Empezamos este libro con la Alegoría de la Caverna de Platón: prisioneros que confunden sombras con realidad, y el riesgo de que quien logra salir a la luz sea tomado por loco al volver a contarlo. Once capítulos temáticos después, hay que decir algo que al principio no era tan obvio: salir de la caverna no es encontrar una certeza total afuera. Es aprender a distinguir qué tipo de sombra te están vendiendo, y quién cobra por el proyector.
 
@@ -58,12 +58,12 @@ Si este libro se usa como munición —para ganar en una mesa, para humillar a u
 
 Tres hábitos, si queda alguno:
 
-**Uno.** Cuando una noticia te mueva el piso, no la reenvíes en el minuto. Esperá a saber si hay un documento o solo un tono. El capítulo 5 dejó cinco preguntas. Con una alcanza.
+**Uno.** Cuando una noticia le mueva el piso, no la reenvíe en el minuto. Espere a saber si hay un documento o solo un tono. El capítulo 5 dejó cinco preguntas. Con una alcanza.
 
-**Dos.** Cuando un experto —o un disidente— te pida un acto de fe (cerrar, inyectar, votar, apagar, odiar), preguntá qué se midió y qué no. El «confiá» de 2020 fue caro. El «no confíes nunca» también lo es: deja a la gente sola con un foro. El medio es más aburrido y más adulto.
+**Dos.** Cuando un experto —o un disidente— le pida un acto de fe (cerrar, inyectar, votar, apagar, odiar), pregunte qué se midió y qué no. El «confiá» de 2020 fue caro. El «no confíes nunca» también lo es: deja a la gente sola con un foro. El medio es más aburrido y más adulto.
 
-**Tres.** Dejá una coincidencia en paz. Si un libro, un encuentro o una pregunta llegan a tiempo, no hace falta montar una religión ni declarar un sesgo. El capítulo 11 le puso dos nombres, providencia y sincronicidad, y no cerró ninguno. Quien no tenga esa palabra, que use otra: *asombro*. El asombro es compatible con el método; el desprecio, no.
+**Tres.** Deje una coincidencia en paz. Si un libro, un encuentro o una pregunta llegan a tiempo, no hace falta montar una religión ni declarar un sesgo. El capítulo 11 le puso dos nombres, providencia y sincronicidad, y no cerró ninguno. Quien no tenga esa palabra, que use otra: *asombro*. El asombro es compatible con el método; el desprecio, no.
 
 Este no es un libro para argentinos, ni para «los de un lado», ni para los que ya tienen el combo armado. Es un cuaderno para cualquiera que, en cualquier ciudad, sienta que le están vendiendo la película demasiado redonda. Si una página no convence, se deja; si una página raspa, se mira. Cambiar de idea no es perder. Es, otra vez, una medida de inteligencia.
 
-Y si, al terminar, seguís pensando lo mismo que al empezar, no pasa nada. El punto no era convertirte. El punto era que, la próxima vez que un noticiero, un ministerio o un chat te entregue una certeza empaquetada, tengas a mano una pregunta. Con eso alcanza. El resto —el color, el partido, la camiseta— se adquiere después, si se adquiere. Nunca antes.
+Y si, al terminar, sigue pensando lo mismo que al empezar, no pasa nada. El punto no era convertirlo. El punto era que, la próxima vez que un noticiero, un ministerio o un chat le entregue una certeza empaquetada, tenga a mano una pregunta. Con eso alcanza. El resto —el color, el partido, la camiseta— se adquiere después, si se adquiere. Nunca antes.

@@ -4,7 +4,7 @@ Tamaño objetivo: ~40.000 palabras (ebook corto, KDP).
 Edición actual: ~48.000 (en crecimiento; capítulo 8 de IA añadido).
 
 Encuadre: **hecho verificable → narrativa oficial → controversia documentada → pregunta abierta**.
-Forma: ensayo con una sola pregunta (*¿quién te está pensando?*) en tres tramos, voz de quien no está de acuerdo dicha en acero, y **sobres cortos** entre tramos (gesto de *El mundo de Sofía*, no una novela).
+Forma: ensayo con una sola pregunta (*¿quién te está pensando?*) en tres tramos, voz de quien no está de acuerdo dicha en acero, y **sobres cortos** entre tramos (gesto de *El mundo de Sofía*, no una novela). Voz narrativa: el autor escribe al lector en **usted**; el lema queda en tú; los diálogos de puerta son habla oral.
 El consenso institucional es un dato sociológico, no una prueba.
 Un atajo de redes no se copia si las unidades no cierran; se reescribe con las unidades correctas y se deja la pregunta en pie. Un tabú de redacción no se respeta si el expediente lo contradice.
 Libro para un lector de cualquier país: los ejemplos argentinos son laboratorio, no parroquia.

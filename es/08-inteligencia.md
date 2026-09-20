@@ -123,10 +123,10 @@ Si la respuesta es sí, la máquina puede ser la mejor aliada que tuvo el pensam
 
 ### Tercer sobre
 
-Hasta acá, el que te piensa tiene oficina, redacción o servidor. Ahora el laboratorio no cierra: piedras que no se copian, luces que no son todas globos, un sepulcro, una coincidencia que llega a tiempo.
+Hasta aquí, quien lo piensa a uno tiene oficina, redacción o servidor. Ahora el laboratorio no cierra: piedras que no se copian, luces que no son todas globos, un sepulcro, una coincidencia que llega a tiempo.
 
-Hacia el final, Sofía se pregunta si ella misma está dentro de un libro. Este cuaderno no va a ese juego. Va a este: hay cosas que el método no pesa, y declararlas pesadas para no quedar de místico es otra forma de que te piensen.
+Hacia el final, Sofía se pregunta si ella misma está dentro de un libro. Este cuaderno no va a ese juego. Va a este: hay cosas que el método no pesa, y declararlas pesadas para no quedar de místico es otra forma de que a uno lo piensen.
 
-Si llegaste hasta acá, ya entrenaste el músculo. El último tramo pide no usarlo como mazo contra lo que no entra en una tabla.
+Si llegó hasta aquí, ya entrenó el músculo. El último tramo pide no usarlo como mazo contra lo que no entra en una tabla.
 
-*¿Qué hacés con una pregunta que el laboratorio no puede firmar?*
+*¿Qué hace usted con una pregunta que el laboratorio no puede firmar?*

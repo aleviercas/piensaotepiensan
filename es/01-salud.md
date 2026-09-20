@@ -1,6 +1,6 @@
 # Capítulo 1 — La salud en la encrucijada
 
-Este es el primer cuarto. No porque sea el más importante: porque casi todos lo vivimos a la vez. Si 2020 no te cerró la boca, el resto del libro igual se puede leer. Si te la cerró, mejor empezar acá: el músculo se entrena donde más dolió.
+Este es el primer cuarto. No porque sea el más importante: porque casi todos lo vivimos a la vez. Si 2020 no le cerró la boca, el resto del libro igual se puede leer. Si se la cerró, tiene sentido empezar aquí: el músculo se entrena donde más dolió.
 
 —Hubo un virus nuevo, hospitales saturados, y se decidió con datos incompletos. Eso no es un complot.
 —De acuerdo en las tres. Este capítulo pregunta qué se silenció mientras se decidía, no si el virus era de plástico.

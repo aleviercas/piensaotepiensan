@@ -1,6 +1,6 @@
 # Capítulo 9 — Espacio y Tierra: misterios no resueltos
 
-Hasta acá, el libro miró lo que te piensan: el cuerpo, el mapa, la urna, el feed, el gas, el dinero, la máquina. El tercer sobre quedó sobre la mesa. Ahora se abre: lo que el laboratorio no cierra. Piedras que no se copian, un diluvio que aparece en culturas que no se hablaban, una teoría de Darwin que explica adaptación y se queda corta con el origen. El músculo es el mismo. El objeto, no.
+Hasta aquí, el libro miró lo que a uno lo piensan: el cuerpo, el mapa, la urna, el feed, el gas, el dinero, la máquina. El tercer sobre quedó sobre la mesa. Ahora se abre: lo que el laboratorio no cierra. Piedras que no se copian, un diluvio que aparece en culturas que no se hablaban, una teoría de Darwin que explica adaptación y se queda corta con el origen. El músculo es el mismo. El objeto, no.
 
 —La ciencia cierra lo que puede tocar, predecir y repetir. Lo que no produce objeto se queda en el estante, no en el templo.
 —Ese rasero es el de este capítulo. Lo que se discute es si a veces se declara “cerrado” para no quedar de místico: el mismo reflejo, invertido.

@@ -69,7 +69,8 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 183. **Puentes + diálogo corto a la puerta de cada capítulo (gesto Sofía). El cuerpo sigue ensayo.** ¿Sí / sacar alguno / más suave?
 189. **Apertura a lo Gaarder: dos preguntas y el primer sobre al cierre de la intro.** ¿Sí / más corto / sacar?
 190. **Tres sobres entre tramos (después de atentados, después de IA) y uno final en el cap. 12.** ¿Sí / más / menos?
-191. **Estilo: carta (vos), frases más cortas, menos jerga de expediente.** ¿Se lee más fácil? ¿Quedó demasiado coloquial?
+191. **Estilo: carta en usted (no chat en vos). Frases completas, menos jerga.** ¿Se lee más fácil? ¿Quedó demasiado formal?
+192. **Voz: el autor (yo) escribe al lector (usted). Diálogos de puerta en habla oral. El lema ¿quién te está pensando? queda en tú, como título.** ¿Sí / todo en usted / todo en vos?
 
 184. **Método: hombre de paja, patio y torre, hombre de acero. El amigo debe firmar su frase.** ¿Sí / más corto / sacar?
 185. **El “paquete” es sesgo convergente, no un sótano único.** ¿Sí / más fuerte (“sí hay bloque”)?

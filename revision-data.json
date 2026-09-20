@@ -148,8 +148,14 @@
     {
       "id": 191,
       "section": "Introducción",
-      "prompt": "Estilo: carta (vos), frases más cortas, menos jerga de expediente. Títulos más simples. El muñeco / patio-torre / mejor versión, sin inglés de manual.",
-      "hint": "¿Se lee más fácil? ¿Quedó demasiado coloquial?"
+      "prompt": "Estilo: carta en usted (no chat en vos). Frases completas, menos jerga de expediente. Hombre de paja / patio-torre / mejor versión del otro.",
+      "hint": "¿Se lee más fácil? ¿Quedó demasiado formal?"
+    },
+    {
+      "id": 192,
+      "section": "Introducción",
+      "prompt": "Voz: el autor (yo) escribe al lector (usted). Los diálogos de puerta siguen en habla oral. El lema ¿quién te está pensando? queda en tú, como título.",
+      "priority": true
     },
     {
       "id": 184,
