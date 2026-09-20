@@ -58,7 +58,9 @@
     {
       "id": 64,
       "section": "Introducción",
-      "prompt": "Einstein al abrir: la medida de la inteligencia es la capacidad de cambiar."
+      "prompt": "La frase “la medida de la inteligencia es la capacidad de cambiar” circula como de Einstein; el archivo no la firma. Se deja la idea, en duda el sello.",
+      "hint": "¿Sacar la frase del todo, o dejarla así, como apócrifa?",
+      "priority": true
     },
     {
       "id": 65,
@@ -120,6 +122,11 @@
       "section": "Introducción",
       "prompt": "El mundo de Sofía (Gaarder) se nombra en la intro: el gesto de las cartas y la pregunta, no una novela a copiar.",
       "priority": true
+    },
+    {
+      "id": 193,
+      "section": "Introducción",
+      "prompt": "Sofía se nombra por el libro de Gaarder, sin el apellido Amundsen (no es un personaje de este cuaderno)."
     },
     {
       "id": 180,

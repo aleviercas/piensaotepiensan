@@ -5,9 +5,9 @@
 *¿Quién eres?*
 *¿Quién te está pensando?*
 
-Sofía Amundsen encontró dos preguntas en el buzón y no las tiró. Este cuaderno no tiene buzón: tiene un índice. Si las dos líneas de arriba no le interesan, el índice sobra. Si se queda, el resto es el intento de no entregar el veredicto antes de la conversación.
+En *El mundo de Sofía*, de Jostein Gaarder, una chica de catorce años encuentra dos preguntas en el buzón y no las tira. Este cuaderno no tiene buzón: tiene un índice. Si las dos líneas de arriba no le interesan, el índice sobra. Si se queda, el resto es el intento de no entregar el veredicto antes de la conversación.
 
-*"La medida de la inteligencia es la capacidad de cambiar."* — Albert Einstein
+Se le cuelga a Einstein, en posters y en feeds, una frase que el archivo no firma: *"La medida de la inteligencia es la capacidad de cambiar."* No aparece en sus papeles ni en las recopilaciones serias de sus citas. Circula con su nombre desde hace unos años, como tantas otras. La idea, aun así, aguanta sin el sello: **cambiar de idea no es perder**. Estas páginas se escriben con esa medida, tenga o no el apellido correcto.
 
 Los grandes avances no salieron, por lo general, del que asiente. Salieron de gente que dudó de lo que venía envuelto en autoridad: un comité, un ministerio, un titular. Este libro es un tributo a ese espíritu, no a una tribu.
 
@@ -27,7 +27,7 @@ Entre quienes desafiaron lo que su época daba por cerrado, pocos lo hicieron co
 
 Siglos antes, **Sócrates** enseñó a pensar sin ofrecer respuestas: solo preguntas. El diálogo le valió la condena. Su discípulo **Platón** nos dejó la imagen que este libro no va a soltar: la caverna. Unos prisioneros ven sombras en una pared y las toman por el mundo. Cuando uno sale a la luz y vuelve a contarlo, lo toman por loco. Muchos prefieren la sombra conocida. Una luz que obliga a repensar todo es, todavía, una ofensa.
 
-Hay un libro, más cercano, que me enseñó esa caverna sin sermón. *El mundo de Sofía*, de Jostein Gaarder, es una de las lecturas que más me marcaron. Sofía no recibe un catecismo: recibe cartas. *¿Quién eres? ¿De dónde viene el mundo?* Un desconocido le va dejando la historia de la filosofía como quien deja un sobre en el buzón, y ella, que podría haber tirado el sobre, se queda. Ese gesto —preguntar sin humillar, no entregar el veredicto antes de la conversación— es el que este cuaderno quiere copiar. No va a inventar un Alberto Knox ni una adolescente en Noruega. Va a dejar, entre tramo y tramo, un sobre corto. Si lo deja, no hay examen. Si lo abre, el siguiente capítulo es la carta que sigue.
+Ese libro —*El mundo de Sofía*— ya abrió estas páginas. Lo que me enseñó, y lo que este cuaderno copia, es el gesto: Sofía no recibe un catecismo; recibe cartas. Un desconocido le va dejando la historia de la filosofía como quien deja un sobre en el buzón, y ella, que podría haber tirado el sobre, se queda. Preguntar sin humillar. No entregar el veredicto antes de la conversación. No hace falta inventar un Alberto Knox ni una adolescente en Noruega. Entre tramo y tramo, un sobre corto. Si lo deja, no hay examen. Si lo abre, el siguiente capítulo es la carta que sigue.
 
 **Cristóbal Colón** se lanzó a océanos que muchos creían el borde del abismo. **Magallanes** fue más lejos y, con el viaje, mostró que los mares unían continentes en vez de separarlos. **Giordano Bruno** imaginó un universo infinito y fue ejecutado por herejía. **Galileo** apuntó el telescopio y confirmó que la Tierra no era el centro; la Inquisición lo obligó a retractarse. Sus hallazgos, no su proceso, sentaron la ciencia que después los citó.
 

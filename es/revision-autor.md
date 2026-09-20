@@ -60,6 +60,8 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 
 1. **Esto es el cuaderno de alguien curioso, no un manifiesto.** ¿Sí / no / más fuerte / más suave?
 2. **La ideología se adquiere después del razonamiento, no al revés.** ¿Sí / no?
+64. **La frase de “Einstein” (medir la inteligencia por cambiar de idea) circula; el archivo no la firma. Se deja la idea, en duda el sello.** ¿Así / sacar la frase / afirmarla igual?
+193. **Sofía se nombra por el libro de Gaarder, sin el apellido Amundsen.** ¿Bien / volver al apellido?
 3. **Tesla entra en la lista de quien pensó contra su industria, sin la mitología de internet.** ¿Sí / no?
 4. **Con la IA, el pensamiento crítico va a ser un bien escaso.** ¿Sí / no / más fuerte?
 5. **El libro está escrito desde un país, no solo para ese país.** ¿Sí / no?
