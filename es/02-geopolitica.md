@@ -1,11 +1,11 @@
-# Capítulo 2 — Geopolítica y los hilos del poder global
+# Capítulo 2 — Guerras, mapas y comunicados
 
-El capítulo anterior miró el cuerpo: un virus, una vacuna, un calendario. Este mira el mapa. El silencio es el mismo. En 2020 no se podía nombrar un laboratorio; en 2022 no se podía nombrar un audio de Nuland; en 2023 no se podía nombrar un sótano bajo la ONU. Distinto escenario, misma regla: **hay frases que el paquete no permite**.
+El capítulo anterior miró el cuerpo: un virus, una vacuna, un calendario. Este mira el mapa. El silencio, en otro escenario, se parece: hay frases que un comunicado no permite.
 
 —Una guerra tiene causas, un agresor que cruza una frontera, y muertos que no son un “relato”. Mezclar eso con un virus es perder el hilo.
-—Las causas y la frontera importan. El hilo de este libro no es “todo es lo mismo”: es si, en las dos, te dijeron qué no se podía nombrar.
+—Las causas y la frontera importan. El hilo de este libro no es “todo es lo mismo”: es si, en las dos, le dijeron qué no se podía nombrar.
 
-## 2.1 Ucrania: guerra proxy, no cuento de hadas
+## 2.1 Ucrania: dos relatos, una invasión
 
 **Lo que está en el expediente.** En febrero de 2014, después de meses de protestas en Maidán, Víktor Yanukóvich huyó y el Parlamento lo destituyó. Yanukóvich había rechazado el acuerdo de asociación con la Unión Europea a favor de uno con Rusia. Días antes de su caída, sin embargo, se filtró una llamada de Victoria Nuland, entonces subsecretaria de Estado de Estados Unidos, en la que discutía con el embajador en Kiev quién debía sentarse en el próximo gobierno. Eso no es una “teoría” que circule en un foro: es un audio, y el audio se puede escuchar. Por eso este capítulo empieza ahí, y no en el cuento de hadas que vino después.
 
@@ -19,7 +19,7 @@ En febrero de 2022 Rusia invadió. Una invasión no deja de ser invasión porque
 
 **El negocio.** Lockheed, Raytheon y Northrop vieron subir sus acciones con la guerra. BlackRock fue convocado a asesorar la reconstrucción. Eso convive con el hecho de que hay un ejército ruso en territorio ucraniano, de modo que el lucro de terceros no borra la invasión, y la invasión no santifica el lucro. Se pueden mirar las dos cosas sin tener que elegir cuál de las dos “manda” el relato.
 
-## 2.2 Israel, Palestina, el 7 de octubre y los sótanos de la ONU
+## 2.2 Israel, Palestina y el 7 de octubre
 
 La historia —sionismo de fines del XIX, Balfour 1917, la guerra de 1948, la Nakba, 1967, Oslo, la Segunda Intifada— está documentada hasta el cansancio y se cuenta al revés según quién tenga el micrófono. Este libro no va a resolver en quince páginas lo que no resolvieron un siglo de diplomáticos. Va a marcar lo que el relato dominante de los últimos años *omite*, porque esa omisión es, hoy, la forma más común de propaganda. Si uno no nombra lo que se recorta, el recorte termina haciendo el trabajo de un argumento.
 
@@ -59,7 +59,7 @@ Dinamarca y Suecia cerraron sus causas en 2024. El único hecho innegable, más 
 
 **Liz Truss.** Circuló que Truss mandó “It’s done” a Blinken al minuto de la explosión. El origen es un tuit de Kim Dotcom, sin verificación, amplificado por medios rusos. Su teléfono fue hackeado, sí, pero el hallazgo es anterior, cuando todavía era canciller. Renunció el 20 de octubre por el mini-budget, no por el Báltico. Un hecho real —el hackeo— estirado hasta una ficción es, justamente, el tipo de basura que este libro le pide al lector que recorte. Si no se recorta eso, después no hay derecho a pedir rigor para lo demás.
 
-## 2.4 Irán: teocracia con misiles, no “actor incomprendido”
+## 2.4 Irán: la teocracia y los misiles
 
 El golpe de 1953 contra Mossadegh, CIA y MI6, tras la nacionalización del petróleo, ocurrió. El apoyo occidental a Saddam en la guerra Irán-Irak de los años 80, también. Eso explica la paranoia de Teherán. No la lava. Se puede entender de dónde viene un régimen y, al mismo tiempo, leer lo que ese régimen hace con el poder que tiene.
 
@@ -83,7 +83,7 @@ Se puede sostener las dos frases: Ucrania tiene derecho a pedir garantías, y un
 
 Yugoslavia 1999 sin mandato de la ONU, Irak 2003 con inteligencia falsa, Libia 2011 convertida en un mercado de esclavos: fracasos reconocidos incluso por analistas atlantistas. La OTAN no es la Cruz Roja con aviones. Se puede entender por qué un báltico quiere entrar, y al mismo tiempo no santificar cada guerra que esa alianza eligió.
 
-## 2.6 Islam político, demografía y el tabú europeo
+## 2.6 Islam político en Europa
 
 Este es el tema que las redacciones occidentales más suavizan, y por eso va acá, no en una nota al pie de “diversidad”. Si se lo deja para el final, o se lo envuelve en un eufemismo, el resto del capítulo queda cojo. Se hablaría de Hamas, de Hezbolá y de Teherán como si fueran accidentes locales, y no una gramática que también llegó a Europa.
 

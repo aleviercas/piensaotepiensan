@@ -1,4 +1,4 @@
-# Capítulo 8 — Inteligencia artificial: pensarnos, o que nos piensen
+# Capítulo 8 — Cuando la máquina habla por todos
 
 El capítulo anterior terminó en el dinero que se apaga: un billete digital que el emisor puede vencer, recortar o apagar si el puntaje no da. Este empieza un milímetro más adentro. Porque el GPS del gasto no sirve de mucho si, al mismo tiempo, la pregunta que uno se hace ya viene contestada por una máquina que suena razonable. El control fino del siglo no es solo ver la boleta. Es escribir, en nombre de mil millones de personas, **la próxima frase que van a tomar por propia**.
 

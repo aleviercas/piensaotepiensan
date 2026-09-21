@@ -1,4 +1,4 @@
-# Capítulo 12 — El camino del pensador inquisitivo
+# Capítulo 12 — Seguir preguntando
 
 Once cuartos después, el hilo era uno: **¿quién te está pensando?** Este cierre no agrega un tema. Recoge el método.
 

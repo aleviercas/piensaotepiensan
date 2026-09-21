@@ -1,11 +1,11 @@
-# Capítulo 6 — Cambio climático: ¿consenso o dogma?
+# Capítulo 6 — El termómetro y la palanca
 
 El mismo paquete, ahora con un gas. Si el consenso sanitario y el de las redacciones se inclinaron juntos, el climático es el tercero de la fila: urgencia moral, disidente como enemigo, palanca que sí se puede regular por decreto. Vale la misma pregunta de proporción que en el virus: ¿qué se midió, y qué se vendió como si se hubiera medido?
 
 —El CO2 absorbe infrarrojo, el aire se calentó un grado, y parte de ese carbono extra tiene firma fósil. Eso está medido. Dudar de la política no borra el tubo de Tyndall.
 —Este capítulo firma las tres. Lo que abre es lo de después: cuánto pesa esa molécula, qué tan calientes corren los modelos, y si “el 97%” cubre el net-zero o solo el enunciado mínimo. El tubo se queda. El patio de la política, no.
 
-## 6.1 Lo que está sólido y lo que se vende como si lo estuviera
+## 6.1 Lo que se mide y lo que se vende junto
 
 Este capítulo no pide que se deje de mirar el termómetro. Pide que no se le entregue al carbono de la chimenea un poder que, por tamaño y por historia, tal vez no tiene. El aire se calentó y el CO2 subió. Esas dos curvas se pueden mirar juntas sin convertirlas, de inmediato, en un veredicto moral.
 
@@ -23,7 +23,7 @@ No es un detalle. Si la sensibilidad real está en la parte baja, el calentamien
 
 **Los modelos corren calientes.** La generación CMIP6 incluye modelos con ECS superior a 5 °C que ya calentaron de más el período observado, y el propio IPCC tuvo que advertir que no se usara el promedio crudo de esos modelos como proyección. Cuando un instrumento sistemáticamente sobreestima el pasado, un adulto no lo usa como oráculo del futuro sin calibrarlo. En clima, usarlo y llamar “negacionista” a quien pide la calibración se volvió costumbre.
 
-## 6.2 Una pregunta de proporción: el 0,04% y nuestra parte
+## 6.2 El carbono que sale de las chimeneas
 
 Antes de aceptar que el carbono que sale de nuestras chimeneas es el termostato del planeta, vale sentarse un minuto con una cuenta sencilla. No es un truco de redes ni un “caso de estudio” contra nadie. Es la pregunta con la que mucha gente, este autor incluido, empezó a dudar. **¿De qué tamaño es, en el aire que respiramos, eso que se nos carga como culpa civilizatoria?**
 
@@ -94,7 +94,7 @@ Un adulto puede decir que el CO2 pesa, y el Sol también, y las nubes más, y qu
 
 **Glaciares, Pequeña Edad de Hielo y el truco del “ya es tarde”.** En 2026 la ONU sigue publicando que, aunque las emisiones cayeran en seco, los glaciares seguirían perdiendo masa “durante décadas” por el calor ya “encerrado” en el sistema. La frase se usa como tenaza: si emitís, culpa; si cortás, igual se derriten, así que adaptate y pagá. Lo que esa frase no pone al lado es el archivo. El retroceso de muchos glaciares alpinos, andinos y de Nueva Zelanda **empezó en el siglo XIX**, saliendo de la Pequeña Edad de Hielo (aprox. 1300-1850): un tramo frío, con ríos helados en Londres, hambrunas y el máximo reciente de varios hielos de montaña, *antes* de que el CO2 se disparara. Meteorólogos que no compran el catecismo —la línea de John Shewchuk y otros que miran ciclos solares, incluido el de Eddy— argumentan que todavía estamos, en parte, descongelándonos de ese mínimo, y que un mínimo solar futuro puede devolver frío aunque el PowerPoint de la ONU no lo tenga en la diapositiva. Se puede discutir la magnitud. No se puede, con seriedad, fechar todo el deshielo en “la era del SUV” cuando los pintores del siglo XIX ya estaban retratando morrenas que hoy están más arriba. El “ya es tarde” no es un dato: es una política. Un dato sería: **¿cuánto del retroceso es la cola de la Pequeña Edad de Hielo, cuánto es el CO2, y cuánto es un ciclo que ningún decreto regula?**
 
-## 6.6 El debate que sí existe, aunque se finja que no
+## 6.6 Un debate que existe
 
 **Clima extremo.** Acá la distancia entre el titular y el informe técnico es máxima. El IPCC, en sus capítulos de atribución, tiene *baja confianza* o evidencia limitada sobre un aumento global de huracanes, tornados, sequías meteorológicas e inundaciones en varias regiones, y la frecuencia global de ciclones tropicales no muestra una tendencia clara al alza en el registro satelital. Las muertes por desastres climáticos —sequías, inundaciones, tormentas, extremos de temperatura— cayeron más del 90% en un siglo, según series compiladas por Our World in Data a partir de EM-DAT: no porque el clima se haya vuelto más amable, sino porque la riqueza, la infraestructura y los sistemas de alerta salvan más gente que la que mata un grado extra. Ese dato casi nunca aparece en la misma página que el oso polar. Un mundo más rico y con energía barata se adapta; un mundo que se empobrece para cumplir una meta simbólica de CO2, no.
 
@@ -108,7 +108,7 @@ Un adulto puede decir que el CO2 pesa, y el Sol también, y las nubes más, y qu
 
 **Climategate (2009).** Los mails de East Anglia no “probaron que el calentamiento es un fraude”. Sí mostraron algo que las ocho investigaciones posteriores suavizaron: una cultura de trinchera. “Hide the decline” no era una metáfora inocente: se empalmaba la serie instrumental sobre anillos de árboles que, después de 1960, iban para abajo, para no mostrar esa divergencia. Se discutía cómo bloquear papers incómodos en el proceso del IPCC, y se resistía entregar datos a críticos. Las investigaciones posteriores —varias internas o de pares institucionales— no encontraron fraude masivo en las series de temperatura. Encontraron, y esto importa para este libro, que un campo científico con monopolio de financiamiento público y con una causa moral encima se comporta como se comportan los monopolios: protege el relato, castiga al disidente y llama “consenso” a la ausencia de rivales financiados.
 
-## 6.7 Política energética: el dogma que sí se puede medir
+## 6.7 Energía, costo y pobres
 
 Si el diagnóstico físico tiene grises, la política que se vendió encima tiene números, y esos números son peores. Conviene bajar del modelo a la factura.
 

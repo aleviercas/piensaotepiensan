@@ -1,11 +1,11 @@
-# Capítulo 1 — La salud en la encrucijada
+# Capítulo 1 — Lo que 2020 hizo con la salud
 
 Este es el primer cuarto. No porque sea el más importante: porque casi todos lo vivimos a la vez. Si 2020 no le cerró la boca, el resto del libro igual se puede leer. Si se la cerró, tiene sentido empezar aquí: el músculo se entrena donde más dolió.
 
 —Hubo un virus nuevo, hospitales saturados, y se decidió con datos incompletos. Eso no es un complot.
 —De acuerdo en las tres. Este capítulo pregunta qué se silenció mientras se decidía, no si el virus era de plástico.
 
-## 1.1 El origen del COVID-19: la hipótesis que no se podía nombrar
+## 1.1 De dónde salió el virus
 
 Pocas preguntas científicas recientes se resolvieron menos y se censuraron más. Durante 2020, plantear que el virus podía haber salido de un laboratorio era, en Twitter, Facebook, YouTube y buena parte de la prensa, “teoría conspirativa”. El contenido se retiraba. Eso no fue un exceso espontáneo de moderadores. Fue una línea que bajó desde agencias sanitarias, virólogos con conflictos de interés y, en Estados Unidos, desde el entorno de Anthony Fauci y Francis Collins.
 
@@ -41,7 +41,7 @@ Antes de 2020, la OMS estimaba entre 290.000 y 650.000 muertes anuales por gripe
 
 Si la peste negra es el listón, 2020 no entra. Si entra cualquier virus respiratorio que sature UCI de ancianos, entonces el mundo debería haber parado varias veces en el siglo XX y no hizo. La novedad no fue solo el virus: fue el aparato —OMS, estados, plataformas, prensa— dispuesto a tratar **una gripe tres veces más fuerte** como si fuera 1348, con herramientas de 2020: cierre, QR, policía de contenidos.
 
-## 1.3 El simulacro, Gates y los cuerpos que se caían en el shopping
+## 1.3 Un ensayo en Nueva York, y las imágenes de Wuhan
 
 **Event 201.** El 18 de octubre de 2019, en Nueva York, el Johns Hopkins Center for Health Security, el Foro Económico Mundial y la Fundación Bill y Melinda Gates corrieron un simulacro de pandemia de coronavirus. El escenario era otro virus, en Brasil, con otra letalidad: había periodistas ficticios, cadenas de suministro, “desinformación” a combatir, y una clase dirigente ensayando el tono. Simulacros de bioseguridad existen (Crimson Contagion, Clade X) y no prueban que “ya sabían”; prueban dos cosas que sí se pueden sostener:
 
@@ -66,7 +66,7 @@ Un virus puede matar de formas distintas según edad, carga y azar. Un virus no 
 
 **El patrón posterior.** En 2021, 2022 y 2023 varios países ricos, ya vacunados, siguieron viendo exceso de mortalidad en edades laborales que no se explica solo con COVID, y lo marcaron tanto actuarios de seguros de vida en EE.UU. como oficinas de estadística europeas. Las explicaciones van desde secuelas de infección y colapso de la atención diferida, hasta hipótesis sobre la vacunación masiva que todavía no tienen un veredicto causal cerrado. Pretender que “el exceso siempre fue subconteo de COVID” cierra esa pregunta con la misma soberbia de 2020.
 
-## 1.5 Vacunas de ARNm: lo que bajó, lo que se prometió y lo que se tapó
+## 1.5 Vacunas de ARNm: lo que se midió y lo que se prometió
 
 **Dónde sí hay evidencia de beneficio.** En 2020-2021, contra la cepa original y Delta, los estudios poblacionales de Israel, Reino Unido y EE.UU. mostraron reducción clara de hospitalización y muerte en mayores y en personas con comorbilidades. Eso no se borra porque el resto de la campaña haya sido un desastre ético: un fármaco puede ayudar a un grupo y ser una mala idea para otro, y esa es, precisamente, la frase que no se podía decir. Es también la frase que hay que tener a mano cuando se discute si “las vacunas funcionaron”: **¿para quién, contra qué cepa, durante cuántos meses, y a qué costo en el resto?**
 
@@ -114,7 +114,7 @@ Circula, además, una captura: “la OMS admite que la vacuna dispara esclerosis
 
 **AstraZeneca y el expediente judicial.** En 2024, AstraZeneca admitió ante la Corte Suprema del Reino Unido, en una demanda de 51 familias, que su vacuna (vector viral, no ARNm) puede causar, en casos raros, trombosis con trombocitopenia, y el producto se retiró de varios mercados. Distinguir plataformas importa, porque no todas “las vacunas” son el mismo objeto: juntarlas en un solo villano es tan vago como juntarlas en un solo milagro.
 
-## 1.5bis La olla que el COVID destapó: autismo y el calendario que no se tocaba
+## 1.5bis Autismo y el calendario infantil
 
 Antes de 2020, dudar de **cualquier** vacuna era, en las redacciones, de extrema: Wakefield, 1998, *The Lancet*, retracción, fraude, radiado. A partir de ahí el paquete completo —triple viral, hepatitis B al nacer, el calendario entero— quedó cubierto por el mismo paraguas moral, de modo que preguntar era de antivacunas, y punto.
 
@@ -158,7 +158,7 @@ Hay trabajo en placa y en animales, y hay fotos de antes y después que un médi
 
 **Pregunta abierta.** Si el incentivo es el que es, ¿quién va a sentar a esos pacientes —los de Tippens, los amigos de Gibson, los que no salen en un podcast— en un ensayo de verdad, o vamos a seguir, otra vez, con el enfermo investigando de noche y el sistema mirando para otro lado?
 
-## 1.7 Reflexión: qué se rompió, y qué no se arregla con el dogma contrario
+## 1.7 Lo que se rompió
 
 La pandemia dejó una herida de confianza merecida, y se entiende por qué. Se ocultó el laboratorio, se vendió una vacuna que no se había medido para transmisión y se cerraron escuelas contra el riesgo real de los chicos; se llenó la televisión con cuerpos que se caían en Wuhan y no se volvió a ver esa escena; se ensayó la pandemia en un hotel de Nueva York tres meses antes. Se contaron muertos con un criterio que inflaba, y al mismo tiempo hubo una ola que el certificado no inventó. Quien salió de eso creyendo que las instituciones siempre se equivocan “para el lado del cuidado” no estaba mirando; quien salió y, por primera vez, se animó a mirar el calendario de su hijo no se volvió un extremista: se volvió, simplemente, más curioso.
 

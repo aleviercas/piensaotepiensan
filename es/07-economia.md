@@ -1,11 +1,11 @@
-# Capítulo 7 — Economía e inflación: la ilusión del dinero
+# Capítulo 7 — El dinero que se imprime
 
-Si se moraliza el aire, también se imprime el dinero. El capítulo anterior preguntó si el carbono de la chimenea manda el clima; este pregunta quién manda la moneda. Las dos perillas se venden como técnicas. Las dos son poder.
+Si se moraliza el aire, también se imprime el dinero. El capítulo anterior preguntó si el carbono de la chimenea manda el clima; este pregunta quién manda la moneda. Las dos palancas se venden como técnicas. Las dos son poder.
 
 —Los precios suben también por guerra, sequía y empresas con margen. Culpar solo a la rotativa es otra teología.
 —Guerra, sequía y margen existen. Este capítulo pregunta por qué, cuando la base monetaria se duplica, el “es el empresario” aparece siempre primero en el noticiero.
 
-## 7.1 Del patrón oro al dinero fiduciario
+## 7.1 Del oro al papel
 
 Hasta 1971 el dólar —y el sistema de Bretton Woods— prometía oro a tasa fija. El 15 de agosto de ese año Nixon cortó la convertibilidad, apretado por Vietnam, el gasto interno y la salida de reservas. Desde entonces casi toda moneda es fe: vale lo que el emisor y el tenedor crean que va a valer mañana.
 
@@ -17,7 +17,7 @@ Hasta 1971 el dólar —y el sistema de Bretton Woods— prometía oro a tasa fi
 
 **En contra, con matices.** La historiografía de Bernanke y otros atribuye parte de la profundidad de la Depresión de los 30 a los países que más tardaron en soltar el oro; el Reino Unido, que salió en 1931, rebotó antes. Un banco central sin capacidad de prestamista de última instancia se queda corto en un pánico bancario, y eso es un argumento real. El que suele omitirse es el austríaco: la fiesta de crédito de los 20 —reserva federal acomodaticia, burbuja— es lo que hizo falta liquidar en los 30. El oro no “causó” la Depresión como un meteorito; el ciclo previo de dinero fácil, sí, tiene acusados. 2008 y 2020 mostraron lo otro: el prestamista de última instancia existe, se usa, y la factura llega en inflación y en zombis corporativos. Ninguna de las dos escuelas tiene el video del crimen completo.
 
-## 7.2 Inflación: no es un misterio, aunque lo disfracen
+## 7.2 Inflación: cuando hay más dinero
 
 **Monetarismo.** Friedman: la inflación es siempre un fenómeno monetario, y Argentina lo ilustra sin piedad: décadas de emitir para tapar el fisco, y la baja desde 2024 coincidiendo con el cierre de esa canilla. Quien explique un 211% anual con “ganancias empresarias” está haciendo humor, y el mismo humor, con otra bandera, se hizo en 2021-2022 en Washington y Bruselas: “es Putin”, “es la cadena de suministro”, “es la codicia”. Putin y la cadena existieron, y aun así el M2 estadounidense saltó más del 25% en dos años; Turquía, con Erdogan bajando tasas a mano contra su propio banco central, fabricó una inflación de dos dígitos altos que no era un misterio de márgenes. Venezuela y Zimbabue son el final de esa película y Weimar, 1923, fue el tráiler, porque **el laboratorio no es un país: es la rotativa**. Quien viva en una moneda todavía creíble puede leer el capítulo como aviso, no como folklore ajeno.
 

@@ -1,11 +1,11 @@
-# Capítulo 5 — Medios de comunicación: ingeniería del consentimiento
+# Capítulo 5 — Quién escribe la noticia
 
-Quien no se vota, igual habla. El capítulo anterior dejó el poder que no sale en la boleta; este mira quién escribe la frase que esa boleta cree haber elegido. El laboratorio de 2020, el audio de Nuland, las 1.400 nenas: ninguno llegó primero al noticiero. Llegó el recorte.
+Quien no se vota, igual habla. El capítulo anterior dejó el poder que no sale en la boleta; este mira quién escribe la frase que esa boleta cree haber elegido. El laboratorio de 2020, el audio de Nuland, las niñas de Rotherham: ninguno llegó primero al noticiero. Llegó el recorte.
 
 —Redacciones distintas se pelean entre sí. No hay un ministerio de la verdad. Un error repetido no es, por eso, un complot.
-—Se pelean, y aun así recortan las mismas cosas durante los mismos años. El recorte no necesita un ministerio: necesita un paquete y un miedo. Eso es lo que se mira.
+—Se pelean, y aun así recortan las mismas cosas durante los mismos años. El recorte no necesita un ministerio: necesita un hábito y un miedo. Eso es lo que se mira.
 
-## 5.1 Modelos de propaganda: Chomsky y el filtro que él no vio
+## 5.1 Chomsky y los filtros de una noticia
 
 En 1988, Herman y Chomsky publicaron *Manufacturing Consent*, y lo que proponían era más sutil que un ministerio de censura: los medios que se llaman “libres” no necesitan un telegrama para callar, porque ya filtran por propiedad, por publicidad, por fuentes oficiales, por el *flak* de los grupos de presión y por la ideología dominante de su época, que entonces era el anticomunismo. Ese modelo explica bastante bien Irak 2003 y al *New York Times* disculpándose después por haber copiado al servicio de inteligencia; explica peor Watergate, los Papeles del Pentágono y, sobre todo, lo que vino después. El filtro dominante de las redacciones de 2010-2025 ya no era el anticomunismo, sino el paquete progresista —raza, género, clima, “desinformación”— y la simbiosis con el Estado administrativo. Chomsky describió el poder de su época; el poder cambió de signo, y el método, no.
 
@@ -15,7 +15,7 @@ Hay un antecedente que conviene nombrar sin inflarlo. La Comisión Church del Se
 
 **Russiagate, el otro Watergate que no fue.** Durante años, una parte importante de la prensa anglosajona trató como hecho casi cerrado que la campaña de Trump de 2016 era un apéndice del Kremlin, y esa foto se sostuvo más por insistencia que por expediente. El informe Durham, el inspector general del Departamento de Justicia y el propio retiro de la “seguro de Steele” fueron dejando otra imagen: una pesquisa que nació sesgada, una prensa que corrió más rápido que la prueba, y un costo —años de un país hablando de un golpe ruso— que nadie devolvió. No hace falta admirar a Trump para notar el mecanismo: **cuando el enemigo es inaceptable, el periodismo se vuelve fiscal**. El fiscal, al menos, tiene que ir a juicio; la tapa, no.
 
-## 5.2 Censura digital: no fue un “error de ambos lados”
+## 5.2 Censura en las plataformas
 
 **Twitter Files.** Tras comprar Twitter, Musk abrió los archivos a periodistas —Bari Weiss, Matt Taibbi, Michael Shellenberger— y lo que apareció no era un rumor de foro: el FBI y Homeland Security pasaban listas, y la laptop de Hunter Biden se ahogó en octubre de 2020 con una justificación —“hackeo ruso”— que la empresa no tenía. El “error de ambos lados” que se usa para suavizar esto es un truco, porque sí, Twitter a veces rechazó pedidos; el hecho central es otro. Agencias federales y una plataforma privada coordinaron para moldear el debate preelectoral y el debate COVID, y eso tiene un nombre más viejo que Silicon Valley: censura por contratista.
 
@@ -49,7 +49,7 @@ En 2023, más de un centenar de economistas —con Nobels en cartas abiertas— 
 
 Los pronósticos de colapso no se cumplieron; el costo del ajuste sí existió, y se concentró en 2024. Un consenso de expertos puede acertar el diagnóstico —la inflación argentina era fiscal-monetaria— y errar el veredicto político de que la sociedad no lo bancaría. Lo que este caso no autoriza es el giro automático de las redacciones: cuando el número malo aparece, es “el modelo”; cuando el número bueno aparece, es “a costa de los pobres”, como si el 211% no hubiera sido, él mismo, el impuesto a los pobres. El Gini importa, y el 211% también; solo uno de los dos era compatible con seguir como estábamos.
 
-## 5.5 La falacia que mueve el siglo: matar al mensajero
+## 5.5 Atacar al que habla, no al dato
 
 El capítulo 2 lo mostró con Tommy Robinson y las nenas de Rotherham; el 1, con Great Barrington; el 6, con quien pide calibrar un modelo climático. El mecanismo es el mismo, y merece un nombre en el capítulo de medios porque es, hoy, el principal producto de las redacciones: **no se discute el dato; se discute si el que lo trae es presentable**.
 

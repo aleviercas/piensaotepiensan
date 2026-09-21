@@ -1,11 +1,11 @@
-# Capítulo 10 — Vida extraterrestre: ¿estamos solos?
+# Capítulo 10 — ¿Estamos solos?
 
 Del suelo al cielo. El capítulo anterior dejó objetos que no entran del todo en el relato de “aquella época no podía”. Este pregunta si, además, hay algo que no es de esta época. No hace falta un hangar para sostener la pregunta. Tampoco hace falta un hangar para cerrarla.
 
 —La mayoría de los avistamientos son globos, drones, óptica y secretos militares. El U-2 ya enseñó esa lección. Extraordinario pide prueba extraordinaria.
 —La lección del U-2 se firma. Este capítulo pregunta por el resto: testimonios bajo juramento e informes que ya no dicen “son todos globos”. Prueba extraordinaria, sí. Decreto, no.
 
-## 10.1 Evidencia UAP y desclasificación gubernamental
+## 10.1 Informes, juramentos y lo que se publicó
 
 Este es, junto con el clima, uno de los pocos temas de este libro donde el propio gobierno de EE.UU. cambió radicalmente su postura pública en los últimos años, así que vale la pena reconstruir la cronología con calma y con precisión.
 
@@ -57,7 +57,7 @@ Jacques Vallée, que no es un presentador de documentales, llevó décadas propo
 
 ¿Cambiaría la fe un contacto confirmado? El Observatorio Vaticano ya dijo que no tiene por qué. Un cristiano puede leer «otras ovejas que no son de este redil» sin forzar el versículo. Un ateo puede seguir siéndolo: un vecino en otra estrella no le devuelve el cielo a nadie. Lo que sí cambiaría, y esto vale para cualquiera, es **el prólogo de la especie**: ya no seríamos el único cuento. Ese vértigo merece más respeto que un chiste de alien con ojos grandes.
 
-## 10.3 Tecnología derivada y presupuestos reservados
+## 10.3 Presupuestos que no se publican
 
 **Lo que es un hecho verificable.** El presupuesto «negro» (clasificado, no fiscalizado públicamente en su detalle) del gobierno de EE.UU. para inteligencia y defensa ronda, según estimaciones de organizaciones especializadas en transparencia presupuestaria como la Federación de Científicos Americanos, decenas de miles de millones de dólares anuales. Una porción de ese presupuesto financia, por diseño, programas cuya existencia ni siquiera se reconoce públicamente hasta décadas después. El propio programa de aviones espía U-2 y el bombardero furtivo F-117 permanecieron clasificados durante años antes de revelarse, y en su momento generaron avistamientos de «ovnis» reales que después resultaron ser pruebas de esas mismas aeronaves experimentales.
 

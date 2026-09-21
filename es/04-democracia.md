@@ -1,4 +1,4 @@
-# Capítulo 4 — Democracia, poder y el espejismo electoral
+# Capítulo 4 — La urna y lo que no se vota
 
 Del atentado al voto. El segundo sobre preguntó quién escribe la frase que usted después vota. Si el Estado puede archivar una explosión, también puede archivar una urna. Este capítulo no dice que toda elección es un fraude. Dice que la urna es un tramo del poder, no el poder, y que hay un organigrama que no se presenta a examen cada cuatro años.
 
@@ -69,7 +69,7 @@ Las “ciudades de quince minutos” son, en urbanismo, una idea vieja y a veces
 
 Hay una pregunta previa, más incómoda, que varias democracias prefieren no hacer en voz alta: **quién cuenta como pueblo**. Japón, Corea, Israel, los países del Golfo, tienen respuestas explícitas, a veces duras, sobre ciudadanía, idioma y lealtad. Occidente, en cambio, a menudo tiene un tabú: tratar el padrón como un hecho moral, no como un contrato. El voto de extranjeros en distritos locales, la nacionalización rápida, el censo que no se puede comentar, no son “detalles administrativos”: son el quién de la frase “el pueblo decide”. Se puede estar a favor de abrir, y se puede estar a favor de cerrar; lo que no se puede, en un libro de este tipo, es declarar la pregunta indecible. Un contrato social que no se deja discutir deja de ser un contrato: se vuelve una herencia que administran otros.
 
-## 4.4 Lo que una urna no puede: el Estado profundo y el voto que llega tarde
+## 4.4 El organigrama que no se presenta a examen
 
 Hay un argumento, y no es de Telegram, que las democracias liberales prefieren no nombrar: **una parte creciente de lo que te rige no se vota**. Bancos centrales, agencias sanitarias, cortes constitucionales, fiscalías, organismos de “integridad de la información”, directorios de plataformas, agencias de inteligencia. Se les llama, según el humor, instituciones, burocracia o *deep state*. El nombre importa menos que el hecho: duran más que el presidente, no rinden examen cada cuatro años, y en 2020-2022 demostraron que pueden cerrar una economía, un aula y una boca con un decreto y un mail al moderador. Si el nombre “Estado profundo” le suena a folleto, cámbielo. El organigrama, no.
 

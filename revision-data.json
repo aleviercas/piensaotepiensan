@@ -129,6 +129,13 @@
       "prompt": "Sofía se nombra por el libro de Gaarder, sin el apellido Amundsen (no es un personaje de este cuaderno)."
     },
     {
+      "id": 194,
+      "section": "Introducción",
+      "prompt": "Títulos de capítulo: ensayo, no índice de conspiraciones (Lo que 2020 hizo…, Guerras y mapas, Cuando explota algo, La urna, Quién escribe la noticia, El termómetro y la palanca, El dinero que se imprime, Cuando la máquina habla, Lo que las piedras no explican, ¿Estamos solos?, Después de la muerte, Seguir preguntando).",
+      "hint": "¿Sí / alguno volver al viejo?",
+      "priority": true
+    },
+    {
       "id": 180,
       "section": "Introducción",
       "prompt": "Forma del libro: ensayo con una sola pregunta + tres tramos + voz de quien no está de acuerdo, dicha en serio (1+3, no novela).",

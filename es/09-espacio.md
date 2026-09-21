@@ -1,11 +1,11 @@
-# Capítulo 9 — Espacio y Tierra: misterios no resueltos
+# Capítulo 9 — Lo que las piedras no explican
 
 Hasta aquí, el libro miró lo que a uno lo piensan: el cuerpo, el mapa, la urna, el feed, el gas, el dinero, la máquina. El tercer sobre quedó sobre la mesa. Ahora se abre: lo que el laboratorio no cierra. Piedras que no se copian, un diluvio que aparece en culturas que no se hablaban, una teoría de Darwin que explica adaptación y se queda corta con el origen. El músculo es el mismo. El objeto, no.
 
 —La ciencia cierra lo que puede tocar, predecir y repetir. Lo que no produce objeto se queda en el estante, no en el templo.
 —Ese rasero es el de este capítulo. Lo que se discute es si a veces se declara “cerrado” para no quedar de místico: el mismo reflejo, invertido.
 
-## 9.1 La Luna: por qué persisten las dudas (y por qué la evidencia las responde)
+## 9.1 La Luna: las dudas, y lo que las responde
 
 **Por qué la teoría del alunizaje falso sigue circulando.** Sigue viva, en buena medida, porque junta en un mismo relato varios elementos que a un ojo no entrenado le resultan extraños, y los presenta como si formaran un solo expediente. Las sombras que parecen no ser paralelas son, en realidad, un efecto óptico normal de las lentes gran angular sobre un terreno irregular. La ausencia de estrellas en las fotos se entiende cuando se recuerda que la cámara estaba calibrada para la luz brillante de la superficie lunar, no para el fondo oscuro del espacio: es el mismo motivo por el que una foto nocturna con flash tampoco muestra estrellas. Y la bandera que parece «ondear» sin viento se movía porque llevaba una barra horizontal para mantenerla extendida en ausencia de atmósfera; el movimiento que se ve es la inercia de esa barra al ser desplegada, no un soplo de aire.
 
@@ -13,7 +13,7 @@ Hasta aquí, el libro miró lo que a uno lo piensan: el cuerpo, el mapa, la urna
 
 En 2009, la sonda india Chandrayaan-1 y la NASA fotografiaron desde órbita lunar los sitios de aterrizaje de las misiones Apolo, y en esas imágenes se ven las bases de los módulos y los rastros de pisadas, todavía visibles. Sondas de Japón y de China lo corroboraron después. Este es, probablemente, el tema de todo el libro donde la evidencia acumulada en contra de la teoría alternativa es más abrumadora y menos disputada por especialistas de cualquier país o ideología.
 
-## 9.2 Civilizaciones antiguas y tecnologías perdidas
+## 9.2 Civilizaciones antiguas y técnicas que no copiamos
 
 **Lo que la arqueología convencional tuvo que revisar, con evidencia real.** El yacimiento de Göbekli Tepe, en Turquía, se descubrió en los años noventa y se excavó en profundidad desde entonces. Contiene estructuras monumentales de piedra talladas hace unos 11.600 años, varios miles de años antes de lo que la arqueología asumía posible para sociedades sin agricultura sedentaria ni escritura. Eso obligó a revisar, de verdad, el supuesto de que la organización social compleja necesitaba agricultura previa. Es un ejemplo real de cómo el consenso se corrige ante un objeto, no ante un documental.
 
@@ -61,7 +61,7 @@ Los tejidos blandos en huesos de dinosaurio (Mary Schweitzer, 2005 en adelante: 
 
 Nada de eso «tira» a Darwin al cesto. Tira, sí, **la costumbre de tratar *El origen de las especies* como un Génesis laico**. La teoría explica muy bien cómo se reparte lo que hay, y explica peor de dónde salió lo que hay, por qué el Cámbrico no se parece a una rampita, y por qué la conciencia —capítulo 11— no aparece en ningún fósil. Un creacionista de Tierra joven y un neo-darwinista de cátedra tienen, en este punto, el mismo vicio: cierran la pregunta con un libro. Este capítulo la deja abierta, porque **hay cosas que no se pueden explicar todavía**, y esa frase no es una rendición: es el requisito para seguir buscando —y, para quien tenga oídos, el umbral de la providencia: el orden que se ve y el Autor que no se pesa.
 
-## 9.5 Catastrofismo: releyendo la historia geológica
+## 9.5 Catástrofes que sí ocurrieron
 
 **Lo que hoy es ciencia establecida, y antes fue herejía.** La hipótesis de que un asteroide de unos 10 kilómetros impactó la península de Yucatán hace 66 millones de años y provocó la extinción masiva que incluyó a los dinosaurios no aviares —propuesta por Luis y Walter Álvarez en 1980— fue recibida al principio con fuerte escepticismo por la comunidad de paleontólogos, que favorecía explicaciones graduales (vulcanismo, cambio climático lento). El hallazgo del cráter de Chicxulub en 1990, con una edad y una composición química consistentes con la capa de iridio, terminó de consolidar la hipótesis. El catastrofismo geológico no es, en sí mismo, seudociencia: una de las hipótesis catastrofistas más importantes de la historia de la ciencia terminó siendo correcta y hoy es material de escuela.
 

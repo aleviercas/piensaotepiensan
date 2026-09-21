@@ -10,7 +10,7 @@ Un atajo de redes no se copia si las unidades no cierran; se reescribe con las u
 Libro para un lector de cualquier país: los ejemplos argentinos son laboratorio, no parroquia.
 La ideología se adquiere después de mirar los hechos, no al revés.
 
-## CAPÍTULO 1 — La salud en la encrucijada
+## CAPÍTULO 1 — Lo que 2020 hizo con la salud
 1.1 Origen del COVID-19: laboratorio, DEFUSE, Proximal Origin, censura
 1.2 ¿Tres gripes o una peste? 600 mil vs 1,8 millones en 2020, certificados, respiradores, peste negra
 1.3 Event 201, Gates, los cuerpos de Wuhan
@@ -20,7 +20,7 @@ La ideología se adquiere después de mirar los hechos, no al revés.
 1.6 Cáncer, ivermectina, fenbendazol, Gibson
 1.7 Reflexión
 
-## CAPÍTULO 2 — Geopolítica y los hilos del poder global
+## CAPÍTULO 2 — Guerras, mapas y comunicados
 2.1 Ucrania
 2.2 Israel-Palestina, 7 de octubre, UNRWA, túneles, OMS/ONU
 2.3 Nord Stream
@@ -31,20 +31,20 @@ La ideología se adquiere después de mirar los hechos, no al revés.
 2.8 Diversidad e igualdad (DEI, cupo vs. regla igual)
 2.9 Malvinas: 1764-1833, invasiones inglesas 1806-1807, 1982
 
-## CAPÍTULO 3 — Atentados y encubrimientos
+## CAPÍTULO 3 — Cuando explota algo
 3.1 11-S
 3.2 AMIA (caso-plantilla, no gacetilla local)
 3.3 Falsa bandera documentada
 3.4 CIA y cambios de régimen
 3.5 Muertes convenientes
 
-## CAPÍTULO 4 — Democracia, poder y el espejismo electoral
+## CAPÍTULO 4 — La urna y lo que no se vota
 4.1 Urnas, 2020, clientelismo, Brasil/México/UK/UE
 4.2 Dictaduras del siglo XXI
 4.3 FEM / Davos, ID digital, ESG
 4.4 El poder que no se vota
 
-## CAPÍTULO 5 — Medios
+## CAPÍTULO 5 — Quién escribe la noticia
 5.1 Chomsky
 5.2 Twitter Files, DSA, verificadores, Wikipedia como corpus
 5.3 Periodismo ciudadano
@@ -52,7 +52,7 @@ La ideología se adquiere después de mirar los hechos, no al revés.
 5.5 Matar al mensajero
 5.6 IA: la voz general fabricada, el pensamiento crítico como bien escaso
 
-## CAPÍTULO 6 — Cambio climático
+## CAPÍTULO 6 — El termómetro y la palanca
 6.1 Sólido vs paquete
 6.2 Una pregunta de proporción: el 0,04% y nuestra parte; Etna y la suma viral que no cierra
 6.3 Registro profundo: ¿máximo o mínimo? Hojas fósiles, temperatura que adelanta al CO2
@@ -63,13 +63,13 @@ La ideología se adquiere después de mirar los hechos, no al revés.
 6.8 El efecto Pinatubo: azufre que enfría, no el CO2 del cráter
 6.9 Geoingeniería
 
-## CAPÍTULO 7 — Economía
+## CAPÍTULO 7 — El dinero que se imprime
 7.1 Oro vs fiat, 1933, petrodólar
 7.2 Inflación (Weimar, Zimbabue, Turquía, M2 2020)
 7.3 Cripto y CBDC
 7.4 Un laboratorio que el mundo a veces copia
 
-## CAPÍTULO 8 — Inteligencia artificial
+## CAPÍTULO 8 — Cuando la máquina habla por todos
 8.1 Lo que se da por cerrado
 8.2 La máquina no piensa: predice
 8.3 El pensamiento crítico como bien escaso
@@ -79,19 +79,19 @@ La ideología se adquiere después de mirar los hechos, no al revés.
 8.7 El caso extremo: Terminator / Skynet (mapa, no prueba; Skynet Day 2026)
 8.8 Supervivencia: archivo, no conciencia
 
-## CAPÍTULO 9 — Espacio y Tierra
+## CAPÍTULO 9 — Lo que las piedras no explican
 9.1 Luna
 9.2 Göbekli Tepe, Egipto, pirámides en varios continentes, Sacsayhuamán, Rapa Nui
 9.3 Diluvio, Durupınar, gigantes
 9.4 Dinosaurios, Darwin, información, Cámbrico
 9.5 Catastrofismo (Chicxulub, Dryas, Velikovsky)
 
-## CAPÍTULO 10 — Vida extraterrestre
+## CAPÍTULO 10 — ¿Estamos solos?
 10.1 UAP, Grusch, AARO, bases nucleares, USO
 10.2 Drake, Fermi, fe, cruce con el cap. 9
 10.3 Presupuestos negros
 
-## CAPÍTULO 11 — Más allá de la muerte
+## CAPÍTULO 11 — Después de la muerte
 11.1 ECM / AWARE
 11.2 Jesús histórico
 11.3 Isaías y las costuras de la Biblia
@@ -101,4 +101,4 @@ La ideología se adquiere después de mirar los hechos, no al revés.
 11.7 Conciencia
 11.8 Islam, ley y mujeres
 
-## CAPÍTULO 12 — El camino del pensador inquisitivo
+## CAPÍTULO 12 — Seguir preguntando
