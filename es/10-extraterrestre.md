@@ -1,6 +1,6 @@
 # Capítulo 10 — ¿Estamos solos?
 
-El capítulo anterior se quedó en el suelo: pirámides, muros, un diluvio. Este sube la mirada. Pregunta si, además de lo que aquella época “no podía” construir, hay algo en el cielo que no es de esta época. No hace falta un hangar secreto para sostener la pregunta, ni para cerrarla. Hace falta el mismo rasero de siempre: qué está bajo juramento o en un informe, y qué es un relato que llena el hueco.
+La mayoría de las luces en el cielo son globos, drones, óptica o un secreto militar. El U-2 ya enseñó esa lección, y conviene no olvidarla. Queda, aun así, un resto: testimonios bajo juramento e informes que ya no dicen “son todos globos”. No hace falta un hangar secreto para sostener la pregunta, ni para cerrarla. Hace falta el rasero de siempre: **qué está en un informe o bajo juramento, y qué es un relato que llena el hueco**.
 
 —La mayoría de los avistamientos son globos, drones, óptica y secretos militares. El U-2 ya enseñó esa lección. Extraordinario pide prueba extraordinaria.
 —La lección del U-2 se firma. Este capítulo pregunta por el resto: testimonios bajo juramento e informes que ya no dicen “son todos globos”. Prueba extraordinaria, sí. Decreto, no.

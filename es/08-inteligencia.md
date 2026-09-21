@@ -1,8 +1,6 @@
 # Capítulo 8 — Cuando la máquina habla por todos
 
-El capítulo anterior terminó en el dinero que se puede apagar: un billete digital que el emisor vence, recorta o cierra si el puntaje no da. Este entra un paso más adentro, porque ese control no termina en la boleta. Si, al mismo tiempo, la pregunta que uno se hace ya viene contestada por una máquina que suena razonable, el GPS del gasto es apenas la mitad del asunto. El control fino del siglo no es solo ver qué compra. Es escribir, en nombre de mil millones de personas, **la próxima frase que van a tomar por propia**.
-
-La inteligencia artificial no es un capítulo de gadgets. Es el lugar donde se cruzan el pensamiento crítico, el manejo de masas y, si se les cree a varios de los que la construyen, la supervivencia de la especie. Las tres cosas caben en la misma pregunta, y conviene no mezclarlas para que ninguna tape a las otras: **¿quién alinea al oráculo, para qué, y qué queda de un humano que ya no sostiene una duda?**
+La inteligencia artificial no es un capítulo de gadgets. Es el lugar donde se cruzan tres cosas que conviene no mezclar, para que ninguna tape a las otras: el pensamiento crítico, el manejo de masas y, si se les cree a varios de los que la construyen, la supervivencia de la especie. Una máquina que suena razonable puede escribir, en todos los idiomas y a las tres de la mañana, **la próxima frase que mil millones de personas van a tomar por propia**. La pregunta de este capítulo es, entonces, más lenta que el catálogo de productos: **¿quién alinea al oráculo, para qué, y qué queda de un humano que ya no sostiene una duda?**
 
 —Una herramienta no tiene intención. El martillo no te piensa. El riesgo es de quien lo usa, no de un Skynet.
 —Sin intención, de acuerdo. El problema no es un alma en el servidor: es mil millones de personas tomando por propia una frase que nadie pensó. Eso no necesita Skynet para ser grave.
@@ -123,10 +121,6 @@ Si la respuesta es sí, la máquina puede ser la mejor aliada que tuvo el pensam
 
 ### Tercer sobre
 
-Hasta aquí, quien lo piensa a uno tiene oficina, redacción o servidor. Ahora el laboratorio no cierra: piedras que no se copian, luces que no son todas globos, un sepulcro, una coincidencia que llega a tiempo.
-
 Hacia el final, Sofía se pregunta si ella misma está dentro de un libro. Este cuaderno no va a ese juego. Va a este: hay cosas que el método no pesa, y declararlas pesadas para no quedar de místico es otra forma de que a uno lo piensen.
-
-Si llegó hasta aquí, ya entrenó el músculo. El último tramo pide no usarlo como mazo contra lo que no entra en una tabla.
 
 *¿Qué hace usted con una pregunta que el laboratorio no puede firmar?*

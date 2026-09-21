@@ -1,8 +1,6 @@
 # Capítulo 11 — Después de la muerte
 
-Los dos capítulos anteriores se quedaron, a propósito, donde el laboratorio no cierra: piedras que no se copian, luces que no son todas globos. Queda lo que menos se deja pesar: la muerte, un hombre de hace dos mil años, la coincidencia que llega a tiempo.
-
-Este capítulo se escribe un poco distinto. No porque los hechos pesen menos, sino porque aquí el cuaderno se acerca a lo que no entra del todo en una tabla. Sigue siendo una invitación a mirar, no un púlpito. Quien no tenga palabra para la fe puede quedarse igual: alcanza con no salir corriendo.
+Queda lo que menos se deja pesar: la muerte, un hombre de hace dos mil años, la coincidencia que llega a tiempo. Este capítulo se escribe un poco distinto, no porque los hechos pesen menos, sino porque el cuaderno se acerca a lo que no entra del todo en una tabla. Sigue siendo una invitación a mirar, no un púlpito. Quien no tenga palabra para la fe puede quedarse igual: alcanza con no salir corriendo.
 
 —Una experiencia de consuelo no demuestra un sepulcro vacío. El laboratorio no entra ahí, y eso no es una ofensa: es el límite del método.
 —El límite se firma. Este capítulo no pretende un p-valor para la resurrección. Pretende no llamar “solo consuelo” a un expediente histórico —y a una coincidencia que llega a tiempo— como si el laboratorio hubiera pesado los dos.

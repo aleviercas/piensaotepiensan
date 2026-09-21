@@ -1,6 +1,6 @@
 # Capítulo 7 — El dinero que se imprime
 
-El capítulo anterior preguntó si el carbono de la chimenea manda el clima. Este pregunta quién manda la moneda, y el salto tiene un motivo: las dos cosas se venden como asuntos técnicos, de expertos, cuando en la práctica son palancas de poder. Una se regula por decreto verde; la otra, con la rotativa. Las dos tocan el sueldo, el viaje y lo que se puede decir sin perder la cuenta.
+Los precios suben y, en el noticiero, la primera explicación suele ser el comerciante, la sequía o la guerra. Esas cosas existen, y mueven un mes o un año. Cuando la suba dura una década, conviene mirar otra palanca: **quién imprime la moneda, y a quién le llega primero**. Se vende como asunto técnico, de expertos. En la práctica es poder: toca el sueldo, el alquiler y lo que se puede decir sin perder la cuenta.
 
 —Los precios suben también por guerra, sequía y empresas con margen. Culpar solo a la rotativa es otra teología.
 —Guerra, sequía y margen existen. Este capítulo pregunta por qué, cuando la base monetaria se duplica, el “es el empresario” aparece siempre primero en el noticiero.
@@ -72,5 +72,3 @@ La invitación es casera. No hace falta un doctorado. Cuando el sueldo alcanza p
 Nada de esto es un consejo de inversión. Es un consejo de lectura. El que pueda, que no deje todo su ahorro en la moneda que imprime el que gasta. El que no pueda, que al menos sepa *por qué* el mes le cierra peor: no porque el verdulero se volvió malo, sino porque el billete se adelgazó antes de llegarle. Entender eso no vuelve a nadie economista; lo vuelve más difícil de convencer con un eslogan de “es la codicia” o de “imprimir no importa”. El resto —oro bajo el colchón, un índice, un ladrillo, un bitcoin— es una decisión de familia, no un himno de este libro.
 
 El dinero es, al final, una historia que nos contamos juntos. Cuando la historia se rompe, la gente no se vuelve “de derecha” ni “de izquierda”: se vuelve previsora. Ese instinto, bien mirado, es pensamiento crítico de cada día. No de un foro. De la mesa.
-
-El capítulo que sigue entra un milímetro más adentro. Porque el GPS del gasto no termina el control: lo termina, si se deja, la máquina que escribe la próxima frase y la hace pasar por pensamiento. El dinero que se apaga y el oráculo que no se puede contradecir son, si se los junta, el mismo aparato. Conviene mirarlos juntos.

@@ -1,9 +1,9 @@
 # Capítulo 2 — Guerras, mapas y comunicados
 
-El capítulo anterior miró el cuerpo: un virus, una vacuna, un calendario. Este mira el mapa: guerras, fronteras y comunicados. El salto no es caprichoso. En 2020 no se podía nombrar, en voz alta, un laboratorio; en 2022 no se podía nombrar, en muchas redacciones, un audio o un sótano que no encajaba en el recorte. Distinto escenario, una regla parecida: hay frases que un comunicado no permite, y el que las dice pasa a ser el problema.
+Una guerra tiene fechas, un mapa y un comunicado. El comunicado llega primero y, a menudo, decide qué se puede nombrar. Hay frases que no entran: un audio, un sótano, una isla. Quien las dice pasa a ser el problema, y el hecho se queda afuera. Este capítulo mira eso: no para convertir cada conflicto en el mismo cuento, sino para preguntar, en cada caso, **qué se midió y qué se recortó**.
 
-—Una guerra tiene causas, un agresor que cruza una frontera, y muertos que no son un “relato”. Mezclar eso con un virus es perder el hilo.
-—Las causas y la frontera importan. El hilo de este libro no es “todo es lo mismo”: es si, en las dos, le dijeron qué no se podía nombrar.
+—Una guerra tiene causas, un agresor que cruza una frontera, y muertos que no son un “relato”.
+—Las causas y la frontera importan, y no se disuelven en un recorte. Lo que se discute aquí es si, además, le dijeron qué no se podía nombrar.
 
 ## 2.1 Ucrania: dos relatos, una invasión
 

@@ -1,9 +1,9 @@
 # Capítulo 3 — Cuando explota algo
 
-El capítulo anterior dejó agresores y agredidos en fechas concretas: la invasión de 2022, la masacre del 7 de octubre, las Malvinas en 1833. Este baja un piso. Del mapa pasa a la bomba; del comunicado, al archivo del propio Estado. El hábito de preguntar no cambia. Cambia el objeto: cuando explota algo, conviene separar lo que está documentado de lo que se inventa para llenar el hueco. Una bandeja por vez, para no pegar las dos.
+Cuando explota algo, el primer relato llega en minutos y el archivo, si llega, tarda años. Entre uno y otro se llena el hueco con sospechas, algunas documentadas y otras no. Este capítulo pide una sola disciplina: **poner lo que está en el expediente en una bandeja y las teorías en otra**. Si se pegan, se nota. El hueco no prueba un sótano; el sótano, cuando existe, suele estar en el propio archivo del Estado.
 
 —La Comisión documentó negligencia, no un trabajo interno. Pedir un sótano para cada hueco no es rigor: es relleno.
-—De acuerdo: el hueco no prueba el sótano. Este capítulo pone el archivo en una bandeja y las teorías en otra. Si se pegan, se nota.
+—De acuerdo: el hueco no prueba el sótano. Por eso las dos bandejas. Si se pegan, se nota.
 
 ## 3.1 El 11-S: lo que el informe dejó abierto
 
@@ -92,9 +92,7 @@ Este capítulo probablemente sea el que mejor resume el método de todo el libro
 
 ### Segundo sobre
 
-Ya vio tres cuartos: un virus, un mapa, una explosión. Si siente que lo están reclutando, paramos. El método no era cambiar de iglesia. Era dejar una pregunta abierta un día más.
-
-El próximo tramo es más seco: la urna, el titular, el gas, el billete, la máquina. Menos sangre. Más perilla. Si el primero lo cansó, este pide otro músculo: el de no tragar el recorte que se repite.
+Si siente que lo están reclutando, paramos. El método no era cambiar de iglesia. Era dejar una pregunta abierta un día más.
 
 *¿Quién escribe la frase que usted después vota?*
 

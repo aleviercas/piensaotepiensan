@@ -100,8 +100,6 @@ Hoy podríamos añadir: para mantener a una sociedad pasiva, alcanza con convenc
 *¿Quién eres?*
 *¿Quién te está pensando?*
 
-No hace falta que conteste ahora. Sofía tampoco contestó en el acto: se quedó con el papel y fue a clase. El primer tramo es el cuerpo y el mundo —un virus, un mapa, una bomba—. Si 2020 no le cerró la boca, igual se puede leer. Si se la cerró, tiene sentido empezar ahí: el músculo se entrena donde más dolió.
-
-Nadie toma asistencia. El sobre puede quedarse sobre la mesa.
+No hace falta que conteste ahora. Sofía tampoco contestó en el acto: se quedó con el papel y fue a clase. Nadie toma asistencia. El sobre puede quedarse sobre la mesa.
 
 **El viaje es una invitación, no un reclutamiento.**

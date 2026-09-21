@@ -1,6 +1,6 @@
 # Capítulo 6 — El termómetro y la palanca
 
-En salud y en las redacciones vimos un mismo hábito: urgencia moral, disidente tratado como enemigo, y una palanca que sí se puede regular por decreto. El clima es el tercer caso, y conviene nombrarlo así, no como “otro complot”. Hay un gas, un termómetro y una política. La pregunta, otra vez, es de proporción: **qué se midió de verdad, y qué se vendió como si se hubiera medido.**
+Hay un gas, un termómetro y una política. El aire se calentó y el dióxido de carbono subió; eso se puede mirar sin convertirlo, de inmediato, en un veredicto moral. Lo que suele pegársele después —urgencia, enemigo, palanca que sí se vota— ya no es el dato: es el relato. La pregunta de este capítulo es de proporción: **qué se midió de verdad, y qué se vendió como si se hubiera medido.**
 
 —El CO2 absorbe infrarrojo, el aire se calentó un grado, y parte de ese carbono extra tiene firma fósil. Eso está medido. Dudar de la política no borra el tubo de Tyndall.
 —Este capítulo firma las tres. Lo que abre es lo de después: cuánto pesa esa molécula, qué tan calientes corren los modelos, y si “el 97%” cubre el net-zero o solo el enunciado mínimo. El tubo se queda. El patio de la política, no.
