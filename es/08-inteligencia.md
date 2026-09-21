@@ -1,6 +1,6 @@
 # Capítulo 8 — Cuando la máquina habla por todos
 
-El capítulo anterior terminó en el dinero que se apaga: un billete digital que el emisor puede vencer, recortar o apagar si el puntaje no da. Este empieza un milímetro más adentro. Porque el GPS del gasto no sirve de mucho si, al mismo tiempo, la pregunta que uno se hace ya viene contestada por una máquina que suena razonable. El control fino del siglo no es solo ver la boleta. Es escribir, en nombre de mil millones de personas, **la próxima frase que van a tomar por propia**.
+El capítulo anterior terminó en el dinero que se puede apagar: un billete digital que el emisor vence, recorta o cierra si el puntaje no da. Este entra un paso más adentro, porque ese control no termina en la boleta. Si, al mismo tiempo, la pregunta que uno se hace ya viene contestada por una máquina que suena razonable, el GPS del gasto es apenas la mitad del asunto. El control fino del siglo no es solo ver qué compra. Es escribir, en nombre de mil millones de personas, **la próxima frase que van a tomar por propia**.
 
 La inteligencia artificial no es un capítulo de gadgets. Es el lugar donde se cruzan el pensamiento crítico, el manejo de masas y, si se les cree a varios de los que la construyen, la supervivencia de la especie. Las tres cosas caben en la misma pregunta, y conviene no mezclarlas para que ninguna tape a las otras: **¿quién alinea al oráculo, para qué, y qué queda de un humano que ya no sostiene una duda?**
 

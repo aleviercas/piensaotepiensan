@@ -1,6 +1,6 @@
 # Capítulo 2 — Guerras, mapas y comunicados
 
-El capítulo anterior miró el cuerpo: un virus, una vacuna, un calendario. Este mira el mapa. El silencio, en otro escenario, se parece: hay frases que un comunicado no permite.
+El capítulo anterior miró el cuerpo: un virus, una vacuna, un calendario. Este mira el mapa: guerras, fronteras y comunicados. El salto no es caprichoso. En 2020 no se podía nombrar, en voz alta, un laboratorio; en 2022 no se podía nombrar, en muchas redacciones, un audio o un sótano que no encajaba en el recorte. Distinto escenario, una regla parecida: hay frases que un comunicado no permite, y el que las dice pasa a ser el problema.
 
 —Una guerra tiene causas, un agresor que cruza una frontera, y muertos que no son un “relato”. Mezclar eso con un virus es perder el hilo.
 —Las causas y la frontera importan. El hilo de este libro no es “todo es lo mismo”: es si, en las dos, le dijeron qué no se podía nombrar.

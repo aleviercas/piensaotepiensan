@@ -1,6 +1,6 @@
 # Capítulo 5 — Quién escribe la noticia
 
-Quien no se vota, igual habla. El capítulo anterior dejó el poder que no sale en la boleta; este mira quién escribe la frase que esa boleta cree haber elegido. El laboratorio de 2020, el audio de Nuland, las niñas de Rotherham: ninguno llegó primero al noticiero. Llegó el recorte.
+El capítulo anterior dejó el poder que no sale en la boleta. Este mira a quien, sin presentarse a elecciones, igual habla todos los días: la redacción, la plataforma, el recorte que llega primero. El laboratorio de 2020, un audio de guerra, las niñas de Rotherham: ninguno de esos hechos llegó primero al noticiero en su forma más incómoda. Llegó una versión más fácil de tragar. Por eso este capítulo no es un ataque al periodismo en bloque. Es una pregunta más seca: **quién escribe la frase que después se vota, y qué se queda afuera.**
 
 —Redacciones distintas se pelean entre sí. No hay un ministerio de la verdad. Un error repetido no es, por eso, un complot.
 —Se pelean, y aun así recortan las mismas cosas durante los mismos años. El recorte no necesita un ministerio: necesita un hábito y un miedo. Eso es lo que se mira.

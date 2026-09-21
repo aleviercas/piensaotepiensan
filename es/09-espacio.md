@@ -1,6 +1,6 @@
 # Capítulo 9 — Lo que las piedras no explican
 
-Hasta aquí, el libro miró lo que a uno lo piensan: el cuerpo, el mapa, la urna, el feed, el gas, el dinero, la máquina. El tercer sobre quedó sobre la mesa. Ahora se abre: lo que el laboratorio no cierra. Piedras que no se copian, un diluvio que aparece en culturas que no se hablaban, una teoría de Darwin que explica adaptación y se queda corta con el origen. El músculo es el mismo. El objeto, no.
+Hasta aquí el libro miró lo que a uno lo piensan desde afuera: el cuerpo, el mapa, la urna, el noticiero, el gas, el dinero, la máquina. El tercer sobre, al cierre del capítulo anterior, quedó sobre la mesa. Ahora se abre lo que el laboratorio no cierra del todo: piedras que no se copian con la maquinaria de hoy, un diluvio que aparece en culturas que no se hablaban, una teoría de Darwin que explica muy bien la adaptación y se queda corta cuando se le pide el origen de la información. El hábito de preguntar es el mismo. Cambia el objeto: ya no hay un ministerio al que pedirle el paper, y aun así a veces se declara el asunto “cerrado” para no quedar de místico.
 
 —La ciencia cierra lo que puede tocar, predecir y repetir. Lo que no produce objeto se queda en el estante, no en el templo.
 —Ese rasero es el de este capítulo. Lo que se discute es si a veces se declara “cerrado” para no quedar de místico: el mismo reflejo, invertido.

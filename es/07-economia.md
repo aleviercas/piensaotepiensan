@@ -1,6 +1,6 @@
 # Capítulo 7 — El dinero que se imprime
 
-Si se moraliza el aire, también se imprime el dinero. El capítulo anterior preguntó si el carbono de la chimenea manda el clima; este pregunta quién manda la moneda. Las dos palancas se venden como técnicas. Las dos son poder.
+El capítulo anterior preguntó si el carbono de la chimenea manda el clima. Este pregunta quién manda la moneda, y el salto tiene un motivo: las dos cosas se venden como asuntos técnicos, de expertos, cuando en la práctica son palancas de poder. Una se regula por decreto verde; la otra, con la rotativa. Las dos tocan el sueldo, el viaje y lo que se puede decir sin perder la cuenta.
 
 —Los precios suben también por guerra, sequía y empresas con margen. Culpar solo a la rotativa es otra teología.
 —Guerra, sequía y margen existen. Este capítulo pregunta por qué, cuando la base monetaria se duplica, el “es el empresario” aparece siempre primero en el noticiero.

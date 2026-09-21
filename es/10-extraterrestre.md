@@ -1,6 +1,6 @@
 # Capítulo 10 — ¿Estamos solos?
 
-Del suelo al cielo. El capítulo anterior dejó objetos que no entran del todo en el relato de “aquella época no podía”. Este pregunta si, además, hay algo que no es de esta época. No hace falta un hangar para sostener la pregunta. Tampoco hace falta un hangar para cerrarla.
+El capítulo anterior se quedó en el suelo: pirámides, muros, un diluvio. Este sube la mirada. Pregunta si, además de lo que aquella época “no podía” construir, hay algo en el cielo que no es de esta época. No hace falta un hangar secreto para sostener la pregunta, ni para cerrarla. Hace falta el mismo rasero de siempre: qué está bajo juramento o en un informe, y qué es un relato que llena el hueco.
 
 —La mayoría de los avistamientos son globos, drones, óptica y secretos militares. El U-2 ya enseñó esa lección. Extraordinario pide prueba extraordinaria.
 —La lección del U-2 se firma. Este capítulo pregunta por el resto: testimonios bajo juramento e informes que ya no dicen “son todos globos”. Prueba extraordinaria, sí. Decreto, no.

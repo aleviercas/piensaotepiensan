@@ -1,6 +1,6 @@
 # Capítulo 3 — Cuando explota algo
 
-El capítulo anterior dejó agresores y agredidos en fechas concretas —2022, el 7 de octubre, 1833—. Este baja un piso: del mapa a la bomba, del comunicado al archivo del propio Estado. El músculo no cambia. Una bandeja por vez.
+El capítulo anterior dejó agresores y agredidos en fechas concretas: la invasión de 2022, la masacre del 7 de octubre, las Malvinas en 1833. Este baja un piso. Del mapa pasa a la bomba; del comunicado, al archivo del propio Estado. El hábito de preguntar no cambia. Cambia el objeto: cuando explota algo, conviene separar lo que está documentado de lo que se inventa para llenar el hueco. Una bandeja por vez, para no pegar las dos.
 
 —La Comisión documentó negligencia, no un trabajo interno. Pedir un sótano para cada hueco no es rigor: es relleno.
 —De acuerdo: el hueco no prueba el sótano. Este capítulo pone el archivo en una bandeja y las teorías en otra. Si se pegan, se nota.

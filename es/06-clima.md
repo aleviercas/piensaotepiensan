@@ -1,6 +1,6 @@
 # Capítulo 6 — El termómetro y la palanca
 
-El mismo paquete, ahora con un gas. Si el consenso sanitario y el de las redacciones se inclinaron juntos, el climático es el tercero de la fila: urgencia moral, disidente como enemigo, palanca que sí se puede regular por decreto. Vale la misma pregunta de proporción que en el virus: ¿qué se midió, y qué se vendió como si se hubiera medido?
+En salud y en las redacciones vimos un mismo hábito: urgencia moral, disidente tratado como enemigo, y una palanca que sí se puede regular por decreto. El clima es el tercer caso, y conviene nombrarlo así, no como “otro complot”. Hay un gas, un termómetro y una política. La pregunta, otra vez, es de proporción: **qué se midió de verdad, y qué se vendió como si se hubiera medido.**
 
 —El CO2 absorbe infrarrojo, el aire se calentó un grado, y parte de ese carbono extra tiene firma fósil. Eso está medido. Dudar de la política no borra el tubo de Tyndall.
 —Este capítulo firma las tres. Lo que abre es lo de después: cuánto pesa esa molécula, qué tan calientes corren los modelos, y si “el 97%” cubre el net-zero o solo el enunciado mínimo. El tubo se queda. El patio de la política, no.
@@ -9,7 +9,7 @@ El mismo paquete, ahora con un gas. Si el consenso sanitario y el de las redacci
 
 Este capítulo no pide que se deje de mirar el termómetro. Pide que no se le entregue al carbono de la chimenea un poder que, por tamaño y por historia, tal vez no tiene. El aire se calentó y el CO2 subió. Esas dos curvas se pueden mirar juntas sin convertirlas, de inmediato, en un veredicto moral.
 
-Lo que suele venir después es otra cosa: que casi todo el calor es nuestro; que los modelos aciertan lo suficiente para rediseñar la economía; que los huracanes ya son la prueba; que el único camino decente es apagar el fósil a toda prisa; y que dudar de cualquiera de esos saltos es “negar la ciencia”. Eso no es física. Es un paquete. Se puede abrir. Incluso se puede seguir preocupado por el clima después de abrirlo. Este libro solo invita a no tragárselo cerrado.
+Lo que suele venir después es otra cosa: que casi todo el calor es nuestro; que los modelos aciertan lo suficiente para rediseñar la economía; que los huracanes ya son la prueba; que el único camino decente es apagar el fósil a toda prisa; y que dudar de cualquiera de esos saltos es “negar la ciencia”. Eso no es física: es un paquete de conclusiones pegadas a un dato. Se puede abrir el paquete y, aun así, seguir preocupado por el clima. Este libro solo invita a no tragárselo cerrado.
 
 **Algunas cosas sí se miden.** La temperatura media de superficie, en las series más usadas, subió alrededor de un grado desde el siglo XIX, y el CO2 del aire pasó de unas 280 partes por millón a más de 420. Una parte de ese carbono extra tiene firma de combustibles fósiles. El CO2 absorbe radiación infrarroja: lo midieron Tyndall y Arrhenius hace más de un siglo, con un tubo y un termómetro, y negar el tubo no es pensamiento crítico, como tampoco lo es negarse a preguntar **cuánto pesa esa molécula frente al Sol, al vapor de agua, a las nubes y al océano**.
 

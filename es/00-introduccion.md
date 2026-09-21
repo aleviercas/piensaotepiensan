@@ -9,9 +9,7 @@ En *El mundo de Sofía*, de Jostein Gaarder, una chica de catorce años encuentr
 
 Se le cuelga a Einstein, en posters y en feeds, una frase que el archivo no firma: *"La medida de la inteligencia es la capacidad de cambiar."* No aparece en sus papeles ni en las recopilaciones serias de sus citas. Circula con su nombre desde hace unos años, como tantas otras. La idea, aun así, aguanta sin el sello: **cambiar de idea no es perder**. Estas páginas se escriben con esa medida, tenga o no el apellido correcto.
 
-Los grandes avances no salieron, por lo general, del que asiente. Salieron de gente que dudó de lo que venía envuelto en autoridad: un comité, un ministerio, un titular. Este libro es un tributo a ese espíritu, no a una tribu.
-
-Tampoco es un manifiesto. Es el cuaderno de alguien curioso que intenta ver los hechos —lo que se puede chequear, lo que se omite, lo que se infla— **antes** de ponerles un color político. La camiseta se adquiere después de ese razonamiento, no al revés. Quien elige primero el bando y después busca los datos que lo decoren no está pensando: está tapizando. Estas páginas se escriben en el otro orden. El riesgo es evidente: quedar mal con los dos costados.
+Los grandes avances no salieron, por lo general, del que asiente. Salieron de gente que dudó de lo que venía envuelto en autoridad: un comité, un ministerio, un titular. Este libro es un tributo a ese espíritu, no a una tribu, y por eso tampoco es un manifiesto. Es el cuaderno de alguien curioso que intenta ver los hechos —lo que se puede chequear, lo que se omite, lo que se infla— **antes** de ponerles un color político. La camiseta se adquiere después de ese razonamiento, no al revés. Quien elige primero el bando y después busca los datos que lo decoren no está pensando: está tapizando. Estas páginas se escriben en el otro orden. El riesgo es evidente: quedar mal con los dos costados.
 
 Un profesor de mi universidad solía decir que el sentido común es el menos común de los sentidos. Tenía razón, y aun así prefiero otra frase: **pensamiento crítico**. El sentido común, aunque suene razonable, muchas veces no es más que una repetición colectiva de lo aprendido sin haberlo mirado. El pensamiento crítico busca independencia. No se conforma con lo que se dice. Investiga, duda y contrasta las fuentes antes de concluir.
 
@@ -21,7 +19,7 @@ Por eso este libro insiste en el músculo que la máquina no tiene: **sostener u
 
 ## Quienes preguntaron
 
-No hace falta una lista de santos. Hace falta recordar que preguntar ya le costó caro a más de uno. Y que haber preguntado no los volvió infalibles.
+No hace falta una lista de santos. Hace falta recordar, con nombres, que preguntar ya le costó caro a más de uno, y que haber preguntado no los volvió infalibles. Lo que sigue es ese recuerdo, no un altar.
 
 Entre quienes desafiaron lo que su época daba por cerrado, pocos lo hicieron con la profundidad de **Jesús de Nazaret**. En un tiempo de templo rígido y de imperio, predicó amor, justicia y libertad interior, y le costó la vida. Más allá de la fe de cada lector, su enseñanza cambió la historia moral de Occidente.
 
