@@ -93,7 +93,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 14. **Fenbendazol y los amigos de Mel Gibson: no son farsantes; la pregunta es por qué no hay un estudio cuando otras vías fallan; es una esperanza, no una receta.** ¿Sí / no?
 195. **Aseem Malhotra: se vacunó, luego pidió pausa. La miocarditis se confirmó; el salto a toda isquemia, no.** ¿Más fuerte / así / sacar?
 196. **Angus Dalgleish: recaídas de melanoma post-refuerzo en su clínica. No se canta turbo-cáncer.** ¿Más fuerte / así / sacar?
-197. **David Martin, Bruselas 3-5-2023: 1965 y patentes son archivo; guerra biológica planeada queda como su tesis, no sentencia. Sin cartel.** ¿Afirmar el salto / así / sacar?
+197. **David Martin, Bruselas 3-5-2023: B814 es resfriado 1965, no SARS-2; las patentes de 1990 son de perro (Pfizer US 6.372.224); Baric 2002 es un vector; el CDC pidió el SARS-1 en 2003. Cinco preguntas abiertas. El salto a guerra biológica no se firma.** ¿Afirmar el salto / así / más / sacar?
 15. **Ivermectina: evidencia mixta y un trato institucional hostil, no una cura milagrosa.** ¿Sí / no / más fuerte?
 
 ---

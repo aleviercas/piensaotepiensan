@@ -27,11 +27,32 @@ En esos primeros días se apagaron voces, y el modo en que se apagaron dice tant
 
 Afuera del laboratorio, quienes filmaron Wuhan sin permiso —Chen Qiushi, Fang Bin, Li Zehua— se silenciaron en febrero de 2020. El *New York Times* lo contó mientras todavía se podía. Un Estado que trata la pregunta como un problema de seguridad no necesita un sótano para cada nombre. Le alcanza con que el nombre deje de aparecer.
 
-**1965, 1990, una sala en Bruselas.** El 3 de mayo de 2023, David E. Martin —analista de patentes, no virólogo— abrió el International COVID Summit III en una sala del Parlamento Europeo, en Bruselas. No era el pleno. Era un encuentro que unos eurodiputados alojaron en el edificio. El video, en redes, se titula como si hubiera hablado “ante la Unión”. El dato es más seco: la sala es esa; la sesión oficial, no.
+**1965, 1990, una sala en Bruselas.** El 3 de mayo de 2023, David E. Martin —analista de patentes, no virólogo— abrió el International COVID Summit III en una sala del Parlamento Europeo, en Bruselas. No era el pleno. Era un encuentro que unos eurodiputados alojaron en el edificio. El video, en redes, se titula como si hubiera hablado “ante la Unión”. El dato es más seco: la sala es esa; la sesión oficial, no. Lo que recitó se puede leer sin él. Conviene leerlo.
 
-Martin recitó un archivo que sí se puede mirar. En 1965, David Tyrrell y Mark Bynoe publicaron en el *BMJ* el aislamiento de un virus de resfriado —la cepa B814— que hoy llamamos coronavirus humano. El nombre “coronavirus” llegó dos o tres años después, con las fotos de June Almeida. En los años 90 hay patentes de vacunas y de proteína spike sobre coronavirus, la mayoría de animales. En Chapel Hill, Ralph Baric y otros patentaron, años antes de Wuhan, clones infecciosos de coronavirus: la técnica de copiar y armar el virus en el laboratorio. Nada de eso es un rumor.
+**La cepa B814.** En 1960, en Inglaterra, se tomó un hisopado nasal de un chico con un resfriado corriente. El número de laboratorio fue **B814**. Cinco años después, el 5 de junio de 1965, David Tyrrell y Mark Bynoe, de la Common Cold Unit de Wiltshire, publicaron en el *British Medical Journal* que ese agente pasaba un filtro de bacterias, se inactivaba con éter —por tanto no era un rinovirus ni un adenovirus—, producía resfriados en voluntarios y se podía cultivar en epitelio traqueal fetal, no en los cultivos de entonces. No sabían cómo llamarlo. En 1967, June Almeida lo fotografió al microscopio electrónico: un halo de púas, como una corona. En 1968 el grupo recibió el nombre. B814 se perdió después en el laboratorio; lo que quedó de esa familia en circulación humana son virus de resfriado —229E, OC43—, no el SARS-CoV-2. Los coronavirus de aves se habían aislado en los años 30. El primero *humano* que entra al paper es ese.
 
-El salto que Martin pide —que 1965 más una patente de 1990 más un clon de 2002 equivalen a una guerra biológica planeada, y a una liberación a propósito— no está escrito en esos papeles. Está en su lectura. Este libro no le va a colgar el cartel. Tampoco va a firmar el salto. Deja las fechas y una pregunta: **si el coronavirus humano se aisló en 1965 y se lo aprendió a clonar décadas antes de 2019, ¿por qué en 2020 se hablaba como si el objeto hubiera nacido el invierno anterior?** El resto —arma, Pfizer, liberación— que lo firme quien tenga el documento, no el video.
+**Las patentes de 1990, con número.** Lo que Martin llama “la primera vacuna de spike de Pfizer” no es una vacuna contra el COVID. Es, sobre todo, esto:
+
+- **US 4.904.468**, concedida el 27 de febrero de 1990 a Norden Laboratories (Gill y May): vacuna de coronavirus *canino*, con la proteína del peplómero —el otro nombre viejo de la spike— asociada a la célula.
+- **US 6.372.224** (y la familia **US 6.057.436 / US 6.602.504**), prioridad **14 de noviembre de 1990**, inventores Miller, Klepfer, Reed y Jones, cesionaria **Pfizer**: gen S del coronavirus canino (cepa 1-71, ATCC VR-809) y su uso en profilaxis y diagnóstico. El PCT posterior (WO 93/23422) es el mismo objeto: spike de perro, no de Wuhan.
+
+La spike no era un invento de 2020. Es la púa que da nombre a la familia desde Almeida. Pfizer, en 1990, patentó cómo usarla contra un virus de perro. Eso no prueba que SARS-CoV-2 estuviera en un cajón de Nueva York. Prueba que **la industria ya sabía apuntar a esa proteína treinta años antes del eslogan “es nueva”**.
+
+**El clon de Chapel Hill, 2002.** El 19 de abril de 2002 —meses antes de que el SARS de Guangdong se volviera noticia mundial— Kristopher Curtis, Boyd Yount y Ralph Baric, de la Universidad de Carolina del Norte, presentaron lo que salió como **US 7.279.327**. El abstract habla de una partícula de coronavirus **infecciosa y defectuosa para replicarse**: un replicón más un ARN auxiliar, para que el virus entre a la célula y no pueda completar el ciclo sin ayuda. En virología eso se llama vector. Martin oye “arma”. El ejemplo del expediente es, en buena parte, TGEV, un coronavirus de cerdo. Baric, el mismo laboratorio, es después el de los clones de SARS y el de DEFUSE. La fecha de presentación es real. La lectura de “arma” es suya.
+
+**Lo que patentó el CDC, 2003.** El 25 de abril de 2003, con el SARS-1 ya en el mapa, el CDC pidió —y más tarde obtuvo, entre otras, la **US 7.220.852**— el aislamiento del coronavirus de SARS y métodos de detección. Martin objeta que la ley estadounidense no permite patentar la naturaleza (35 U.S.C. §101). El dato es que un organismo público de EE.UU. pidió, tres días después, titularidad sobre un virus que acababa de saltar en Asia. Sequoia Pharmaceuticals, el 28 de abril, pidió antivirales. El archivo de patentes de “SARS coronavirus”, a partir de 2003, se cuenta por miles. Contarlas no es una sentencia de guerra. Es un inventario de quién llegó primero al mostrador.
+
+El salto que Martin pide —que B814 más Pfizer-perro más Baric-2002 equivalen a una guerra biológica planeada y a una liberación a propósito en Wuhan— no está escrito en esos papeles. Está en su lectura. Este libro no le cuelga el cartel. Tampoco firma el salto.
+
+**Preguntas que el archivo deja abiertas.**
+
+1. Si el coronavirus humano se aisló en 1965 y se fotografió en 1967, ¿por qué en 2020 el relato habló como si el objeto hubiera nacido ese invierno?
+2. Si Pfizer ya apuntaba a la spike de un coronavirus en 1990, ¿qué quería decir “la proteína es nueva”?
+3. Si Baric sabía clonar un coronavirus infeccioso y defectuoso en 2002, y DEFUSE pidió un sitio de furina en 2018, ¿cuánto de 2019 era improvisación y cuánto era taller ya abierto?
+4. ¿“Infeccioso y defectuoso para replicarse” es el lenguaje de un vector de vacuna, el de un arma, o las dos cosas caben en la misma frase de patente?
+5. ¿Qué hace un CDC pidiendo, en abril de 2003, la titularidad de un virus aislado en Asia —y qué impide, y qué no, ese título?
+
+El resto —arma, liberación, “Pfizer compró el voto”— que lo firme quien tenga el documento, no el video.
 
 ## 1.2 Una gripe unas tres veces más fuerte
 
