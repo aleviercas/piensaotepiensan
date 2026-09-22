@@ -5,7 +5,7 @@
 *¿Quién eres?*
 *¿Quién te está pensando?*
 
-Si esas dos líneas no le dicen nada, puede cerrar el libro. Si se queda, esto es el cuaderno de alguien curioso: mira el hecho —lo que se puede chequear, lo que se omite, lo que se infla— **antes** de ponerle un color político. La camiseta viene después. Quien elige primero el bando y luego busca los datos no está pensando: está tapizando.
+No hace falta contestar ahora. Hace falta no tirarlas. Este es el cuaderno de alguien curioso: mira primero el hecho —qué se puede chequear, qué se omite, qué se infla— y recién después le pone un color. El orden inverso, elegir el bando y luego buscar lo que lo decora, no es pensamiento. Es decorado.
 
 Se le cuelga a Einstein, en posters y en feeds, una frase que sus papeles no firman: *"La medida de la inteligencia es la capacidad de cambiar."* No está en las recopilaciones serias. Circula con su nombre, como tantas otras. Da igual el sello: **cambiar de idea no es perder**. Estas páginas se escriben con esa medida.
 
