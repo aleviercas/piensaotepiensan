@@ -1,15 +1,15 @@
 # Introducción
 
-## Un sobre, para empezar
+## Para empezar
 
 *¿Quién eres?*
 *¿Quién te está pensando?*
 
-En *El mundo de Sofía*, de Jostein Gaarder, una chica de catorce años encuentra dos preguntas en el buzón y no las tira. Este cuaderno no tiene buzón: tiene un índice. Si las dos líneas de arriba no le interesan, el índice sobra. Si se queda, el resto intenta no entregar el veredicto antes de la conversación.
+Si esas dos líneas no le dicen nada, puede cerrar el libro. Si se queda, esto es el cuaderno de alguien curioso: mira el hecho —lo que se puede chequear, lo que se omite, lo que se infla— **antes** de ponerle un color político. La camiseta viene después. Quien elige primero el bando y luego busca los datos no está pensando: está tapizando.
 
 Se le cuelga a Einstein, en posters y en feeds, una frase que sus papeles no firman: *"La medida de la inteligencia es la capacidad de cambiar."* No está en las recopilaciones serias. Circula con su nombre, como tantas otras. Da igual el sello: **cambiar de idea no es perder**. Estas páginas se escriben con esa medida.
 
-Los grandes avances no salieron, por lo general, del que asiente. Salieron de quien dudó de un comité, un ministerio, un titular. Este libro es un tributo a ese espíritu, no a una tribu. Tampoco es un manifiesto. Es el cuaderno de alguien curioso que mira el hecho —lo que se puede chequear, lo que se omite, lo que se infla— **antes** de ponerle un color político. La camiseta viene después. Quien elige primero el bando y luego busca los datos no está pensando: está tapizando.
+Los grandes avances no salieron, por lo general, del que asiente. Salieron de quien dudó de un comité, un ministerio, un titular. Este libro es un tributo a ese espíritu, no a una tribu. Tampoco es un manifiesto.
 
 Un profesor de mi universidad solía decir que el sentido común es el menos común de los sentidos. Tenía razón, pero prefiero otra frase: **pensamiento crítico**. El sentido común, aunque suene bien, muchas veces es repetición. El pensamiento crítico busca independencia: investiga, duda y contrasta antes de concluir.
 
@@ -25,7 +25,7 @@ Entre quienes desafiaron lo que su época daba por cerrado, pocos lo hicieron co
 
 Siglos antes, **Sócrates** enseñó a pensar sin ofrecer respuestas: solo preguntas. El diálogo le valió la condena. Su discípulo **Platón** nos dejó la imagen que este libro no va a soltar: la caverna. Unos prisioneros ven sombras en una pared y las toman por el mundo. Cuando uno sale a la luz y vuelve a contarlo, lo toman por loco. Muchos prefieren la sombra conocida. Una luz que obliga a repensar todo es, todavía, una ofensa.
 
-Ese libro —*El mundo de Sofía*— ya abrió estas páginas. Lo que me enseñó es el gesto: Sofía no recibe un catecismo; recibe cartas. Un desconocido le deja la historia de la filosofía como quien deja un sobre, y ella se queda. Preguntar sin humillar. No entregar el veredicto antes de la conversación. Este cuaderno copia eso, no a Alberto Knox ni a una adolescente en Noruega. Entre tramo y tramo, un sobre corto. Si lo deja, no hay examen.
+Hay un libro que me enseñó a entrar a esa caverna sin catecismo: *El mundo de Sofía*, de Jostein Gaarder. Una chica de catorce años encuentra dos preguntas en el buzón y no las tira. Un desconocido le deja la historia de la filosofía como quien deja un sobre, y ella se queda. Preguntar sin humillar. No entregar el veredicto antes de la conversación. Este cuaderno copia ese gesto, no a Alberto Knox ni a una adolescente en Noruega. Entre tramo y tramo, un sobre corto. Si lo deja, no hay examen.
 
 **Cristóbal Colón** se lanzó a océanos que muchos creían el borde del abismo. **Magallanes** fue más lejos y, con el viaje, mostró que los mares unían continentes en vez de separarlos. **Giordano Bruno** imaginó un universo infinito y fue ejecutado por herejía. **Galileo** apuntó el telescopio y confirmó que la Tierra no era el centro; la Inquisición lo obligó a retractarse. Sus hallazgos, no su proceso, sentaron la ciencia que después los citó.
 
@@ -49,7 +49,7 @@ Hay un sesgo concreto, y hay que nombrarlo de entrada, sin pelearse con quien no
 
 ## Cómo leer este libro (y cómo no)
 
-Este libro no es *El mundo de Sofía*. No hay un curso de Tales a Sartre, ni un filósofo que lo espere en una cabaña. Hay otra caverna, la de este siglo: un virus, un clima, un feed, una máquina que ya escribe el promedio.
+Este libro no es un curso de Tales a Sartre, ni un filósofo que lo espere en una cabaña. Hay otra caverna, la de este siglo: un virus, un clima, un feed, una máquina que ya escribe el promedio.
 
 La forma quiere el mismo gesto. Un ensayo con una sola columna: **¿quién te está pensando, y qué pasa si deja de preguntar?** En cada capítulo, la voz de quien no está de acuerdo, dicha como él la firmaría. Entre tramo y tramo, un sobre. Si el libro le gana a un espantapájaros, no le ganó a nadie.
 
