@@ -397,6 +397,33 @@
       "priority": true
     },
     {
+      "id": 195,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Aseem Malhotra: cardiólogo que se vacunó, luego pidió pausa (JIR 2022). Miocarditis confirmada; el salto a toda isquemia, no.",
+      "hint": "¿Más fuerte (afirmar el salto cardíaco)?",
+      "priority": true
+    },
+    {
+      "id": 196,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "Angus Dalgleish: recaídas de melanoma post-refuerzo en su clínica; IgG4/T agotados. No se canta turbo-cáncer.",
+      "hint": "¿Más fuerte (afirmar la causa)?",
+      "priority": true
+    },
+    {
+      "id": 197,
+      "section": "Capítulo 1 — Salud",
+      "prompt": "David Martin, Bruselas 3-5-2023 (ICS III): 1965 (Tyrrell/Bynoe, BMJ) y patentes de los 90/clon de Baric son archivo. El salto a guerra biológica planeada queda como su tesis, no como sentencia. Sin cartel de conspiración.",
+      "hint": "¿Afirmar el salto? ¿Sacar el acto?",
+      "priority": true
+    },
+    {
+      "id": 198,
+      "section": "Capítulo 2 — Geopolítica",
+      "prompt": "ICS III en una sala del Parlamento Europeo, no el pleno. El recorte (“no cuenta”) es el hábito del comunicado. Martin: dato y pregunta, no etiqueta.",
+      "priority": true
+    },
+    {
       "id": 99,
       "section": "Capítulo 2 — Geopolítica",
       "prompt": "Ucrania: audio de Nuland y Maidán sucio; la invasión rusa de 2022 sigue siendo invasión. Dos villanos caben."

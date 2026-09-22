@@ -91,6 +91,9 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 12. **Cuestionar vacunas *antes* del COVID era tabú; el mandato de 2021 destapó la olla del calendario infantil y el autismo.** ¿Sí / no / más fuerte?
 13. **No se afirma “las vacunas causan autismo” como hecho cerrado; se afirma que la pregunta merece estudio.** ¿Es eso lo que quería, o quería afirmar la causa?
 14. **Fenbendazol y los amigos de Mel Gibson: no son farsantes; la pregunta es por qué no hay un estudio cuando otras vías fallan; es una esperanza, no una receta.** ¿Sí / no?
+195. **Aseem Malhotra: se vacunó, luego pidió pausa. La miocarditis se confirmó; el salto a toda isquemia, no.** ¿Más fuerte / así / sacar?
+196. **Angus Dalgleish: recaídas de melanoma post-refuerzo en su clínica. No se canta turbo-cáncer.** ¿Más fuerte / así / sacar?
+197. **David Martin, Bruselas 3-5-2023: 1965 y patentes son archivo; guerra biológica planeada queda como su tesis, no sentencia. Sin cartel.** ¿Afirmar el salto / así / sacar?
 15. **Ivermectina: evidencia mixta y un trato institucional hostil, no una cura milagrosa.** ¿Sí / no / más fuerte?
 
 ---
@@ -103,6 +106,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 182. **DEI en empresas: McKinsey no se replica; cupo insulta primero a quien entra por el casillero.** ¿Sí / no / sacar?
 18. **Malvinas: Bougainville 1764, Francia cede a España, 1833 expulsión, 1982 un error, las invasiones a Buenos Aires 1806-1807 como contexto. Nada es azar.** ¿Sí / no? ¿Falta algún dato que usted tenía?
 19. **Nord Stream: *cui bono*, sin decretar al autor.** ¿Sí / no / más fuerte (señalar a alguien)?
+198. **ICS III, Bruselas 3-5-2023: sala del Parlamento, no el pleno. Martin: dato y pregunta, no etiqueta.** ¿Así / afirmar el salto / sacar?
 
 ---
 
