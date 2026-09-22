@@ -41,7 +41,7 @@ Casi ninguna se presenta como dictadura. Hay elecciones, constitución y parlame
 
 **Medios.** Rusia: televisión bajo el Kremlin; desde 2022, hasta 15 años por llamar “guerra” a la guerra. China: Gran Cortafuegos, documentado por Citizen Lab, de Toronto. No hace falta prohibir todos los diarios. Hace falta que el canal que llega a la mayoría no se aparte del glosario.
 
-**Vigilancia.** El “crédito social” chino es un mosaico municipal, no un Gran Hermano único, y aun así te deja sin avión si estás en la lista equivocada. Xinjiang: más de un millón de uigures en campos que Pekín llama “formación vocacional” y la ONU, posibles crímenes de lesa humanidad. Llamarlo formación no cambia el recuento.
+**Vigilancia.** El “crédito social” chino es un mosaico municipal, no un Gran Hermano único, y aun así deja a uno sin avión si está en la lista equivocada. Xinjiang: más de un millón de uigures en campos que Pekín llama “formación vocacional” y la ONU, posibles crímenes de lesa humanidad. Llamarlo formación no cambia el recuento.
 
 El patrón: represión selectiva —la justa para asustar sin vaciar el país—, monopolio de la información, y un piso de apoyo o de apatía. No hace falta un gulag en cada esquina. Hace falta que el vecino no sepa a quién llamar. Quien busque el uniforme de 1937 para poder preocuparse, va a llegar siempre un régimen más tarde.
 
@@ -63,7 +63,7 @@ Lo que no es caricatura:
 
 La pregunta útil no es “¿Schwab manda en tu municipio?”. Es por qué presidentes electos se sacan la foto, copian el glosario y vuelven a casa a regularte la calefacción. Esa pregunta molesta más que la teoría del gobierno sombra, porque no tiene un solo cuello al que agarrar: tiene una clase, y una clase no se vota.
 
-**Identidad digital, ciudades de quince minutos, ESG.** Ninguna de esas piezas nació en un sótano. La identidad digital la empujan bancos, la OMS —pase sanitario como prototipo—, la Unión Europea (eIDAS 2), India (Aadhaar, ya masivo) y un listado de *white papers* del FEM sobre “known traveller”. El objetivo declarado es comodidad y menos fraude. El efecto, si se ata al dinero (capítulo 7) y al discurso (capítulo 5), es un interruptor: te apagan el tren, la cuenta y el feed en el mismo acto administrativo.
+**Identidad digital, ciudades de quince minutos, ESG.** Ninguna de esas piezas nació en un sótano. La identidad digital la empujan bancos, la OMS —pase sanitario como prototipo—, la Unión Europea (eIDAS 2), India (Aadhaar, ya masivo) y un listado de *white papers* del FEM sobre “known traveller”. El objetivo declarado es comodidad y menos fraude. El efecto, si se ata al dinero y al discurso, es un interruptor: le apagan el tren, la cuenta y el feed en el mismo acto administrativo.
 
 Las “ciudades de quince minutos” son, en urbanismo, una idea vieja y a veces buena —París caminable, pueblo que no depende del auto—. En 2023 se volvieron, en Oxford y en redes, el símbolo de un encierro con otro nombre. La pregunta adulta no es “¿te van a encerrar en tu barrio?”. Es: **¿quién define el perímetro, con qué sensor, y qué pasa si el perímetro se usa para una pandemia, una protesta o una huella de carbono?** ESG, en tanto, convirtió la banca y el fondo de pensión en un regulador paralelo: no te vota nadie, te baja la línea de crédito si tu industria no entra en el PowerPoint. Un ciudadano de São Paulo, de Lyon o de Monterrey ya vive un tramo de eso, y no es un folleto de un solo país: es un trámite que llegó antes que el debate.
 
