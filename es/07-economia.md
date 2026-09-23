@@ -72,3 +72,5 @@ La invitación es casera. No hace falta un doctorado. Cuando el sueldo alcanza p
 Nada de esto es un consejo de inversión. Es un consejo de lectura. El que pueda, que no deje todo su ahorro en la moneda que imprime el que gasta. El que no pueda, que al menos sepa *por qué* el mes le cierra peor: no porque el verdulero se volvió malo, sino porque el billete se adelgazó antes de llegarle. Entender eso no vuelve a nadie economista; lo vuelve más difícil de convencer con un eslogan de “es la codicia” o de “imprimir no importa”. El resto —oro bajo el colchón, un índice, un ladrillo, un bitcoin— es una decisión de familia, no un himno de este libro.
 
 El dinero es, al final, una historia que nos contamos juntos. Cuando la historia se rompe, la gente no se vuelve “de derecha” ni “de izquierda”: se vuelve previsora. Ese instinto, bien mirado, es pensamiento crítico de cada día. No de un foro. De la mesa.
+
+**Cuando el sueldo alcanza para menos, ¿se pelea con el almacenero o se pregunta cuánto dinero nuevo salió a la calle?**

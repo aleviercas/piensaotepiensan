@@ -97,4 +97,6 @@ Quien llegó convencido de que “todo está amañado”, tampoco tiene que irse
 
 ## Reflexión final
 
-La democracia no es un altar ni un teatro. Es un procedimiento, con agujeros, que todavía deja más aire que sus alternativas. Este capítulo no pide dejar de votar. Pide no confundir el rito con el poder. Y pide, con la misma calma, no usar el fraude del otro como único fraude que existe. Si se puede sostener eso sin enojarse con la mesa, el libro hizo lo que tenía que hacer.
+La democracia no es un altar ni un teatro. Es un procedimiento, con agujeros, que todavía deja más aire que sus alternativas. Este capítulo no pide dejar de votar. Pide no confundir el rito con el poder. Y pide, con la misma calma, no usar el fraude del otro como único fraude que existe. Si se puede sostener eso sin enojarse con la mesa, estas páginas hicieron lo que tenían que hacer.
+
+**¿Se puede mirar la urna y, al mismo tiempo, el banco, el juez y la plataforma, sin dejar de votar?**

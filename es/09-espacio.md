@@ -78,3 +78,5 @@ Este capítulo es un mapa de la ciencia cuando funciona y cuando se pone rígida
 Saber distinguir un caso del otro no pide una bata. Pide una pregunta: ¿esto se puede tocar, predecir, contrastar? Y saber decir «no lo sabemos» es, acá más que en otros capítulos, una forma de respeto al dato y a lo que el dato no cubre.
 
 Quien está convencido de que el Apolo pisó la Luna no tiene que pelearse con quien todavía duda: puede mostrarle el reflector y el análisis independiente. Quien se maravilla con Sacsayhuamán no tiene que inventar un marciano para que el muro siga siendo extraordinario. Quien lee el Génesis no tiene que fingir que Durupınar ya es el arca; alcanza con no burlarse de que alguien mida. Quien enseña a Darwin no tiene que tratar el Cámbrico como un detalle. El asombro y el método se llevan bien; el desprecio, con ninguno de los dos.
+
+**¿Esto se puede tocar, predecir, contrastar —o hay que decir, sin vergüenza, que todavía no se sabe?**

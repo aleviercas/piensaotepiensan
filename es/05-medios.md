@@ -85,4 +85,6 @@ Cinco preguntas no son una ideología: son un filtro. El que las hace no se vuel
 
 ## Reflexión final
 
-No hay medio virgen, y tampoco hay modelo virgen. La pregunta no es “¿a quién sigo?”; es “¿este dato tiene fuente, o tiene un eslogan —humano o generado—?”. Es más lenta que elegir un canal y jubilarse, y es la única que no convierte a nadie en cliente de alguien, ni en el prompt de algo. Y cabe hacerla sin odiar al que todavía no la hace.
+No hay medio virgen, y tampoco hay modelo virgen. La pregunta no es “¿a quién sigo?”. Es más lenta, y es la única que no convierte a nadie en cliente de alguien ni en el prompt de algo.
+
+**¿Este dato tiene fuente, o tiene un eslogan —humano o generado—?**

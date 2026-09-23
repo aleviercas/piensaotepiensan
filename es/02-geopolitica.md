@@ -159,4 +159,4 @@ La geopolítica no ofrece un ángel y un demonio, pero tampoco un empate eterno.
 
 Quien llegó a este capítulo con otra brújula no tiene que tirarla: alcanza con ponerla al lado del expediente y ver si sigue apuntando igual. Si sigue, bien. Si no, también. Cambiar de idea, acá, no es traición. Es haber leído.
 
-El mapa deja agresores y agredidos en fechas concretas. El capítulo que sigue baja un piso: del comunicado a la bomba, del Estado que pide confianza al archivo de ese mismo Estado.
+**¿Se puede nombrar quién dispara primero, y quién miente con un comunicado, sin que el miedo a una cena edite la frase?**

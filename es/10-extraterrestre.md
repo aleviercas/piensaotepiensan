@@ -72,3 +72,5 @@ Quien nunca vio un ovni no tiene que fingir que vio uno para ser curioso, y quie
 La paradoja de Fermi se puede leer con miedo (¿por qué el silencio?) o con asombro (¿cuánto espacio hay todavía para no saber?). Este libro prefiere el asombro, el mismo que pide para un muro en el Cuzco o para una coincidencia que llega a tiempo. No todo misterio es un fraude, y no todo misterio es una visita. El medio, otra vez, es más difícil de titular, y más fiel.
 
 Quien llegue a este capítulo desde la fe no tiene que esconderla, y quien llegue desde el laboratorio, tampoco. Un objeto sobre un portaaviones merece el rasero de siempre: fuente, interés, qué se midió, qué no. Si al final hay un hangar, el prólogo de la especie cambia y las religiones serias —el Vaticano lo dijo— no se caen: se ensanchan. Si al final no hay hangar, quedará el archivo de un siglo que prefirió reírse antes de preguntar. Las dos salidas enseñan; la carcajada previa, no.
+
+**¿Un objeto sobre un portaaviones merece un expediente, o una carcajada?**

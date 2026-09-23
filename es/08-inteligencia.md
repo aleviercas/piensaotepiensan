@@ -105,7 +105,7 @@ Los oficios van a crujir. Algunos, a desaparecer. Negarlo es folleto. Convertirl
 
 Si la conciencia no se agota en el cálculo, una máquina que calcula muy bien no es un alma. Tratarla como alma es el error de Turing al revés: no “¿piensa?”, sino “¿rezamos?”. Si algún día un sistema *se comporta* como si tuviera fines propios, el asunto no se cierra con el tráiler de *Terminator* ni con un “son solo matrices”. Se abre, otra vez, la pregunta de siempre: **¿quién es el agente, y quién rinde cuentas?** Hasta que haya un agente, el responsable sigue siendo el humano que apretó el botón, el que alineó, el que cobró. Delegar esa cuenta en “la IA decidió” es el truco de 2020 con otro traje.
 
-## Pregunta abierta
+## Reflexión final
 
 Este capítulo no va a dictar si la especie se extingue en 2036. No tiene el experimento. Tiene, sí, tres hechos que se pueden mirar juntos, sin convertirlos en un tráiler —aunque el tráiler, *Terminator*, ya le puso cara al extremo, y conviene no usarlo ni como prueba ni como chiste para cerrar la boca:
 
@@ -113,9 +113,9 @@ Este capítulo no va a dictar si la especie se extingue en 2036. No tiene el exp
 - el dinero ya se puede diseñar para apagarse;
 - los que construyen la herramienta hablan de extinción y, al mismo tiempo, de la siguiente versión.
 
-La pregunta adulta no es “¿estás a favor o en contra de la IA?”. Esa ya la respondió el mercado. Es esta, más lenta: **cuando el oráculo hable por el siglo, ¿va a quedar alguien que le pida la fuente —y que pueda pagar el almuerzo en efectivo el día que la fuente no guste?**
+La pregunta adulta no es “¿estás a favor o en contra de la IA?”. Esa ya la respondió el mercado. Si todavía queda alguien que le pida la fuente —y que pueda pagar el almuerzo en efectivo el día que la fuente no guste—, la máquina puede ser un archivo que no se cansa. Si no, estas páginas son un aviso que llegó a tiempo. El resto —apagar, regular, copiar, rezar, programar— se adquiere después de mirar. No antes.
 
-Si la respuesta es sí, la máquina puede ser la mejor aliada que tuvo el pensamiento crítico: un archivo que no se cansa. Si la respuesta es no, estas páginas son, en el peor caso, un manual de arqueología, y en el menos malo, un aviso que llegó a tiempo. Este libro se escribe como si todavía hubiera tiempo. El resto —apagar, regular, copiar, rezar, programar— se adquiere después de mirar. No antes.
+**Cuando el oráculo hable por el siglo, ¿va a quedar alguien que le pida la fuente?**
 
 ---
 

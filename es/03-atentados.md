@@ -86,7 +86,9 @@ La teoría se popularizó sobre todo a partir del testimonio de Madeleine Brown,
 
 ## Reflexión final
 
-Este capítulo probablemente sea el que mejor resume el método de todo el libro: no toda sospecha es cierta, pero tampoco toda sospecha es descabellada. La diferencia entre una y otra no la da la intuición ni la desconfianza general hacia el poder —por más justificada que esté—, sino la calidad y el origen de la evidencia disponible en cada caso particular. Ese criterio, aburrido y poco viral, es el único que sostiene este libro capítulo tras capítulo. Si sirvió de algo, sirvió para poder dejar un caso abierto sin convertirlo en un dogma, y para poder cerrar otro sin que eso suene a lealtad.
+No toda sospecha es cierta, y tampoco toda sospecha es descabellada. La diferencia no la da la intuición ni la desconfianza general hacia el poder —por más justificada que esté—, sino la calidad y el origen de la evidencia en cada caso. Ese criterio, aburrido y poco viral, es el que este capítulo pide: dejar un hueco abierto sin convertirlo en dogma, y cerrar otro sin que eso suene a lealtad.
+
+**¿Este hueco pide un sótano, o el archivo del Estado ya alcanza para ser grave?**
 
 ---
 
