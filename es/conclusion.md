@@ -11,7 +11,7 @@ No hay más carta. Sofía tampoco se volvió Tales en un semestre, y no hacía f
 
 Si al cerrar piensa lo mismo que al empezar, no pasa nada. El punto no era convertirlo. El punto era que la pregunta ya es suya.
 
-Empezamos este libro con la Alegoría de la Caverna de Platón: prisioneros que confunden sombras con realidad, y el riesgo de que quien logra salir a la luz sea tomado por loco al volver a contarlo. Once capítulos temáticos después, hay que decir algo que al principio no era tan obvio: salir de la caverna no es encontrar una certeza total afuera. Es aprender a distinguir qué tipo de sombra te están vendiendo, y quién cobra por el proyector.
+Empezamos este libro con la Alegoría de la Caverna de Platón: prisioneros que confunden sombras con realidad, y el riesgo de que quien logra salir a la luz sea tomado por loco al volver a contarlo. Once capítulos temáticos después, hay que decir algo que al principio no era tan obvio: salir de la caverna no es encontrar una certeza total afuera. Es aprender a distinguir qué tipo de sombra le están vendiendo, y quién cobra por el proyector.
 
 ## Lo que este recorrido mostró, capítulo por capítulo
 

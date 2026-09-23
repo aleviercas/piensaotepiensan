@@ -1,13 +1,13 @@
 # Capítulo 3 — Cuando explota algo
 
-Cuando explota algo, el primer relato llega en minutos y el archivo, si llega, tarda años. Entre uno y otro se llena el hueco con sospechas, algunas documentadas y otras no. Este capítulo pide una sola disciplina: **poner lo que está en el expediente en una bandeja y las teorías en otra**. Si se pegan, se nota. El hueco no prueba un sótano; el sótano, cuando existe, suele estar en el propio archivo del Estado.
+Cuando explota algo, el primer relato llega en minutos y el archivo, si llega, tarda años. Entre uno y otro se llena el hueco con sospechas, algunas documentadas y otras no. Este capítulo pide una sola disciplina: **poner lo que está en el expediente en una bandeja y las teorías en otra**. Si se pegan, se nota. El hueco no prueba un sótano. El sótano, cuando existe, suele estar en el propio archivo del Estado.
 
 —La Comisión documentó negligencia, no un trabajo interno. Pedir un sótano para cada hueco no es rigor: es relleno.
 —De acuerdo: el hueco no prueba el sótano. Por eso las dos bandejas. Si se pegan, se nota.
 
 ## 3.1 El 11-S: lo que el informe dejó abierto
 
-Este es, probablemente, el tema donde más importa separar con cuidado lo documentado de lo especulativo, porque ambos lados del debate suelen mezclarlos. Quien ya “sabe” que fue un trabajo interno mezcla el memo de agosto con el Edificio 7 y lo sirve en un solo plato. Quien ya “sabe” que no hay nada que mirar usa ese plato para no abrir ni el memo. Este capítulo pide otra cosa, más lenta: una bandeja por vez.
+Acá más que en otros tramos conviene separar lo documentado de lo especulativo, porque los dos bandos suelen mezclarlos. Quien ya “sabe” que fue un trabajo interno junta el memo de agosto con el Edificio 7 y lo sirve en un solo plato. Quien ya “sabe” que no hay nada que mirar usa ese plato para no abrir ni el memo. Este capítulo pide otra cosa, más lenta: una bandeja por vez.
 
 **Lo que la propia Comisión del 11-S documentó como fallas reales:** la CIA tenía información sobre al menos dos de los futuros secuestradores —que habían asistido a una reunión de Al Qaeda en Malasia en enero de 2000— y no la compartió a tiempo con el FBI, pese a que ambos ya estaban en territorio estadounidense meses antes de los atentados. El memo presidencial del 6 de agosto de 2001, titulado *"Bin Laden Determined to Strike in US"*, llegó a George W. Bush en su rancho en Texas y fue archivado sin generar una respuesta operativa visible. La Comisión concluyó textualmente que el ataque fue posible por “fallas sistémicas” de imaginación, capacidad y gestión en las agencias de inteligencia. No encontró evidencia de que el gobierno lo supiera de antemano y lo dejara pasar deliberadamente, pero sí de una negligencia documentada y admitida por el propio informe oficial. Entonces no hace falta una teoría de sótano para que el archivo sea grave. El archivo ya lo es.
 
