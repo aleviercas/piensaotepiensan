@@ -186,4 +186,6 @@ La pandemia dejó una herida de confianza merecida, y se entiende por qué. Se o
 
 La respuesta no es el espejo: no toda vacuna es veneno, no todo oncólogo es un agente, no todo tumor se rinde a un desparasitante. El hábito que este capítulo quiere dejar es más quieto. Toda afirmación médica —de la OMS o de un disidente con un millón de visitas— tiene que mostrar el ensayo, el grupo de edad, lo que *no* midió; si no lo muestra, no es conocimiento, es marketing. En 2020 el marketing ganó, y el costo se sigue pagando en muertes mal explicadas, en chicos que perdieron escuela, en un autismo que ya no cabe en “ahora lo miramos mejor”, y en una generación que, con razón, ya no traga el próximo “confiá en los expertos”. Si esa generación usa la duda para cuidar mejor, no para odiar al médico de cabecera, estas páginas hicieron su trabajo.
 
+Cerrar un aula no fue, para quien firmaba, una histeria irracional: fue racional para no llevarse el titular. Para el chico, fue un costo. El mandato, el genérico que no se estudia, el donante que la agencia no puede perder: **lo que a uno le sale barato, a otro le sale caro**. Eso no pide odiar al médico. Pide no confundir el menú con la ciencia.
+
 **¿La próxima vez que un experto pida “confiá”, va a preguntar qué se midió y qué no?**

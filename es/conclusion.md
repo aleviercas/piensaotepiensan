@@ -60,7 +60,7 @@ Tres hábitos, si queda alguno:
 
 **Uno.** Cuando una noticia le mueva el piso, no la reenvíe en el minuto. Espere a saber si hay un documento o solo un tono. El capítulo 5 dejó cinco preguntas. Con una alcanza.
 
-**Dos.** Cuando un experto —o un disidente— le pida un acto de fe (cerrar, inyectar, votar, apagar, odiar), pregunte qué se midió y qué no. El «confiá» de 2020 fue caro. El «no confíes nunca» también lo es: deja a la gente sola con un foro. El medio es más aburrido y más adulto.
+**Dos.** Cuando un experto —o un disidente— le pida un acto de fe (cerrar, inyectar, votar, apagar, odiar), pregunte qué se midió y qué no. Y, si le dicen irracional, pregunte **irracional para quién**. El «confiá» de 2020 fue caro. El «no confíes nunca» también lo es: deja a la gente sola con un foro. El medio es más aburrido y más adulto.
 
 **Tres.** Deje una coincidencia en paz. Si un libro, un encuentro o una pregunta llegan a tiempo, no hace falta montar una religión ni declarar un sesgo. El capítulo 11 le puso dos nombres, providencia y sincronicidad, y no cerró ninguno. Quien no tenga esa palabra, que use otra: *asombro*. El asombro es compatible con el método; el desprecio, no.
 

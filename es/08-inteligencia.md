@@ -37,7 +37,7 @@ La invitación no es apagar el chat. Es más liviana, y más difícil: usarlo co
 
 ## 8.4 Manejo de masas: del feed al oráculo
 
-Antes de los chatbots ya existía el manejo de masas por algoritmo. Facebook, YouTube, TikTok no “informan”: **optimizan atención**. La bronca retiene más que la duda; el recorte, más que el expediente. La IA no inventa ese aparato. Lo acelera y, sobre todo, **lo personaliza hasta el individuo**.
+Antes de los chatbots ya existía el manejo de masas por algoritmo. Facebook, YouTube, TikTok no “informan”: **optimizan atención**. La bronca retiene más que la duda; el recorte, más que el expediente. Eso es marketing conductual industrializado: prueba social, recompensa que no se anuncia, default que no se apaga. La IA no inventa ese aparato. Lo acelera y, sobre todo, **lo personaliza hasta el individuo**. El *nudge* de un Nobel, a esta escala, ya no es un checkbox de órganos: es la próxima frase que parece suya.
 
 Un feed único todavía era un teatro: mucha gente veía más o menos la misma función, y se podía discutir la función. Un modelo que le habla a cada uno, con el tono que a cada uno le funciona, produce mil teatros. El consenso ya no se impone con un titular. Se impone con mil resúmenes que coinciden en lo que omiten. Eso es más elegante que la censura de 2020, y más difícil de señalar: no hay un post bajado, hay una continuación que nunca se ofreció.
 

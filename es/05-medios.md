@@ -1,6 +1,6 @@
 # Capítulo 5 — Quién escribe la noticia
 
-Quien no se presenta a elecciones igual habla todos los días: la redacción, la plataforma, el recorte que llega primero. Un hecho incómodo rara vez llega entero; llega una versión más fácil de tragar. Por eso este capítulo no es un ataque al periodismo en bloque. Es una pregunta más seca: **quién escribe la frase, qué se queda afuera, y con qué hábito se recorta**.
+Quien no se presenta a elecciones igual habla todos los días: la redacción, la plataforma, el recorte que llega primero. Un hecho incómodo rara vez llega entero; llega una versión más fácil de tragar. El titular usa las mismas palancas que un aviso: autoridad, escasez, “lo que hace la gente como usted”. Por eso este capítulo no es un ataque al periodismo en bloque. Es una pregunta más seca: **quién escribe la frase, qué se queda afuera, y con qué hábito se recorta**.
 
 —Redacciones distintas se pelean entre sí. No hay un ministerio de la verdad. Un error repetido no es, por eso, un complot.
 —Se pelean, y aun así recortan las mismas cosas durante los mismos años. El recorte no necesita un ministerio: necesita un hábito y un miedo. Eso es lo que se mira.

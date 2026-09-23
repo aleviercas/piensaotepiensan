@@ -1,5 +1,7 @@
 # Introducción
 
+*Decisiones irracionales — ¿para quién?*
+
 ## Para empezar
 
 *¿Quién eres?*
@@ -46,6 +48,14 @@ Nunca hubo tanto acceso a la información, y pocas veces tanta confusión sobre 
 Este libro no busca reemplazar un dogma por otro. No es una colección de certezas para quien ya se cansó de las oficiales. Es una invitación a sostener una pregunta incómoda el tiempo suficiente como para investigarla en serio, en lugar de resolverla por comodidad ideológica, venga esa comodidad de donde venga.
 
 Hay un sesgo concreto, y hay que nombrarlo de entrada, sin pelearse con quien no lo ve igual. En las últimas dos décadas, las instituciones que producen el “consenso” —agencias sanitarias, universidades, redacciones, organismos internacionales— tendieron, a la vez y sin necesidad de un sótano único, hacia un mismo paquete: máxima precaución sanitaria, clima como urgencia moral, multiculturalismo como tema que casi no se puede tocar, y “desinformación” como problema de policía. Un asistente de escritura entrenado en ese material tiende a suavizar lo que ese paquete no soporta. Este libro, cuando tropieza con ese suavizado, vuelve al hecho. No para empujar al lector hacia “la derecha”. Para dejar la pregunta donde estaba antes de que la peinaran.
+
+## Quién llama irracional, y a quién le conviene
+
+Hay un premio Nobel que, con buena prensa, dice más o menos esto: el humano sesga, entonces alguien —más calmo, más informado— le **arquitecta** la elección. Un default, un mandato, un recorte. Se llama *nudge*. En el kiosco es marketing: escasez, prueba social, “los más vendidos”. En el ministerio es la misma palanca, con policía. En el chat, a las tres de la mañana, es el párrafo razonable que mil millones van a tomar por propio.
+
+Este cuaderno no trata al lector como un sesgo a corregir. Trata el menú. Una decisión parece irracional cuando se mira con la utilidad de otro: cerrar una escuela es racional para quien no quiere el titular, y cara para el chico que no vota. Imprimir es racional para el fisco, y cara para quien cobra a fin de mes. El 97% es prueba social, no un ensayo. Hay un nombre viejo para la foto que no se saca junta: el pastor pone la moral; el que cobra, el contrato. *Baptists and bootleggers.* No hace falta un sótano. Hace falta preguntar **irracional para quién**.
+
+Los fines pueden ser suyos —libertad o seguridad, fe o laboratorio—. Los hechos, no. Tres veces una gripe no es la peste porque alguien “sienta” la peste. Un sentimiento es un dato sobre la persona. No es física. Este libro no va a llamar irracional a quien reza ni a quien mide un muro. Va a llamar recorte al default que no se puede apagar.
 
 ## Cómo leer este libro (y cómo no)
 
