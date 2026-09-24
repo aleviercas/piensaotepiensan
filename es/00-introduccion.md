@@ -1,6 +1,6 @@
 # Introducción
 
-*Decisiones irracionales — ¿para quién?*
+*Decisiones irracionales. ¿Para quién?*
 
 ## Para empezar
 
@@ -53,6 +53,10 @@ Hay un sesgo concreto, y hay que nombrarlo de entrada, sin pelearse con quien no
 
 Hay un premio Nobel que, con buena prensa, dice más o menos esto: el humano sesga, entonces alguien —más calmo, más informado— le **arquitecta** la elección. Un default, un mandato, un recorte. Se llama *nudge*. En el kiosco es marketing: escasez, prueba social, “los más vendidos”. En el ministerio es la misma palanca, con policía. En el chat, a las tres de la mañana, es el párrafo razonable que mil millones van a tomar por propio.
 
+Los casos clásicos no son un sótano. Austria inscribe donantes de órganos por omisión; Alemania pide que uno se anote: mismas vecinas, cifras que no se parecen (Johnson y Goldstein, 2003). En el Reino Unido, una carta de impuestos que decía “en su barrio, la mayoría ya pagó” adelantó recaudación. El ahorro para la vejez sube si el fondo se activa solo y hay que salir a propósito. Un default de cinturón, de no fumar en el hospital, de inscribirse al riñón: se ve, se puede apagar, y quien gana es, a menudo, usted. Este cuaderno no los declara inmorales.
+
+El test es otro, y cabe en tres preguntas. **¿Se ve el default?** **¿Se puede apagar sin un trámite que duele?** **¿Quién cobra si usted no lo apaga?** Si las dos primeras son sí y la tercera es usted, es un aviso adulto. Si el default no se ve, o salir cuesta el colegio, el trabajo o la cuenta, ya no es un empujón: es un recorte. En 2021 el propio Thaler, ante las vacunas, dijo que el *nudge* no alcanzaba y que harían falta medidas más firmes. Francia acercó el pase al restaurante. 2020, en esa escala, no fue un checkbox de órganos. Fue el momento en que el menú dejó de ser opcional.
+
 Este cuaderno no trata al lector como un sesgo a corregir. Trata el menú. Una decisión parece irracional cuando se mira con la utilidad de otro: cerrar una escuela es racional para quien no quiere el titular, y cara para el chico que no vota. Imprimir es racional para el fisco, y cara para quien cobra a fin de mes. El 97% es prueba social, no un ensayo. Hay un nombre viejo para la foto que no se saca junta: el pastor pone la moral; el que cobra, el contrato. *Baptists and bootleggers.* No hace falta un sótano. Hace falta preguntar **irracional para quién**.
 
 Los fines pueden ser suyos —libertad o seguridad, fe o laboratorio—. Los hechos, no. Tres veces una gripe no es la peste porque alguien “sienta” la peste. Un sentimiento es un dato sobre la persona. No es física. Este libro no va a llamar irracional a quien reza ni a quien mide un muro. Va a llamar recorte al default que no se puede apagar.
@@ -63,7 +67,7 @@ Este libro no es un curso de Tales a Sartre, ni un filósofo que lo espere en un
 
 La forma quiere el mismo gesto. Un ensayo con una sola columna: **¿quién te está pensando, y qué pasa si deja de preguntar?** En cada capítulo, la voz de quien no está de acuerdo, dicha como él la firmaría. Entre tramo y tramo, un sobre. Si el libro le gana a un espantapájaros, no le ganó a nadie.
 
-El recorrido tiene tres tramos, para que no parezca una lista. Primero, el cuerpo y el mundo. Después, el relato y las palancas. Al final, lo que el laboratorio no cierra. Una sola pregunta los une. Si un capítulo no sirve a esa pregunta, sobra.
+El recorrido tiene tres tramos, para que no parezca una lista. **I. El cuerpo y el mundo** (un virus, un mapa, una bomba). **II. El relato y las palancas** (la urna, el titular, el termómetro, la rotativa, la máquina). **III. Lo que el laboratorio no cierra** (las piedras, el cielo, el sepulcro). Una sola pregunta los une. Si un capítulo no sirve a esa pregunta, sobra.
 
 Cada capítulo, en lo posible, se arma igual: **lo que se da por cerrado**, la narrativa que se vende, lo que esa narrativa omite, y una pregunta que no se traga. Si el libro sirve de algo, **saca límites**: pregunta justo ahí donde se dijo “esto ya no se toca”. Y si en algún párrafo el texto se pone himno, se nota, y se puede dejar de lado.
 
