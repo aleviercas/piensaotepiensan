@@ -1,6 +1,6 @@
 # Capítulo 9 — Lo que las piedras no explican
 
-Aquí el laboratorio deja de ser el juez de todo. Hay objetos que todavía no copia bien: piedras de toneladas con muchos vértices que encajan, un diluvio que aparece en culturas que no se hablaban, una teoría de Darwin que explica muy bien la adaptación y se queda corta cuando se le pide el origen de la información. A veces, para no quedar de místico, se declara el asunto “cerrado”. Este capítulo pide lo inverso: **dejar abierta la pregunta donde no hay objeto que la cierre**, sin convertir el hueco en un templo. No es un caso de “decisión irracional”. Es el límite del rasero.
+Hay construcciones y relatos antiguos que la ciencia todavía no copia bien: piedras de toneladas con muchos vértices que encajan, un diluvio que aparece en culturas que no se hablaban, una teoría de Darwin que explica muy bien la adaptación y se queda corta cuando se le pide el origen de la información. A veces, para no quedar de místico, se declara el asunto “cerrado”. Este capítulo pide lo inverso: **dejar abierta la pregunta donde todavía no hay una explicación que se pueda tocar**, sin convertir el hueco en un templo.
 
 —La ciencia cierra lo que puede tocar, predecir y repetir. Lo que no produce objeto se queda en el estante, no en el templo.
 —Ese rasero es el de este capítulo. Lo que se discute es si a veces se declara “cerrado” para no quedar de místico: el mismo reflejo, invertido.

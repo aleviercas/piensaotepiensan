@@ -1,6 +1,6 @@
 # Capítulo 1 — Lo que 2020 hizo con la salud
 
-Este es el primer tramo, y no porque sea el más importante, sino porque casi todos lo vivimos a la vez. En 2020 se nos pidió, durante meses, aceptar un relato cerrado: qué era el virus, de dónde venía, qué había que hacer. Quien preguntaba otra cosa se encontró, de pronto, sin micrófono. Eso ya no era un *nudge*: no se veía del todo, no se apagaba sin costo, y quien cobraba el error no era, a menudo, quien lo pagaba. Si a usted eso no le cerró la boca, el resto del libro se puede leer igual. Si se la cerró, tiene sentido empezar aquí: el hábito de sostener una pregunta se entrena donde más dolió.
+Este es el primer capítulo, y no porque sea el más importante, sino porque casi todos lo vivimos a la vez. En 2020 se nos pidió, durante meses, aceptar un relato cerrado: qué era el virus, de dónde venía, qué había que hacer. Quien preguntaba otra cosa se encontró, de pronto, sin micrófono. Eso ya no era un empujón suave: no se veía del todo, no se podía rechazar sin costo, y quien cobraba el error no era, a menudo, quien lo pagaba. Si a usted eso no le cerró la boca, el resto del libro se puede leer igual. Si se la cerró, tiene sentido empezar aquí: el hábito de sostener una pregunta se entrena donde más dolió.
 
 —Hubo un virus nuevo, hospitales saturados, y se decidió con datos incompletos. Eso no es un complot.
 —De acuerdo en las tres. Este capítulo pregunta qué se silenció mientras se decidía, no si el virus era de plástico.

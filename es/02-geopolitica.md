@@ -1,6 +1,6 @@
 # Capítulo 2 — Guerras, mapas y comunicados
 
-Una guerra tiene fechas, un mapa y un comunicado. El comunicado llega primero y, a menudo, decide qué se puede nombrar. Un audio incómodo, una isla, un sótano: si alguien los pone sobre la mesa, esa persona pasa a ser el problema y el hecho se queda afuera. Este capítulo mira eso, no para convertir cada conflicto en el mismo cuento, sino para preguntar, en cada caso, **qué se midió y qué se recortó**.
+Una guerra tiene fechas, un mapa y un comunicado. El comunicado llega primero y, a menudo, decide qué se puede nombrar. Un audio incómodo o una isla: si alguien los pone sobre la mesa, esa persona pasa a ser el problema y el hecho se queda afuera. Este capítulo mira eso, no para convertir cada conflicto en el mismo cuento, sino para preguntar, en cada caso, **qué se midió y qué se recortó**.
 
 —Una guerra tiene causas, un agresor que cruza una frontera, y muertos que no son un “relato”.
 —Las causas y la frontera importan, y no se disuelven en un recorte. Lo que se discute aquí es si, además, le dijeron qué no se podía nombrar.

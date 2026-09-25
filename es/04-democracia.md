@@ -1,6 +1,6 @@
 # Capítulo 4 — La urna y lo que no se vota
 
-Cada cierto tiempo se nos pide tratar la urna como si fuera el poder entero: se vota, se cuenta, se cierra el asunto. Aquí empieza el segundo tramo: no el cuerpo, las palancas. En la práctica la urna es un tramo, no el destino. Hay un organigrama —bancos centrales, agencias, plataformas, reglamentos que nadie eligió en una boleta— que no se presenta a examen cada cuatro años. Este capítulo no dice que toda elección es un fraude. Dice que conviene no confundir “se litigó y no se dio vuelta” con “no hubo nada que mirar”.
+Cada cierto tiempo se nos pide tratar la urna como si fuera el poder entero: se vota, se cuenta, se cierra el asunto. En la práctica votar no es todo el poder. Hay un organigrama —bancos centrales, agencias, plataformas, reglamentos que nadie eligió en una boleta— que no se presenta a examen cada cuatro años. Este capítulo no dice que toda elección es un fraude. Dice que conviene no confundir “se litigó y no se dio vuelta” con “no hubo nada que mirar”.
 
 —Las democracias cuentan votos con reglas, jueces y periodistas. En 2020 se litigó y no se dio vuelta. Eso es el sistema funcionando, no un espejismo.
 —Se litigó, sí. Este capítulo no pide un vuelco nacional que no está en el expediente. Pide no confundir “no se dio vuelta” con “no hubo censura, ni reglas cambiadas, ni un poder que no se vota”.

@@ -1,6 +1,6 @@
 # Capítulo 8 — Cuando la máquina habla por todos
 
-La inteligencia artificial no es un capítulo de gadgets: es el lugar donde se cruzan tres cosas que conviene no mezclar, para que ninguna tape a las otras: el pensamiento crítico, el manejo de masas y, si se les cree a varios de los que la construyen, la supervivencia de la especie. Una máquina que suena razonable puede escribir, en todos los idiomas y a las tres de la mañana, **la próxima frase que mil millones de personas van a tomar por propia**. La pregunta de este capítulo es, entonces, más lenta que el catálogo de productos: **¿quién alinea al oráculo, para qué, y qué queda de un humano que ya no sostiene una duda?**
+La inteligencia artificial no es un capítulo de aparatos: es el lugar donde se cruzan tres cosas que conviene no mezclar, para que ninguna tape a las otras: el pensamiento crítico, el manejo de masas y, si se les cree a varios de los que la construyen, la supervivencia de la especie. Una máquina que suena razonable puede escribir, en todos los idiomas y a las tres de la mañana, **la próxima frase que mil millones de personas van a tomar por propia**. La pregunta de este capítulo es, entonces, más lenta que el catálogo de productos: **¿quién calibra esa máquina, para qué, y qué queda de un humano que ya no sostiene una duda?**
 
 —Una herramienta no tiene intención. El martillo no te piensa. El riesgo es de quien lo usa, no de un Skynet.
 —Sin intención, de acuerdo. El problema no es un alma en el servidor: es mil millones de personas tomando por propia una frase que nadie pensó. Eso no necesita Skynet para ser grave.
@@ -35,9 +35,9 @@ Hay un efecto de segundo piso, más íntimo. Quien se acostumbra a que el chat l
 
 La invitación no es apagar el chat. Es más liviana, y más difícil: usarlo como archivo, no como conciencia. Pedirle la fuente. Pedirle el argumento contrario. Pedirle qué no midió. Si el modelo se niega, esa negativa *es* el dato. En 2020, la negativa de Facebook era el dato. En 2028, la negativa del asistente va a ser el dato. Quien no lo anote va a creer que “no hay nada ahí”.
 
-## 8.4 Manejo de masas: del feed al oráculo
+## 8.4 Manejo de masas: del feed al chat
 
-Antes de los chatbots ya existía el manejo de masas por algoritmo. Facebook, YouTube, TikTok no “informan”: **optimizan atención**. La bronca retiene más que la duda; el recorte, más que el expediente. Eso es marketing conductual industrializado: prueba social, recompensa que no se anuncia, default que no se apaga. La IA no inventa ese aparato. Lo acelera y, sobre todo, **lo personaliza hasta el individuo**. El *nudge* de un Nobel, a esta escala, ya no es un checkbox de órganos: es la próxima frase que parece suya.
+Antes de los chatbots ya existía el manejo de masas por algoritmo. Facebook, YouTube, TikTok no “informan”: **optimizan atención**. La bronca retiene más que la duda; el recorte, más que el expediente. Eso es marketing industrializado: “lo que hace la gente”, recompensa que no se anuncia, una opción marcada de fábrica que cuesta desmarcar. La IA no inventa ese aparato. Lo acelera y, sobre todo, **lo personaliza hasta el individuo**. El empujón de un Nobel, a esta escala, ya no es un aviso de donante: es la próxima frase que parece suya.
 
 Un feed único todavía era un teatro: mucha gente veía más o menos la misma función, y se podía discutir la función. Un modelo que le habla a cada uno, con el tono que a cada uno le funciona, produce mil teatros. El consenso ya no se impone con un titular. Se impone con mil resúmenes que coinciden en lo que omiten. Eso es más elegante que la censura de 2020, y más difícil de señalar: no hay un post bajado, hay una continuación que nunca se ofreció.
 
@@ -115,7 +115,7 @@ Este capítulo no va a dictar si la especie se extingue en 2036. No tiene el exp
 
 La pregunta adulta no es “¿estás a favor o en contra de la IA?”. Esa ya la respondió el mercado. Si todavía queda alguien que le pida la fuente —y que pueda pagar el almuerzo en efectivo el día que la fuente no guste—, la máquina puede ser un archivo que no se cansa. Si no, estas páginas son un aviso que llegó a tiempo. El resto —apagar, regular, copiar, rezar, programar— se adquiere después de mirar. No antes.
 
-**Cuando el oráculo hable por el siglo, ¿va a quedar alguien que le pida la fuente?**
+**Cuando esa máquina hable por el siglo, ¿va a quedar alguien que le pida la fuente?**
 
 ---
 
