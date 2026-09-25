@@ -1,6 +1,6 @@
 # Capítulo 3 — Cuando explota algo
 
-Cuando explota algo, el primer relato llega en minutos y el archivo, si llega, tarda años. Entre uno y otro se llena el hueco con sospechas, algunas documentadas y otras no. Este capítulo pide una sola disciplina: **poner lo que está en el expediente en una bandeja y las teorías en otra**. Si se pegan, se nota. El hueco no prueba un sótano. El sótano, cuando existe, suele estar en el propio archivo del Estado.
+Cuando explota algo, el primer relato llega en minutos y el archivo, si llega, tarda años. Entre uno y otro se llena el hueco con sospechas, algunas documentadas y otras no. Este capítulo pide una sola disciplina: **poner lo que está en el expediente en una bandeja y las teorías en otra**. Si se pegan, se nota: el hueco no prueba un sótano, y el sótano, cuando existe, suele estar en el propio archivo del Estado.
 
 —La Comisión documentó negligencia, no un trabajo interno. Pedir un sótano para cada hueco no es rigor: es relleno.
 —De acuerdo: el hueco no prueba el sótano. Por eso las dos bandejas. Si se pegan, se nota.
