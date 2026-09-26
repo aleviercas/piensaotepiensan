@@ -1,6 +1,6 @@
-# Capítulo 10 — ¿Estamos solos?
+# Capítulo 10 — El bosque oscuro
 
-La mayoría de las luces en el cielo son globos, drones, óptica o un secreto militar, y el U-2 ya enseñó esa lección. Queda, aun así, un resto: testimonios bajo juramento e informes que ya no dicen “son todos globos”. No hace falta un hangar secreto para sostener la pregunta, ni para cerrarla. Hace falta el rasero de siempre: **qué está en un informe o bajo juramento, y qué es un relato que llena el hueco**.
+Liu Cixin, en *El bosque oscuro*, imagina el cielo como un bosque de noche: cada civilización es un cazador que avanza sin hacer ruido, porque quien se delata puede ser borrado. No es un informe de la NASA. Es una respuesta posible a una pregunta vieja: si el universo es tan grande, **¿por qué tanto silencio?** La mayoría de las luces en el cielo son globos, drones, óptica o un secreto militar, y el U-2 ya enseñó esa lección. Queda, aun así, un resto: testimonios bajo juramento e informes que ya no dicen “son todos globos”. No hace falta un hangar secreto para sostener la pregunta, ni para cerrarla. Hace falta el rasero de siempre: **qué está en un informe o bajo juramento, y qué es un relato que llena el hueco**.
 
 —La mayoría de los avistamientos son globos, drones, óptica y secretos militares. El U-2 ya enseñó esa lección. Extraordinario pide prueba extraordinaria.
 —La lección del U-2 se firma. Este capítulo pregunta por el resto: testimonios bajo juramento e informes que ya no dicen “son todos globos”. Prueba extraordinaria, sí. Decreto, no.

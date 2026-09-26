@@ -1,9 +1,9 @@
-# Capítulo 3 — Cuando explota algo
+# Capítulo 3 — Falsa bandera
 
-Cuando explota algo, el primer relato llega en minutos y el archivo, si llega, tarda años. Entre uno y otro se llena el hueco con sospechas, algunas documentadas y otras no. Este capítulo pide una sola disciplina: **poner lo que está en el expediente en una bandeja y las teorías en otra**. Si se pegan, se nota: el hueco no prueba un sótano, y el sótano, cuando existe, suele estar en el propio archivo del Estado.
+La expresión es vieja: hacer que el golpe parezca obra de otro, para justificar la respuesta. No es una palabra de foro. Hay casos documentados, con papeles, y hay explosiones donde el hueco se llena con esa palabra porque vende. Cuando explota algo, el primer relato llega en minutos y el archivo, si llega, tarda años. Este capítulo pide una sola disciplina: **poner lo que está en el expediente en una carpeta y las teorías en otra**. Si se pegan, se nota: el hueco no prueba un complot, y el complot, cuando existe, suele estar en el propio archivo del Estado.
 
-—La Comisión documentó negligencia, no un trabajo interno. Pedir un sótano para cada hueco no es rigor: es relleno.
-—De acuerdo: el hueco no prueba el sótano. Por eso las dos bandejas. Si se pegan, se nota.
+—La Comisión documentó negligencia, no un trabajo interno. Pedir un complot para cada hueco no es rigor: es relleno.
+—De acuerdo: el hueco no prueba el complot. Por eso las dos carpetas. Si se pegan, se nota.
 
 ## 3.1 El 11-S: lo que el informe dejó abierto
 

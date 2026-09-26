@@ -1,6 +1,6 @@
-# Capítulo 7 — El dinero que se imprime
+# Capítulo 7 — La impresora de dinero
 
-Los precios suben y, en el noticiero, la primera explicación suele ser el comerciante, la sequía o la guerra. Esas cosas existen, y mueven un mes o un año. Cuando la suba dura una década, conviene mirar otra palanca: **quién imprime la moneda, y a quién le llega primero**. Se vende como asunto técnico, de expertos. En la práctica es poder: toca el sueldo, el alquiler y lo que se puede decir sin perder la cuenta.
+Los precios suben y, en el noticiero, la primera explicación suele ser el comerciante, la sequía o la guerra. Esas cosas existen, y mueven un mes o un año. Cuando la suba dura una década, conviene mirar otra cosa: **quién imprime la moneda, y a quién le llega primero**. Se vende como asunto técnico, de expertos. En la práctica es poder: toca el sueldo, el alquiler y lo que se puede decir sin perder la cuenta.
 
 —Los precios suben también por guerra, sequía y empresas con margen. Culpar solo a la rotativa es otra teología.
 —Guerra, sequía y margen existen. Este capítulo pregunta por qué, cuando la base monetaria se duplica, el “es el empresario” aparece siempre primero en el noticiero.
