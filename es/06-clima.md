@@ -7,9 +7,7 @@ El hombre se pone el termómetro en el ombligo: mide el calor contra *su* cuerpo
 
 ## 6.1 Lo que se mide y lo que se vende junto
 
-Este capítulo no pide que se deje de mirar el termómetro. Pide que no se lo lea solo desde el ombligo: como si el calor de *este* siglo, medido contra *nuestro* cuerpo, bastara para declarar al hombre causa y centro de todo lo que el planeta ya hizo, y deshizo, muchas veces. El aire se calentó y el CO2 subió. Esas dos curvas se pueden mirar juntas sin convertirlas, de inmediato, en un veredicto moral.
-
-Lo que suele venir después es otra cosa: que casi todo el calor es nuestro; que los modelos aciertan lo suficiente para rediseñar la economía; que los huracanes ya son la prueba; que el único camino decente es apagar el fósil a toda prisa; y que dudar de cualquiera de esos saltos es “negar la ciencia”. Eso no es física: es un paquete de conclusiones pegadas a un dato. Se puede abrir el paquete y, aun así, seguir preocupado por el clima. Este libro solo invita a no tragárselo cerrado.
+Lo que suele venir después del termómetro es otra cosa: que casi todo el calor es nuestro; que los modelos aciertan lo suficiente para rediseñar la economía; que los huracanes ya son la prueba; que el único camino decente es apagar el fósil a toda prisa; y que dudar de cualquiera de esos saltos es “negar la ciencia”. Eso no es física: es un paquete de conclusiones pegadas a un dato. Se puede abrir el paquete y, aun así, seguir preocupado por el clima. Este libro solo invita a no tragárselo cerrado.
 
 **Algunas cosas sí se miden.** La temperatura media de superficie, en las series más usadas, subió alrededor de un grado desde el siglo XIX, y el CO2 del aire pasó de unas 280 partes por millón a más de 420. Una parte de ese carbono extra tiene firma de combustibles fósiles. El CO2 absorbe radiación infrarroja: lo midieron Tyndall y Arrhenius hace más de un siglo, con un tubo y un termómetro, y negar el tubo no es pensamiento crítico, como tampoco lo es negarse a preguntar **cuánto pesa esa molécula frente al Sol, al vapor de agua, a las nubes y al océano**.
 

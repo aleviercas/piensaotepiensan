@@ -103,6 +103,8 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 16. **7 de octubre, Hamas, UNRWA, ofertas de paz: el relato de “contexto” no puede tapar la masacre ni el fuero.** ¿Sí / no / más suave?
 17. **Islam político en Europa: Pew, doctrina, Rotherham, demografía. No todo musulmán es yihadista; el problema no es imaginario.** ¿Sí / no / más fuerte?
 181. **Diversidad e igualdad se pisan: si somos diversos, el resultado es diverso; igualdad de resultados pide otra vara. Igualdad ante la ley sí cabe.** ¿Sí / más fuerte / más suave?
+183. **El Este cristiano: Yarmuk 636, Jerusalén 638, Alejandría 642, Cartago 698, Manzikert 1071, Constantinopla 1453. Cuatro de cinco patriarcados, hoy musulmanes. Cristianos del MENA: 13,6% en 1910, ~4% ahora.** ¿Sí / más fechas / más suave?
+18. **Malvinas: Bougainville 1764, Francia cede a España, Jewett 1820, tratado 1825, Vernet 1829, 1833 expulsión, 1982 un error, Buenos Aires 1806-1807 e imperio 1803-1839 como contexto.** ¿Sí / no? ¿Falta algún dato que usted tenía?
 182. **DEI en empresas: McKinsey no se replica; cupo insulta primero a quien entra por el casillero.** ¿Sí / no / sacar?
 18. **Malvinas: Bougainville 1764, Francia cede a España, 1833 expulsión, 1982 un error, las invasiones a Buenos Aires 1806-1807 como contexto. Nada es azar.** ¿Sí / no? ¿Falta algún dato que usted tenía?
 19. **Nord Stream: *cui bono*, sin decretar al autor.** ¿Sí / no / más fuerte (señalar a alguien)?
