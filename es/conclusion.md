@@ -43,6 +43,8 @@ Si hay una sola idea que este libro quiso dejar instalada, no es ninguna de las 
 
 El tercer paso es el más difícil. Es también el que separa a un pensador de alguien que solo cambió de iglesia. Incluye no dejar que el miedo a «quedar de un lado» edite un párrafo sobre el islam, sobre un virus o sobre el carbono. El miedo simétrico, el de quedar del otro lado, tampoco es un método: es otra iglesia. Se puede salir de las dos sin pelearse con quien todavía está adentro.
 
+Orwell, en *1984*, deja una frase que este cierre no va a mejorar: quien controla el pasado, controla el futuro. El método de tres pasos no es otra cosa que negarse a entregar el archivo —ni al noticiero, ni al ministerio, ni al chat que reescribe el día con buena educación.
+
 ## Invitación final
 
 Este libro no pretendió dictar el origen del COVID, el autor de Nord Stream, ni qué hay después de la muerte. Pretendió mostrar que en cada tema hay una diferencia real entre lo establecido, lo abierto y lo que suena bien y no resiste un expediente —y que esa diferencia se busca tema por tema, no se compra en combo. Pretendió, también, avisar de algo que en 2020 todavía no se veía entero: cuando la voz general la fabrique una máquina entrenada en el mismo material, el que no haya entrenado el músculo de contrastar se va a enterar de «la verdad» por un chat, y va a creer que la pensó él.

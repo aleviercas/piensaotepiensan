@@ -135,6 +135,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 29. **Con la IA, una sola voz crítica no compite en volumen con el promedio fabricado.** ¿Sí / no / más fuerte?
 30. **El Mundial 2026 es un laboratorio de relatos, no el centro del libro.** ¿Sí / no / sacar?
 31. **Los medios alternativos también tienen filtro.** ¿Sí / no / sacar?
+199. **1984: el hábito (neolengua, doblepensar, agujero de la memoria), no Oceania. “Esto es 1984” echa; el distingo deja leer.** ¿Así / más fuerte (sí estamos ahí) / sacar Orwell?
 
 ---
 
