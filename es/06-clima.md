@@ -52,7 +52,7 @@ Hay que oír al que no está de acuerdo, en su mejor versión, no en la del cart
 
 De acuerdo: la báscula, en el flujo anual, no le da la razón al titular. Recortar esa suma viral es el mismo gesto que recortar el “It’s done” de Liz Truss: un hecho (el cráter arde; el teléfono fue hackeado) estirado hasta una ficción. Si este libro pide rigor para el 97%, también lo pide para el Etna.
 
-Lo que sí queda, y no necesita una suma falsa, es la pregunta política. El Etna no paga multa. El Sol no paga multa. El vapor de agua no paga multa. El auto, sí. Pinatubo, en 1991, enfrió el planeta un rato con **azufre**, no con carbono: el golpe climático de un volcán, cuando se mide, suele ser de signo contrario al cuento del CO2. El apartado 6.8 lo desarma. Entonces el video sirve para esto, no para aquello: **¿estamos midiendo el clima, o estamos eligiendo la palanca que se puede regular por decreto?** La palanca no prueba que el auto no cuente. Prueba que conviene no confundir la foto del cráter con el inventario.
+Lo que sí queda, y no necesita una suma falsa, es la pregunta política. El Etna no paga multa. El Sol no paga multa. El vapor de agua no paga multa. El auto, sí. Pinatubo, en 1991, enfrió el planeta un rato con **azufre**, no con carbono: el golpe climático de un volcán, cuando se mide, suele ser de signo contrario al cuento del CO2. El apartado 6.8 lo desarma. Entonces el video sirve para esto, no para aquello: **¿estamos midiendo el clima, o estamos eligiendo la molécula que se puede regular por decreto?** Elegir esa molécula no prueba que el auto no cuente. Prueba que conviene no confundir la foto del cráter con el inventario.
 
 ## 6.3 El registro profundo: ¿estamos en un máximo, o en un mínimo?
 

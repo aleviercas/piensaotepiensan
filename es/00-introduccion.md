@@ -47,7 +47,7 @@ Hay un sesgo concreto, y hay que nombrarlo de entrada, sin pelearse con quien no
 
 ## Quién llama irracional, y a quién le conviene
 
-Hay un premio Nobel que, con buena prensa, dice más o menos esto: el humano sesga, y entonces alguien más calmo y más informado le **arquitecta** la elección. Un default, un mandato, un recorte. Se llama *nudge*. En el kiosco es marketing —escasez, prueba social, “los más vendidos”—; en el ministerio es la misma palanca, con policía; en el chat, a las tres de la mañana, es el párrafo razonable que mil millones van a tomar por propio.
+Hay un premio Nobel que, con buena prensa, dice más o menos esto: el humano sesga, y entonces alguien más calmo y más informado le **arquitecta** la elección. Un default, un mandato, un recorte. Se llama *nudge*. En el kiosco es marketing —escasez, prueba social, “los más vendidos”—; en el ministerio es el mismo empujón, con policía; en el chat, a las tres de la mañana, es el párrafo razonable que mil millones van a tomar por propio.
 
 Los casos clásicos no piden una conspiración. Austria inscribe donantes de órganos por omisión, y Alemania pide que uno se anote: mismas vecinas, cifras que no se parecen (Johnson y Goldstein, 2003). En el Reino Unido, una carta de impuestos que decía “en su barrio, la mayoría ya pagó” adelantó recaudación. El ahorro para la vejez sube si el fondo se activa solo y hay que salir a propósito. Un aviso de cinturón, de no fumar en el hospital o de inscribirse como donante se ve, se puede rechazar, y quien gana es, a menudo, usted. Este cuaderno no los declara inmorales.
 
@@ -63,7 +63,7 @@ Este libro no es un curso de historia de la filosofía, ni un maestro que lo esp
 
 La forma quiere el mismo gesto: un ensayo con una sola pregunta —**quién te está pensando, y qué pasa si deja de preguntar**— y, en cada capítulo, la voz de quien no está de acuerdo, dicha como él la firmaría. Entre capítulo y capítulo, a veces, un sobre. Si el libro le gana a una caricatura, no le ganó a nadie.
 
-El recorrido no es una lista suelta. Primero se mira lo que nos tocó el cuerpo y el mapa —un virus, una guerra, un atentado—. Después, lo que nos gobierna sin que se vote del todo: la noticia, el clima como política, el dinero, la máquina que escribe. Al final, lo que todavía no se explica del todo: las piedras, el cielo, la muerte. Una sola pregunta los une. Si un capítulo no sirve a esa pregunta, sobra.
+El recorrido no es una lista suelta. Primero se mira lo que nos tocó de cerca: un virus, una guerra, un atentado. Después, lo que nos gobierna sin que se vote del todo: la noticia, el clima como política, el dinero, la máquina que escribe. Al final, lo que todavía no se explica del todo: las piedras, el cielo, la muerte. Una sola pregunta los une. Si un capítulo no sirve a esa pregunta, sobra.
 
 Cada capítulo, en lo posible, se arma igual: **lo que se da por cerrado**, la narrativa que se vende, lo que esa narrativa omite, y una pregunta que no se traga. Si el libro sirve de algo, **saca límites**: pregunta justo ahí donde se dijo “esto ya no se toca”. Y si en algún párrafo el texto se pone himno, se nota, y se puede dejar de lado.
 

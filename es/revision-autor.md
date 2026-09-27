@@ -73,7 +73,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 190. **Tres sobres entre tramos (después de atentados, después de IA) y uno final en el cap. 12.** ¿Sí / más / menos?
 191. **Estilo: carta en usted (no chat en vos). Frases completas, menos jerga.** ¿Se lee más fácil? ¿Quedó demasiado formal?
 192. **Voz: el autor (yo) escribe al lector (usted). Diálogos de puerta en habla oral. El lema ¿quién te está pensando? queda en tú, como título.** ¿Sí / todo en usted / todo en vos?
-194. **Títulos de capítulo: ensayo, no índice de conspiraciones** (Lo que 2020 hizo… / Guerras, mapas… / Cuando explota algo / La urna… / Quién escribe la noticia / El termómetro y la palanca / El dinero que se imprime / Cuando la máquina… / Lo que las piedras… / ¿Estamos solos? / Después de la muerte / Seguir preguntando). ¿Sí / alguno volver al viejo?
+194. **Títulos de capítulo (literarios):** Moreau / Quién tiró la primera piedra / Falsa bandera / La urna / El ministerio de la verdad / El termómetro en el ombligo / La impresora de dinero / Skynet / Si las piedras hablaran / El bosque oscuro / El otro patio / Seguir preguntando. ¿Sí / alguno volver al viejo?
 
 184. **Método: hombre de paja, patio y torre, hombre de acero. El amigo debe firmar su frase.** ¿Sí / más corto / sacar?
 185. **El “paquete” es sesgo convergente, no un sótano único.** ¿Sí / más fuerte (“sí hay bloque”)?
@@ -81,7 +81,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 
 ---
 
-## Capítulo 1 — Salud
+## Capítulo 1 — La isla del doctor Moreau
 
 7. **El laboratorio es la hipótesis que no se podía nombrar; el encubrimiento está más cerrado que el origen.** ¿Sí / no / más fuerte?
 8. **2020 no fue la peste negra ni “una gripecita”.** ¿Sí / no? (Si quería decir otra cosa —por ejemplo, que *sí* fue “solo una gripe”— márquelo **No, al revés**.)
@@ -98,7 +98,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 
 ---
 
-## Capítulo 2 — Geopolítica
+## Capítulo 2 — Quién tiró la primera piedra
 
 16. **7 de octubre, Hamas, UNRWA, ofertas de paz: el relato de “contexto” no puede tapar la masacre ni el fuero.** ¿Sí / no / más suave?
 17. **Islam político en Europa: Pew, doctrina, Rotherham, demografía. No todo musulmán es yihadista; el problema no es imaginario.** ¿Sí / no / más fuerte?
@@ -106,13 +106,12 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 183. **El Este cristiano: Yarmuk 636, Jerusalén 638, Alejandría 642, Cartago 698, Manzikert 1071, Constantinopla 1453. Cuatro de cinco patriarcados, hoy musulmanes. Cristianos del MENA: 13,6% en 1910, ~4% ahora.** ¿Sí / más fechas / más suave?
 18. **Malvinas: Bougainville 1764, Francia cede a España, Jewett 1820, tratado 1825, Vernet 1829, 1833 expulsión, 1982 un error, Buenos Aires 1806-1807 e imperio 1803-1839 como contexto.** ¿Sí / no? ¿Falta algún dato que usted tenía?
 182. **DEI en empresas: McKinsey no se replica; cupo insulta primero a quien entra por el casillero.** ¿Sí / no / sacar?
-18. **Malvinas: Bougainville 1764, Francia cede a España, 1833 expulsión, 1982 un error, las invasiones a Buenos Aires 1806-1807 como contexto. Nada es azar.** ¿Sí / no? ¿Falta algún dato que usted tenía?
 19. **Nord Stream: *cui bono*, sin decretar al autor.** ¿Sí / no / más fuerte (señalar a alguien)?
 198. **ICS III, Bruselas 3-5-2023: sala del Parlamento, no el pleno. Martin: dato y pregunta, no etiqueta.** ¿Así / afirmar el salto / sacar?
 
 ---
 
-## Capítulo 3 — Atentados
+## Capítulo 3 — Falsa bandera
 
 20. **11-S: negligencia y capítulo saudita documentados; Edificio 7 se deja como minoría de ingenieros, no como demolición probada.** ¿Es eso lo que quería, o quería ir más lejos con el WTC7?
 21. **AMIA / Nisman: homicidio para la Justicia, sin condenados; plantilla para cualquier lector, no gacetilla local.** ¿Sí / no?
@@ -121,7 +120,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 
 ---
 
-## Capítulo 4 — Democracia
+## Capítulo 4 — La urna y lo que no se vota
 
 24. **2020 en EE.UU.: no hay prueba de vuelco nacional; sí hay laptop, reglas cambiadas, CTCL, censura. Se pueden decir las dos cosas.** ¿Sí / no / más fuerte (“se robaron”)?
 25. **FEM / Davos: red y glosario, no gobierno mundial con organigrama.** ¿Sí / no / más fuerte?
@@ -130,7 +129,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 
 ---
 
-## Capítulo 5 — Medios
+## Capítulo 5 — El ministerio de la verdad
 
 28. **Twitter Files, laptop, DSA: no fue “un error de ambos lados”.** ¿Sí / no?
 29. **Con la IA, una sola voz crítica no compite en volumen con el promedio fabricado.** ¿Sí / no / más fuerte?
@@ -139,7 +138,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 
 ---
 
-## Capítulo 6 — Clima *(acá hubo malentendido)*
+## Capítulo 6 — El termómetro en el ombligo *(acá hubo malentendido)*
 
 32. **La cuenta del 0,04% y del 3% vive solo en el cap. 6: es la conclusión para mostrar que el CO2 humano no da para el villano. No es estribillo ni una corrección al autor.** ¿Quedó solo ahí?
 187. **Etna 2026: el video no gana el inventario anual (volcanes << humanidad). Sí queda: se multa el auto, no el cráter. Recortar la suma viral.** El titular decía que el Etna soltó más que meses de recortes de la UE; la báscula no lo sostiene. ¿Dejarlo así, o afirmar el titular?
@@ -153,7 +152,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 
 ---
 
-## Capítulo 7 — Economía
+## Capítulo 7 — La impresora de dinero
 
 39. **La inflación es, sobre todo, un fenómeno monetario. La “codicia” no explica diez años.** ¿Sí / no?
 40. **CBDC = efectivo con GPS; el efectivo es un derecho, no un permiso.** ¿Sí / no / más fuerte?
@@ -161,7 +160,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 
 ---
 
-## Capítulo 8 — Inteligencia artificial
+## Capítulo 8 — Skynet
 
 169. **Un modelo no piensa: predice.** ¿Sí / no?
 170. **Quien controla corpus y filtro censura el promedio de lo que se lee como pensamiento.** ¿Sí / no?
@@ -176,7 +175,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 
 ---
 
-## Capítulo 9 — Espacio y Tierra
+## Capítulo 9 — Si las piedras hablaran
 
 42. **Alunizaje: la evidencia en contra de la farsa es, para este libro, la más fuerte de todos los temas.** ¿Está de acuerdo, o quería dejar más duda?
 43. **Pirámides en más de un continente: ¿difusión, arquetipo o saber perdido?** ¿Sí / no?
@@ -188,7 +187,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 
 ---
 
-## Capítulo 10 — Extraterrestre
+## Capítulo 10 — El bosque oscuro
 
 49. **Grusch bajo juramento vs. AARO que no encuentra; las dos cosas se sostienen.** ¿Sí / no / más fuerte (hay hangar)?
 50. **Roswell, Rendlesham, Phoenix, Nimitz, hilo nuclear: se cuentan como casos, no como prueba.** ¿Sí / no / sacar alguno?
@@ -196,7 +195,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 
 ---
 
-## Capítulo 11 — Más allá
+## Capítulo 11 — El otro patio
 
 52. **ECM / AWARE: abierto, no prueba del cielo.** ¿Sí / no?
 53. **Isaías, Salmo 22, Miqueas, Daniel: la red de anuncios es el hecho literario más extraño del Mediterráneo.** ¿Sí / no / más fuerte?
@@ -207,7 +206,7 @@ Si no elige, el editor va a seguir empujando hacia **A**, con un poco de **B** e
 
 ---
 
-## Conclusión
+## Capítulo 12 — Seguir preguntando
 
 58. **El libro es un método de tres pasos, no un combo para un grupo.** ¿Sí / no?
 59. **Cambiar de idea es una medida de inteligencia, no una derrota.** ¿Sí / no?

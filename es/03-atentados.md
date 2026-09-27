@@ -56,7 +56,7 @@ Mezclar las cuatro bandejas es lo que produce, a la vez, al crédulo y al cínic
 
 A diferencia de otros temas de este libro, acá el terreno es mayormente firme: la CIA reconoció oficialmente, en documentos desclasificados propios, su participación directa en el derrocamiento de gobiernos elegidos democráticamente. No hace falta una filtración de un foro. Lo dijo, décadas después, el propio archivo.
 
-**Irán, 1953** (ya visto en el Capítulo 2): la CIA reconoció formalmente en 2013, en documentos desclasificados por ella misma, su rol central en el golpe contra Mohammad Mossadegh tras la nacionalización petrolera. No es una reconstrucción de un foro. Es el propio servicio diciendo, décadas después, que estuvo ahí.
+**Irán, 1953** (ya visto en *Quién tiró la primera piedra*): la CIA reconoció formalmente en 2013, en documentos desclasificados por ella misma, su rol central en el golpe contra Mohammad Mossadegh tras la nacionalización petrolera. No es una reconstrucción de un foro. Es el propio servicio diciendo, décadas después, que estuvo ahí.
 
 **Guatemala, 1954:** la CIA orquestó el derrocamiento del presidente Jacobo Árbenz después de que su reforma agraria afectara los intereses de la United Fruit Company, empresa estadounidense con fuertes vínculos políticos en Washington. El golpe abrió un ciclo de gobiernos militares y una guerra civil que duró casi cuatro décadas. Se puede discutir el grado. No se puede, con el archivo abierto, tratarlo como una leyenda.
 
