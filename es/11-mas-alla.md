@@ -1,9 +1,9 @@
 # Capítulo 11 — El otro patio
 
-Queda el otro patio: la muerte, un hombre de hace dos mil años, la coincidencia que llega a tiempo. Este capítulo se escribe un poco distinto, no porque los hechos pesen menos, sino porque el cuaderno se acerca a lo que no entra del todo en una tabla. Sigue siendo una invitación a mirar, no un púlpito. Quien no tenga palabra para la fe puede quedarse igual: alcanza con no salir corriendo.
+Queda lo más difícil de medir: la muerte, un hombre de hace dos mil años, la coincidencia que llega a tiempo. Este capítulo se escribe un poco distinto, no porque los hechos pesen menos, sino porque se acerca a lo que no entra del todo en una tabla. Sigue siendo una invitación a mirar, no un sermón. Quien no tenga palabra para la fe puede quedarse igual: alcanza con no salir corriendo.
 
-—Una experiencia de consuelo no demuestra un sepulcro vacío. El laboratorio no entra ahí, y eso no es una ofensa: es el límite del método.
-—El límite se firma. Este capítulo no pretende un p-valor para la resurrección. Pretende no llamar “solo consuelo” a un expediente histórico —y a una coincidencia que llega a tiempo— como si el laboratorio hubiera pesado los dos.
+—Una experiencia de consuelo no demuestra un sepulcro vacío. Un experimento no llega hasta ahí, y eso no es una ofensa: es el límite de lo que se puede medir.
+—El límite se firma. Este capítulo no pretende un número para la resurrección. Pretende no llamar “solo consuelo” a un expediente histórico —y a una coincidencia que llega a tiempo— como si un laboratorio hubiera pesado los dos.
 
 ## 11.1 Experiencias cercanas a la muerte: lo que dice la investigación seria
 
@@ -94,6 +94,6 @@ Judaísmo y cristianismo tienen, en sus capas antiguas, normas que hoy serían i
 
 ## Reflexión final
 
-Este capítulo cierra con lo que menos se deja cerrar: la muerte, un hombre de hace dos mil años, una red de textos que se apuntan unos a otros a lo largo de un milenio, la razón de un africano y de un italiano que se arrodillaron sin dejar de pensar, un perseguidor que se volvió apóstol, y el experimento de qué haría Twitter con el Nazareno un martes cualquiera. La frase adulta no es «respeto todas las creencias por igual». Es otra, más seca y más justa: respeto a las personas; a las creencias las mido por lo que hacen cuando tienen policía, y a los milagros los dejo donde el laboratorio no llega, sin pretender que el laboratorio es el único cuarto de la casa.
+Este capítulo cierra con lo que menos se deja cerrar: la muerte, un hombre de hace dos mil años, una red de textos que se apuntan unos a otros a lo largo de un milenio, la razón de un africano y de un italiano que se arrodillaron sin dejar de pensar, un perseguidor que se volvió apóstol, y el experimento de qué haría Twitter con el Nazareno un martes cualquiera. La frase adulta no es «respeto todas las creencias por igual». Es otra, más seca y más justa: respeto a las personas; a las creencias las mido por lo que hacen cuando tienen policía, y a los milagros los dejo donde un experimento no llega, sin pretender que el laboratorio sea el único lugar donde se puede mirar.
 
-**¿Se puede medir una fe por lo que hace cuando manda, y dejar el sepulcro donde el laboratorio no llega?**
+**¿Se puede medir una fe por lo que hace cuando manda, y dejar el sepulcro donde un experimento no llega?**

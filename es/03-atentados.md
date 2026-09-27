@@ -94,7 +94,7 @@ No toda sospecha es cierta, y tampoco toda sospecha es descabellada. La diferenc
 
 ### Segundo sobre
 
-Si siente que lo están reclutando, paramos. El método no era cambiar de iglesia. Era dejar una pregunta abierta un día más.
+Si siente que lo están reclutando, paramos. No se pedía cambiar de bando. Se pedía dejar una pregunta abierta un día más.
 
 *¿Quién escribe la frase que usted después vota?*
 
