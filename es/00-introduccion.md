@@ -7,15 +7,15 @@
 *¿Quién eres?*
 *¿Quién te está pensando?*
 
-No hace falta responder ahora. Hace falta no dejar esas dos preguntas de lado. Este es el libro de alguien curioso: mira primero el hecho —qué se puede chequear, qué se omite, qué se infla— y recién después le pone un color político. Elegir el bando y después buscar datos que lo confirmen no es pensar: es disfrazar una decisión que ya se tomó.
+No hace falta responder ahora. Hace falta no dejar esas dos preguntas de lado. Este es el libro de alguien curioso: mira primero el hecho —qué se puede chequear, qué se omite, qué se infla—. El bando, si aparece, aparece después. No al revés. Elegir el bando y después buscar datos que lo confirmen no es pensar: es disfrazar una decisión que ya se tomó.
 
-Se le cuelga a Einstein, en posters y en feeds, una frase que sus papeles no firman: *"La medida de la inteligencia es la capacidad de cambiar."* No está en las recopilaciones serias, y circula con su nombre como tantas otras. Da igual si la dijo él o no. Cambiar de idea no es perder el bando; es haber mirado otra vez, y estas páginas se escriben con esa medida.
+Se le cuelga a Einstein, en posters y en redes, una frase que sus papeles no firman: *"La medida de la inteligencia es la capacidad de cambiar."* No está en las recopilaciones serias, y circula con su nombre como tantas otras. Da igual si la dijo él o no. Cambiar de idea no es perder el bando; es haber mirado otra vez, y estas páginas se escriben con esa medida.
 
 Los grandes avances, por lo general, no salieron del que asiente, sino de quien dudó de un comité, un ministerio o un titular. Este libro es un tributo a ese espíritu, no a una tribu, y no pretende ser un manifiesto.
 
 Un profesor de mi universidad solía decir que el sentido común es el menos común de los sentidos. Tenía razón, aunque yo prefiero otra frase: **pensamiento crítico**. El sentido común, aunque suene bien, muchas veces es repetición; el pensamiento crítico busca independencia, porque investiga, duda y contrasta antes de concluir.
 
-Esa independencia va a ser más cara. Con la inteligencia artificial el “consenso” ya no necesita una redacción: se entrena, se sirve en un chat y suena razonable. Quien controle esos textos, y lo que el modelo se niega a decir, no censura un artículo: censura el *promedio* de lo que mil millones de personas van a leer como si lo hubieran pensado ellas. Por eso este libro insiste en lo que la máquina no tiene: **sostener una pregunta cuando el feed ya trajo la respuesta**. Si no se entrena ahora, dentro de una generación “pensar” va a parecer un hobby de anticuarios.
+Esa independencia va a ser más cara. Con la inteligencia artificial el “consenso” ya no necesita una redacción: se entrena, se sirve en un chat y suena razonable. Quien controle esos textos, y lo que el modelo se niega a decir, no censura un artículo: censura el *promedio* de lo que mil millones de personas van a leer como si lo hubieran pensado ellas. Por eso este libro insiste en lo que la máquina no tiene: **sostener una pregunta cuando las redes ya trajeron la respuesta**. Si no se practica ahora, dentro de una generación “pensar” va a parecer un pasatiempo de otro siglo.
 
 ## Quienes preguntaron
 
@@ -47,7 +47,7 @@ Hay un sesgo concreto, y hay que nombrarlo de entrada, sin pelearse con quien no
 
 ## Quién llama irracional, y a quién le conviene
 
-Hay un premio Nobel que, con buena prensa, dice más o menos esto: el humano sesga, y entonces alguien más calmo y más informado le **arquitecta** la elección. Un default, un mandato, un recorte. Se llama *nudge*. En el kiosco es marketing —escasez, prueba social, “los más vendidos”—; en el ministerio es el mismo empujón, con policía; en el chat, a las tres de la mañana, es el párrafo razonable que mil millones van a tomar por propio.
+Hay un premio Nobel que, con buena prensa, dice más o menos esto: el humano sesga, y entonces alguien más calmo y más informado le arma la elección. Una opción marcada de fábrica, un mandato, una versión recortada. Se llama *nudge*. En el kiosco es marketing —escasez, prueba social, “los más vendidos”—; en el ministerio es el mismo empujón, con policía; en el chat, a las tres de la mañana, es el párrafo razonable que mil millones van a tomar por propio.
 
 Los casos clásicos no piden una conspiración. Austria inscribe donantes de órganos por omisión, y Alemania pide que uno se anote: mismas vecinas, cifras que no se parecen (Johnson y Goldstein, 2003). En el Reino Unido, una carta de impuestos que decía “en su barrio, la mayoría ya pagó” adelantó recaudación. El ahorro para la vejez sube si el fondo se activa solo y hay que salir a propósito. Un aviso de cinturón, de no fumar en el hospital o de inscribirse como donante se ve, se puede rechazar, y quien gana es, a menudo, usted. Este libro no los declara inmorales.
 
@@ -59,7 +59,7 @@ Los fines pueden ser suyos —libertad o seguridad, fe o laboratorio—, pero lo
 
 ## Cómo leer este libro (y cómo no)
 
-Este libro no es un curso de historia de la filosofía, ni un maestro que lo espere al final. Hay otra caverna, la de este siglo: un virus, un clima, un feed, una máquina que ya escribe el promedio.
+Este libro no es un curso de historia de la filosofía, ni un maestro que lo espere al final. Hay otra caverna, la de este siglo: un virus, un clima, las redes, una máquina que ya escribe el promedio.
 
 La forma quiere el mismo gesto: un ensayo con una sola pregunta —**quién te está pensando, y qué pasa si deja de preguntar**— y, en cada capítulo, la voz de quien no está de acuerdo, dicha como él la firmaría. Entre capítulo y capítulo, a veces, un diálogo corto. Si el libro le gana a una caricatura, no le ganó a nadie.
 
@@ -73,7 +73,7 @@ Hay temas en los que el autor tiene pulso: la fe, las Malvinas, el cansancio con
 
 A veces el método tropieza con algo que no entra en una tabla: una coincidencia que llega a tiempo, un libro que aparece cuando hacía falta. Carl Jung le puso **sincronicidad**. La fe le pone **providencia**. Este libro no va a demostrar ninguna de las dos con un número, y tampoco las va a llamar superstición porque no se pesan en un laboratorio. Quien busca la verdad de los hechos, tarde o temprano tropieza con el hecho de que no controla el calendario.
 
-La curiosidad va primero. El color político, si aparece, aparece después. Invertir ese orden —elegir la tribu y después buscar los datos que la confirmen— es lo que este texto pide no hacer. Ni al autor ni al lector.
+La curiosidad va primero. Si después de mirar queda una idea política, que sea por lo que se vio, no al revés. Invertir ese orden —elegir la tribu y después buscar los datos que la confirmen— es lo que este texto pide no hacer. Ni al autor ni al lector.
 
 ## Cómo disentir con estas páginas
 

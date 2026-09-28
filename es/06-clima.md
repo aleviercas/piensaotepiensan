@@ -44,7 +44,7 @@ Y hay un detalle que el documental rara vez pone en el mismo cuadro: en las sali
 
 Nada de esto obliga a nadie a “no creer en el clima”. Obliga, si se es curioso, a no entregar la política energética a una sola molécula sin haber medido su tamaño en el aire y su lugar en la historia. Si después de mirar esa proporción uno sigue pensando que hay que cortar emisiones, que lo haga con los ojos abiertos. Si uno empieza a dudar de que el carbono humano sea el villano principal, que no se deje llamar ignorante por haber hecho una cuenta de primaria. Esa cuenta era el punto. El resto del capítulo es para no quedarse solo con ella.
 
-**El Etna, el video y la cuenta que no cierra.** Cada tanto un volcán llena la pantalla —en septiembre de 2026, otra vez el Etna, en Sicilia— y el feed dice: *ese cráter acaba de soltar más CO2 que meses de recortes de la Unión Europea a sus ciudadanos*. La imagen es potente. El auto que no se puede usar, la calefacción que se apaga, y un cerro que no pide permiso. La intuición es la misma de esta sección: **hay fuentes que no se votan, y hay un ciudadano al que sí se multa**.
+**El Etna, el video y la cuenta que no cierra.** Cada tanto un volcán llena la pantalla —en septiembre de 2026, otra vez el Etna, en Sicilia— y las redes dicen: *ese cráter acaba de soltar más CO2 que meses de recortes de la Unión Europea a sus ciudadanos*. La imagen es potente. El auto que no se puede usar, la calefacción que se apaga, y un cerro que no pide permiso. La intuición es la misma de esta sección: **hay fuentes que no se votan, y hay un ciudadano al que sí se multa**.
 
 Hay que oír al que no está de acuerdo, en su mejor versión, no en la del cartel:
 
