@@ -7,7 +7,7 @@ Once capítulos después, el hilo era uno: **¿quién te está pensando?** Este 
 
 ### Lo que queda
 
-No hay más carta. Sofía tampoco se volvió Tales en un semestre, y no hacía falta. Lo que queda es el hábito de no tirar el sobre la próxima vez que llegue uno —de un ministerio, de un pariente, de un chat.
+No hay más carta. Sofía tampoco se volvió Tales en un semestre, y no hacía falta. Lo que queda es el hábito de no dejar pasar la pregunta la próxima vez que llegue una —de un ministerio, de un pariente, de un chat.
 
 Si al cerrar piensa lo mismo que al empezar, no pasa nada. El punto no era convertirlo, sino que la pregunta ya es suya.
 
@@ -55,7 +55,7 @@ Gracias por acompañar este recorrido, estés donde estés. La pregunta que sigu
 
 ## Un hábito, no una militancia
 
-Si este libro se usa para ganar en una mesa, para humillar a un cuñado o para decorar un canal, habrá fallado, aunque cada dato esté en su sitio. Fue escrito para otra cosa: para que alguien que piensa distinto pueda leerlo sin sentirse tonto, y para que alguien que ya dudaba no se vuelva un predicador.
+Si este libro se usa para ganar en una mesa, para humillar a un cuñado o para armar un canal, habrá fallado, aunque cada dato esté en su sitio. Fue escrito para otra cosa: para que alguien que piensa distinto pueda leerlo sin sentirse tonto, y para que alguien que ya dudaba no se vuelva un predicador.
 
 Tres hábitos, si queda alguno:
 
