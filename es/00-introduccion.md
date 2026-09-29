@@ -1,13 +1,13 @@
 # Introducción
 
-*Decisiones irracionales. ¿Para quién?*
-
-## Para empezar
-
-*¿Quién eres?*
 *¿Quién te está pensando?*
+*¿Irracional para quién?*
 
-No hace falta responder ahora. Hace falta no dejar esas dos preguntas de lado. Este es el libro de alguien curioso: mira primero el hecho —qué se puede chequear, qué se omite, qué se infla—. El bando, si aparece, aparece después. No al revés. Elegir el bando y después buscar datos que lo confirmen no es pensar: es disfrazar una decisión que ya se tomó.
+No hace falta responder ahora. Las dos van juntas. Si usted no piensa, alguien piensa por usted. Y si usted no hace lo que ese alguien armó, lo llaman irracional.
+
+Kahneman y Tversky describieron cómo sesgamos: atajos, manada, lo que está a mano. Thaler le puso nombre al empujón: alguien más calmo le arma a usted la elección y, si hace falta, le dice que lo contrario sería irracional. Este libro no discute que sesgamos. Pregunta lo que esa escuela, a menudo, deja afuera: **quién arma la elección, y a quién le conviene que usted la tome**. Una decisión no es irracional en el vacío. Lo es para alguien.
+
+Este es el libro de alguien curioso: mira primero el hecho —qué se puede chequear, qué se omite, qué se infla—. El bando, si aparece, aparece después. No al revés. Elegir el bando y después buscar datos que lo confirmen no es pensar: es disfrazar una decisión que ya se tomó.
 
 Se le cuelga a Einstein, en posters y en redes, una frase que sus papeles no firman: *"La medida de la inteligencia es la capacidad de cambiar."* No está en las recopilaciones serias, y circula con su nombre como tantas otras. Da igual si la dijo él o no. Cambiar de idea no es perder el bando; es haber mirado otra vez, y estas páginas se escriben con esa medida.
 
@@ -29,7 +29,7 @@ Entre quienes desafiaron lo que su época daba por cerrado, pocos lo hicieron co
 
 Siglos antes, **Sócrates** enseñó a pensar sin ofrecer respuestas, solo preguntas, y el diálogo le valió la condena. Su discípulo **Platón** nos dejó la imagen que este libro no va a soltar: la caverna. Unos prisioneros ven sombras en una pared y las toman por el mundo; cuando uno sale a la luz y vuelve a contarlo, lo toman por loco. Muchos prefieren la sombra conocida, porque una luz que obliga a repensar todo es, todavía, una ofensa.
 
-Hay un libro que me enseñó a entrar a esa caverna sin una doctrina ya armada: *El mundo de Sofía*, de Jostein Gaarder. Una chica de catorce años encuentra dos preguntas en el buzón y no las tira. Un desconocido le deja la historia de la filosofía como quien deja un sobre, y ella se queda. Preguntar sin humillar, y no entregar el veredicto antes de la conversación: este libro copia ese gesto, no a Alberto Knox ni a una adolescente en Noruega. Entre capítulo y capítulo hay un diálogo corto. Si no lo lee, no pasa nada: no hay examen.
+Hay un libro que me enseñó a dejar una pregunta sobre la mesa sin humillar: *El mundo de Sofía*, de Jostein Gaarder. Una chica de catorce años encuentra dos líneas en el buzón —*¿quién eres?*, *¿de dónde viene el mundo?*— y no las tira. Este libro copia ese gesto, no esas preguntas. Las de acá ya están arriba: quién te está pensando, e irracional para quién. Entre capítulo y capítulo hay un diálogo corto. Si no lo lee, no pasa nada: no hay examen.
 
 Después de la caverna, la lista no es un culto: es memoria de lo que costó percibir el error. **Colón** y **Magallanes** salieron a mares que muchos daban por borde, y el mapa se agrandó. **Giordano Bruno** imaginó un universo infinito y lo ejecutaron por herejía. **Galileo** apuntó el telescopio y confirmó que la Tierra no era el centro, y la Inquisición lo obligó a retractarse. Lo que quedó no fue el proceso, sino los hallazgos, que la ciencia posterior citó.
 
@@ -59,13 +59,13 @@ El test es otro, y cabe en tres preguntas. **¿Se ve lo que el sistema elige por
 
 Este libro no trata al lector como un error a corregir: trata lo que le ponen por delante. Una decisión parece irracional cuando se mira con el interés de otro. Cerrar una escuela es racional para quien no quiere el titular, y cara para el chico que no vota; imprimir es racional para el fisco, y cara para quien cobra a fin de mes. El 97% es “lo que hace la gente”, no un ensayo. A veces el que pone el discurso moral y el que cobra el contrato no aparecen juntos. No hace falta una conspiración. Hace falta preguntar **irracional para quién**.
 
-Los fines pueden ser suyos —libertad o seguridad, fe o laboratorio—, pero los hechos no. Tres veces una gripe no es la peste porque alguien “sienta” la peste. Un sentimiento es un dato sobre la persona, no física. Este libro no va a llamar irracional a quien reza ni a quien mide un muro; va a llamar recorte al default que no se puede apagar.
+Los fines pueden ser suyos —libertad o seguridad, fe o laboratorio—, pero los hechos no. Tres veces una gripe no es la peste porque alguien “sienta” la peste. Un sentimiento es un dato sobre la persona, no física. Este libro no va a llamar irracional a quien reza ni a quien mide un muro; va a llamar recorte a la opción marcada de fábrica que no se puede apagar.
 
 ## Cómo leer este libro (y cómo no)
 
 Este libro no es un curso de historia de la filosofía, ni un maestro que lo espere al final. Hay otra caverna, la de este siglo: un virus, un clima, las redes, una máquina que ya escribe el promedio.
 
-La forma quiere el mismo gesto: un ensayo con una sola pregunta —**quién te está pensando, y qué pasa si deja de preguntar**— y, en cada capítulo, la voz de quien no está de acuerdo, dicha como él la firmaría. Entre capítulo y capítulo, a veces, un diálogo corto. Si el libro le gana a una caricatura, no le ganó a nadie.
+La forma quiere el mismo gesto: un ensayo con una sola pregunta —**quién te está pensando, e irracional para quién**— y, en cada capítulo, la voz de quien no está de acuerdo, dicha como él la firmaría. Entre capítulo y capítulo, a veces, un diálogo corto. Si el libro le gana a una caricatura, no le ganó a nadie.
 
 El recorrido no es una lista suelta. Primero se mira lo que nos tocó de cerca: un virus, una guerra, un atentado. Después, lo que nos gobierna sin que se vote del todo: la noticia, el clima como política, el dinero, la máquina que escribe. Al final, lo que todavía no se explica del todo: las piedras, el cielo, la muerte. Una sola pregunta los une. Si un capítulo no sirve a esa pregunta, sobra.
 
@@ -111,8 +111,8 @@ Hoy podríamos añadir: para mantener a una sociedad pasiva, alcanza con convenc
 
 ### Las dos preguntas
 
-*¿Quién eres?*
 *¿Quién te está pensando?*
+*¿Irracional para quién?*
 
 No hace falta que conteste ahora. Sofía tampoco contestó en el acto: se quedó con el papel y fue a clase. Nadie toma asistencia. Puede dejar las dos preguntas sobre la mesa y seguir.
 

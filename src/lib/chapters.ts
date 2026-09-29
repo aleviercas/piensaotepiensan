@@ -7,7 +7,7 @@ export type Chapter = {
 };
 
 export const CHAPTERS: Chapter[] = [
-  { slug: "introduccion", file: "00-introduccion.md", num: "00", kicker: "Prólogo", title: "Introducción" },
+  { slug: "introduccion", file: "00-introduccion.md", num: "00", kicker: "00", title: "Introducción" },
   { slug: "salud", file: "01-salud.md", num: "01", kicker: "Capítulo 1", title: "La isla del doctor Moreau" },
   { slug: "geopolitica", file: "02-geopolitica.md", num: "02", kicker: "Capítulo 2", title: "Quién tiró la primera piedra" },
   { slug: "atentados", file: "03-atentados.md", num: "03", kicker: "Capítulo 3", title: "Falsa bandera" },
