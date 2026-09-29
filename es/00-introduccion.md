@@ -13,13 +13,17 @@ Se le cuelga a Einstein, en posters y en redes, una frase que sus papeles no fir
 
 Los grandes avances, por lo general, no salieron del que asiente, sino de quien dudó de un comité, un ministerio o un titular. Este libro es un tributo a ese espíritu, no a una tribu, y no pretende ser un manifiesto.
 
+Un consenso no es, de por sí, el enemigo. Sin uno no hay puente, ni vacuna de la viruela, ni semáforo. El problema es **cuando está equivocado**. Entonces no se corrige solo: hace falta alguien que lo perciba y que pague el precio de decirlo. Alemania apagó sus últimas nucleares en abril de 2023, después de una década de tratar el átomo como pecado; al año siguiente importó más electricidad de la que exportó, y una parte vino de reactores franceses. El Reino Unido, con una campaña que pedía *Just Stop Oil* y un gobierno que dejó de dar licencias nuevas en el Mar del Norte, sigue quemando gas: una buena parte de lo que importa llega por caño desde Noruega, del mismo mar. No hace falta insultar a nadie. Hace falta preguntar **quién gana con esa cuenta, y quién la paga**.
+
 Un profesor de mi universidad solía decir que el sentido común es el menos común de los sentidos. Tenía razón, aunque yo prefiero otra frase: **pensamiento crítico**. El sentido común, aunque suene bien, muchas veces es repetición; el pensamiento crítico busca independencia, porque investiga, duda y contrasta antes de concluir.
 
 Esa independencia va a ser más cara. Con la inteligencia artificial el “consenso” ya no necesita una redacción: se entrena, se sirve en un chat y suena razonable. Quien controle esos textos, y lo que el modelo se niega a decir, no censura un artículo: censura el *promedio* de lo que mil millones de personas van a leer como si lo hubieran pensado ellas. Por eso este libro insiste en lo que la máquina no tiene: **sostener una pregunta cuando las redes ya trajeron la respuesta**. Si no se practica ahora, dentro de una generación “pensar” va a parecer un pasatiempo de otro siglo.
 
-## Quienes preguntaron
+## Cuando el consenso se equivoca
 
-No hace falta una lista de héroes. Hace falta recordar, con nombres, que preguntar ya le costó caro a más de uno, y que haber preguntado no los volvió infalibles. Lo que sigue es ese recuerdo, no un culto.
+Un consenso sirve, la mayor parte del tiempo. Es lo que permite que un hospital lave las manos *hoy*, que un avión despegue y que un contrato se cumpla. Declararlo siempre sospechoso es tan perezoso como declararlo sagrado. La pregunta es otra: **cuando está equivocado, ¿cómo se lo cambia, si no es porque alguien lo percibe?**
+
+Eso no convierte a todo disidente en un profeta. Convierte en necesaria la figura del que se anima a verlo —intelectual o espiritual— y a decirlo cuando el coro ya cerró el tema. Lo que sigue no es una lista de héroes ni un culto. Es memoria de gente que desafió lo que su época daba por cerrado, **con justa razón en lo que importaba**, y que a menudo pagó caro. Haber preguntado no los volvió infalibles en cada detalle. Haber acertado en lo gordo, sí cambió el mapa.
 
 Entre quienes desafiaron lo que su época daba por cerrado, pocos lo hicieron con la profundidad de **Jesús de Nazaret**. En un tiempo de templo rígido y de imperio predicó amor, justicia y libertad interior, y le costó la vida. Más allá de la fe de cada lector, su enseñanza cambió la historia moral de Occidente.
 
@@ -27,7 +31,7 @@ Siglos antes, **Sócrates** enseñó a pensar sin ofrecer respuestas, solo pregu
 
 Hay un libro que me enseñó a entrar a esa caverna sin una doctrina ya armada: *El mundo de Sofía*, de Jostein Gaarder. Una chica de catorce años encuentra dos preguntas en el buzón y no las tira. Un desconocido le deja la historia de la filosofía como quien deja un sobre, y ella se queda. Preguntar sin humillar, y no entregar el veredicto antes de la conversación: este libro copia ese gesto, no a Alberto Knox ni a una adolescente en Noruega. Entre capítulo y capítulo hay un diálogo corto. Si no lo lee, no pasa nada: no hay examen.
 
-Después de la caverna, la lista no es un culto: es memoria de lo que costó preguntar. **Colón** y **Magallanes** salieron a mares que muchos daban por borde, y el mapa se agrandó. **Giordano Bruno** imaginó un universo infinito y lo ejecutaron por herejía. **Galileo** apuntó el telescopio y confirmó que la Tierra no era el centro, y la Inquisición lo obligó a retractarse. Lo que quedó no fue el proceso, sino los hallazgos, que la ciencia posterior citó.
+Después de la caverna, la lista no es un culto: es memoria de lo que costó percibir el error. **Colón** y **Magallanes** salieron a mares que muchos daban por borde, y el mapa se agrandó. **Giordano Bruno** imaginó un universo infinito y lo ejecutaron por herejía. **Galileo** apuntó el telescopio y confirmó que la Tierra no era el centro, y la Inquisición lo obligó a retractarse. Lo que quedó no fue el proceso, sino los hallazgos, que la ciencia posterior citó.
 
 En medicina, **Ignaz Semmelweis** vio que las parturientas morían menos si los médicos se lavaban las manos. Lo ridiculizaron, y murió sin ver convertida en norma una idea que hoy es el afiche de cualquier hospital. **Alfred Wegener** dijo que los continentes se desplazaban y lo trataron de excéntrico; décadas después, la tectónica de placas le dio la razón.
 
@@ -35,7 +39,7 @@ Los **hermanos Wright**, dos mecánicos de bicicletas, hicieron volar lo que la 
 
 En economía, **Friedrich Hayek** defendió el mercado cuando mandaban Keynes y el plan central, y lo trataron de reaccionario obsoleto antes del Nobel, en 1974. **Milton Friedman** enfrentó un rechazo parecido. Ya en este siglo, **Malala Yousafzai**, apenas una adolescente, desafió la violencia del extremismo al defender el derecho de las niñas a la escuela, sobrevivió a un atentado y se volvió símbolo de esa valentía. En política, **Javier Milei** mostró que una postura tildada de extrema puede imponerse cuando los consensos tradicionales dejan de dar respuestas.
 
-Lo que une a todas estas figuras no es que hayan tenido siempre razón en cada detalle, sino que se animaron a preguntar donde otros solo repetían. Tampoco vale este atajo: si a Semmelweis le fue mal, no por eso cualquier disidente de hoy tiene razón. Cuenta el archivo, no la fama.
+Lo que une a todas estas figuras no es que hayan tenido siempre razón en cada detalle, sino que percibieron un error cuando el coro ya no lo veía. Tampoco vale este atajo: si a Semmelweis le fue mal, no por eso cualquier disidente de hoy tiene razón. Cuenta el archivo, no la fama. El consenso se corrige así, o no se corrige.
 
 ## El elefante en la habitación
 
