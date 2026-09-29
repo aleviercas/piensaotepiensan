@@ -3,7 +3,9 @@
 *Decisiones irracionales. ¿Para quién?*
 *¿Quién te está pensando?*
 
-No hace falta responder ahora. Las dos van juntas. Si usted no piensa, alguien piensa por usted. Y si usted no hace lo que ese alguien armó, lo llaman irracional.
+No hace falta responder ahora. En *El mundo de Sofía*, de Jostein Gaarder, una chica de catorce años encuentra dos preguntas en el buzón y no las tira. Un desconocido, Alberto Knox, le va dejando la historia de la filosofía como quien deja una carta. Este libro copia ese gesto, no esas preguntas. Las de Sofía eran *¿quién eres?* y *¿de dónde viene el mundo?*. Las de acá son las de arriba.
+
+Van juntas. Si usted no piensa, alguien piensa por usted. Y si usted no hace lo que ese alguien armó, lo llaman irracional.
 
 Kahneman y Tversky describieron cómo sesgamos: atajos, manada, lo que está a mano. Thaler le puso nombre al empujón: alguien más calmo le arma a usted la elección y, si hace falta, le dice que lo contrario sería irracional. Este libro no discute que sesgamos. Pregunta lo que esa escuela, a menudo, deja afuera: **quién arma la elección, y a quién le conviene que usted la tome**. Una decisión no es irracional en el vacío. Lo es para alguien.
 
@@ -27,9 +29,7 @@ Eso no convierte a todo disidente en un profeta. Convierte en necesaria la figur
 
 Entre quienes desafiaron lo que su época daba por cerrado, pocos lo hicieron con la profundidad de **Jesús de Nazaret**. En un tiempo de templo rígido y de imperio predicó amor, justicia y libertad interior, y le costó la vida. Más allá de la fe de cada lector, su enseñanza cambió la historia moral de Occidente.
 
-Siglos antes, **Sócrates** enseñó a pensar sin ofrecer respuestas, solo preguntas, y el diálogo le valió la condena. Su discípulo **Platón** nos dejó la imagen que este libro no va a soltar: la caverna. Unos prisioneros ven sombras en una pared y las toman por el mundo; cuando uno sale a la luz y vuelve a contarlo, lo toman por loco. Muchos prefieren la sombra conocida, porque una luz que obliga a repensar todo es, todavía, una ofensa.
-
-Hay un libro que me enseñó a dejar una pregunta sobre la mesa sin humillar: *El mundo de Sofía*, de Jostein Gaarder. Una chica de catorce años encuentra dos líneas en el buzón —*¿quién eres?*, *¿de dónde viene el mundo?*— y no las tira. Este libro copia ese gesto, no esas preguntas. Las de acá ya están arriba: decisiones irracionales, ¿para quién?, y quién te está pensando. Entre capítulo y capítulo hay un diálogo corto. Si no lo lee, no pasa nada: no hay examen.
+Siglos antes, **Sócrates** enseñó a pensar sin ofrecer respuestas, solo preguntas, y el diálogo le valió la condena. Su discípulo **Platón** nos dejó la imagen que este libro no va a soltar: la caverna. Unos prisioneros ven sombras en una pared y las toman por el mundo; cuando uno sale a la luz y vuelve a contarlo, lo toman por loco. Muchos prefieren la sombra conocida, porque una luz que obliga a repensar todo es, todavía, una ofensa. *El mundo de Sofía* enseña a entrar a esa caverna sin una doctrina ya armada. Por eso está en la puerta de este libro, y no en una nota al pie.
 
 Después de la caverna, la lista no es un culto: es memoria de lo que costó percibir el error. **Colón** y **Magallanes** salieron a mares que muchos daban por borde, y el mapa se agrandó. **Giordano Bruno** imaginó un universo infinito y lo ejecutaron por herejía. **Galileo** apuntó el telescopio y confirmó que la Tierra no era el centro, y la Inquisición lo obligó a retractarse. Lo que quedó no fue el proceso, sino los hallazgos, que la ciencia posterior citó.
 
@@ -65,7 +65,7 @@ Los fines pueden ser suyos —libertad o seguridad, fe o laboratorio—, pero lo
 
 Este libro no es un curso de historia de la filosofía, ni un maestro que lo espere al final. Hay otra caverna, la de este siglo: un virus, un clima, las redes, una máquina que ya escribe el promedio.
 
-La forma quiere el mismo gesto: un ensayo con esas dos preguntas —**decisiones irracionales, ¿para quién?, y quién te está pensando**— y, en cada capítulo, la voz de quien no está de acuerdo, dicha como él la firmaría. Entre capítulo y capítulo, a veces, un diálogo corto. Si el libro le gana a una caricatura, no le ganó a nadie.
+La forma quiere el mismo gesto: un ensayo con esas dos preguntas —**decisiones irracionales, ¿para quién?, y quién te está pensando**— y, en cada capítulo, la voz de quien no está de acuerdo, dicha como él la firmaría. Entre capítulo y capítulo, a veces, una carta corta, como las de Alberto. Si no la lee, no pasa nada: no hay examen. Si el libro le gana a una caricatura, no le ganó a nadie.
 
 El recorrido no es una lista suelta. Primero se mira lo que nos tocó de cerca: un virus, una guerra, un atentado. Después, lo que nos gobierna sin que se vote del todo: la noticia, el clima como política, el dinero, la máquina que escribe. Al final, lo que todavía no se explica del todo: las piedras, el cielo, la muerte. Una sola pregunta los une. Si un capítulo no sirve a esa pregunta, sobra.
 
@@ -114,6 +114,6 @@ Hoy podríamos añadir: para mantener a una sociedad pasiva, alcanza con convenc
 *Decisiones irracionales. ¿Para quién?*
 *¿Quién te está pensando?*
 
-No hace falta que conteste ahora. Sofía tampoco contestó en el acto: se quedó con el papel y fue a clase. Nadie toma asistencia. Puede dejar las dos preguntas sobre la mesa y seguir.
+No hace falta que conteste ahora. Sofía tampoco contestó en el acto: se quedó con la carta de Alberto y fue a clase. Nadie toma asistencia. Puede dejar las dos preguntas sobre la mesa y seguir.
 
 **El viaje es una invitación, no un reclutamiento.**

@@ -119,8 +119,8 @@ La pregunta adulta no es “¿estás a favor o en contra de la IA?”. Esa ya la
 
 ---
 
-### Tercer sobre
+### Otra carta
 
-Hacia el final, Sofía se pregunta si ella misma está dentro de un libro. Este libro no va a ese juego. Va a este: hay cosas que no se pueden medir así, y declararlas pesadas para no quedar de místico es otra forma de que a uno lo piensen.
+Hacia el final de *El mundo de Sofía*, ella se pregunta si está dentro de un libro. Este libro no va a ese juego. Va a este: hay cosas que no se pueden medir así, y declararlas cerradas para no quedar de místico es otra forma de que a uno lo piensen.
 
 *¿Qué hace usted con una pregunta que un experimento no puede responder?*

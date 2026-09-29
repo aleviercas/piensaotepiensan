@@ -92,10 +92,10 @@ No toda sospecha es cierta, y tampoco toda sospecha es descabellada. La diferenc
 
 ---
 
-### Segundo sobre
+### Otra carta
 
 Si siente que lo están reclutando, paramos. No se pedía cambiar de bando. Se pedía dejar una pregunta abierta un día más.
 
 *¿Quién escribe la frase que usted después vota?*
 
-Tampoco hace falta contestar ahora. Sofía, a esta altura, ya había aprendido que Alberto no le tomaba prueba: le dejaba otra carta. Esta es esa carta.
+Tampoco hace falta contestar ahora. Sofía, a esta altura, ya había aprendido que Alberto Knox no le tomaba prueba: le dejaba otra carta. Esta es esa carta.

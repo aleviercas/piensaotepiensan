@@ -1,13 +1,13 @@
 # Capítulo 12 — Seguir preguntando
 
-Once capítulos después, el hilo era uno: **¿quién te está pensando?** Este cierre no agrega un tema: resume cómo se miró cada uno.
+Once capítulos después, el hilo eran las dos de la puerta: **decisiones irracionales, ¿para quién?, y quién te está pensando.** Este cierre no agrega un tema: resume cómo se miró cada uno.
 
 —Al final hay un paquete ya armado: el virus, el carbono, Davos, la máquina. Creer todo eso junto también es repetir, con otros nombres.
 —Si se lee así, falló. Lo que se pedía era usar el **mismo criterio** con lo que incomoda y con lo que ya se creía, no una lista de culpables. Si al cerrar piensa lo mismo, no pasa nada. Si el paquete le sirvió para pelear, el libro le pidió que no.
 
 ### Lo que queda
 
-No hay más carta. Sofía tampoco se volvió Tales en un semestre, y no hacía falta. Lo que queda es el hábito de no dejar pasar la pregunta la próxima vez que llegue una —de un ministerio, de un pariente, de un chat.
+No hay más carta. En *El mundo de Sofía*, ella tampoco se volvió Tales —el primer filósofo que le nombró Alberto— en un semestre, y no hacía falta. Lo que queda es el hábito de no dejar pasar la pregunta la próxima vez que llegue una —de un ministerio, de un pariente, de un chat.
 
 Si al cerrar piensa lo mismo que al empezar, no pasa nada. El punto no era convertirlo, sino que la pregunta ya es suya.
 
