@@ -37,9 +37,11 @@ En medicina, **Ignaz Semmelweis** vio que las parturientas morían menos si los 
 
 Los **hermanos Wright**, dos mecánicos de bicicletas, hicieron volar lo que la ciencia oficial de su tiempo daba por imposible. **Nikola Tesla** —serbio, inmigrante, inventor de la corriente alterna que todavía enciende las ciudades— pensó contra Edison y contra el estándar de su industria. Patentó el motor de inducción, imaginó la energía inalámbrica y murió solo, sin el crédito ni la fortuna que el relato popular le cuelga al “genio”. Lo citamos por lo que sí hizo, no por la mitología de internet —rayos de la muerte, expedientes robados—. El progreso dependió siempre de ese tipo de gente, que casi siempre pagó burla o persecución, y aun así abrió el camino.
 
-En economía, **Friedrich Hayek** defendió el mercado cuando mandaban Keynes y el plan central, y lo trataron de reaccionario obsoleto antes del Nobel, en 1974. **Milton Friedman** enfrentó un rechazo parecido. Ya en este siglo, **Malala Yousafzai**, apenas una adolescente, desafió la violencia del extremismo al defender el derecho de las niñas a la escuela, sobrevivió a un atentado y se volvió símbolo de esa valentía. En política, **Javier Milei** mostró que una postura tildada de extrema puede imponerse cuando los consensos tradicionales dejan de dar respuestas.
+En economía, **Friedrich Hayek** defendió el mercado cuando mandaban Keynes y el plan central, y lo trataron de reaccionario obsoleto antes del Nobel, en 1974. **Milton Friedman** enfrentó un rechazo parecido. Ya en este siglo, **Malala Yousafzai**, apenas una adolescente, desafió la violencia del extremismo al defender el derecho de las niñas a la escuela, sobrevivió a un atentado y se volvió símbolo de esa valentía.
 
-Lo que une a todas estas figuras no es que hayan tenido siempre razón en cada detalle, sino que percibieron un error cuando el coro ya no lo veía. Tampoco vale este atajo: si a Semmelweis le fue mal, no por eso cualquier disidente de hoy tiene razón. Cuenta el archivo, no la fama. El consenso se corrige así, o no se corrige.
+La pregunta, al leer estos nombres, no es solo quién preguntó. Es **a quién desafiaron**, y qué les costó. **John F. Kennedy**, después de Bahía de Cochinos, llegó a decir que quería destrozar a la CIA; en 1963 habló de paz cuando el aparato de guerra de su propio país ya no se votaba entero. Dallas, y quién apretó el gatillo, se mira más adelante. Acá cuenta el desafío: el servicio secreto de un Estado, no un enemigo extranjero. En 2025, **Charlie Kirk** llevó a los campus estadounidenses la pregunta que el consenso universitario había cerrado: si un joven podía disentir en voz alta sobre sexo, frontera y fe. El 10 de septiembre de ese año lo mataron de un tiro en el cuello, en Utah Valley University, mientras debatía. Tenía treinta y un años. El acusado está procesado; el juicio, al cierre de estas páginas, sigue abierto. Kirk no es un santo de este libro. Es alguien que pagó caro por hablar donde el coro no quería oír. **Javier Milei** mostró, en las urnas, que una postura tildada de extrema puede imponerse cuando los consensos tradicionales dejan de dar respuestas.
+
+Lo que une a todas estas figuras no es que hayan tenido siempre razón en cada detalle, sino que percibieron un error cuando el coro ya no lo veía, y que el coro tenía nombre: un templo, un comité, una agencia, un campus. Tampoco vale este atajo: si a Semmelweis le fue mal, no por eso cualquier disidente de hoy tiene razón. Cuenta el archivo, no la fama. El consenso se corrige así, o no se corrige.
 
 ## El elefante en la habitación
 
@@ -109,11 +111,6 @@ Hoy podríamos añadir: para mantener a una sociedad pasiva, alcanza con convenc
 
 ---
 
-### Las dos preguntas
-
-*Decisiones irracionales. ¿Para quién?*
-*¿Quién te está pensando?*
-
-No hace falta que conteste ahora. Sofía tampoco contestó en el acto: se quedó con la carta de Alberto y fue a clase. Nadie toma asistencia. Puede dejar las dos preguntas sobre la mesa y seguir.
+Este planteo no pide una respuesta ahora. Sofía tampoco contestó en el acto: se quedó con la carta de Alberto y fue a clase. Nadie toma asistencia. Puede dejarlo sobre la mesa y seguir.
 
 **El viaje es una invitación, no un reclutamiento.**
