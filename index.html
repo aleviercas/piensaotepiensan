@@ -91,6 +91,10 @@
     .prose hr { border: 0; border-top: 1px solid var(--line); margin: 2.2rem 0; }
     .prose blockquote { margin: 1.3em 0; padding: 0 0 0 1rem; border-left: 2px solid var(--line); color: var(--muted); }
     .prose a { color: var(--accent); text-underline-offset: 3px; }
+    .edition-switch { display:flex; flex-wrap:wrap; gap:.45rem; margin:0 0 .5rem; }
+    .edition-switch button { min-height:42px; padding:.55rem .85rem; border:1px solid var(--line); border-radius:999px; color:var(--muted); font-size:.82rem; }
+    .edition-switch button.selected { background:var(--ink); color:var(--bg); border-color:var(--ink); }
+    .edition-note { margin:0 0 1.5rem; color:var(--subtle); font-size:.78rem; font-family:var(--font-ui); }
     .pager { display: flex; justify-content: space-between; gap: 0.75rem; margin-top: 3rem; padding-top: 1.4rem; border-top: 1px solid var(--line); }
     .pager a {
       display: flex; flex-direction: column; gap: 0.2rem; text-decoration: none;
@@ -275,11 +279,21 @@
         return;
       }
       try {
-        const md = await loadMd(c.file);
+        const isIntro = c.slug === "introduccion";
+        const edition = isIntro ? (sessionStorage.getItem("potp-intro-edition") || "primera") : "primera";
+        const sourceFile = isIntro && edition === "segunda" ? "es/00-introduccion-edicion-segunda.md" : c.file;
+        const md = await loadMd(sourceFile);
         const html = marked.parse(md, { mangle: false, headerIds: false });
+        const editionSwitch = isIntro ? `
+          <div class="edition-switch" role="group" aria-label="Elegir edición">
+            <button type="button" data-edition="primera" aria-pressed="${edition === "primera"}" class="${edition === "primera" ? "selected" : ""}">Edición Primera</button>
+            <button type="button" data-edition="segunda" aria-pressed="${edition === "segunda"}" class="${edition === "segunda" ? "selected" : ""}">Edición Segunda</button>
+          </div>
+          <p class="edition-note">${edition === "segunda" ? "Versión revisada. La edición primera se conserva sin cambios." : "Texto original de la primera edición."}</p>` : "";
         root.innerHTML = `
           <article class="sheet">
             <p class="kicker">${c.kicker}</p>
+            ${editionSwitch}
             <div class="prose">${html}</div>
             <nav class="pager">
               ${prev ? `<a href="#/${prev.slug}"><span>Anterior</span>${prev.title}</a>` : "<span></span>"}
@@ -291,6 +305,13 @@
         root.innerHTML = `<p class="err">${err.message}. Si esto es Vercel, confirmá que el archivo ${c.file} esté en el repo.</p>`;
       }
     }
+
+    root.addEventListener("click", (event) => {
+      const button = event.target.closest("[data-edition]");
+      if (!button || slug() !== "introduccion") return;
+      sessionStorage.setItem("potp-intro-edition", button.dataset.edition);
+      chapter("introduccion");
+    });
 
     function render() {
       closeMenu();
