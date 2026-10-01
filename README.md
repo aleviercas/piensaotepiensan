@@ -6,12 +6,12 @@ Libro de pensamiento crítico (borrador en edición).
 
 Ahí está la tapa, el índice, la introducción, once capítulos y el capítulo 12. En el teléfono, el botón *Índice*.
 
-## Dos ediciones de la intro
+## Dos ediciones
 
-La introducción tiene **Edición Primera** y **Edición Segunda**. No se pisan.
+Cada capítulo tiene **Edición Primera** y **Edición Segunda**. No se pisan. En la web, dos botones arriba del texto.
 
-- Primera (por defecto): [`es/00-introduccion.md`](es/00-introduccion.md) — esta sesión.
-- Segunda (en paralelo): [`es/00-introduccion-edicion-segunda.md`](es/00-introduccion-edicion-segunda.md) — ChatGPT / el otro usuario.
+- Primera (por defecto): `es/NN-….md` — esta sesión (Grok).
+- Segunda (en paralelo): `es/NN-…-edicion-segunda.md` — ChatGPT / el otro usuario. Salvo la intro, empiezan vacíos.
 
 Detalle: [EDICIONES.md](EDICIONES.md).
 
@@ -55,6 +55,3 @@ cd piensaotepiensan
 python3 -m http.server 8000
 ```
 
-## En edición
-
-Hay una página extra en el índice, **Para el autor: lista de ideas**, que no forma parte del libro. Sirve para confirmar o corregir cada idea antes de Amazon. Cuando esa ronda termine, se saca.

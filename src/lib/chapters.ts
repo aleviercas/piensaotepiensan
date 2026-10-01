@@ -20,7 +20,6 @@ export const CHAPTERS: Chapter[] = [
   { slug: "extraterrestre", file: "10-extraterrestre.md", num: "10", kicker: "Capítulo 10", title: "El bosque oscuro" },
   { slug: "mas-alla", file: "11-mas-alla.md", num: "11", kicker: "Capítulo 11", title: "El otro patio" },
   { slug: "conclusion", file: "conclusion.md", num: "12", kicker: "Capítulo 12", title: "Seguir preguntando" },
-  { slug: "revision", file: "revision-autor.md", num: "Ed.", kicker: "Edición", title: "Revisión: marcá y comentá" },
 ];
 
 export function chapterBySlug(slug: string) {

@@ -1,18 +1,16 @@
 # Dos ediciones (no mezclar)
 
-Hay **dos textos de la introducción**. El resto de capítulos, por ahora, es uno solo.
+Cada capítulo tiene **dos archivos**. En la web hay dos botones: Edición Primera y Edición Segunda.
 
 | | Archivo | Quién lo toca | Qué es |
 |---|---|---|---|
-| **Edición Primera** | [`es/00-introduccion.md`](es/00-introduccion.md) | esta sesión (Grok) | la que se lee por defecto en la web |
-| **Edición Segunda** | [`es/00-introduccion-edicion-segunda.md`](es/00-introduccion-edicion-segunda.md) | revisión en paralelo (ChatGPT / el otro usuario) | no pisa la Primera |
+| **Edición Primera** | `es/NN-….md` (sin sufijo) | esta sesión (Grok) | la que se lee por defecto |
+| **Edición Segunda** | `es/NN-…-edicion-segunda.md` | revisión en paralelo (ChatGPT / el otro usuario) | no pisa la Primera |
 
-En la web, arriba de la intro, hay dos botones. **Edición Primera** es `main` para el lector. **Edición Segunda** es el taller del otro usuario.
+La intro de Segunda ya tiene texto. El resto de capítulos de Segunda está **vacío a propósito**, hasta que el otro usuario lo escriba.
 
 ## Regla
 
-- ChatGPT **no edita** `es/00-introduccion.md`. Copia, si hace falta, y escribe en `es/00-introduccion-edicion-segunda.md`.
-- Grok **no pisa** `es/00-introduccion-edicion-segunda.md` salvo para arreglar el selector o un choque de archivos.
+- ChatGPT **no edita** los archivos sin `-edicion-segunda`. Escribe solo en `*-edicion-segunda.md`.
+- Grok **no pisa** los `*-edicion-segunda.md` salvo para el selector o un choque de archivos.
 - Cuando una corrección de la Segunda se acepte, se trae a mano a la Primera. No hay merge automático.
-
-Si hace falta una segunda edición de otro capítulo: copiar a `es/NN-slug-edicion-segunda.md` y enganchar el selector. **No sobrescribir** el original.

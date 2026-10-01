@@ -205,10 +205,9 @@
     </div>
   </div>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <script src="revision.js"></script>
   <script>
     const CHAPTERS = [
-      { slug: "introduccion", file: "es/00-introduccion.md", num: "00", kicker: "Prólogo", title: "Introducción" },
+      { slug: "introduccion", file: "es/00-introduccion.md", num: "00", kicker: "00", title: "Introducción" },
       { slug: "salud", file: "es/01-salud.md", num: "01", kicker: "Capítulo 1", title: "La isla del doctor Moreau" },
       { slug: "geopolitica", file: "es/02-geopolitica.md", num: "02", kicker: "Capítulo 2", title: "Quién tiró la primera piedra" },
       { slug: "atentados", file: "es/03-atentados.md", num: "03", kicker: "Capítulo 3", title: "Falsa bandera" },
@@ -221,7 +220,6 @@
       { slug: "extraterrestre", file: "es/10-extraterrestre.md", num: "10", kicker: "Capítulo 10", title: "El bosque oscuro" },
       { slug: "mas-alla", file: "es/11-mas-alla.md", num: "11", kicker: "Capítulo 11", title: "El otro patio" },
       { slug: "conclusion", file: "es/conclusion.md", num: "12", kicker: "Capítulo 12", title: "Seguir preguntando" },
-      { slug: "revision", file: "es/revision-autor.md", num: "Ed.", kicker: "Edición", title: "Revisión: marcá y comentá" },
     ];
 
     const root = document.getElementById("root");
@@ -289,22 +287,17 @@
       crumb.textContent = c.kicker + " · " + c.title;
       setActive(s);
       root.innerHTML = `<p class="load">Cargando…</p>`;
-      if (s === "revision" && window.renderRevision) {
-        await window.renderRevision(root);
-        return;
-      }
       try {
-        const isIntro = c.slug === "introduccion";
-        const edition = isIntro ? (sessionStorage.getItem("potp-intro-edition") || "primera") : "primera";
-        const sourceFile = isIntro && edition === "segunda" ? "es/00-introduccion-edicion-segunda.md" : c.file;
+        const edition = sessionStorage.getItem("potp-edition") || "primera";
+        const sourceFile = edition === "segunda" ? c.file.replace(/\.md$/, "-edicion-segunda.md") : c.file;
         const md = await loadMd(sourceFile);
         const html = marked.parse(md, { mangle: false, headerIds: false });
-        const editionSwitch = isIntro ? `
+        const editionSwitch = `
           <div class="edition-switch" role="group" aria-label="Elegir edición">
             <button type="button" data-edition="primera" aria-pressed="${edition === "primera"}" class="${edition === "primera" ? "selected" : ""}">Edición Primera</button>
             <button type="button" data-edition="segunda" aria-pressed="${edition === "segunda"}" class="${edition === "segunda" ? "selected" : ""}">Edición Segunda</button>
           </div>
-          <p class="edition-note">${edition === "segunda" ? "Edición Segunda: revisión en paralelo (ChatGPT). Estos cambios no tocan la Primera." : "Edición Primera: el texto de esta sesión (Grok). Es la que se lee por defecto."}</p>` : "";
+          <p class="edition-note">${edition === "segunda" ? "Edición Segunda: revisión en paralelo (ChatGPT). Estos cambios no tocan la Primera." : "Edición Primera: el texto de esta sesión (Grok). Es la que se lee por defecto."}</p>`;
         root.innerHTML = `
           <article class="sheet">
             <p class="kicker">${c.kicker}</p>
@@ -323,9 +316,11 @@
 
     root.addEventListener("click", (event) => {
       const button = event.target.closest("[data-edition]");
-      if (!button || slug() !== "introduccion") return;
-      sessionStorage.setItem("potp-intro-edition", button.dataset.edition);
-      chapter("introduccion");
+      if (!button) return;
+      const s = slug();
+      if (!s) return;
+      sessionStorage.setItem("potp-edition", button.dataset.edition);
+      chapter(s);
     });
 
     function render() {
