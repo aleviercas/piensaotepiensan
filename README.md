@@ -1,10 +1,20 @@
 # Piensa o Te Piensan
 
-Libro de pensamiento crítico (borrador en edición). No es un catecismo de un bando: es el intento de un curioso de mirar hechos antes de ponerle color político.
+Libro de pensamiento crítico (borrador en edición).
 
 **Leerlo:** [piensaotepiensan.vercel.app](https://piensaotepiensan.vercel.app)
 
-Ahí está el índice, la introducción, once capítulos temáticos y el capítulo 12 (conclusión). En el teléfono, el botón *Índice*. Noche / tamaño de letra abajo a la izquierda.
+Ahí está la tapa, el índice, la introducción, once capítulos y el capítulo 12. En el teléfono, el botón *Índice*.
+
+## Dos ediciones de la intro
+
+La introducción tiene **Edición Primera** y **Edición Segunda**. No se pisan.
+
+- Primera (por defecto): [`es/00-introduccion.md`](es/00-introduccion.md) — esta sesión.
+- Segunda (en paralelo): [`es/00-introduccion-edicion-segunda.md`](es/00-introduccion-edicion-segunda.md) — ChatGPT / el otro usuario.
+
+Detalle: [EDICIONES.md](EDICIONES.md).
+
 
 ## Índice
 
