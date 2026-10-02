@@ -2,6 +2,10 @@
 
 > **PARTE IV — TECNOLOGÍA Y FUTURO**
 
+### Apertura de la Parte IV
+
+Las herramientas que creamos no solo amplían lo que podemos hacer: también cambian las condiciones en las que pensamos y elegimos. Esta parte mira esas posibilidades sin confundir escenarios imaginados con hechos establecidos.
+
 
 En *Terminator*, Skynet es el extremo: una máquina que deja de ser herramienta y no se deja apagar. Este capítulo no dice que esa película ya ocurrió. Dice que el cine le puso cara a una pregunta que, cuarenta años después, siguen haciendo los que construyen la herramienta. La inteligencia artificial no es un capítulo de aparatos: es el lugar donde se cruzan el pensamiento crítico, el manejo de masas y, si se les cree a varios de esos constructores, la supervivencia de la especie. Una máquina que suena razonable puede escribir, en todos los idiomas y a las tres de la mañana, **la próxima frase que mil millones de personas van a tomar por propia**. La pregunta es, entonces, más lenta que el catálogo: **¿quién calibra esa máquina, para qué, y qué queda de un humano que ya no sostiene una duda?**
 
