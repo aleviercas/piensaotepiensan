@@ -2,6 +2,8 @@
 
 ## Estructura narrativa
 
+[Puentes narrativos entre las partes](transiciones-partes-segunda-edicion.md)
+
 La segunda edición se organiza en cinco partes. La conclusión queda fuera de ellas y vuelve a la pregunta de la primera parte. Se conservan los nombres originales de los capítulos y su numeración.
 
 ## Parte I — Filosofía
