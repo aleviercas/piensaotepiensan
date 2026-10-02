@@ -64,7 +64,7 @@
     }
     .nav a:hover { background: var(--bg-elev); color: var(--ink); }
     .nav a.active { background: var(--bg-elev); color: var(--ink); }
-    .nav .num { font-size: 0.72rem; letter-spacing: 0.08em; color: var(--subtle); padding-top: 0.18rem; font-variant-numeric: tabular-nums; }
+    .nav-part { padding: 0.85rem 0.5rem 0.3rem; color: var(--subtle); font-size: 0.62rem; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 600; line-height: 1.35; }\n    .nav-part:not(:first-child) { margin-top: 0.35rem; border-top: 1px solid var(--line); }\n    .toc-part { margin-top: 1.8rem; }\n    .toc-part h2 { margin: 0 0 0.4rem; color: var(--subtle); font-size: 0.68rem; letter-spacing: 0.14em; text-transform: uppercase; font-weight: 600; }\n    .nav .num { font-size: 0.72rem; letter-spacing: 0.08em; color: var(--subtle); padding-top: 0.18rem; font-variant-numeric: tabular-nums; }
     .nav .ttl { font-size: 0.9rem; line-height: 1.3; font-weight: 500; }
     .tools { display: flex; gap: 0.4rem; padding-top: 0.75rem; border-top: 1px solid var(--line); }
     .tools button {
@@ -206,21 +206,32 @@
   </div>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
-    const CHAPTERS = [
-      { slug: "introduccion", file: "es/00-introduccion.md", num: "00", kicker: "00", title: "Introducción" },
-      { slug: "salud", file: "es/01-salud.md", num: "01", kicker: "Capítulo 1", title: "La isla del doctor Moreau" },
-      { slug: "geopolitica", file: "es/02-geopolitica.md", num: "02", kicker: "Capítulo 2", title: "Quién tiró la primera piedra" },
-      { slug: "atentados", file: "es/03-atentados.md", num: "03", kicker: "Capítulo 3", title: "Falsa bandera" },
-      { slug: "democracia", file: "es/04-democracia.md", num: "04", kicker: "Capítulo 4", title: "La urna y lo que no se vota" },
-      { slug: "medios", file: "es/05-medios.md", num: "05", kicker: "Capítulo 5", title: "El ministerio de la verdad" },
-      { slug: "clima", file: "es/06-clima.md", num: "06", kicker: "Capítulo 6", title: "El termómetro en el ombligo" },
-      { slug: "economia", file: "es/07-economia.md", num: "07", kicker: "Capítulo 7", title: "La impresora de dinero" },
-      { slug: "inteligencia", file: "es/08-inteligencia.md", num: "08", kicker: "Capítulo 8", title: "Skynet" },
-      { slug: "espacio", file: "es/09-espacio.md", num: "09", kicker: "Capítulo 9", title: "Si las piedras hablaran" },
-      { slug: "extraterrestre", file: "es/10-extraterrestre.md", num: "10", kicker: "Capítulo 10", title: "El bosque oscuro" },
-      { slug: "mas-alla", file: "es/11-mas-alla.md", num: "11", kicker: "Capítulo 11", title: "El otro patio" },
-      { slug: "conclusion", file: "es/conclusion.md", num: "12", kicker: "Capítulo 12", title: "Seguir preguntando" },
+    const PARTS = [
+      { title: "Parte I — Filosofía", chapters: [
+        { slug: "introduccion", file: "es/00-introduccion.md", num: "00", kicker: "Introducción", title: "¿Quién te está pensando?" },
+      ]},
+      { title: "Parte II — Poder y sociedad", chapters: [
+        { slug: "geopolitica", file: "es/02-geopolitica.md", num: "02", kicker: "Capítulo 2", title: "Quién tiró la primera piedra" },
+        { slug: "atentados", file: "es/03-atentados.md", num: "03", kicker: "Capítulo 3", title: "Falsa bandera" },
+        { slug: "democracia", file: "es/04-democracia.md", num: "04", kicker: "Capítulo 4", title: "La urna y lo que no se vota" },
+        { slug: "medios", file: "es/05-medios.md", num: "05", kicker: "Capítulo 5", title: "El ministerio de la verdad" },
+      ]},
+      { title: "Parte III — Ciencia y economía", chapters: [
+        { slug: "salud", file: "es/01-salud.md", num: "01", kicker: "Capítulo 1", title: "La isla del doctor Moreau" },
+        { slug: "clima", file: "es/06-clima.md", num: "06", kicker: "Capítulo 6", title: "El termómetro en el ombligo" },
+        { slug: "economia", file: "es/07-economia.md", num: "07", kicker: "Capítulo 7", title: "La impresora de dinero" },
+      ]},
+      { title: "Parte IV — Tecnología y futuro", chapters: [
+        { slug: "inteligencia", file: "es/08-inteligencia.md", num: "08", kicker: "Capítulo 8", title: "Skynet" },
+        { slug: "espacio", file: "es/09-espacio.md", num: "09", kicker: "Capítulo 9", title: "Si las piedras hablaran" },
+      ]},
+      { title: "Parte V — Existencia y trascendencia", chapters: [
+        { slug: "extraterrestre", file: "es/10-extraterrestre.md", num: "10", kicker: "Capítulo 10", title: "El bosque oscuro" },
+        { slug: "mas-alla", file: "es/11-mas-alla.md", num: "11", kicker: "Capítulo 11", title: "El otro patio" },
+      ]},
     ];
+    const conclusion = { slug: "conclusion", file: "es/conclusion.md", num: "12", kicker: "Conclusión", title: "Seguir preguntando" };
+    const CHAPTERS = [...PARTS.flatMap((part) => part.chapters), conclusion];
 
     const root = document.getElementById("root");
     const nav = document.getElementById("nav");
@@ -230,9 +241,11 @@
     const scrim = document.getElementById("scrim");
     const cache = new Map();
 
-    nav.innerHTML = CHAPTERS.map((c) =>
-      `<a href="#/${c.slug}" data-slug="${c.slug}"><span class="num">${c.num}</span><span class="ttl">${c.title}</span></a>`
-    ).join("");
+    nav.innerHTML = PARTS.map((part) =>
+      `<div class="nav-part">${part.title}</div>` + part.chapters.map((c) =>
+        `<a href="#/${c.slug}" data-slug="${c.slug}"><span class="num">${c.num}</span><span class="ttl">${c.title}</span></a>`
+      ).join("")
+    ).join("") + `<div class="nav-part">Cierre</div><a href="#/${conclusion.slug}" data-slug="${conclusion.slug}"><span class="num">12</span><span class="ttl">${conclusion.title}</span></a>`;
 
     function closeMenu() {
       sidebar.classList.remove("open");
@@ -271,9 +284,10 @@
           <h1>Piensa o Te Piensan</h1>
           <p class="lead">Decisiones irracionales. ¿Para quién?</p>
           <img class="cover" src="/tapa.png" alt="Tapa de Piensa o Te Piensan: una lupa sobre un cerebro, un lector en el centro." width="499" height="478" />
-          <p class="lead">Pensamiento crítico sin catecismo. Elegí un capítulo e andá yendo. El índice queda a la izquierda — o en el botón Índice, si estás en el teléfono.</p>
+          <p class="lead">Pensamiento crítico sin catecismo. Recorra las cinco partes del libro o elija un capítulo. El índice queda a la izquierda — o en el botón Índice, si estás en el teléfono.</p>
           <div class="toc">
-            ${CHAPTERS.map((c) => `<a href="#/${c.slug}"><span class="k">${c.kicker}</span><span class="t">${c.title}</span></a>`).join("")}
+            ${PARTS.map((part) => `<section class="toc-part"><h2>${part.title}</h2>${part.chapters.map((c) => `<a href="#/${c.slug}"><span class="k">${c.kicker}</span><span class="t">${c.title}</span></a>`).join("")}</section>`).join("")}
+            <section class="toc-part"><h2>Conclusión · fuera de las cinco partes</h2><a href="#/${conclusion.slug}"><span class="k">Cierre</span><span class="t">${conclusion.title}</span></a></section>
           </div>
         </section>`;
     }
@@ -297,7 +311,7 @@
             <button type="button" data-edition="primera" aria-pressed="${edition === "primera"}" class="${edition === "primera" ? "selected" : ""}">Edición Primera</button>
             <button type="button" data-edition="segunda" aria-pressed="${edition === "segunda"}" class="${edition === "segunda" ? "selected" : ""}">Edición Segunda</button>
           </div>
-          <p class="edition-note">${edition === "segunda" ? "Edición Segunda: revisión en paralelo (ChatGPT). Estos cambios no tocan la Primera." : "Edición Primera: el texto de esta sesión (Grok). Es la que se lee por defecto."}</p>`;
+          <p class="edition-note">${edition === "segunda" ? "Edición Segunda: versión revisada en paralelo. No modifica la Edición Primera." : "Edición Primera: texto original. Es la que se lee por defecto."}</p>`;
         root.innerHTML = `
           <article class="sheet">
             <p class="kicker">${c.kicker}</p>
