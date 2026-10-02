@@ -2,6 +2,10 @@
 
 > **PARTE V — EXISTENCIA Y TRASCENDENCIA**
 
+### Apertura de la Parte V
+
+Algunas preguntas sobreviven a nuestras explicaciones más útiles: si existe vida más allá de la Tierra, qué significa nuestra finitud y cómo convivimos con aquello que no podemos demostrar ni descartar con facilidad.
+
 ### Umbral narrativo
 
 *Cosmos* y *Contact*, de Carl Sagan, y *Project Hail Mary*, de Andy Weir, permiten abordar la búsqueda de vida y la posibilidad de otras inteligencias desde la divulgación y la ficción. Son registros distintos: uno ayuda a formular preguntas científicas y los otros imaginan escenarios; la evidencia observacional debe evaluarse por separado.
