@@ -2,6 +2,10 @@
 
 > **PARTE V — EXISTENCIA Y TRASCENDENCIA**
 
+### Umbral narrativo
+
+*Cosmos* y *Contact*, de Carl Sagan, y *Project Hail Mary*, de Andy Weir, permiten abordar la búsqueda de vida y la posibilidad de otras inteligencias desde la divulgación y la ficción. Son registros distintos: uno ayuda a formular preguntas científicas y los otros imaginan escenarios; la evidencia observacional debe evaluarse por separado.
+
 
 Liu Cixin, en *El bosque oscuro*, imagina el cielo como un bosque de noche: cada civilización es un cazador que avanza sin hacer ruido, porque quien se delata puede ser borrado. No es un informe de la NASA. Es una respuesta posible a una pregunta vieja: si el universo es tan grande, **¿por qué tanto silencio?** La mayoría de las luces en el cielo son globos, drones, óptica o un secreto militar, y el U-2 ya enseñó esa lección. Queda, aun así, un resto: testimonios bajo juramento e informes que ya no dicen “son todos globos”. No hace falta un hangar secreto para sostener la pregunta, ni para cerrarla. Hace falta el criterio de siempre: **qué está en un informe o bajo juramento, y qué es un relato que llena el hueco**.
 
