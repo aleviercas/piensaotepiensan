@@ -1,104 +1,36 @@
-# Estructura del libro — "Piensa o Te Piensan" (título provisorio)
+# Estructura editorial — Piensa o te piensan
 
-Tamaño objetivo: ~40.000 palabras (ebook corto, KDP).
-Edición actual: ~48.000 (en crecimiento; capítulo 8 de IA añadido).
+Esta es la arquitectura de lectura acordada para las dos ediciones. La Edición Primera conserva el texto original; la Edición Segunda desarrolla la revisión con el mismo recorrido y numeración. La organización temática no renumera los capítulos.
 
-Encuadre: **hecho verificable → narrativa oficial → controversia documentada → pregunta abierta**.
-Forma: ensayo con una sola pregunta (*¿quién te está pensando?*) en tres tramos, voz de quien no está de acuerdo dicha en acero, y **sobres cortos** entre tramos (gesto de *El mundo de Sofía*, no una novela). Voz narrativa: el autor escribe al lector en **usted**; el lema queda en tú; los diálogos de puerta son habla oral.
-El consenso institucional es un dato sociológico, no una prueba.
-Un atajo de redes no se copia si las unidades no cierran; se reescribe con las unidades correctas y se deja la pregunta en pie. Un tabú de redacción no se respeta si el expediente lo contradice.
-Libro para un lector de cualquier país: los ejemplos argentinos son laboratorio, no parroquia.
-La ideología se adquiere después de mirar los hechos, no al revés.
+## Parte I — Filosofía
+- Introducción — ¿Quién te está pensando?
+- Umbral literario: El mundo de Sofía, de Jostein Gaarder.
 
-## CAPÍTULO 1 — Lo que 2020 hizo con la salud
-1.1 Origen del COVID-19: laboratorio, DEFUSE, Proximal Origin, censura
-1.2 ¿Tres gripes o una peste? 600 mil vs 1,8 millones en 2020, certificados, respiradores, peste negra
-1.3 Event 201, Gates, los cuerpos de Wuhan
-1.4 PCR, barbijos, confinamientos, exceso posterior
-1.5 Vacunas ARNm: beneficio, transmisión, miocarditis, IgG4, EM, mandatos
-1.5bis Autismo y el calendario infantil: la olla que el COVID destapó
-1.6 Cáncer, ivermectina, fenbendazol, Gibson
-1.7 Reflexión
+## Parte II — Poder y sociedad
+- Capítulo 2 — Quién tiró la primera piedra. Umbral: Alexandros, de Valerio Massimo Manfredi.
+- Capítulo 3 — Falsa bandera. Umbrales: Braveheart y Gladiator.
+- Capítulo 4 — La urna y lo que no se vota. Umbrales: The Manchurian Candidate, Die Welle (The Wave) y 12 Angry Men.
+- Capítulo 5 — El ministerio de la verdad. Umbral: 1984, de George Orwell.
 
-## CAPÍTULO 2 — Guerras, mapas y comunicados
-2.1 Ucrania
-2.2 Israel-Palestina, 7 de octubre, UNRWA, túneles, OMS/ONU
-2.3 Nord Stream
-2.4 Irán
-2.5 OTAN
-2.6 Islam político y demografía
-2.7 Rotherham, grooming gangs, falacia contra Tommy Robinson
-2.8 Diversidad e igualdad (DEI, cupo vs. regla igual)
-2.9 Malvinas: 1764-1833, invasiones inglesas 1806-1807, 1982
+## Parte III — Ciencia y economía
+- Capítulo 1 — La isla del doctor Moreau. Umbral: La isla del doctor Moreau, de H. G. Wells.
+- Capítulo 6 — El termómetro en el ombligo.
+- Capítulo 7 — La impresora de dinero. Umbrales: The Big Short e ideas económicas de Milton Friedman.
 
-## CAPÍTULO 3 — Cuando explota algo
-3.1 11-S
-3.2 AMIA (caso-plantilla, no gacetilla local)
-3.3 Falsa bandera documentada
-3.4 CIA y cambios de régimen
-3.5 Muertes convenientes
+## Parte IV — Tecnología y futuro
+- Capítulo 8 — Skynet. Umbral: Terminator.
+- Capítulo 9 — Si las piedras hablaran. Umbral: Timeo y Critias, de Platón.
 
-## CAPÍTULO 4 — La urna y lo que no se vota
-4.1 Urnas, 2020, clientelismo, Brasil/México/UK/UE
-4.2 Dictaduras del siglo XXI
-4.3 FEM / Davos, ID digital, ESG
-4.4 El poder que no se vota
+## Parte V — Existencia y trascendencia
+- Capítulo 10 — El bosque oscuro. Umbrales: Cosmos y Contact, de Carl Sagan; Project Hail Mary, de Andy Weir.
+- Capítulo 11 — El otro patio. Umbrales: Interstellar y la Biblia.
 
-## CAPÍTULO 5 — Quién escribe la noticia
-5.1 Chomsky
-5.2 Twitter Files, DSA, verificadores, Wikipedia como corpus
-5.3 Periodismo ciudadano
-5.4 Mundial 2026 y Milei (casos, no el mapa)
-5.5 Matar al mensajero
-5.6 IA: la voz general fabricada, el pensamiento crítico como bien escaso
+## Cierre — fuera de las cinco partes
+- Conclusión — Seguir preguntando. Regresa a la pregunta de la introducción y cierra el recorrido de forma circular.
 
-## CAPÍTULO 6 — El termómetro y la palanca
-6.1 Sólido vs paquete
-6.2 Una pregunta de proporción: el 0,04% y nuestra parte; Etna y la suma viral que no cierra
-6.3 Registro profundo: ¿máximo o mínimo? Hojas fósiles, temperatura que adelanta al CO2
-6.4 1940-1975 y Newsweek 1975
-6.5 Sol, nubes, bamboleo, glaciares y Pequeña Edad de Hielo
-6.6 Extremos, modelos, Climategate
-6.7 Política energética
-6.8 El efecto Pinatubo: azufre que enfría, no el CO2 del cráter
-6.9 Geoingeniería
-
-## CAPÍTULO 7 — El dinero que se imprime
-7.1 Oro vs fiat, 1933, petrodólar
-7.2 Inflación (Weimar, Zimbabue, Turquía, M2 2020)
-7.3 Cripto y CBDC
-7.4 Un laboratorio que el mundo a veces copia
-
-## CAPÍTULO 8 — Cuando la máquina habla por todos
-8.1 Lo que se da por cerrado
-8.2 La máquina no piensa: predice
-8.3 El pensamiento crítico como bien escaso
-8.4 Manejo de masas: del feed al oráculo
-8.5 El stack: CBDC + modelo + puntaje
-8.6 Extinción: lo que firman los que construyen (CAIS 2023, Hinton 2026)
-8.7 El caso extremo: Terminator / Skynet (mapa, no prueba; Skynet Day 2026)
-8.8 Supervivencia: archivo, no conciencia
-
-## CAPÍTULO 9 — Lo que las piedras no explican
-9.1 Luna
-9.2 Göbekli Tepe, Egipto, pirámides en varios continentes, Sacsayhuamán, Rapa Nui
-9.3 Diluvio, Durupınar, gigantes
-9.4 Dinosaurios, Darwin, información, Cámbrico
-9.5 Catastrofismo (Chicxulub, Dryas, Velikovsky)
-
-## CAPÍTULO 10 — ¿Estamos solos?
-10.1 UAP, Grusch, AARO, bases nucleares, USO
-10.2 Drake, Fermi, fe, cruce con el cap. 9
-10.3 Presupuestos negros
-
-## CAPÍTULO 11 — Después de la muerte
-11.1 ECM / AWARE
-11.2 Jesús histórico
-11.3 Isaías y las costuras de la Biblia
-11.4 Providencia y sincronicidad (Jung, Pauli)
-11.5 Agustín, Tomás, Pablo
-11.6 Si Jesús viniera un martes de 2026
-11.7 Conciencia
-11.8 Islam, ley y mujeres
-
-## CAPÍTULO 12 — Seguir preguntando
+## Criterios editoriales compartidos
+- Pregunta transversal: ¿quién te está pensando?
+- Los umbrales literarios y cinematográficos abren el capítulo; no reemplazan su desarrollo argumental.
+- Voz ensayística cercana: el autor se dirige al lector de usted; el lema puede conservar el tuteo y los diálogos mantienen oralidad.
+- Distinguir hechos documentados, interpretaciones, controversias e hipótesis; no presentar hipótesis como conclusiones probadas.
+- La Edición Primera permanece preservada. Las revisiones de la Segunda no se copian automáticamente a la Primera.
