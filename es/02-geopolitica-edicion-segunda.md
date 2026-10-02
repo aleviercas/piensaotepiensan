@@ -2,6 +2,10 @@
 
 > **PARTE II — PODER Y SOCIEDAD**
 
+### Apertura de la Parte II
+
+Una pregunta individual se vuelve política cuando una narración organiza lealtades, instituciones y decisiones colectivas. Los capítulos de esta parte examinan cómo se forman esos relatos y cómo podemos someterlos a examen.
+
 ### Umbral narrativo
 
 *Alexandros*, de Valerio Massimo Manfredi, ofrece una puerta literaria para pensar el liderazgo, la conquista y la manera en que una época convierte a sus protagonistas en símbolos. La novela sirve como punto de partida para examinar cómo se narran los conflictos, sin confundir representación literaria con expediente histórico.
