@@ -2,6 +2,10 @@
 
 > **PARTE V — EXISTENCIA Y TRASCENDENCIA**
 
+### Umbral narrativo
+
+*Interstellar* y la Biblia pertenecen a tradiciones diferentes —ficción cinematográfica y texto religioso—, pero pueden abrir preguntas sobre tiempo, muerte, sentido y trascendencia. La comparación no equipara sus métodos ni exige resolver de antemano las preguntas que plantean.
+
 
 Queda lo más difícil de medir: la muerte, un hombre de hace dos mil años, la coincidencia que llega a tiempo. Este capítulo se escribe un poco distinto, no porque los hechos pesen menos, sino porque se acerca a lo que no entra del todo en una tabla. Sigue siendo una invitación a mirar, no un sermón. Quien no tenga palabra para la fe puede quedarse igual: alcanza con no salir corriendo.
 
