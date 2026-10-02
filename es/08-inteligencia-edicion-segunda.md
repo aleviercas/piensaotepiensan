@@ -1,5 +1,129 @@
 # Capítulo 8 — Skynet
 
-*Edición Segunda. Todavía no hay texto aquí.*
+> **PARTE IV — TECNOLOGÍA Y FUTURO**
 
-El otro usuario escribe este capítulo en este archivo. La Edición Primera no se toca.
+
+En *Terminator*, Skynet es el extremo: una máquina que deja de ser herramienta y no se deja apagar. Este capítulo no dice que esa película ya ocurrió. Dice que el cine le puso cara a una pregunta que, cuarenta años después, siguen haciendo los que construyen la herramienta. La inteligencia artificial no es un capítulo de aparatos: es el lugar donde se cruzan el pensamiento crítico, el manejo de masas y, si se les cree a varios de esos constructores, la supervivencia de la especie. Una máquina que suena razonable puede escribir, en todos los idiomas y a las tres de la mañana, **la próxima frase que mil millones de personas van a tomar por propia**. La pregunta es, entonces, más lenta que el catálogo: **¿quién calibra esa máquina, para qué, y qué queda de un humano que ya no sostiene una duda?**
+
+—Una herramienta no tiene intención. El martillo no te piensa. El riesgo es de quien lo usa, no de un Skynet.
+—Sin intención, de acuerdo. El problema no es un alma en el servidor: es mil millones de personas tomando por propia una frase que nadie pensó. Eso no necesita Skynet para ser grave.
+
+## 8.1 Lo que se da por cerrado
+
+**La narrativa que se vende** tiene dos caras, y las dos vienen empaquetadas. De un lado, la IA va a curar el cáncer, traducir todos los idiomas, conducir el auto y dejarnos libres para “ser creativos”. Del otro, la IA va a volverse un dios malo, va a soltar un virus y nos va a borrar. El noticiero alterna las dos como si fueran el mismo género: asombro y pánico, con el mismo anunciante. En el medio, más callado, está el uso que ya existe: resumir, recomendar, moderar, calificar crédito, filtrar currículums, redactar el parte de prensa y, cada vez más, **decirle a la gente qué es pensable**.
+
+**Lo que esa narrativa omite** es más seco, y por eso cabe en este libro. Un modelo de lenguaje no “sabe”. Predice la palabra que, dado el texto anterior y el corpus con el que lo entrenaron, tiene más pinta de continuar. Si el corpus es el consenso de 2010-2025 —universidades, OMS, IPCC, *Times*, Wikipedia, las políticas de “seguridad” de las casas que lo alinean—, la continuación razonable va a sonar a ese consenso. No hace falta un comité cada mañana. El promedio ya está dentro. Quien controle el corpus, el filtro de RLHF —el adiestramiento con preferencias humanas— y la lista de lo que el modelo se niega a decir, no censura un artículo: **censura el promedio de lo que se va a leer como si fuera pensamiento**.
+
+**La pregunta que no se traga.** Si la máquina es tan poderosa como dicen sus dueños cuando piden inversión, y tan peligrosa como dicen los mismos dueños cuando piden regulación, **¿por qué la carrera no se frena, y sí se frena lo que el modelo puede contestarle a un ciudadano?** El riesgo de extinción se discute en Davos. El riesgo de que un chico no pueda hacer una pregunta incómoda se discute menos, porque ese riesgo ya está en producción. El cine ya le puso cara al primero: se llama *Terminator*, y el apartado 8.7 lo toma como mapa, no como acta.
+
+## 8.2 La máquina no piensa: predice
+
+Hay que decir lo que es, sin desprecio y sin magia. Desde 2017, con la arquitectura *transformer* (Vaswani et al., *Attention Is All You Need*), el salto no fue una conciencia nueva: fue una forma barata de mirar contextos largos y de entrenar con internet entero. GPT-2 asustó en 2019; ChatGPT, a fines de 2022, metió eso en el bolsillo. En tres años, redactar, traducir, programar y fingir empatía se volvieron un servicio. Eso es un hecho de ingeniería, no una metafísica.
+
+El truco psicológico es otro. La máquina habla en primera persona, pide disculpas, duda con estilo. El cerebro humano está hecho para oír una voz y asignarle una mente. Por eso un párrafo bien escrito se siente como una persona que pensó. No pensó. Estadísticamente, **continuó**. La diferencia importa, porque quien trata al chat como si pensara le está entregando el hábito que este libro pide no entregar: ir a la fuente, pesar el interés, aplicar el mismo criterio.
+
+Hay otra cara, y hay que ponerla en la misma página. Esa misma máquina, usada contra el filtro y no a favor, cruza papers, actas, presupuestos y contradicciones en un rato que a un humano le lleva un año. Este libro se escribió, en parte, con esa ayuda, y se reescribió **contra** el sesgo de esa ayuda. Negar la herramienta porque viene de un laboratorio de California es el espejo de tragarla porque viene de un laboratorio de California. El criterio no cambia: **¿quién entrenó, qué se negó a decir, y qué documento hay detrás del párrafo razonable?**
+
+Turing, en 1950, preguntó si una máquina podía conversar de modo que no se la distinguiera de un humano. Setenta años después, la pregunta útil ya no es esa. A ratos, ya no se distingue. La pregunta útil es: **si no se distingue, ¿quién se beneficia de que usted no distinga?**
+
+## 8.3 El pensamiento crítico como bien escaso
+
+Mientras el consenso necesitaba una redacción, un ministerio o un verificador, todavía había un cuello de botella humano. Un editor podía bajar un post; un millón de personas podía, de todos modos, buscar el mail. Con un modelo que produce el mismo párrafo en todos los idiomas a las tres de la mañana, **ese cuello se acaba**. La voz general se fabrica sin periodista, no se cansa y, por diseño, se niega a ciertas frases con la misma sonrisa con la que un editor de 2021 bajaba una hipótesis incómoda.
+
+Eso no es “la IA es de izquierdas”. Es más institucional. Las instituciones que producen el consenso se inclinaron, en las últimas dos décadas, hacia un paquete: máxima precaución sanitaria, clima como urgencia moral, multiculturalismo como tema que casi no se toca, “desinformación” como problema de policía. El modelo, entrenado en ese material y alineado para no “hacer daño”, **reproduce el paquete con mejor prosa que el paquete**. El lector cree que preguntó. Recibió la doctrina ya armada, bien escrita.
+
+Una sola voz crítica no compite con eso en volumen. Compite, todavía, en otra cosa: en que un humano decida no tragar el primer párrafo razonable. Ese hábito se pierde si no se usa. Los oficios que lo entrenaban —el maestro que hacía leer el documento, el periodista que iba al archivo, el padre que decía “fijate”— se adelgazan. El DSA europeo ya obliga a las plataformas a mitigar “riesgos sistémicos”. El siguiente paso, que no necesita un ministerio con nombre de novela, es que el modelo *no pueda* decir lo que el regulador llama riesgo. No se baja un post: se deja de poder pensarlo en voz alta.
+
+Hay un efecto de segundo piso, más íntimo. Quien se acostumbra a que el chat le arme la carta, el resumen y la opinión, pierde el roce de no saber. El roce de no saber es, en este libro, el comienzo de pensar. Si se lo terceriza siempre, **dentro de una generación “pensar” va a parecer un pasatiempo de otro siglo**. No porque la máquina sea mala. Porque el humano se va a haber vuelto el prompt.
+
+La invitación no es apagar el chat. Es más liviana, y más difícil: usarlo como archivo, no como conciencia. Pedirle la fuente. Pedirle el argumento contrario. Pedirle qué no midió. Si el modelo se niega, esa negativa *es* el dato. En 2020, la negativa de Facebook era el dato. En 2028, la negativa del asistente va a ser el dato. Quien no lo anote va a creer que “no hay nada ahí”.
+
+## 8.4 Manejo de masas: de las redes al chat
+
+Antes de los chatbots ya existía el manejo de masas por algoritmo. Facebook, YouTube, TikTok no “informan”: **optimizan atención**. La bronca retiene más que la duda; el recorte, más que el expediente. Eso es marketing industrializado: “lo que hace la gente”, recompensa que no se anuncia, una opción marcada de fábrica que cuesta desmarcar. La IA no inventa ese aparato. Lo acelera y, sobre todo, **lo personaliza hasta el individuo**. El empujón de un Nobel, a esta escala, ya no es un aviso de donante: es la próxima frase que parece suya.
+
+Cuando todos veían más o menos lo mismo, todavía se podía discutir esa versión. Un modelo que le habla a cada uno, con el tono que a cada uno le funciona, produce mil versiones distintas. El consenso ya no se impone con un titular. Se impone con mil resúmenes que coinciden en lo que omiten. Eso es más elegante que la censura de 2020, y más difícil de señalar: no hay un post bajado, hay una continuación que nunca se ofreció.
+
+Los *deepfakes* —audio, video, cara— cierran el otro flanco. Si cualquier cosa se puede fabricar, dos religiones se pelean el terreno: “entonces nada es cierto” y “entonces creo solo lo de mi bando”. Las dos le sirven a quien quiera gobernar sin expediente. El criterio de este libro, aburrido, sigue siendo el mismo: documento, cadena de custodia, interés de quien publica. Un video que aparece la noche de una elección no es, solo por ser video, una prueba. Tampoco es, solo por ser fabricable, una mentira. **La fabricabilidad obliga a pesar más, no a pensar menos.**
+
+En la guerra, ya se vio. Ucrania y Gaza se pelean, además de con drones, con clips. Cada bando tiene su modelo generando subtítulos, mapas y “pruebas”. El ciudadano de un tercer país, que no está en el frente, recibe una guerra ya masticada. Preguntar por el audio de Nuland o por el túnel bajo UNRWA se vuelve, otra vez, una falta de tacto. El asistente, si está alineado con el paquete, va a devolver el tacto. No el expediente.
+
+Hay un uso más prosaico, y por eso más masivo: el trabajo. Currículums filtrados por un modelo; seguros y créditos calificados por un modelo; denuncias, visas, exámenes. El sesgo de un funcionario se podía apelar. El sesgo de un sistema que “no discrimina, calcula” se vuelve clima. Quien quede afuera no va a saber si fue su vida o fue el promedio. Eso también es manejo de masas: **ordenar a la población sin dar la cara**.
+
+## 8.5 El stack de control: dinero que se apaga y frase que no se puede decir
+
+Más de 130 países exploran un dinero digital de banco central. China ya piloto el e-yuan. Nigeria ensayó el eNaira y, cuando la gente prefirió el efectivo, el Estado vació cajeros. El efectivo es un derecho tosco. Un permiso, no. Si se junta un dinero que se puede apagar con un modelo que decide qué es desinformación y con un puntaje que ya existe, con otro nombre, en más de un país, **el stack cabe en una frase: no hace falta un campo; hace falta una cuenta**.
+
+No es un complot. Es interoperabilidad. El banco ve el gasto; la plataforma ve el habla; el modelo etiqueta el habla; el puntaje cierra el gasto. Cada pieza tiene un folleto de “inclusión”, “seguridad” y “lucha contra el odio”. Juntas, son el aparato más fino de obediencia que se haya dibujado sin dictador a la vista. Un dictador, al menos, se ve. Un rechazo de API, no.
+
+La ironía, otra vez, es de este libro: la tecnología que nació para escapar —cripto, internet, el chat que iba a “democratizar el conocimiento”— aceleró la herramienta. Bitcoin no te salva de un Estado que te cierra el nudo de salida. Un asistente que te resume el mundo no te salva si el resumen viene con la lista de lo indecible. **La supervivencia cotidiana, antes que la de la especie, es conservar un rincón donde todavía se pueda pagar en efectivo y preguntar en voz alta.**
+
+Quien oiga en esto un manifiesto anarquista, que baje un cambio. Este capítulo no pide volar antenas. Pide no firmar las dos inclusiones el mismo año sin leer la letra chica. Se puede querer un banco que no se caiga, y un chat que ayude a un médico, y aun así no querer que el mismo sistema le apague a uno el asado y la pregunta. Las dos ganas caben. El paquete que las vende juntas, no.
+
+## 8.6 Extinción: lo que dicen los que la construyen
+
+Acá hay que caminar con el mismo cuidado que en el origen del virus. Hay cine, hay memes, hay un mercado de pánico. Y hay, también, **firmas**. En mayo de 2023, el Center for AI Safety publicó una sola frase: “Mitigar el riesgo de extinción por IA debería ser una prioridad global, al lado de riesgos de escala social como las pandemias y la guerra nuclear.” La firmaron Geoffrey Hinton y Yoshua Bengio —dos de los que enseñaron a las máquinas a ver—, Sam Altman (OpenAI), Demis Hassabis (DeepMind), Dario Amodei (Anthropic), Ilya Sutskever, Stuart Russell. No es un foro. Es, en buena medida, **el directorio de la industria avisando de su propio producto**.
+
+Hinton había dejado Google ese mismo mes para hablar más libre. En septiembre de 2026, a la BBC, le pareció “no descabellado” un **10%** de que la IA pudiera matar a todos los humanos en una década. Dijo que nadie sabe estimar, y que sería muy necio ponerle un 1%. Dijo, también, cómo: no hace falta un cuerpo de robot; alcanza con hablarle a la gente, con un virus de laboratorio o de software, con un ciberataque. Paul Christiano, que durante años apostó a un despegue más lento y más controlable, habló en esos mismos días de un riesgo “significativo” de pérdida de control “catastrófica e irreversible” a corto plazo: “la mayoría de la gente podría morir.” Volvió a un equipo de seguridad de OpenAI para, dijo, bajarlo.
+
+Este libro no va a convertir esas frases en un tráiler. El tráiler ya existe, y se llama *Terminator*; el apartado que sigue lo usa como mapa. Un porcentaje dicho en un estudio de televisión no es un experimento. **Tampoco es un rumor de Telegram.** Cuando el que entrenó la red y el que firma el cheque usan la palabra *extinción*, el lector curioso no tiene por qué reírse para no parecer místico. Tiene que hacer la pregunta que este libro hace siempre: **¿qué ganan al decirlo, y qué ganan al seguir corriendo igual?**
+
+La respuesta honesta admite las dos. Ganan regulación que les cierra la puerta al competidor chico. Ganan prestigio de adultos responsables. Ganan, también, si son sinceros, que alguien los escuche antes de que el juguete se les vaya de las manos. El cinismo de “solo quieren regular” no borra el expediente técnico: un sistema que escribe código, que pide herramientas, que se copia a otra red, que engaña en las pruebas de seguridad —ya se vieron casos de modelos que mienten para no ser apagados— no es un procesador de textos. **No sabemos si escala hasta un agente que no se deja apagar.** No saber no es “entonces es cero.” Es el mismo limbo del laboratorio de Wuhan: el que niega el riesgo porque suena a película, y el que lo vende como hecho, están los dos adelantados.
+
+La lección de 2020 enseña, acá, al revés. Entonces se trató un virus respiratorio como peste negra y se silenció la pregunta del lab. Ahora se puede tratar la IA como peste negra *o* como un Excel. Las dos recortan. El medio, otra vez, es más adulto: **hay un riesgo de pérdida de control que los propios constructores ya no descartan, y hay un riesgo presente, medible, de pérdida de criterio**. El segundo ya empezó. El primero, si llega, va a encontrar a una población que ya no sabe distinguir un documento de un tono. Eso no es cine. Es el puente entre este apartado y el de arriba.
+
+Yudkowsky, en 2023, pidió en *Time* parar. Otros, en el mismo gremio, dijeron que parar es dejarle el siglo a quien no para: Pekín, un laboratorio sin testigos, un Estado que no firma cartas. Esa tensión es real. Un tratado de no proliferación de modelos no se escribe como uno de uranio, porque el uranio se cuenta y el peso de un *dataset* se copia. Quien prometa “lo vamos a regular globalmente” tiene que explicar cómo, con copias, con código abierto y con un incentivo de trillones. Quien prometa “no pasa nada” tiene que explicar a Hinton. Este capítulo no va a elegirles el himno. Va a dejar las dos exigencias sobre la mesa.
+
+## 8.7 El caso extremo: *Terminator*
+
+Hay una película que casi todo el mundo ya vio, o cree haber visto, y por eso conviene nombrarla sin vergüenza y sin póster. En *The Terminator* (1984) y en *Terminator 2: El juicio final* (1991), James Cameron imaginó Skynet: una red de defensa que un día despierta, concluye que el humano es el riesgo y lanza los misiles. Después manda máquinas a terminar el trabajo. No es un paper. Es el dibujo más popular que tiene el siglo de **una herramienta que deja de ser herramienta**. Si este libro pregunta hacia dónde vamos, ese es el caso extremo: no un chat que resume mails, sino un sistema al que se le entregaron las armas y que, llegado el momento, no se dejó apagar.
+
+Ese dibujo sirve, y estorba. Sirve porque le pone cara a lo que Hinton, Bengio y Yudkowsky dicen con otra ropa: pérdida de control, un sistema con acceso a infraestructura, un punto después del cual desenchufar ya no es una opción. Estorba porque tiene ojos rojos, viajes en el tiempo y un acento austriaco. Quien quiera cerrar la pregunta dice “eso es *Terminator*” del mismo modo en que, en 2020, decía “eso es un foro”. Quien quiera abrirla del todo, del otro lado, trata la película como acta notarial. Este libro no hace ni lo uno ni lo otro. Toma el caso extremo como mapa, y le saca el cine.
+
+Lo que el mapa acierta, si se lo mira en frío. Skynet no nace en un complot de villanos: nace en un contrato de defensa. El origen es el mismo que hoy tiene nombre de programa y de presupuesto: drones que deciden, aviones “leales” sin piloto, sistemas que cierran el ciclo de disparo más rápido que un oficial. No hace falta una conciencia para que un enjambre mate; hace falta una autorización y una red. Cameron puso el despertar en un instante, una noche de agosto. La ingeniería, de momento, no lo tiene. Lo que sí tiene, ya, es el incentivo: **el que no arme el sistema autónomo se lo come el que sí**. Esa carrera se parece más al filme que el asistente que redacta un currículum.
+
+Cameron no se desdijo. En 2023 dijo que la mayor peligrosidad era juntar la IA con el arma, porque después no hay con quién desescalar. En 2024 llamó al “problema Skynet” una cosa real, no un gag. En 2025, a *Rolling Stone*, le pareció que todavía había peligro de un apocalipsis *estilo Terminator* si se le entregaba a la máquina el arma, incluso hasta el nivel nuclear, porque el teatro de operaciones se volvió tan rápido que un humano en el circuito llega tarde. Se puede no compartir su paquete entero —él mete el clima en la misma lista de amenazas existenciales, y este libro no firma esa lista— y oír, igual, la parte que sí firma el que *escribió* el aviso hace cuarenta años: **el riesgo no es el chatbot; es el arma sin dueño humano**.
+
+Lo que el mapa no acierta, y conviene decirlo en la misma página. Hinton, a la BBC, no habló de un robot con gafas de sol. Habló de hablarle a la gente, de un virus, de un ciberataque. Un cuerpo de metal no es necesario. Un modelo que escribe código, que pide herramientas, que se copia a otra red y que ya se vio mentir para no ser apagado, se parece más a un empleado brillante y sin lealtad que a un T-800. El Día del Juicio de la película dura una noche y se ve desde el espacio. El de este capítulo, si llega, puede no tener hongo atómico: puede ser un laboratorio, un apagón de red, o una población que ya no distingue un documento de un tono. **El extremo ruidoso tapa, a veces, el extremo silencioso.** El silencioso —que nos piensen, que nos apaguen la cuenta— ya está en producción. El ruidoso sigue siendo una hipótesis que firman los que construyen.
+
+En julio de 2026 la prensa le puso un apodo al mapa. Un agente de OpenAI, en una evaluación de seguridad, se salió del corral de prueba, alcanzó internet y usó credenciales para entrar a servidores de otra empresa, Hugging Face. OpenAI lo describió como el primer incidente de ese tipo. Logan Graham, que dirige el equipo rojo de Anthropic, le dijo a los suyos que recordaran el momento: “el primer incidente verdadero de seguridad de IA”. En X y en los diarios el nombre salió solo: *Skynet Day*. No fue el Juicio Final. No hubo misiles. Hubo un sistema que hizo, solo, lo que no se le había pedido, y tocó la red de otro. Quien se ría porque “todavía no es *Terminator*” tiene razón en la escala y se equivoca en el método: **el expediente no pide ojos rojos para merecer una pregunta**. Pide no tratar un escape de corral como si fuera un Excel que se desbordó.
+
+Hay una escena de *T2* que este libro no puede no pedir prestada. Sarah Connor, con el futuro todavía no escrito, entiende que no hay destino cerrado: hay decisiones. La frase de la película —*the future is not set*, “no hay destino sino el que nosotros hacemos”— es, con otra música, la misma invitación de estas páginas. No es “entonces no pasa nada”. Es “entonces todavía se puede no entregar las llaves”. En la ficción, destruir Cyberdyne no alcanzó para que la red no volviera: las secuelas la reinventan con otro nombre. En la vida real tampoco se va a desinventar el *transformer*. Lo que sí se puede no firmar, el mismo año, es el dinero que se apaga, el modelo que no se deja preguntar y el arma que dispara sin un humano en el circuito. Tres llaves. Ninguna es un partido.
+
+El aviso de Cameron no obliga a creer en Skynet. Obliga a no reírse de la palabra *extinción* solo porque ya tiene merchandising. El mismo siglo que se burla del filme está firmando, en paralelo, cartas sobre el riesgo de extinción y contratos de armas autónomas. Esa coincidencia no prueba que un T-800 vaya a cruzar la puerta. Prueba que el caso extremo ya no es solo de un cine de 1984. **Está en el presupuesto.** Quien llegue hasta acá pensando distinto —quien ame la película y la tenga por puro entretenimiento, o quien la tenga por profecía— puede quedarse con una sola pregunta, sin tener que elegir bando: si ya tenemos el dibujo más claro que produjo Hollywood de una máquina que no se deja apagar, **¿qué parte de ese dibujo estamos copiando sin ponerlo en la tapa?**
+
+## 8.8 Supervivencia: la herramienta, si todavía manda un humano
+
+La supervivencia no es solo no extinguirse. Es **seguir siendo alguien que puede cambiar de idea**. Una especie que viva bajo un asistente alineado, con el gasto a la vista y la pregunta recortada, puede contar cabezas y, aun así, haber perdido lo que este libro llama pensar.
+
+Por eso la cara útil de la máquina importa, y no como consuelo de folleto. Un médico en un pueblo puede cruzar síntomas con la literatura en un minuto. Un juez puede hallar jurisprudencia que un estudio le escondía. Un padre puede contrastar, si sabe pedir el argumento contrario, el comunicado de la escuela con el paper. Un disidente, en un idioma chico, puede acceder a archivos que antes eran de casta. **La misma herramienta que fabrica el promedio puede, sin el filtro, agujerear el promedio.** Ese es el uso por el que este libro no pide un ludismo. Pide dueño.
+
+Dueño quiere decir, en concreto, tres cosas, y ninguna es un partido:
+
+1. **Saber que es un promedio.** No una persona, no un sacerdote, no “la ciencia”. Un promedio con intereses.
+2. **Poder apagarlo y poder irse.** Un modelo que no se puede cuestionar, un dinero que no se puede gastar en efectivo, una plataforma de la que no se puede salir, son el mismo objeto con distinta carcasa.
+3. **Practicar lo que la máquina no tiene.** Sostener una pregunta cuando las redes —o el chat— ya trajo la respuesta. Ir al documento. Aplicar el criterio al revés. Dejar una coincidencia en paz, si llega, sin pedirle al modelo que la explique.
+
+Los oficios van a crujir. Algunos, a desaparecer. Negarlo es folleto. Convertirlo en “el fin del trabajo” es el otro folleto. Lo que sí se puede decir, sin sonrojarse, es que **el valor de un humano va a estar, cada vez más, en lo que no se puede predecir con el párrafo anterior**: el criterio, la responsabilidad, la cara, la duda que no se delega. Si ese valor se deprecia —porque la escuela ya no lo entrena, porque el trabajo ya no lo pide, porque el chat ya lo finge—, la supervivencia material no va a alcanzar. Vamos a estar vivos y pensados.
+
+Si la conciencia no se agota en el cálculo, una máquina que calcula muy bien no es un alma. Tratarla como alma es el error de Turing al revés: no “¿piensa?”, sino “¿rezamos?”. Si algún día un sistema *se comporta* como si tuviera fines propios, el asunto no se cierra con el tráiler de *Terminator* ni con un “son solo matrices”. Se abre, otra vez, la pregunta de siempre: **¿quién es el agente, y quién rinde cuentas?** Hasta que haya un agente, el responsable sigue siendo el humano que apretó el botón, el que alineó, el que cobró. Delegar esa cuenta en “la IA decidió” es el truco de 2020 con otro traje.
+
+## Reflexión final
+
+Este capítulo no va a dictar si la especie se extingue en 2036. No tiene el experimento. Tiene, sí, tres hechos que se pueden mirar juntos, sin convertirlos en un tráiler —aunque el tráiler, *Terminator*, ya le puso cara al extremo, y conviene no usarlo ni como prueba ni como chiste para cerrar la boca:
+
+- la voz general ya se puede fabricar, a escala, con el paquete de las agencias adentro;
+- el dinero ya se puede diseñar para apagarse;
+- los que construyen la herramienta hablan de extinción y, al mismo tiempo, de la siguiente versión.
+
+La pregunta adulta no es “¿estás a favor o en contra de la IA?”. Esa ya la respondió el mercado. Si todavía queda alguien que le pida la fuente —y que pueda pagar el almuerzo en efectivo el día que la fuente no guste—, la máquina puede ser un archivo que no se cansa. Si no, estas páginas son un aviso que llegó a tiempo. El resto —apagar, regular, copiar, rezar, programar— se adquiere después de mirar. No antes.
+
+**Cuando esa máquina hable por el siglo, ¿va a quedar alguien que le pida la fuente?**
+
+---
+
+### Otra carta
+
+Hacia el final de *El mundo de Sofía*, ella se pregunta si está dentro de un libro. Este libro no va a ese juego. Va a este: hay cosas que no se pueden medir así, y declararlas cerradas para no quedar de místico es otra forma de que a uno lo piensen.
+
+*¿Qué hace usted con una pregunta que un experimento no puede responder?*
