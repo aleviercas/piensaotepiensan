@@ -2,6 +2,12 @@
 
 > **PARTE III — CIENCIA Y ECONOMÍA**
 
+### Marco histórico para la lectura
+
+La prensa de las décadas de 1960 y 1970 publicó algunas advertencias sobre enfriamiento, pero eso no equivale a un consenso científico que anunciara una edad de hielo inminente. La revisión de Peterson, Connolley y Fleck de artículos científicos publicados entre 1965 y 1979 encontró que las proyecciones de calentamiento eran más numerosas que las de enfriamiento. Por eso, el capítulo puede examinar titulares, cambios de hipótesis y comunicación pública, distinguiendo esas capas en lugar de tratarlas como una sola voz.
+
+**Referencia para contrastar:** Thomas C. Peterson, William M. Connolley y John Fleck, “The Myth of the 1970s Global Cooling Scientific Consensus”, *Bulletin of the American Meteorological Society*, 89(9), 2008, pp. 1325–1338. DOI: 10.1175/2008BAMS2370.1. [Artículo](https://doi.org/10.1175/2008BAMS2370.1).
+
 
 El hombre se pone el termómetro en el ombligo: mide el calor contra *su* cuerpo, en *su* siglo, y concluye que él es el centro y la causa de todo lo que se mueve. Lo frío o lo caliente se lee respecto de su línea de tiempo, no respecto de un planeta que ya fue más verde, más caliente y más frío mucho antes de la chimenea. Hay un gas, un termómetro y una política, y conviene no pegarlos de entrada. El aire se calentó y el dióxido de carbono subió; eso se puede mirar sin convertirlo, de inmediato, en un veredicto moral. Lo que suele pegársele después —urgencia, enemigo, la política que sí se vota— ya no es el dato: es el relato. La pregunta de este capítulo es de proporción: **qué se midió de verdad, y qué se vendió como si se hubiera medido.**
 
