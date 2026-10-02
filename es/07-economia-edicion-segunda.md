@@ -2,6 +2,10 @@
 
 > **PARTE III — CIENCIA Y ECONOMÍA**
 
+### Umbral narrativo
+
+*The Big Short* pone en escena cómo incentivos, productos complejos y señales ignoradas pueden converger en una crisis. Las ideas de Milton Friedman ofrecen una tradición económica que puede discutirse y contrastarse. Ninguna obra sustituye el análisis de los datos y mecanismos concretos que desarrolla este capítulo.
+
 
 Los precios suben y, en el noticiero, la primera explicación suele ser el comerciante, la sequía o la guerra. Esas cosas existen, y mueven un mes o un año. Cuando la suba dura una década, conviene mirar otra cosa: **quién imprime la moneda, y a quién le llega primero**. Se vende como asunto técnico, de expertos. En la práctica es poder: toca el sueldo, el alquiler y lo que se puede decir sin perder la cuenta.
 
