@@ -7,7 +7,7 @@ El repositorio mantiene dos versiones paralelas del manuscrito.
 
 ## Arquitectura compartida
 
-Ambas ediciones siguen el orden temático definido en ESTRUCTURA.md: cinco partes, capítulos con su numeración original y una conclusión independiente, fuera de las cinco partes. La ubicación del Capítulo 1 en la Parte III no cambia su número.
+Ambas ediciones siguen el orden temático definido en ESTRUCTURA.md: cinco partes, capítulos con su numeración original y una conclusión independiente, fuera de las cinco partes. La Parte II reúne los capítulos 1, 6 y 7; la Parte III reúne los capítulos 2 a 5. Esta organización temática no altera la numeración original.
 
 ## Lectura web
 
