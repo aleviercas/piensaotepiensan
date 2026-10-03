@@ -1,7 +1,5 @@
 # Capítulo 10 — El bosque oscuro
 
-> **PARTE V — Donde nadie está mirando**
-### Apertura de la Parte V
 
 Algunas preguntas sobreviven a nuestras explicaciones más útiles: si existe vida más allá de la Tierra, qué significa nuestra finitud y cómo convivimos con aquello que no podemos demostrar ni descartar con facilidad.
 
