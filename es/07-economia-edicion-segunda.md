@@ -1,6 +1,5 @@
 # Capítulo 3 — La impresora de dinero
 
-> **PARTE II — El laboratorio de lo real**
 ### Umbral narrativo
 
 *The Big Short* pone en escena cómo incentivos, productos complejos y señales ignoradas pueden converger en una crisis. Las ideas de Milton Friedman ofrecen una tradición económica que puede discutirse y contrastarse. Ninguna obra sustituye el análisis de los datos y mecanismos concretos que desarrolla este capítulo.
