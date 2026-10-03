@@ -1,6 +1,5 @@
 # Capítulo 6 — La urna y lo que no se vota
 
-> **PARTE III — El guion invisible**
 ### Umbral narrativo
 
 *The Manchurian Candidate*, *Die Welle* (*La ola*) y *12 Angry Men* (*Doce hombres sin piedad*) exploran sugestión, obediencia, presión grupal y responsabilidad de juzgar. No ofrecen una equivalencia directa con la política real; abren preguntas para leerla con cuidado.
