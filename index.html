@@ -84,6 +84,7 @@
     .sheet {
       max-width: 42rem; margin: 0 auto; padding: 3.2rem 1.5rem 6rem;
     }
+    .part-opening { max-width: 68ch; margin: 0 0 1.8rem; color: var(--muted); font-family: var(--font-read); font-size: 1.04rem; line-height: 1.65; }
     .part-heading { margin: 0 0 1.5rem; padding: 0 0 1rem; border-bottom: 1px solid var(--line); color: var(--subtle); font-size: .76rem; letter-spacing: .13em; text-transform: uppercase; font-weight: 600; }
     .kicker {
       font-size: 0.72rem; letter-spacing: 0.18em; text-transform: uppercase;
@@ -208,25 +209,25 @@
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
     const PARTS = [
-      { title: "Parte I — Antes de la pregunta", chapters: [
+      { title: "Parte I — Antes de la pregunta", opening: "Todo empieza con una pregunta que parece sencilla y se vuelve incómoda al sostenerla: ¿cuánto de lo que pensamos hemos examinado y cuánto hemos recibido ya formulado? La filosofía no aparece aquí como una colección de respuestas, sino como el hábito de detenerse antes de aceptar una.", chapters: [
         { slug: "introduccion", file: "es/00-introduccion.md", num: "00", kicker: "Introducción", title: "¿Quién te está pensando?" },
       ]},
-      { title: "Parte II — El laboratorio de lo real", chapters: [
+      { title: "Parte II — El laboratorio de lo real", opening: "En ciencia y economía conviven datos, modelos, incertidumbres, incentivos y decisiones. El desafío no es desconfiar de todo ni aceptar todo, sino distinguir qué está observado, qué se infiere y qué se propone hacer a partir de ello.", chapters: [
         { slug: "salud", file: "es/01-salud.md", num: "01", kicker: "Capítulo 1", title: "La isla del doctor Moreau" },
         { slug: "clima", file: "es/06-clima.md", num: "02", kicker: "Capítulo 2", title: "El termómetro en el ombligo" },
         { slug: "economia", file: "es/07-economia.md", num: "03", kicker: "Capítulo 3", title: "La impresora de dinero" },
       ]},
-      { title: "Parte III — El guion invisible", chapters: [
+      { title: "Parte III — El guion invisible", opening: "Una idea deja de ser solamente individual cuando organiza instituciones, define enemigos, legitima decisiones o establece qué puede decirse en público. Esta parte desplaza la pregunta desde la conciencia hacia la vida compartida: ¿cómo se forman los consensos y qué mecanismos los sostienen?", chapters: [
         { slug: "geopolitica", file: "es/02-geopolitica.md", num: "04", kicker: "Capítulo 4", title: "Quién tiró la primera piedra" },
         { slug: "atentados", file: "es/03-atentados.md", num: "05", kicker: "Capítulo 5", title: "Falsa bandera" },
         { slug: "democracia", file: "es/04-democracia.md", num: "06", kicker: "Capítulo 6", title: "La urna y lo que no se vota" },
         { slug: "medios", file: "es/05-medios.md", num: "07", kicker: "Capítulo 7", title: "El ministerio de la verdad" },
       ]},
-      { title: "Parte IV — Los semiconductores ancestrales", chapters: [
+      { title: "Parte IV — Los semiconductores ancestrales", opening: "Las herramientas amplían nuestras capacidades y también cambian el entorno en el que elegimos. Al mirar la inteligencia artificial y las preguntas sobre el pasado remoto, esta parte conecta lo que construimos con los límites de lo que podemos reconstruir. La curiosidad necesita imaginación, pero también criterios para reconocer cuándo una hipótesis todavía no es evidencia.", chapters: [
         { slug: "inteligencia", file: "es/08-inteligencia.md", num: "08", kicker: "Capítulo 8", title: "Skynet" },
         { slug: "espacio", file: "es/09-espacio.md", num: "09", kicker: "Capítulo 9", title: "Si las piedras hablaran" },
       ]},
-      { title: "Parte V — Donde nadie está mirando", chapters: [
+      { title: "Parte V — Donde nadie está mirando", opening: "Después de discutir instituciones, explicaciones y tecnologías, quedan preguntas que no desaparecen por falta de una respuesta definitiva: si estamos solos, qué significa morir y qué lugar ocupa la experiencia humana en el universo. Aquí conviven ciencia, ficción, tradición y fe, sin exigir que se confundan entre sí.", chapters: [
         { slug: "extraterrestre", file: "es/10-extraterrestre.md", num: "10", kicker: "Capítulo 10", title: "El bosque oscuro" },
         { slug: "mas-alla", file: "es/11-mas-alla.md", num: "11", kicker: "Capítulo 11", title: "El otro patio" },
       ]},
@@ -318,7 +319,7 @@
           <p class="edition-note">${edition === "segunda" ? "Edición Segunda: versión revisada en paralelo. No modifica la Edición Primera." : "Edición Primera: texto original. Es la que se lee por defecto."}</p>`;
         root.innerHTML = `
           <article class="sheet">
-            ${part ? `<div class="part-heading">${part.title}</div>` : `<div class="part-heading">Conclusión · fuera de las cinco partes</div>`}
+            ${part ? `<div class="part-heading">${part.title}</div>${part.chapters[0].slug === s ? `<p class="part-opening">${part.opening}</p>` : ""}` : `<div class="part-heading">Conclusión · fuera de las cinco partes</div><p class="part-opening">La conclusión no inaugura una sexta parte. Devuelve al lector a la pregunta inicial, ahora atravesada por los casos y argumentos del recorrido. El objetivo no es entregar una respuesta final, sino dejar más claro qué pruebas, razones y límites necesita cada respuesta que decidamos sostener.</p>`}
             <p class="kicker">${c.kicker}</p>
             ${editionSwitch}
             <div class="prose">${html}</div>
