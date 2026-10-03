@@ -8,7 +8,7 @@ Todo empieza con una pregunta que parece sencilla y se vuelve incómoda al soste
 
 ## Apertura de la Parte II — El laboratorio de lo real
 
-El poder también se expresa en la manera de medir, explicar y distribuir. En ciencia y economía conviven datos, modelos, incertidumbres, incentivos y decisiones. El desafío no es desconfiar de todo ni aceptar todo, sino distinguir qué está observado, qué se infiere y qué se propone hacer a partir de ello.
+El poder también se expresa en la manera de medir, explicar y distribuir. El poder también se expresa en la manera de medir, explicar y distribuir. En ciencia y economía conviven datos, modelos, incertidumbres, incentivos y decisiones. El desafío no es desconfiar de todo ni aceptar todo, sino distinguir qué está observado, qué se infiere y qué se propone hacer a partir de ello.
 
 ## Apertura de la Parte III — El guion invisible
 
