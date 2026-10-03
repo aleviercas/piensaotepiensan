@@ -69,7 +69,15 @@ Este libro no es un curso de historia de la filosofía, ni un maestro que lo esp
 
 La forma quiere el mismo gesto: un ensayo con esas dos preguntas —**decisiones irracionales, ¿para quién?, y quién te está pensando**— y, en cada capítulo, la voz de quien no está de acuerdo, dicha como él la firmaría. Entre capítulo y capítulo, a veces, una carta corta, como las de Alberto. Si no la lee, no pasa nada: no hay examen. Si el libro le gana a una caricatura, no le ganó a nadie.
 
-El recorrido no es una lista suelta. Primero se mira lo que nos tocó de cerca: un virus, una guerra, un atentado. Después, lo que nos gobierna sin que se vote del todo: la noticia, el clima como política, el dinero, la máquina que escribe. Al final, lo que todavía no se explica del todo: las piedras, el cielo, la muerte. Una sola pregunta los une. Si un capítulo no sirve a esa pregunta, sobra.
+El recorrido no es una lista suelta. Va en cinco partes, y los números de capítulo se conservan: no se renumeran porque el otro usuario y esta sesión escriben en paralelo.
+
+**Parte I — Antes de la pregunta.** Esta introducción, y el gesto de *El mundo de Sofía*.
+**Parte II — El laboratorio de lo real.** Un virus (*La isla del doctor Moreau*), un termómetro, una rotativa (*The Big Short*, Friedman).
+**Parte III — El guion invisible.** Quién tiró la primera piedra (*Alexandros*), una falsa bandera (*Braveheart*, *Gladiator*), la urna (*The Manchurian Candidate*, *Die Welle*, *12 Angry Men*) y el ministerio de la verdad (*1984*).
+**Parte IV — Los semiconductores ancestrales.** Skynet (*Terminator*) y las piedras (*Timeo* y *Critias*).
+**Parte V — Donde nadie está mirando.** El bosque oscuro (*Cosmos*, *Contact*, *Project Hail Mary*) y el otro patio (*Interstellar*, la Biblia).
+
+La conclusión queda **fuera** de las cinco partes: vuelve a las dos preguntas. Una sola pregunta las une. Si un capítulo no sirve a esa pregunta, sobra.
 
 Cada capítulo, en lo posible, se arma igual: **lo que se da por cerrado**, la narrativa que se vende, lo que esa narrativa omite, y una pregunta que no se traga. Si el libro sirve de algo, **saca límites**: pregunta justo ahí donde se dijo “esto ya no se toca”. Y si en algún párrafo el texto suena a consigna, se nota, y se puede dejar de lado.
 

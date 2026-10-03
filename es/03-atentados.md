@@ -1,5 +1,7 @@
 # Capítulo 3 — Falsa bandera
 
+*Braveheart* y *Gladiator* dramatizan la resistencia y el enemigo. El cine necesita un villano claro; el archivo, a menudo, no. Este capítulo las usa como umbral, no como prueba: **quién atribuye el golpe, y qué diferencia hay entre una escena convincente y un papel.**
+
 La expresión es vieja: hacer que el golpe parezca obra de otro, para justificar la respuesta. No es una palabra de foro. Hay casos documentados, con papeles, y hay explosiones donde el hueco se llena con esa palabra porque vende. Cuando explota algo, el primer relato llega en minutos y el archivo, si llega, tarda años. Este capítulo pide una sola disciplina: **poner lo que está en el expediente en una carpeta y las teorías en otra**. Si se pegan, se nota: el hueco no prueba un complot, y el complot, cuando existe, suele estar en el propio archivo del Estado.
 
 —La Comisión documentó negligencia, no un trabajo interno. Pedir un complot para cada hueco no es rigor: es relleno.

@@ -1,5 +1,7 @@
 # Capítulo 9 — Si las piedras hablaran
 
+Los diálogos *Timeo* y *Critias*, de Platón, son el relato clásico de una civilización que se perdió. No prueban Atlantis. Dejan abierta una pregunta que este capítulo no va a decretar cerrada: **qué recuerdan las piedras cuando el manual ya pasó de tema.**
+
 Si las piedras hablaran, dirían lo que el manual todavía no copia bien: toneladas con muchos vértices que encajan, un diluvio que aparece en culturas que no se hablaban, una teoría de Darwin que explica muy bien la adaptación y se queda corta cuando se le pide el origen de la información. A veces, para no quedar de místico, se declara el asunto “cerrado”. Este capítulo pide lo inverso: **dejar abierta la pregunta donde todavía no hay una explicación que se pueda tocar**, sin convertir el hueco en un templo.
 
 —La ciencia cierra lo que puede tocar, predecir y repetir. Lo que no produce objeto se queda en el estante, no en el templo.

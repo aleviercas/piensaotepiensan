@@ -1,5 +1,7 @@
 # Capítulo 4 — La urna y lo que no se vota
 
+*The Manchurian Candidate*, *Die Welle* (*La ola*) y *12 Angry Men* (*Doce hombres sin piedad*) muestran sugestión, obediencia y el trabajo de juzgar. No equivalen a una urna real. Abren la pregunta: **qué se vota, qué se obedece sin votar, y quién se queda solo cuando el grupo ya cerró.**
+
 Cada cierto tiempo se nos pide tratar la urna como si fuera el poder entero: se vota, se cuenta, se cierra el asunto. En la práctica votar no es todo el poder. Hay un organigrama —bancos centrales, agencias, plataformas, reglamentos que nadie eligió en una boleta— que no se presenta a examen cada cuatro años. Este capítulo no dice que toda elección es un fraude. Dice que conviene no confundir “se litigó y no se dio vuelta” con “no hubo nada que mirar”.
 
 —Las democracias cuentan votos con reglas, jueces y periodistas. En 2020 se litigó y no se dio vuelta. Eso es el sistema funcionando, no un cuento.

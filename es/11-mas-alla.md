@@ -1,5 +1,7 @@
 # Capítulo 11 — El otro patio
 
+*Interstellar* pone el tiempo y el amor de un padre en una ecuación; la Biblia pone la muerte y la resurrección en un relato que no cabe en un laboratorio. No se equivalen. Las dos, cada una a su modo, preguntan qué hay **en el otro patio**.
+
 Queda lo más difícil de medir: la muerte, un hombre de hace dos mil años, la coincidencia que llega a tiempo. Este capítulo se escribe un poco distinto, no porque los hechos pesen menos, sino porque se acerca a lo que no entra del todo en una tabla. Sigue siendo una invitación a mirar, no un sermón. Quien no tenga palabra para la fe puede quedarse igual: alcanza con no salir corriendo.
 
 —Una experiencia de consuelo no demuestra un sepulcro vacío. Un experimento no llega hasta ahí, y eso no es una ofensa: es el límite de lo que se puede medir.

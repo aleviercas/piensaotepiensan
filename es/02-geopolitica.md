@@ -1,5 +1,7 @@
 # Capítulo 2 — Quién tiró la primera piedra
 
+*Alexandros*, de Valerio Massimo Manfredi, cuenta a Alejandro como quien junta un mapa, un ejército y un relato. No es el expediente de este capítulo. Es una puerta: **quién nombra al que tiró la primera piedra, y con qué historia.**
+
 Una guerra tiene fechas, un mapa y un comunicado. El comunicado llega primero y, a menudo, decide quién “empezó”. Un audio incómodo o una isla: si alguien los pone sobre la mesa, esa persona pasa a ser el problema y el hecho se queda afuera. Este capítulo no busca un único villano para cada conflicto. Pregunta, en cada caso, **quién disparó primero, qué se midió y qué se recortó**.
 
 —Una guerra tiene causas, un agresor que cruza una frontera, y muertos que no son un “relato”.
