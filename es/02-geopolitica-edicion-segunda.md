@@ -1,7 +1,4 @@
-# Capítulo 4 — Quién tiró la primera piedra
-
-
-Una pregunta individual se vuelve política cuando una narración organiza lealtades, instituciones y decisiones colectivas. Los capítulos de esta parte examinan cómo se forman esos relatos y cómo podemos someterlos a examen.
+Capítulo 4 — Quién tiró la primera piedra
 
 ### Umbral narrativo
 
