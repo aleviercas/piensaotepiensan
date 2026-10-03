@@ -1,9 +1,6 @@
 # Capítulo 1 — La isla del doctor Moreau
 
 
-Medir y decidir no son lo mismo. Esta parte observa cómo datos, modelos, incertidumbres e incentivos entran en las explicaciones que damos y en las políticas que elegimos.
-
-
 En *La isla del doctor Moreau*, de H. G. Wells, un científico juega a ser Dios con la carne de los animales y, por un tiempo, parece que el laboratorio le obedece. Después, las bestias recuerdan lo que eran. El libro y la película no se citan acá como prueba de un virus: se citan porque describen una soberbia que la ciencia ya conoció, y que 2020 volvió a poner sobre la mesa. Este es el primer capítulo, y no porque sea el más importante, sino porque casi todos lo vivimos a la vez. Durante meses se nos pidió aceptar un relato cerrado: qué era el virus, de dónde venía, qué había que hacer. Quien preguntaba otra cosa se encontró, de pronto, sin micrófono. Eso ya no era un empujón suave: no se veía del todo, no se podía rechazar sin costo, y quien cobraba el error no era, a menudo, quien lo pagaba. Si a usted eso no le cerró la boca, el resto del libro se puede leer igual. Si se la cerró, tiene sentido empezar aquí: el hábito de sostener una pregunta se entrena donde más dolió.
 
 —Hubo un virus nuevo, hospitales saturados, y se decidió con datos incompletos. Eso no es un complot.
