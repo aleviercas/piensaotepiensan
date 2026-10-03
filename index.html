@@ -329,7 +329,7 @@
           </article>`;
         window.scrollTo(0, 0);
       } catch (err) {
-        root.innerHTML = `<p class="err">${err.message}. Si esto es Vercel, confirmá que el archivo ${c.file} esté en el repo.</p>`;
+        root.innerHTML = edition && edition.endsWith("-en") ? `<article class="sheet"><p class="kicker">${c.kicker}</p><p class="edition-note">The English translation of this chapter is still being prepared. Please select a Spanish edition to read it for now.</p></article>` : `<p class="err">${err.message}. Si esto es Vercel, confirmá que el archivo ${c.file} esté en el repo.</p>`;
       }
     }
 
