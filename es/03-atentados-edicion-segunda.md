@@ -1,6 +1,5 @@
 # Capítulo 5 — Falsa bandera
 
-> **PARTE III — El guion invisible**
 ### Umbral narrativo
 
 *Braveheart* y *Gladiator* muestran cómo el cine construye figuras de resistencia, sacrificio y enemigo. Son relatos dramatizados, no pruebas históricas: permiten preguntar quién atribuye un acto, cómo se legitima una respuesta y qué diferencia hay entre una narración convincente y lo documentado.
