@@ -1,7 +1,7 @@
 # Capítulo 10 — El bosque oscuro
 
 
-Algunas preguntas sobreviven a nuestras explicaciones más útiles: si existe vida más allá de la Tierra, qué significa nuestra finitud y cómo convivimos con aquello que no podemos demostrar ni descartar con facilidad.
+Hay una pregunta que sobrevive a nuestras explicaciones más útiles: si existe vida más allá de la Tierra y qué podemos afirmar, con evidencia, sobre otras inteligencias. Este capítulo se ocupa del silencio cósmico, de la búsqueda científica y de los fenómenos aéreos no identificados; las preguntas sobre la muerte, la fe y la conciencia quedan para el capítulo siguiente.
 
 ### Umbral narrativo
 
