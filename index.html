@@ -84,6 +84,7 @@
     .sheet {
       max-width: 42rem; margin: 0 auto; padding: 3.2rem 1.5rem 6rem;
     }
+    .part-heading { margin: 0 0 1.5rem; padding: 0 0 1rem; border-bottom: 1px solid var(--line); color: var(--subtle); font-size: .76rem; letter-spacing: .13em; text-transform: uppercase; font-weight: 600; }
     .kicker {
       font-size: 0.72rem; letter-spacing: 0.18em; text-transform: uppercase;
       color: var(--subtle); font-weight: 500; margin: 0 0 0.7rem;
@@ -296,6 +297,7 @@
       const i = CHAPTERS.findIndex((c) => c.slug === s);
       if (i < 0) return home();
       const c = CHAPTERS[i];
+      const part = PARTS.find((p) => p.chapters.some((item) => item.slug === s));
       const prev = CHAPTERS[i - 1];
       const next = CHAPTERS[i + 1];
       crumb.textContent = c.kicker + " · " + c.title;
@@ -316,6 +318,7 @@
           <p class="edition-note">${edition === "segunda" ? "Edición Segunda: versión revisada en paralelo. No modifica la Edición Primera." : "Edición Primera: texto original. Es la que se lee por defecto."}</p>`;
         root.innerHTML = `
           <article class="sheet">
+            ${part ? `<div class="part-heading">${part.title}</div>` : `<div class="part-heading">Conclusión · fuera de las cinco partes</div>`}
             <p class="kicker">${c.kicker}</p>
             ${editionSwitch}
             <div class="prose">${html}</div>
