@@ -4,15 +4,15 @@
 
 [Puentes narrativos entre las partes](transiciones-partes-segunda-edicion.md)
 
-La segunda edición se organiza en cinco partes. La conclusión queda fuera de ellas y vuelve a la pregunta de la primera parte. Se conservan los nombres originales de los capítulos y su numeración.
+La estructura de lectura, compartida por la Edición Primera y la Edición Segunda, se organiza en cinco partes. La conclusión queda fuera de ellas y vuelve a la pregunta de la primera parte. Se conservan los nombres originales de los capítulos y su numeración.
 
-## Parte I — Filosofía
+## Parte I — Antes de la pregunta
 
 *El origen de la pregunta: ¿piensas o te piensan?*
 
 - [Introducción](00-introduccion-edicion-segunda.md) — *El mundo de Sofía*, de Jostein Gaarder.
 
-## Parte II — Poder y sociedad
+## Parte II — El laboratorio de lo real
 
 *Cómo se construyen las creencias colectivas y cómo se organiza la conducta social.*
 
@@ -21,7 +21,7 @@ La segunda edición se organiza en cinco partes. La conclusión queda fuera de e
 - [Capítulo 4 — La urna y lo que no se vota](04-democracia-edicion-segunda.md) — *The Manchurian Candidate*, *Die Welle* y *12 Angry Men*.
 - [Capítulo 5 — El ministerio de la verdad](05-medios-edicion-segunda.md) — *1984*, de George Orwell.
 
-## Parte III — Ciencia y economía
+## Parte III — El guion invisible
 
 *Cómo distinguimos evidencia, incertidumbre, modelos, intereses y decisiones.*
 
@@ -29,14 +29,14 @@ La segunda edición se organiza en cinco partes. La conclusión queda fuera de e
 - [Capítulo 6 — El termómetro en el ombligo](06-clima-edicion-segunda.md).
 - [Capítulo 7 — La impresora de dinero](07-economia-edicion-segunda.md) — *The Big Short* y Milton Friedman.
 
-## Parte IV — Tecnología y futuro
+## Parte IV — Los semiconductores ancestrales
 
 *Lo que creamos, lo que podemos llegar a descubrir y las consecuencias de nuestras decisiones.*
 
 - [Capítulo 8 — Skynet](08-inteligencia-edicion-segunda.md) — *Terminator*.
 - [Capítulo 9 — Si las piedras hablaran](09-espacio-edicion-segunda.md) — *Timeo* y *Critias*, de Platón; civilizaciones ancestrales y pasado no contado.
 
-## Parte V — Existencia y trascendencia
+## Parte V — Donde nadie está mirando
 
 *Las preguntas que aparecen cuando llevamos el pensamiento hasta sus límites.*
 
