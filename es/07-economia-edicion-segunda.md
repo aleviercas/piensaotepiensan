@@ -44,16 +44,6 @@ Bitcoin nació en 2009, después de que los bancos centrales salvaran a los banc
 
 **Lo que ya se ensayó, lejos de los white papers.** Nigeria lanzó el eNaira en 2021, con el vocabulario de la inclusión; la gente, en masa, prefirió el efectivo y las apps privadas, y el Estado respondió, en 2023, con un rediseño del efectivo que vació cajeros y encendió protestas. El Banco Central Europeo discute el euro digital con dos palabras que no se llevan bien: *privacidad* y *trazabilidad*. El Bahamas tiene el Sand Dollar; India empuja UPI y Aadhaar hasta que pagar sin dejar huella se vuelve un deporte. Ninguno de estos ensayos “prueba” un Gran Hermano mundial. Prueban otra cosa, más seca: **cuando el efectivo desaparece, el disentir deja de ser un derecho y pasa a ser un permiso**. Un permiso se revoca; un billete, no.
 
-## 3.5 El precio que sí se entiende, aunque no se sepa el nombre
-
-Uno no necesita un doctorado para notar que el sueldo alcanza para menos. Alquileres que se comen la mitad del ingreso en ciudades de medio mundo; comida que, en 2021-2023, subió más rápido que el índice “oficial” que mira una canasta de hace veinte años; casas que los hijos de la clase media ya no compran. Eso no es un misterio de “codicia de supermercados”: es lo que pasa cuando hay más dinero —y más deuda— persiguiendo las mismas cosas, y cuando esas cosas (tierra, energía, comida) no se imprimen.
-
-**La vivienda como termómetro.** En Londres, en Toronto, en Santiago, en Lisboa, en Austin, el mismo patrón con distinta moneda: tasas bajas durante años, crédito barato, fondos comprando para alquilar, y una generación que vive de inquilina en la casa que sus padres compraron con un sueldo. Después, cuando la inflación de los precios de diario se volvió imposible de tapar, las tasas subieron y el que llegó tarde quedó aplastado entre el alquiler y la cuota. Llamar a eso “el mercado” es verdad a medias. El mercado opera sobre un piso de dinero que alguien, en un edificio con columnas, decidió fabricar.
-
-**La deuda que no se ve.** Gobiernos, empresas, familias. El Banco de Pagos Internacionales lleva años advirtiendo que la deuda global, medida contra lo que el mundo produce, está en un territorio del que no se sale caminando. No hace falta asustarse con un número; hace falta entender el trueque: mientras las tasas estaban en cero, la deuda era un sueño; cuando las tasas vuelven, el sueño cobra. Quien promete “crecer para salir” a veces tiene razón. Quien promete emitir para no sentir el cobro, ya vimos la película en más de un continente.
-
-La invitación de este apartado es casera. Mire su recibo de sueldo y mire el alquiler, en la moneda que sea. Si el segundo creció más que el primero durante una década, la pregunta no es “¿quién es el empresario malo?”. Es: **¿cuánto dinero nuevo salió a la calle, y por qué puerta entró?** Esa pregunta no pide odio: pide una calculadora.
-
 ## 3.4 Un laboratorio que el mundo no quiere copiar, y a veces copia
 
 Ningún país ilustra mejor, en cámara rápida, este capítulo. Décadas de emitir para tapar el fisco, cepo, default, cepo otra vez, una unidad de cuenta que la gente abandonó en la cabeza —el dólar— mientras el Estado le exigía pesos. El 211% de 2023 no fue un “shock de oferta”: fue el final de una película que el espectador —en Buenos Aires, y el que haya visto Caracas o Harare— ya se sabía de memoria. Se cuenta acá porque es visible, no porque el libro sea una carta al vecino.
@@ -65,6 +55,16 @@ Ningún país ilustra mejor, en cámara rápida, este capítulo. Décadas de emi
 **Dólar e inflación importada.** Una economía bimonetaria no es una teoría: es el kiosco. El que ahorra en dólares no es un cipayo; es alguien que ya hizo la cuenta que el Banco Central no quería que hiciera. El que, en Ankara o en Buenos Aires, compra ladrillo, oro o bitcoin, está haciendo la misma cuenta. Prohibirla —cepo, “dólar ahorro”, el menú de apodos— es el Estado peleando contra la unidad de medida. Pelear contra el metro no alarga la tela.
 
 **CBDC, otra vez, porque el capítulo no es de un país.** El e-yuan ya piloto. El euro digital se discute en Bruselas con el vocabulario de la “inclusión” y el de la trazabilidad. Un peso digital, un real digital, un dólar digital: el nombre cambia, el GPS no. El laboratorio argentino adelanta el empobrecimiento; el laboratorio chino adelanta el control. El resto del mundo, si no lee los dos, va a firmar los dos.
+
+## 3.5 El precio que sí se entiende, aunque no se sepa el nombre
+
+Uno no necesita un doctorado para notar que el sueldo alcanza para menos. Alquileres que se comen la mitad del ingreso en ciudades de medio mundo; comida que, en 2021-2023, subió más rápido que el índice “oficial” que mira una canasta de hace veinte años; casas que los hijos de la clase media ya no compran. Eso no es un misterio de “codicia de supermercados”: es lo que pasa cuando hay más dinero —y más deuda— persiguiendo las mismas cosas, y cuando esas cosas (tierra, energía, comida) no se imprimen.
+
+**La vivienda como termómetro.** En Londres, en Toronto, en Santiago, en Lisboa, en Austin, el mismo patrón con distinta moneda: tasas bajas durante años, crédito barato, fondos comprando para alquilar, y una generación que vive de inquilina en la casa que sus padres compraron con un sueldo. Después, cuando la inflación de los precios de diario se volvió imposible de tapar, las tasas subieron y el que llegó tarde quedó aplastado entre el alquiler y la cuota. Llamar a eso “el mercado” es verdad a medias. El mercado opera sobre un piso de dinero que alguien, en un edificio con columnas, decidió fabricar.
+
+**La deuda que no se ve.** Gobiernos, empresas, familias. El Banco de Pagos Internacionales lleva años advirtiendo que la deuda global, medida contra lo que el mundo produce, está en un territorio del que no se sale caminando. No hace falta asustarse con un número; hace falta entender el trueque: mientras las tasas estaban en cero, la deuda era un sueño; cuando las tasas vuelven, el sueño cobra. Quien promete “crecer para salir” a veces tiene razón. Quien promete emitir para no sentir el cobro, ya vimos la película en más de un continente.
+
+La invitación de este apartado es casera. Mire su recibo de sueldo y mire el alquiler, en la moneda que sea. Si el segundo creció más que el primero durante una década, la pregunta no es “¿quién es el empresario malo?”. Es: **¿cuánto dinero nuevo salió a la calle, y por qué puerta entró?** Esa pregunta no pide odio: pide una calculadora.
 
 ## Reflexión final
 
