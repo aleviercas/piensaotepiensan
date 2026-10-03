@@ -303,13 +303,18 @@
       root.innerHTML = `<p class="load">Cargando…</p>`;
       try {
         const edition = sessionStorage.getItem("potp-edition") || "primera";
-        const sourceFile = edition === "segunda" ? c.file.replace(/\.md$/, "-edicion-segunda.md") : c.file;
+        const isEn = edition.endsWith("-en");
+        const isSecond = edition.startsWith("segunda");
+        const base = c.file.split("/").pop();
+        const sourceFile = isEn ? "en/" + base.replace(/\.md$/, isSecond ? "-second-edition.md" : ".md") : (isSecond ? c.file.replace(/\.md$/, "-edicion-segunda.md") : c.file);
         const md = await loadMd(sourceFile);
         const html = marked.parse(md, { mangle: false, headerIds: false });
         const editionSwitch = `
           <div class="edition-switch" role="group" aria-label="Elegir edición">
-            <button type="button" data-edition="primera" aria-pressed="${edition === "primera"}" class="${edition === "primera" ? "selected" : ""}">Edición Primera</button>
-            <button type="button" data-edition="segunda" aria-pressed="${edition === "segunda"}" class="${edition === "segunda" ? "selected" : ""}">Edición Segunda</button>
+            <button type="button" data-edition="primera" aria-pressed="${edition === "primera"}" class="${edition === "primera" ? "selected" : ""}">Primera edición · ES</button>
+            <button type="button" data-edition="segunda" aria-pressed="${edition === "segunda"}" class="${edition === "segunda" ? "selected" : ""}">Segunda edición · ES</button>
+            <button type="button" data-edition="primera-en" aria-pressed="${edition === "primera-en"}" class="${edition === "primera-en" ? "selected" : ""}">First Edition · EN</button>
+            <button type="button" data-edition="segunda-en" aria-pressed="${edition === "segunda-en"}" class="${edition === "segunda-en" ? "selected" : ""}">Second Edition · EN</button>
           </div>
           <p class="edition-note">${edition === "segunda" ? "Edición Segunda: versión revisada en paralelo. No modifica la Edición Primera." : "Edición Primera: texto original. Es la que se lee por defecto."}</p>`;
         root.innerHTML = `
