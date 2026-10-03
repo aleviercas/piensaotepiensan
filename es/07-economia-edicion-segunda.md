@@ -1,7 +1,6 @@
-# Capítulo 7 — La impresora de dinero
+# Capítulo 3 — La impresora de dinero
 
-> **PARTE III — CIENCIA Y ECONOMÍA**
-
+> **PARTE II — El laboratorio de lo real**
 ### Umbral narrativo
 
 *The Big Short* pone en escena cómo incentivos, productos complejos y señales ignoradas pueden converger en una crisis. Las ideas de Milton Friedman ofrecen una tradición económica que puede discutirse y contrastarse. Ninguna obra sustituye el análisis de los datos y mecanismos concretos que desarrolla este capítulo.
@@ -12,7 +11,7 @@ Los precios suben y, en el noticiero, la primera explicación suele ser el comer
 —Los precios suben también por guerra, sequía y empresas con margen. Culpar solo a la rotativa es otra teología.
 —Guerra, sequía y margen existen. Este capítulo pregunta por qué, cuando la base monetaria se duplica, el “es el empresario” aparece siempre primero en el noticiero.
 
-## 7.1 Del oro al papel
+## 3.1 Del oro al papel
 
 Hasta 1971 el dólar —y el sistema de Bretton Woods— prometía oro a tasa fija. El 15 de agosto de ese año Nixon cortó la convertibilidad, apretado por Vietnam, el gasto interno y la salida de reservas. Desde entonces casi toda moneda es fe: vale lo que el emisor y el tenedor crean que va a valer mañana.
 
@@ -24,7 +23,7 @@ Hasta 1971 el dólar —y el sistema de Bretton Woods— prometía oro a tasa fi
 
 **En contra, con matices.** La historiografía de Bernanke y otros atribuye parte de la profundidad de la Depresión de los 30 a los países que más tardaron en soltar el oro; el Reino Unido, que salió en 1931, rebotó antes. Un banco central sin capacidad de prestamista de última instancia se queda corto en un pánico bancario, y eso es un argumento real. El que suele omitirse es el austríaco: la fiesta de crédito de los 20 —reserva federal acomodaticia, burbuja— es lo que hizo falta liquidar en los 30. El oro no “causó” la Depresión como un meteorito; el ciclo previo de dinero fácil, sí, tiene acusados. 2008 y 2020 mostraron lo otro: el prestamista de última instancia existe, se usa, y la factura llega en inflación y en zombis corporativos. Ninguna de las dos escuelas tiene el video del crimen completo.
 
-## 7.2 Inflación: cuando hay más dinero
+## 3.2 Inflación: cuando hay más dinero
 
 **Monetarismo.** Friedman: la inflación es siempre un fenómeno monetario. Argentina lo ilustra sin piedad: décadas de emitir para tapar el fisco, y la baja desde 2024 coincidiendo con el cierre de esa canilla. Quien explique un 211% anual con “ganancias empresarias” está haciendo humor. El mismo humor, con otra bandera, se hizo en 2021-2022 en Washington y Bruselas: “es Putin”, “es la cadena de suministro”, “es la codicia”. Putin y la cadena existieron. El M2 estadounidense, aun así, saltó más del 25% en dos años. Turquía, con Erdogan bajando tasas a mano contra su propio banco central, fabricó una inflación de dos dígitos altos que no era un misterio de márgenes. Venezuela y Zimbabue son el final de esa película; Weimar, 1923, fue el tráiler. **El ejemplo no es un país: es la rotativa.** Quien viva en una moneda todavía creíble puede leer esto como aviso, no como folklore ajeno.
 
@@ -34,7 +33,7 @@ Hasta 1971 el dólar —y el sistema de Bretton Woods— prometía oro a tasa fi
 
 Una economía bimonetaria, una eurozona con reglas fiscales que nadie cumple, un yen de tres décadas de tasas cero y un dólar que exporta su inflación al resto no se explican con la misma frase. En una, el fisco es el incendio; en otra, hubo incendio de oferta y manguera monetaria; en otra, el privilegio de emitir la moneda de reserva. Mezclarlas para salvar al keynesiano de cabecera es el tipo de truco que este libro viene recortando.
 
-## 7.3 Criptomonedas, CBDC y quién mira tu boleta
+## 3.3 Criptomonedas, CBDC y quién mira tu boleta
 
 Bitcoin nació en 2009, después de que los bancos centrales salvaran a los bancos, con una emisión tope de 21 millones y la promesa de no depender de un comité.
 
@@ -46,7 +45,7 @@ Bitcoin nació en 2009, después de que los bancos centrales salvaran a los banc
 
 **Lo que ya se ensayó, lejos de los white papers.** Nigeria lanzó el eNaira en 2021, con el vocabulario de la inclusión; la gente, en masa, prefirió el efectivo y las apps privadas, y el Estado respondió, en 2023, con un rediseño del efectivo que vació cajeros y encendió protestas. El Banco Central Europeo discute el euro digital con dos palabras que no se llevan bien: *privacidad* y *trazabilidad*. El Bahamas tiene el Sand Dollar; India empuja UPI y Aadhaar hasta que pagar sin dejar huella se vuelve un deporte. Ninguno de estos ensayos “prueba” un Gran Hermano mundial. Prueban otra cosa, más seca: **cuando el efectivo desaparece, el disentir deja de ser un derecho y pasa a ser un permiso**. Un permiso se revoca; un billete, no.
 
-## 7.5 El precio que sí se entiende, aunque no se sepa el nombre
+## 3.5 El precio que sí se entiende, aunque no se sepa el nombre
 
 Uno no necesita un doctorado para notar que el sueldo alcanza para menos. Alquileres que se comen la mitad del ingreso en ciudades de medio mundo; comida que, en 2021-2023, subió más rápido que el índice “oficial” que mira una canasta de hace veinte años; casas que los hijos de la clase media ya no compran. Eso no es un misterio de “codicia de supermercados”: es lo que pasa cuando hay más dinero —y más deuda— persiguiendo las mismas cosas, y cuando esas cosas (tierra, energía, comida) no se imprimen.
 
@@ -56,7 +55,7 @@ Uno no necesita un doctorado para notar que el sueldo alcanza para menos. Alquil
 
 La invitación de este apartado es casera. Mire su recibo de sueldo y mire el alquiler, en la moneda que sea. Si el segundo creció más que el primero durante una década, la pregunta no es “¿quién es el empresario malo?”. Es: **¿cuánto dinero nuevo salió a la calle, y por qué puerta entró?** Esa pregunta no pide odio: pide una calculadora.
 
-## 7.4 Un laboratorio que el mundo no quiere copiar, y a veces copia
+## 3.4 Un laboratorio que el mundo no quiere copiar, y a veces copia
 
 Ningún país ilustra mejor, en cámara rápida, este capítulo. Décadas de emitir para tapar el fisco, cepo, default, cepo otra vez, una unidad de cuenta que la gente abandonó en la cabeza —el dólar— mientras el Estado le exigía pesos. El 211% de 2023 no fue un “shock de oferta”: fue el final de una película que el espectador —en Buenos Aires, y el que haya visto Caracas o Harare— ya se sabía de memoria. Se cuenta acá porque es visible, no porque el libro sea una carta al vecino.
 

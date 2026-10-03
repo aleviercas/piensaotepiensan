@@ -1,7 +1,6 @@
 # Capítulo 8 — Skynet
 
-> **PARTE IV — TECNOLOGÍA Y FUTURO**
-
+> **PARTE IV — Los semiconductores ancestrales**
 ### Apertura de la Parte IV
 
 Las herramientas que creamos no solo amplían lo que podemos hacer: también cambian las condiciones en las que pensamos y elegimos. Esta parte mira esas posibilidades sin confundir escenarios imaginados con hechos establecidos.

@@ -1,7 +1,6 @@
 # Capítulo 11 — El otro patio
 
-> **PARTE V — EXISTENCIA Y TRASCENDENCIA**
-
+> **PARTE V — Donde nadie está mirando**
 ### Umbral narrativo
 
 *Interstellar* y la Biblia pertenecen a tradiciones diferentes —ficción cinematográfica y texto religioso—, pero pueden abrir preguntas sobre tiempo, muerte, sentido y trascendencia. La comparación no equipara sus métodos ni exige resolver de antemano las preguntas que plantean.

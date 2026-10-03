@@ -1,7 +1,6 @@
-# Capítulo 5 — El ministerio de la verdad
+# Capítulo 7 — El ministerio de la verdad
 
-> **PARTE II — PODER Y SOCIEDAD**
-
+> **PARTE III — El guion invisible**
 ### Umbral narrativo
 
 *1984*, de George Orwell, acompaña este capítulo como ficción sobre el poder de nombrar, registrar y modificar lo que una sociedad cree recordar. No supone que todo medio sea un Ministerio de la Verdad: ayuda a observar mecanismos concretos de encuadre, omisión y repetición.
@@ -12,7 +11,7 @@ En *1984*, el Ministerio de la Verdad no informa: reescribe el día. No hace fal
 —Redacciones distintas se pelean entre sí. No hay un ministerio de la verdad. Un error repetido no es, por eso, un complot.
 —Se pelean, y aun así recortan las mismas cosas durante los mismos años. El recorte no necesita un ministerio: necesita un hábito y un miedo. Eso es lo que se mira.
 
-## 5.1 Chomsky y los filtros de una noticia
+## 7.1 Chomsky y los filtros de una noticia
 
 En 1988, Herman y Chomsky publicaron *Manufacturing Consent*, y lo que proponían era más sutil que un ministerio de censura: los medios que se llaman “libres” no necesitan un telegrama para callar, porque ya filtran por propiedad, por publicidad, por fuentes oficiales, por el *flak* de los grupos de presión y por la ideología dominante de su época, que entonces era el anticomunismo. Ese modelo explica bastante bien Irak 2003 y al *New York Times* disculpándose después por haber copiado al servicio de inteligencia; explica peor Watergate, los Papeles del Pentágono y, sobre todo, lo que vino después. El filtro dominante de las redacciones de 2010-2025 ya no era el anticomunismo, sino el paquete progresista —raza, género, clima, “desinformación”— y la simbiosis con el Estado administrativo. Chomsky describió el poder de su época; el poder cambió de signo, y el método, no.
 
@@ -22,7 +21,7 @@ Hay un antecedente que conviene nombrar sin inflarlo. La Comisión Church del Se
 
 **Russiagate, el otro Watergate que no fue.** Durante años, una parte importante de la prensa anglosajona trató como hecho casi cerrado que la campaña de Trump de 2016 era un apéndice del Kremlin, y esa foto se sostuvo más por insistencia que por expediente. El informe Durham, el inspector general del Departamento de Justicia y el propio retiro de la “seguro de Steele” fueron dejando otra imagen: una pesquisa que nació sesgada, una prensa que corrió más rápido que la prueba, y un costo —años de un país hablando de un golpe ruso— que nadie devolvió. No hace falta admirar a Trump para notar el mecanismo: **cuando el enemigo es inaceptable, el periodismo se vuelve fiscal**. El fiscal, al menos, tiene que ir a juicio; la tapa, no.
 
-## 5.2 Censura en las plataformas
+## 7.2 Censura en las plataformas
 
 **Twitter Files.** Tras comprar Twitter, Musk abrió los archivos a periodistas —Bari Weiss, Matt Taibbi, Michael Shellenberger— y lo que apareció no era un rumor de foro: el FBI y Homeland Security pasaban listas, y la laptop de Hunter Biden se ahogó en octubre de 2020 con una justificación —“hackeo ruso”— que la empresa no tenía. El “error de ambos lados” que se usa para suavizar esto es un truco, porque sí, Twitter a veces rechazó pedidos; el hecho central es otro. Agencias federales y una plataforma privada coordinaron para moldear el debate preelectoral y el debate COVID, y eso tiene un nombre más viejo que Silicon Valley: censura por contratista.
 
@@ -36,7 +35,7 @@ La ONU le puso nombre propio. En 2024 Guterres lanzó los *Global Principles for
 
 Wikipedia, que parece un bien común, es el otro ladrillo: un puñado de editores estables, reglas de “fuentes confiables” que coinciden con el paquete, y una página que los modelos de lenguaje **tragan como verdad previa**. Quien gane Wikipedia y el verificador no gana un artículo: gana el corpus con el que se va a entrenar el siglo, y eso vale en español, en inglés y en portugués. El Mundial de 2026 y un presidente argentino son, en este capítulo, casos; no son el mapa.
 
-## 5.3 Periodismo ciudadano: el celular no te vuelve honesto
+## 7.3 Periodismo ciudadano: el celular no te vuelve honesto
 
 La Primavera Árabe y el video de George Floyd mostraron lo que un bolsillo puede hacer cuando el canal oficial miente o no está, y 2020 mostró también lo otro: el mismo video, el mismo eslogan (“mostly peaceful”), y una temporada de disturbios, muertos y comercios quemados que las redacciones cubrieron como si fueran un seminario de derechos civiles. El celular democratiza la prueba, porque pone al alcance de cualquiera un clip que la televisión no iba a pasar; no democratiza el criterio con el que se elige qué mostrar, qué recortar y qué eslogan ponerle encima.
 
@@ -44,13 +43,13 @@ Lo falso viaja más rápido que la corrección, sí, porque la indignación reti
 
 **El otro filtro, el que no se denuncia.** Quien huye de la tele y se instala en un canal de YouTube, en un Telegram o en un directo de tres horas no se volvió, por eso, inmune, porque ahí también hay propietario, hay publicidad —o hay un gurú que vive de la bronca—, hay fuentes, hay *flak* y hay ideología. Chomsky sirve para los dos lados si uno se lo aplica de verdad. Un medio alternativo puede haber acertado el laboratorio en 2020 y, el martes siguiente, vender un remedio, un golpe o un enemigo. El método de este libro no cambia de canal: **¿hay documento, o hay tono?** El celular democratiza la prueba; no canoniza al que la grita.
 
-## 5.4 Estudio de caso: cuando un mundial se vuelve un laboratorio de relatos
+## 7.4 Estudio de caso: cuando un mundial se vuelve un laboratorio de relatos
 
 Pocas semanas después del Mundial de Clubes de 2026, FIFA y verificadores midieron el fenómeno en tiempo real, y la cifra da una idea del tamaño: el Servicio de Protección en Redes de FIFA escaneó más de 53 millones de publicaciones y marcó más de 7 millones como potencialmente abusivas —catorce veces más que en 2022—, con más de 200.000 denunciadas o bajadas. Hubo videos de dirigentes “furiosos” que eran de otro partido, imágenes de inteligencia artificial, audios sintéticos y un supuesto documento de agencia pagando posts. Un recorte, una hinchada predispuesta y unas redes que cobran por bronca alcanzan para armar un clima que parece unánime.
 
 Se cuenta acá no porque el fútbol de un país sea el centro del mundo, sino porque **cualquiera que haya visto un mundial, una elección o una pandemia en el teléfono ya vio el mismo aparato**. Cambien a Messi por un candidato, por un científico o por un pastor: el clip de quince segundos hace el trabajo que antes hacía el editorial. Que haya habido una operación centralizada, paga, para hacer ganar a alguien, nadie lo demostró. Lo que sí se vio es el mecanismo de este capítulo, y para ese mecanismo no hace falta un complot: hace falta una audiencia y un algoritmo.
 
-## 5.5 Estudio de caso: el consenso de “expertos” y Milei
+## 7.5 Estudio de caso: el consenso de “expertos” y Milei
 
 En 2023, más de un centenar de economistas —con Nobels en cartas abiertas— y *The Economist*, el *FT* y el *New York Times* anunciaron que el shock de Milei —motosierra, cierre de organismos, dolarización en el discurso— terminaba en hiperinflación o estallido social. Era un veredicto de tapa, no una hipótesis tímida, y se ofreció al lector como si el consenso de firmas valiera por el dato que todavía no había llegado.
 
@@ -58,7 +57,7 @@ En 2023, más de un centenar de economistas —con Nobels en cartas abiertas— 
 
 Los pronósticos de colapso no se cumplieron; el costo del ajuste sí existió, y se concentró en 2024. Un consenso de expertos puede acertar el diagnóstico —la inflación argentina era fiscal-monetaria— y errar el veredicto político de que la sociedad no lo bancaría. Lo que este caso no autoriza es el giro automático de las redacciones: cuando el número malo aparece, es “el modelo”; cuando el número bueno aparece, es “a costa de los pobres”, como si el 211% no hubiera sido, él mismo, el impuesto a los pobres. El Gini importa, y el 211% también; solo uno de los dos era compatible con seguir como estábamos.
 
-## 5.6 Atacar al que habla, no al dato
+## 7.6 Atacar al que habla, no al dato
 
 El producto más repetido de una redacción, hoy, no es la noticia: es el veto. **No se discute el dato; se discute si el que lo trae es presentable.**
 
@@ -66,7 +65,7 @@ Presentable, en 2015-2025, quiso decir no de derecha, no religioso, no “antiva
 
 La pregunta es más simple de lo que parece: **si el dato es verdadero, ¿qué agrega la ficha del que lo gritó?** Y si es falso, ¿no alcanza con mostrarlo falso? El medio que necesita las dos cosas —desmentir y linchar— no está seguro de la primera.
 
-## 5.7 Lo que 1984 nombra, y lo que no
+## 7.7 Lo que 1984 nombra, y lo que no
 
 —Esto no es Oceania. Hay diarios que se pelean, jueces, un teléfono que se puede apagar. Llamar Ministerio de la Verdad a una redacción es un eslogan, no un argumento.
 —De acuerdo: no hay un Partido único, ni una Sala 101. Orwell no se cita acá como prueba de que ya llegamos. Se cita porque le puso nombre a un hábito que este capítulo ya mostró: reescribir el día, achicar el diccionario, tratar la duda como falta. El distingo importa. “Esto es 1984” echa al que piensa distinto. “Esto es el hábito de 1984, sin el Partido” lo deja leer.
@@ -81,7 +80,7 @@ Hay una frase de Orwell que vale más, para este libro, que Gran Hermano: **quie
 
 Lo que *1984* no es, y conviene no cantarlo: un organigrama de Inner Party con sede en Davos, una telepantalla que usted no puede apagar, una policía que lo lleva por un tuit. Winston no tenía efectivo ni un chat que se cierra. Usted, todavía, sí. El libro que usa a Orwell para decir “ya estamos ahí” miente del mismo modo que el comunicado que dice “acá no pasa nada”. El hábito está. El Partido único, no.
 
-## 5.8 La máquina que habla por todos, y el silencio que viene
+## 7.8 La máquina que habla por todos, y el silencio que viene
 
 Hasta acá, el capítulo describió redacciones, plataformas y agencias, y eso ya es viejo. Lo nuevo es que **la voz general se puede fabricar sin periodista**. Un modelo de lenguaje se entrena en el mismo material que produjo el consenso de 2010-2025 —universidades, OMS, IPCC, *Times*, Wikipedia, las políticas de “seguridad” de las casas que lo alinean— y sale razonable, en todos los idiomas, a las tres de la mañana. No se cansa, no se juega el puesto y, por diseño, se niega a ciertas frases con la misma sonrisa con la que un editor de 2021 bajaba una hipótesis incómoda.
 
@@ -95,7 +94,7 @@ Si la respuesta fuera “nada”, estas páginas serían arqueología, y todaví
 
 Quien trabaja en un medio, o en una plataforma, o entrena modelos, no es el villano de este capítulo, y muchos de ellos también sienten el recorte. La cortesía de este libro con ellos es la misma que pide para el lector: no tratar la duda como una falta moral. Un periodista que publica el laboratorio en 2021 no era un héroe de un bando; era alguien que hizo su trabajo un año tarde, y eso ya es mucho. Un ingeniero que abre el filtro de un modelo no está “pasándose al otro lado”: está devolviendo una pregunta al público.
 
-## 5.9 Cómo leer una noticia sin volverse un detective
+## 7.9 Cómo leer una noticia sin volverse un detective
 
 No hace falta dejar el trabajo para “informarse de verdad”; hace falta un hábito chico, que cabe en el tiempo de un café. Cuando una noticia le mueva el piso —miedo, euforia, bronca—, pruebe esto, en cualquier idioma:
 

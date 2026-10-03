@@ -1,4 +1,4 @@
-# Capítulo 2 — Quién tiró la primera piedra
+# Capítulo 4 — Quién tiró la primera piedra
 
 *Alexandros*, de Valerio Massimo Manfredi, cuenta a Alejandro como quien junta un mapa, un ejército y un relato. No es el expediente de este capítulo. Es una puerta: **quién nombra al que tiró la primera piedra, y con qué historia.**
 
@@ -7,7 +7,7 @@ Una guerra tiene fechas, un mapa y un comunicado. El comunicado llega primero y,
 —Una guerra tiene causas, un agresor que cruza una frontera, y muertos que no son un “relato”.
 —Las causas y la frontera importan, y no se disuelven en un recorte. Lo que se discute aquí es si, además, le dijeron qué no se podía nombrar.
 
-## 2.1 Ucrania: dos relatos, una invasión
+## 4.1 Ucrania: dos relatos, una invasión
 
 **Lo que está en el expediente.** En febrero de 2014, después de meses de protestas en Maidán, Víktor Yanukóvich huyó y el Parlamento lo destituyó. Yanukóvich había rechazado el acuerdo de asociación con la Unión Europea a favor de uno con Rusia. Días antes de su caída, sin embargo, se filtró una llamada de Victoria Nuland, entonces subsecretaria de Estado de Estados Unidos, en la que discutía con el embajador en Kiev quién debía sentarse en el próximo gobierno. Eso no es una “teoría” que circule en un foro: es un audio, y el audio se puede escuchar. Por eso este capítulo empieza ahí, y no en el cuento de hadas que vino después.
 
@@ -23,7 +23,7 @@ En febrero de 2022 Rusia invadió. Una invasión no deja de ser invasión porque
 
 **El negocio.** Lockheed, Raytheon y Northrop vieron subir sus acciones con la guerra. BlackRock fue convocado a asesorar la reconstrucción. Eso convive con el hecho de que hay un ejército ruso en territorio ucraniano, de modo que el lucro de terceros no borra la invasión, y la invasión no santifica el lucro. Se pueden mirar las dos cosas sin tener que elegir cuál de las dos “manda” el relato.
 
-## 2.2 Israel, Palestina y el 7 de octubre
+## 4.2 Israel, Palestina y el 7 de octubre
 
 La historia —sionismo de fines del XIX, Balfour 1917, la guerra de 1948, la Nakba, 1967, Oslo, la Segunda Intifada— está documentada hasta el cansancio y se cuenta al revés según quién tenga el micrófono. Este libro no va a resolver en quince páginas lo que no resolvieron un siglo de diplomáticos. Va a marcar lo que el relato dominante de los últimos años *omite*, porque esa omisión es, hoy, la forma más común de propaganda. Si uno no nombra lo que se recorta, el recorte termina haciendo el trabajo de un argumento.
 
@@ -49,7 +49,7 @@ Quien trate a cada sigla como un perito independiente no leyó el organigrama. Q
 
 **Gaza y el bloqueo.** El bloqueo desde 2007, tras el golpe de Hamas, restringe bienes de doble uso. Hay escasez, hay destrucción, hay cifras de muertos que —aun descontando la opacidad del Ministerio de Salud de Hamas, que no distingue civil de combatiente— son enormes. Hay también una frontera con Egipto, que no es sionista, y un régimen que prefirió túneles y cohetes a desalinizadoras. Las dos lecturas —“costo de una guerra contra un enemigo embebido en civiles” frente a “castigo colectivo”— citan fotos reales. Solo una de las dos necesita borrar el 7 de octubre para funcionar. Por eso ese día no es un prefacio: es el dato que decide cuál de las dos lecturas puede sostenerse sin recortar.
 
-## 2.3 Nord Stream: quién voló el gas y a quién le convenía
+## 4.3 Nord Stream: quién voló el gas y a quién le convenía
 
 En septiembre de 2022 alguien voló los gasoductos Nord Stream 1 y 2 en el Báltico. Europa perdió la vía más importante de gas ruso barato, y Alemania, en particular, quedó sin el caño que había convertido en columna de su industria. El hecho del sabotaje no está en disputa; el autor, sí.
 
@@ -63,7 +63,7 @@ Dinamarca y Suecia cerraron sus causas en 2024. El único hecho innegable, más 
 
 **Liz Truss.** Circuló que Truss mandó “It’s done” a Blinken al minuto de la explosión. El origen es un tuit de Kim Dotcom, sin verificación, amplificado por medios rusos. Su teléfono fue hackeado, sí, pero el hallazgo es anterior, cuando todavía era canciller. Renunció el 20 de octubre por el mini-budget, no por el Báltico. Un hecho real —el hackeo— estirado hasta una ficción es, justamente, el tipo de basura que este libro le pide al lector que recorte. Si no se recorta eso, después no hay derecho a pedir rigor para lo demás.
 
-## 2.4 Irán: la teocracia y los misiles
+## 4.4 Irán: la teocracia y los misiles
 
 El golpe de 1953 contra Mossadegh, CIA y MI6, tras la nacionalización del petróleo, ocurrió. El apoyo occidental a Saddam en la guerra Irán-Irak de los años 80, también. Eso explica la paranoia de Teherán. No la lava. Se puede entender de dónde viene un régimen y, al mismo tiempo, leer lo que ese régimen hace con el poder que tiene.
 
@@ -77,7 +77,7 @@ Irán cuelga gentes de grúas, manda a la policía de la moral a golpear mujeres
 
 Arabia Saudita y Egipto tienen récords atroces y son socios de Occidente. Ese doble estándar existe y hay que nombrarlo, porque si no se nombra, el otro bando lo usa como si fuera un indulto. No convierte a los ayatolás en Westphalia con turbante. Un socio sucio no lava a un régimen que cuelga gente de una grúa.
 
-## 2.5 OTAN: expansión, miedo y guerras de elección
+## 4.5 OTAN: expansión, miedo y guerras de elección
 
 Baker le dijo a Gorbachov en 1990 que la OTAN no se movería “ni una pulgada al este”. El contexto era la reunificación alemana, no un tratado sobre Polonia y los Bálticos. Hubo expectativa en Moscú y hubo ambigüedad que Occidente aprovechó. Llamarlo “promesa firmada traicionada” es demasiado, porque no hubo ese tratado. Llamarlo “Rusia no tiene nada que reclamar” también, porque la expectativa existió y se usó. Las dos frases cortas, otra vez, no alcanzan. Hace falta el medio.
 
@@ -87,7 +87,7 @@ Se puede sostener las dos frases: Ucrania tiene derecho a pedir garantías, y un
 
 Yugoslavia 1999 sin mandato de la ONU, Irak 2003 con inteligencia falsa, Libia 2011 convertida en un mercado de esclavos: fracasos reconocidos incluso por analistas atlantistas. La OTAN no es la Cruz Roja con aviones. Se puede entender por qué un báltico quiere entrar, y al mismo tiempo no santificar cada guerra que esa alianza eligió.
 
-## 2.6 Islam político en Europa
+## 4.6 Islam político en Europa
 
 Este es el tema que las redacciones occidentales más suavizan, y por eso va acá, no en una nota al pie de “diversidad”. Si se lo deja para el final, o se lo envuelve en un eufemismo, el resto del capítulo queda cojo. Se hablaría de Hamas, de Hezbolá y de Teherán como si fueran accidentes locales, y no una gramática que también llegó a Europa.
 
@@ -107,7 +107,7 @@ Mahoma muere en **632**. En **636**, en el Yarmuk, el ejército bizantino se rom
 
 El siglo XX apuró lo que el tributo había empezado. En **1910** los cristianos eran todavía un 13,6 por ciento del Oriente Próximo y el norte de África; un siglo después, alrededor del 4. Turquía, que en 1914 tenía entre un quinto y un cuarto de población cristiana, quedó casi vacía después de las matanzas y las expulsiones de armenios, griegos y asirios. Irak, Siria, Belén: cada guerra reciente adelgazó lo que quedaba. Belén, donde el relato pone el pesebre, era ciudad de mayoría cristiana a mediados del siglo XX; hoy es una minoría. El copto de Egipto resiste, y es la excepción que se cita para no mirar el resto. Quien diga que “el islam también fue conquistado” tiene razón en España y en los Balcanes, donde la Reconquista y las guerras del siglo XIX devolvieron territorio. En el suelo donde nació la Iglesia, la flecha no se invirtió: **el Este cristiano se volvió el Este musulmán**. Europa, mientras tanto, discute si nombrarlo es de mala educación.
 
-## 2.7 Rotherham, las niñas y la falacia contra Tommy Robinson
+## 4.7 Rotherham, las niñas y la falacia contra Tommy Robinson
 
 En 2014, Alexis Jay publicó la investigación independiente sobre explotación sexual infantil en Rotherham, Inglaterra, entre 1997 y 2013. El número que no se pudo seguir tapando: **al menos 1.400 menores**. El patrón de los perpetradores, descrito por la propia investigación y por las víctimas, no fue “hombres diversos de todas las comunidades”: fue, de forma desproporcionada, bandas de hombres de origen pakistaní que acechaban a nenas blancas de clase baja, las drogaban, las violaban y las pasaban de ciudad en ciudad. La policía lo sabía, los *councils* lo sabían y los colegios lo veían; durante años no actuaron, o actuaron contra las nenas —por “promiscuas”, por “problemáticas”— porque el otro camino era ser acusados de racismo. El miedo a una palabra pesó más que las nenas, y eso no es una interpretación de este libro: es lo que encontró la investigación.
 
@@ -117,7 +117,7 @@ Rotherham no fue un pueblo maldito. Rochdale, Oxford —Operation Bullfinch—, 
 
 No: el que las violó no fue Robinson, y el que las tapó tampoco. El que las tapó fue el Estado —policía, municipio, escuela, fiscalía— y una prensa que encontró más cómodo linchar al mensajero que nombrar al patrón. “No me importa lo que haga Tommy Robinson” no es una frase de odio; es la frase de alguien que se niega a que le cambien el tema. El tema es: **por qué, en el país de la Magna Carta, durante quince años, violar nenas pobres fue un costo aceptable del relato de la diversidad**. Hasta que esa pregunta se pueda hacer en la BBC sin que el entrevistador salte a la biografía del entrevistado, el tabú sigue en pie, porque el tabú no se mide por lo que se puede decir en un bar, sino por lo que se puede preguntar en cámara.
 
-## 2.8 Diversidad e igualdad: dos palabras que no caben juntas
+## 4.8 Diversidad e igualdad: dos palabras que no caben juntas
 
 Rotherham ya dejó la palabra sobre la mesa: *diversidad*. Sirvió, durante quince años, para no nombrar un patrón. Conviene, ahora, mirar la palabra misma, y la que le pegan al lado en cada folleto de empresa y en cada ministerio: *igualdad*. Juntas suenan a virtud. Separadas, se pisan.
 
@@ -139,7 +139,7 @@ Este libro no pide planteles de un solo color ni de un solo sexo. Pide no mentir
 
 Ese paquete, en la calle, se llama *woke*: no el insulto de un panel, sino la costumbre de tratar raza, sexo y “espacio seguro” como el criterio de todo lo demás. Lorenzo Vidino, que lleva décadas en el islamismo europeo, le puso un nombre más seco: **islamismo woke**. No es que el imán se haya vuelto feminista. Es que la culpa del hombre blanco, el cupo y el tabú de nombrar un patrón le sirven de tapadera. Yusuf al-Qaradawi, durante años el referente de la Hermandad, pedía “un pequeño ghetto musulmán dentro de la sociedad grande”. Anjem Choudary, en Londres, dijo sin sonrojo que no cree en la libertad ni en la democracia: la soberanía es de Dios. Gad Saad resume lo que varios predicadores no esconden: el vientre, la *hijra* (inmigración) y las libertades del otro usadas en contra. Un clip que circula con una voz puesta encima de otro imán —Mohammad Tawhidi, que en realidad denuncia al extremismo— no se puede citar como si él lo hubiera dicho. El argumento, con nombres que sí firmaron, se sostiene igual: **quien quiere tomar el control no necesita convencer al conservador; le alcanza con que la izquierda esté ocupada en el orgullo, el clima y el aborto**. Eso no es “todos los musulmanes”. Es el extremo que habla claro, y el centro que no lo desmiente.
 
-## 2.9 Malvinas: nada de esto fue azar
+## 4.9 Malvinas: nada de esto fue azar
 
 Un libro escrito en castellano que hable de geopolítica y se saltee las Malvinas está haciendo el mismo truco que le critica a la BBC: borrar el archivo propio. La historia no empieza en 1982, y no empieza en un mapa rosa del Imperio. Empieza cuando alguien llega, se queda, y otro llega después y decide que el que estaba ya no cuenta.
 

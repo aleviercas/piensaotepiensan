@@ -22,17 +22,17 @@ export const PARTS: Part[] = [
     title: "Parte II — El laboratorio de lo real",
     chapters: [
       { slug: "salud", file: "01-salud.md", num: "01", kicker: "Capítulo 1", title: "La isla del doctor Moreau" },
-      { slug: "clima", file: "06-clima.md", num: "06", kicker: "Capítulo 6", title: "El termómetro en el ombligo" },
-      { slug: "economia", file: "07-economia.md", num: "07", kicker: "Capítulo 7", title: "La impresora de dinero" },
+      { slug: "clima", file: "06-clima.md", num: "02", kicker: "Capítulo 2", title: "El termómetro en el ombligo" },
+      { slug: "economia", file: "07-economia.md", num: "03", kicker: "Capítulo 3", title: "La impresora de dinero" },
     ],
   },
   {
     title: "Parte III — El guion invisible",
     chapters: [
-      { slug: "geopolitica", file: "02-geopolitica.md", num: "02", kicker: "Capítulo 2", title: "Quién tiró la primera piedra" },
-      { slug: "atentados", file: "03-atentados.md", num: "03", kicker: "Capítulo 3", title: "Falsa bandera" },
-      { slug: "democracia", file: "04-democracia.md", num: "04", kicker: "Capítulo 4", title: "La urna y lo que no se vota" },
-      { slug: "medios", file: "05-medios.md", num: "05", kicker: "Capítulo 5", title: "El ministerio de la verdad" },
+      { slug: "geopolitica", file: "02-geopolitica.md", num: "04", kicker: "Capítulo 4", title: "Quién tiró la primera piedra" },
+      { slug: "atentados", file: "03-atentados.md", num: "05", kicker: "Capítulo 5", title: "Falsa bandera" },
+      { slug: "democracia", file: "04-democracia.md", num: "06", kicker: "Capítulo 6", title: "La urna y lo que no se vota" },
+      { slug: "medios", file: "05-medios.md", num: "07", kicker: "Capítulo 7", title: "El ministerio de la verdad" },
     ],
   },
   {

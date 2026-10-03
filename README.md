@@ -24,12 +24,12 @@ Orden de lectura (los números de capítulo se conservan):
 |---|---|---|
 | I — Antes de la pregunta | Introducción | [es/00-introduccion.md](es/00-introduccion.md) |
 | II — El laboratorio de lo real | 1. La isla del doctor Moreau | [es/01-salud.md](es/01-salud.md) |
-| | 6. El termómetro en el ombligo | [es/06-clima.md](es/06-clima.md) |
-| | 7. La impresora de dinero | [es/07-economia.md](es/07-economia.md) |
-| III — El guion invisible | 2. Quién tiró la primera piedra | [es/02-geopolitica.md](es/02-geopolitica.md) |
-| | 3. Falsa bandera | [es/03-atentados.md](es/03-atentados.md) |
-| | 4. La urna y lo que no se vota | [es/04-democracia.md](es/04-democracia.md) |
-| | 5. El ministerio de la verdad | [es/05-medios.md](es/05-medios.md) |
+| | 2. El termómetro en el ombligo | [es/06-clima.md](es/06-clima.md) |
+| | 3. La impresora de dinero | [es/07-economia.md](es/07-economia.md) |
+| III — El guion invisible | 4. Quién tiró la primera piedra | [es/02-geopolitica.md](es/02-geopolitica.md) |
+| | 5. Falsa bandera | [es/03-atentados.md](es/03-atentados.md) |
+| | 6. La urna y lo que no se vota | [es/04-democracia.md](es/04-democracia.md) |
+| | 7. El ministerio de la verdad | [es/05-medios.md](es/05-medios.md) |
 | IV — Los semiconductores ancestrales | 8. Skynet | [es/08-inteligencia.md](es/08-inteligencia.md) |
 | | 9. Si las piedras hablaran | [es/09-espacio.md](es/09-espacio.md) |
 | V — Donde nadie está mirando | 10. El bosque oscuro | [es/10-extraterrestre.md](es/10-extraterrestre.md) |

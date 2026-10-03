@@ -1,4 +1,4 @@
-# Capítulo 4 — La urna y lo que no se vota
+# Capítulo 6 — La urna y lo que no se vota
 
 *The Manchurian Candidate*, *Die Welle* (*La ola*) y *12 Angry Men* (*Doce hombres sin piedad*) muestran sugestión, obediencia y el trabajo de juzgar. No equivalen a una urna real. Abren la pregunta: **qué se vota, qué se obedece sin votar, y quién se queda solo cuando el grupo ya cerró.**
 
@@ -7,7 +7,7 @@ Cada cierto tiempo se nos pide tratar la urna como si fuera el poder entero: se 
 —Las democracias cuentan votos con reglas, jueces y periodistas. En 2020 se litigó y no se dio vuelta. Eso es el sistema funcionando, no un cuento.
 —Se litigó, sí. Este capítulo no pide un vuelco nacional que no está en el expediente. Pide no confundir “no se dio vuelta” con “no hubo censura, ni reglas cambiadas, ni un poder que no se vota”.
 
-## 4.1 Vulnerabilidades reales en sistemas electorales
+## 6.1 Vulnerabilidades reales en sistemas electorales
 
 Hay dos preguntas distintas, y conviene no pegarlas: ¿se puede manipular un sistema electoral? Sí, y hay casos firmes. ¿Hay un fraude de escala nacional detrás de cada resultado que no nos gusta? Casi nunca. El truco de las redacciones es usar la segunda para prohibir la primera. Este capítulo pide lo inverso: mirar la primera con calma, sin convertirlo en un himno sobre la segunda.
 
@@ -35,7 +35,7 @@ Nada de eso equivale, por sí solo, a “se robaron 2020”. Equivale a una elec
 
 **Otros laboratorios, no solo uno.** Brasil 2022: urnas electrónicas sin comprobante papel verificable por el votante, un ex presidente denunciando fraude sin prueba de escala, un Supremo que se volvió jugador. México: el INE como muralla y, a la vez, como botín; compra de voto rural que cualquier antropólogo describe y cualquier editorial llama estigma. Reino Unido: el voto por correo se expandió y, con él, los casos de “harvesting” que los tribunales locales sí vieron. Francia y varios países de la UE: baja participación, protestas que no caben en la urna, y un discurso de “democracia iliberal” que se aplica a Hungría y nunca a Bruselas. El patrón no es “Occidente es Venezuela”. El patrón es: **la urna es un tramo del poder, no el poder**, y tratar cada pregunta sobre el tramo como un golpe de Estado es, precisamente, el modo de vaciarla. Si no se puede preguntar por el tramo, el tramo deja de ser de todos.
 
-## 4.2 Dictaduras del siglo XXI: mecanismos de control
+## 6.2 Dictaduras del siglo XXI: mecanismos de control
 
 Casi ninguna se presenta como dictadura. Hay elecciones, constitución y parlamento. Lo que falta es que sirvan para algo. El disfraz no es un detalle estético: es el método. Si se espera un gulag en cada esquina para poder usar la palabra, la palabra llega siempre tarde.
 
@@ -53,7 +53,7 @@ Nada de eso convierte a Ottawa o a Canberra en Caracas. Convierte, sí, en visib
 
 Quien vivió esos años y los recuerda como “se hizo lo que se pudo” tiene derecho a esa lectura. Quien los recuerda como un ensayo general de obediencia también. Este libro no pide elegir una de las dos para poder seguir leyendo. Pide no borrar la herramienta del inventario, porque el inventario es lo que un ciudadano puede vigilar. Si la herramienta desaparece del inventario, la próxima vez ni siquiera se la nombra.
 
-## 4.3 El FEM, Davos y el poder que no se vota
+## 6.3 El FEM, Davos y el poder que no se vota
 
 El Foro Económico Mundial es una fundación suiza. No vota leyes ni tiene ejército. Tratarlo como un gobierno mundial con organigrama es una caricatura, y las caricaturas se desinflan solas. Por eso este apartado no empieza por Schwab con capa: empieza por lo que sí está en un PDF y en una foto.
 
@@ -73,7 +73,7 @@ Las “ciudades de quince minutos” son, en urbanismo, una idea vieja y a veces
 
 Hay una pregunta previa, más incómoda, que varias democracias prefieren no hacer en voz alta: **quién cuenta como pueblo**. Japón, Corea, Israel, los países del Golfo, tienen respuestas explícitas, a veces duras, sobre ciudadanía, idioma y lealtad. Occidente, en cambio, a menudo tiene un tabú: tratar el padrón como un hecho moral, no como un contrato. El voto de extranjeros en distritos locales, la nacionalización rápida, el censo que no se puede comentar, no son “detalles administrativos”: son el quién de la frase “el pueblo decide”. Se puede estar a favor de abrir, y se puede estar a favor de cerrar; lo que no se puede, en un libro de este tipo, es declarar la pregunta indecible. Un contrato social que no se deja discutir deja de ser un contrato: se vuelve una herencia que administran otros.
 
-## 4.4 El organigrama que no se presenta a examen
+## 6.4 El organigrama que no se presenta a examen
 
 Hay un argumento, y no es de Telegram, que las democracias liberales prefieren no nombrar: **una parte creciente de lo que te rige no se vota**. Bancos centrales, agencias sanitarias, cortes constitucionales, fiscalías, organismos de “integridad de la información”, directorios de plataformas, agencias de inteligencia. Se les llama, según el humor, instituciones, burocracia o *deep state*. El nombre importa menos que el hecho: duran más que el presidente, no rinden examen cada cuatro años, y en 2020-2022 demostraron que pueden cerrar una economía, un aula y una boca con un decreto y un mail al moderador. Si el nombre “Estado profundo” le suena a folleto, cámbielo. El organigrama, no.
 
@@ -85,7 +85,7 @@ Eso no prueba que “las elecciones no sirven”. Prueba que **sirven para menos
 
 La pregunta abierta, y es la de este capítulo: **si el poder que más toca la vida cotidiana no se vota, ¿qué se celebra cada dos años, además de un ritual?** No pide dejar de ir. Pide no confundir la fila con el gobierno.
 
-## 4.5 La misma regla, o no: cómo “amenaza a la democracia” cambió de lado
+## 6.5 La misma regla, o no: cómo “amenaza a la democracia” cambió de lado
 
 Hay una frase que, en esta década, se volvió un arma: *proteger la democracia*. Se la usa para defender el recuento, y se la usa para impedir que se mire el recuento. Se la usa contra un presidente que no concede, y se la usa contra un votante que pregunta por el correo. El truco —y acá la palabra vale— no es de un partido. Es de quien tiene el micrófono. Si el micrófono cambia de mano y la frase sigue igual de elástica, entonces el problema no era el partido. Era la elástica.
 

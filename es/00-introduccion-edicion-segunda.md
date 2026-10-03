@@ -1,6 +1,6 @@
 # Introducción
 
-> **PARTE I — FILOSOFÍA**
+> **PARTE I — Antes de la pregunta**
 
 La filosofía abre este recorrido no como una lista de respuestas, sino como el ejercicio de detenerse ante una idea y preguntar de dónde viene, qué la sostiene y qué podría hacerla cambiar.
 

@@ -1,7 +1,6 @@
-# Capítulo 3 — Falsa bandera
+# Capítulo 5 — Falsa bandera
 
-> **PARTE II — PODER Y SOCIEDAD**
-
+> **PARTE III — El guion invisible**
 ### Umbral narrativo
 
 *Braveheart* y *Gladiator* muestran cómo el cine construye figuras de resistencia, sacrificio y enemigo. Son relatos dramatizados, no pruebas históricas: permiten preguntar quién atribuye un acto, cómo se legitima una respuesta y qué diferencia hay entre una narración convincente y lo documentado.
@@ -12,7 +11,7 @@ La expresión es vieja: hacer que el golpe parezca obra de otro, para justificar
 —La Comisión documentó negligencia, no un trabajo interno. Pedir un complot para cada hueco no es rigor: es relleno.
 —De acuerdo: el hueco no prueba el complot. Por eso las dos carpetas. Si se pegan, se nota.
 
-## 3.1 El 11-S: lo que el informe dejó abierto
+## 5.1 El 11-S: lo que el informe dejó abierto
 
 Acá más que en otros capítulos conviene separar lo documentado de lo especulativo, porque los dos bandos suelen mezclarlos. Quien ya “sabe” que fue un trabajo interno junta el memo de agosto con el Edificio 7 y lo sirve en un solo plato. Quien ya “sabe” que no hay nada que mirar usa ese plato para no abrir ni el memo. Este capítulo pide otra cosa, más lenta: una cosa por vez.
 
@@ -24,7 +23,7 @@ Acá más que en otros capítulos conviene separar lo documentado de lo especula
 
 **La pregunta que sí vale la pena sostener:** no es “quién voló las torres”, sino por qué costó veinte años y una demanda judicial arrancarle al Estado estadounidense información sobre una red de apoyo extranjera a los atacantes que sus propias agencias ya conocían en 2001. Esa pregunta cabe en el informe oficial. No necesita un complot para ser incómoda.
 
-## 3.2 AMIA: Argentina en el tablero geopolítico
+## 5.2 AMIA: Argentina en el tablero geopolítico
 
 El atentado a la sede de la AMIA en Buenos Aires, el 18 de julio de 1994, dejó 85 muertos y sigue siendo la peor masacre terrorista de la historia argentina, todavía sin un solo condenado. Se cuenta acá no porque el libro sea una gacetilla local: se cuenta porque es un caso completo —un atentado, un Estado acusado, un fiscal muerto, un memorándum, Interpol, petróleo— que un lector en Madrid, en Miami o en Tel Aviv puede usar de plantilla. Cambien AMIA por Lockerbie, por el AMIA de otro nombre, por un consulado, y el esquema se reconoce: **la geopolítica entra por la puerta de una asociación de barrio**. Si el caso parece “demasiado argentino”, conviene leerlo al revés: es demasiado completo para dejarlo solo en un archivo de Buenos Aires.
 
@@ -34,7 +33,7 @@ El atentado a la sede de la AMIA en Buenos Aires, el 18 de julio de 1994, dejó 
 
 **La muerte de Nisman:** la noche anterior a presentarse ante el Congreso para exponer esa denuncia contra la entonces presidenta, en enero de 2015, Nisman apareció muerto en su departamento con un disparo en la cabeza. La causa judicial osciló durante años entre las hipótesis de suicidio y homicidio: la primera autopsia y una pericia inicial de Gendarmería no encontraron rastros de terceros en la escena, mientras que un peritaje posterior de la Policía Federal, en 2017, concluyó que hubo participación de otras personas y que la escena fue alterada. Para cuando se escribe este libro, la Justicia argentina calificó la muerte como homicidio, pero no hay ningún condenado. Es uno de los pocos casos de este capítulo donde la propia Justicia de un país democrático, con las garantías del debido proceso, sostiene formalmente que hubo un homicidio disfrazado, sin que eso implique que ya sepamos con certeza quién lo ordenó. El hueco de la autoría no borra la calificación. La calificación no inventa, por sí sola, el nombre que falta.
 
-## 3.3 Operaciones documentadas, y las que no lo son
+## 5.3 Operaciones documentadas, y las que no lo son
 
 Antes de entrar en casos puntuales, vale aclarar qué significa “falsa bandera” en sentido estricto: una operación diseñada para parecer obra de un enemigo —o de una parte distinta a la real—, con el fin de justificar una respuesta política o militar. No es una categoría marginal de la historia. Existen casos plenamente documentados, con fuentes desclasificadas o investigaciones parlamentarias, de que estados las planificaron o ejecutaron. Si la palabra suena a foro, el problema no es la palabra. Es que se la usó tanto para el caso cierto como para un video de internet, y entonces ya no se distingue.
 
@@ -46,7 +45,7 @@ Antes de entrar en casos puntuales, vale aclarar qué significa “falsa bandera
 
 **La pregunta abierta:** que estos tres casos estén confirmados no prueba que cualquier atentado señalado como “falsa bandera” lo sea —esa es exactamente la clase de salto lógico que este libro pide evitar—. Lo que sí establecen es que la sospecha de falsa bandera no es, en sí misma, descabellada: es una herramienta real del repertorio de los estados, usada más de una vez, y eso alcanza para justificar que cada caso nuevo se investigue con rigor en vez de descartarse de entrada por “sonar a teoría conspirativa”. El archivo abre la puerta. No la deja abierta para que entre cualquier relato.
 
-## 3.3b Cómo “conspiración” se volvió insulto
+## 5.3b Cómo “conspiración” se volvió insulto
 
 En 1967, un despacho interno de la CIA —después desclasificado— pidió a sus contactos en los medios que trataran las críticas a la Comisión Warren como *conspiracy theory*: no como hipótesis a contrastar, sino como síntoma. La palabra ya existía. Lo que cambió es el uso: **pasar del expediente al diagnóstico del que pregunta**. Quien duda de un comunicado oficial no discute un hecho: “es de esos”. El truco es viejo y no es de un solo bando. Hoy lo usa un ministerio contra quien pregunta por un laboratorio, y lo usa un foro contra quien pide una prueba. En los dos casos, la palabra ahorra el trabajo. Por eso conviene desconfiar de ella aunque uno esté de acuerdo con quien la dispara.
 
@@ -59,7 +58,7 @@ Este libro no va a rehabilitar cualquier relato sin pruebas. Va a pedir, con cal
 
 Mezclar las cuatro cosas es lo que produce, a la vez, al crédulo y al cínico, porque el crédulo traga todo junto y el cínico lo escupe. El curioso abre una cosa por vez, y por eso va más lento. Es el único modo de no volver a 1967, cuando la palabra ya hacía el trabajo que el expediente no podía.
 
-## 3.4 Servicios de inteligencia y cambio de régimen: casos documentados
+## 5.4 Servicios de inteligencia y cambio de régimen: casos documentados
 
 A diferencia de otros temas de este libro, acá el terreno es mayormente firme: la CIA reconoció oficialmente, en documentos desclasificados propios, su participación directa en el derrocamiento de gobiernos elegidos democráticamente. No hace falta una filtración de un foro. Lo dijo, décadas después, el propio archivo.
 
@@ -73,7 +72,7 @@ A diferencia de otros temas de este libro, acá el terreno es mayormente firme: 
 
 **Lo que este patrón no prueba:** que estos casos estén confirmados por las propias fuentes oficiales no significa que cualquier cambio de gobierno adverso a los intereses de una potencia sea, por lo tanto, obra de un servicio de inteligencia extranjero. Muchos gobiernos caen por causas internas genuinas —corrupción, crisis económicas, pérdida de apoyo popular real—. Lo que sí deja este patrón, con una base empírica sólida y no especulativa, es que descartar de plano la injerencia extranjera como explicación posible en un cambio de gobierno conveniente para una potencia externa es, como mínimo, ingenuo a la luz de la propia historia documentada de esa potencia. El archivo no obliga a ver una mano en cada caída. Obliga a no declarar la mano imposible de antemano.
 
-## 3.5 Muertes que se volvieron relato
+## 5.5 Muertes que se volvieron relato
 
 **Jamal Khashoggi (2018):** el periodista saudita, columnista del *Washington Post* y crítico del príncipe heredero Mohammed bin Salman, entró el 2 de octubre de 2018 al consulado saudita en Estambul para tramitar unos papeles y nunca volvió a salir. La inteligencia turca grabó audio del interior del consulado y filtró que fue asfixiado y desmembrado por un equipo de quince agentes sauditas enviados especialmente para la operación. En 2021, ya bajo la administración Biden, Estados Unidos desclasificó una evaluación de sus propios servicios de inteligencia que concluyó que el príncipe heredero “aprobó” la operación. Arabia Saudita reconoció el asesinato —algo que en un primer momento negó por completo— pero sostiene que el príncipe heredero no lo ordenó ni lo sabía, y condenó a un grupo de agentes de rango medio sin tocar a nadie de la cúpula. Es uno de los pocos casos de este capítulo donde el hecho central —quién lo mató y cómo— está probado casi en su totalidad; lo que queda genuinamente disputado es la cadena de mando exacta hacia arriba, algo que ningún organismo independiente logró determinar con certeza judicial. Se puede, entonces, sostener el crimen sin fingir que ya está cerrado el último nombre.
 

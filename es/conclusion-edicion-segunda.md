@@ -1,4 +1,4 @@
-# Conclusión — Seguir preguntando
+# Capítulo 12 — Seguir preguntando
 
 > **Fuera de las cinco partes — regreso a la Parte I: Filosofía**
 

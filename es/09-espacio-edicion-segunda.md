@@ -1,7 +1,6 @@
 # Capítulo 9 — Si las piedras hablaran
 
-> **PARTE IV — TECNOLOGÍA Y FUTURO**
-
+> **PARTE IV — Los semiconductores ancestrales**
 ### Umbral narrativo
 
 Los diálogos *Timeo* y *Critias*, de Platón, son el punto de partida literario clásico del relato de Atlantis. Conviene distinguir el contenido del texto, sus lecturas filosóficas y las hipótesis sobre una posible memoria histórica. La pregunta por las civilizaciones antiguas puede permanecer abierta sin convertir una laguna documental en confirmación.

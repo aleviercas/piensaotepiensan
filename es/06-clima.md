@@ -1,11 +1,11 @@
-# Capítulo 6 — El termómetro en el ombligo
+# Capítulo 2 — El termómetro en el ombligo
 
 El hombre se pone el termómetro en el ombligo: mide el calor contra *su* cuerpo, en *su* siglo, y concluye que él es el centro y la causa de todo lo que se mueve. Lo frío o lo caliente se lee respecto de su línea de tiempo, no respecto de un planeta que ya fue más verde, más caliente y más frío mucho antes de la chimenea. Hay un gas, un termómetro y una política, y conviene no pegarlos de entrada. El aire se calentó y el dióxido de carbono subió; eso se puede mirar sin convertirlo, de inmediato, en un veredicto moral. Lo que suele pegársele después —urgencia, enemigo, la política que sí se vota— ya no es el dato: es el relato. La pregunta de este capítulo es de proporción: **qué se midió de verdad, y qué se vendió como si se hubiera medido.**
 
 —El CO2 absorbe infrarrojo, el aire se calentó un grado, y parte de ese carbono extra tiene firma fósil. Eso está medido. Dudar de la política no borra el tubo de Tyndall.
 —Este capítulo firma las tres. Lo que abre es lo de después: cuánto pesa esa molécula, qué tan calientes corren los modelos, y si “el 97%” cubre el net-zero o solo el enunciado mínimo. El tubo se queda. La política que se le pega, no.
 
-## 6.1 Lo que se mide y lo que se vende junto
+## 2.1 Lo que se mide y lo que se vende junto
 
 Lo que suele venir después del termómetro es otra cosa: que casi todo el calor es nuestro; que los modelos aciertan lo suficiente para rediseñar la economía; que los huracanes ya son la prueba; que el único camino decente es apagar el fósil a toda prisa; y que dudar de cualquiera de esos saltos es “negar la ciencia”. Eso no es física: es un paquete de conclusiones pegadas a un dato. Se puede abrir el paquete y, aun así, seguir preocupado por el clima. Este libro solo invita a no tragárselo cerrado.
 
@@ -21,7 +21,7 @@ No es un detalle. Si la sensibilidad real está en la parte baja, el calentamien
 
 **Los modelos corren calientes.** La generación CMIP6 incluye modelos con ECS superior a 5 °C que ya calentaron de más el período observado, y el propio IPCC tuvo que advertir que no se usara el promedio crudo de esos modelos como proyección. Cuando un instrumento sistemáticamente sobreestima el pasado, un adulto no lo usa como predicción del futuro sin calibrarlo. En clima, usarlo y llamar “negacionista” a quien pide la calibración se volvió costumbre.
 
-## 6.2 El carbono que sale de las chimeneas
+## 2.2 El carbono que sale de las chimeneas
 
 Antes de aceptar que el carbono que sale de nuestras chimeneas es el termostato del planeta, vale sentarse un minuto con una cuenta sencilla. No es un truco de redes ni un “caso de estudio” contra nadie. Es la pregunta con la que mucha gente, este autor incluido, empezó a dudar. **¿De qué tamaño es, en el aire que respiramos, eso que se nos carga como culpa civilizatoria?**
 
@@ -54,7 +54,7 @@ De acuerdo: la báscula, en el flujo anual, no le da la razón al titular. Recor
 
 Lo que sí queda, y no necesita una suma falsa, es la pregunta política. El Etna no paga multa. El Sol no paga multa. El vapor de agua no paga multa. El auto, sí. Pinatubo, en 1991, enfrió el planeta un rato con **azufre**, no con carbono: el golpe climático de un volcán, cuando se mide, suele ser de signo contrario al cuento del CO2. El apartado 6.8 lo desarma. Entonces el video sirve para esto, no para aquello: **¿estamos midiendo el clima, o estamos eligiendo la molécula que se puede regular por decreto?** Elegir esa molécula no prueba que el auto no cuente. Prueba que conviene no confundir la foto del cráter con el inventario.
 
-## 6.3 El registro profundo: ¿estamos en un máximo, o en un mínimo?
+## 2.3 El registro profundo: ¿estamos en un máximo, o en un mínimo?
 
 Acá hay dos fotografías, y conviene mirarlas las dos, sin que una cancele a la otra, porque cada una, sola, cuenta una historia distinta.
 
@@ -70,7 +70,7 @@ Las dos fotos son reales. Quien muestre solo la primera dice “nunca hubo tanto
 
 La pregunta que queda, y que este libro no va a cerrar con un puñetazo, es esta: si en la escala geológica el CO2 fue varias veces más alto y la vida proliferó, **¿de qué, exactamente, estamos huyendo a toda velocidad?** ¿De un grado y medio en un siglo, con diques y aire acondicionado? ¿O de un relato que necesita la huida para justificar el resto del paquete?
 
-## 6.4 1940-1975: cuando industrializar enfriaba, y Newsweek anunciaba el hielo
+## 2.4 1940-1975: cuando industrializar enfriaba, y Newsweek anunciaba el hielo
 
 Mire la curva de temperatura del siglo XX con el dedo, no con el documental. Hay una subida hasta ~1940, un **estancamiento o un enfriamiento** —sobre todo en el hemisferio norte— hasta mediados de los 70, y después la subida que todos vimos. Entre 1940 y 1975 el mundo se industrializó como nunca: carbón europeo y soviético, automóvil americano, acero japonés, petroquímica. El CO2 no dejó de subir, y la temperatura, en esa ventana, no lo acompañó.
 
@@ -78,7 +78,7 @@ La explicación oficial posterior son los **aerosoles de sulfato**: suciedad que
 
 **La prensa del hielo.** El 28 de abril de 1975, *Newsweek* publicó “The Cooling World”, de Peter Gwynne: estaciones más cortas, más nieve, miedo a una nueva edad de hielo, y la sugerencia de que tal vez habría que derretir el Ártico a propósito. No fue un paper del IPCC; fue un semanario de tirada masiva haciendo lo que los semanarios hacen: convertir una incertidumbre científica en tapa. Décadas después, Longreads y el propio Gwynne volvieron sobre el texto para explicar cómo se vive con las consecuencias de haber asustado al público hacia el polo contrario. El dato útil para este libro no es “los científicos de 1975 sabían que venía el hielo”: un recuento de *BAMS* —Thomas C. Peterson, William M. Connolley y John Fleck, “The Myth of the 1970s Global Cooling Scientific Consensus”, *Bulletin of the American Meteorological Society*, 89(9), 2008, pp. 1325–1338, [doi:10.1175/2008BAMS2370.1](https://doi.org/10.1175/2008BAMS2370.1)— muestra que, en la literatura técnica de los 70, los papers que tomaban posición se inclinaban más al calentamiento que al enfriamiento. El dato útil es otro: **el canal de divulgación ya sabía asustar con el clima antes de saber cuál era el susto correcto**. Primero el hielo; después el fuego. El botón es el mismo; cambia el titular. Si el periodismo climático se equivocó de signo en una generación, ¿con qué autoridad pide hoy que uno entregue la política energética a su próximo titular?
 
-## 6.5 El Sol que no se ve, y el bamboleo que sí existe
+## 2.5 El Sol que no se ve, y el bamboleo que sí existe
 
 La irradiancia solar total medida por satélite desde 1978 no explica, ella sola, el calentamiento reciente: está plana o levemente a la baja. Eso debilita las hipótesis que quieren **solo** al Sol como termostato del siglo XXI, pero no cierra el expediente solar: cierra, como mucho, una variable.
 
@@ -92,7 +92,7 @@ Un adulto puede decir que el CO2 pesa, y el Sol también, y las nubes más, y qu
 
 **Glaciares, Pequeña Edad de Hielo y el truco del “ya es tarde”.** En 2026 la ONU sigue publicando que, aunque las emisiones cayeran en seco, los glaciares seguirían perdiendo masa “durante décadas” por el calor ya “encerrado” en el sistema. La frase se usa como tenaza: si emitís, culpa; si cortás, igual se derriten, así que adaptate y pagá. Lo que esa frase no pone al lado es el archivo. El retroceso de muchos glaciares alpinos, andinos y de Nueva Zelanda **empezó en el siglo XIX**, saliendo de la Pequeña Edad de Hielo (aprox. 1300-1850): un tramo frío, con ríos helados en Londres, hambrunas y el máximo reciente de varios hielos de montaña, *antes* de que el CO2 se disparara. Meteorólogos que no compran la doctrina cerrada —la línea de John Shewchuk y otros que miran ciclos solares, incluido el de Eddy— argumentan que todavía estamos, en parte, descongelándonos de ese mínimo, y que un mínimo solar futuro puede devolver frío aunque el PowerPoint de la ONU no lo tenga en la diapositiva. Se puede discutir la magnitud. No se puede, con seriedad, fechar todo el deshielo en “la era del SUV” cuando los pintores del siglo XIX ya estaban retratando morrenas que hoy están más arriba. El “ya es tarde” no es un dato: es una política. Un dato sería: **¿cuánto del retroceso es la cola de la Pequeña Edad de Hielo, cuánto es el CO2, y cuánto es un ciclo que ningún decreto regula?**
 
-## 6.6 Un debate que existe
+## 2.6 Un debate que existe
 
 **Clima extremo.** Acá la distancia entre el titular y el informe técnico es máxima. El IPCC, en sus capítulos de atribución, tiene *baja confianza* o evidencia limitada sobre un aumento global de huracanes, tornados, sequías meteorológicas e inundaciones en varias regiones, y la frecuencia global de ciclones tropicales no muestra una tendencia clara al alza en el registro satelital. Las muertes por desastres climáticos —sequías, inundaciones, tormentas, extremos de temperatura— cayeron más del 90% en un siglo, según series compiladas por Our World in Data a partir de EM-DAT: no porque el clima se haya vuelto más amable, sino porque la riqueza, la infraestructura y los sistemas de alerta salvan más gente que la que mata un grado extra. Ese dato casi nunca aparece en la misma página que el oso polar. Un mundo más rico y con energía barata se adapta; un mundo que se empobrece para cumplir una meta simbólica de CO2, no.
 
@@ -106,7 +106,7 @@ Un adulto puede decir que el CO2 pesa, y el Sol también, y las nubes más, y qu
 
 **Climategate (2009).** Los mails de East Anglia no “probaron que el calentamiento es un fraude”. Sí mostraron algo que las ocho investigaciones posteriores suavizaron: una cultura de trinchera. “Hide the decline” no era una metáfora inocente: se empalmaba la serie instrumental sobre anillos de árboles que, después de 1960, iban para abajo, para no mostrar esa divergencia. Se discutía cómo bloquear papers incómodos en el proceso del IPCC, y se resistía entregar datos a críticos. Las investigaciones posteriores —varias internas o de pares institucionales— no encontraron fraude masivo en las series de temperatura. Encontraron, y esto importa para este libro, que un campo científico con monopolio de financiamiento público y con una causa moral encima se comporta como se comportan los monopolios: protege el relato, castiga al disidente y llama “consenso” a la ausencia de rivales financiados.
 
-## 6.7 Energía, costo y pobres
+## 2.7 Energía, costo y pobres
 
 Si el diagnóstico físico tiene grises, la política que se vendió encima tiene números, y esos números son peores. Conviene bajar del modelo a la factura.
 
@@ -130,7 +130,7 @@ Si el diagnóstico físico tiene grises, la política que se vendió encima tien
 
 **Quién financia a quién.** Se menciona siempre que los escépticos recibieron dinero de petroleras, y es verdad en varios casos, y hay que decirlo. Se menciona mucho menos que el grueso de la investigación climática, de las ONGs, de los medios especializados y de las consultoras ESG vive de gobiernos, filantropía alineada —Gates, Rockefeller, Bezos Earth Fund— y de un mercado regulatorio que *necesita* el relato de urgencia para justificar su propia existencia. El sesgo de financiamiento no es un argumento solo contra un lado. Quien aplica la regla “sigue el dinero” únicamente al disidente no está siguiendo el dinero: está protegiendo al donante correcto.
 
-## 6.8 El efecto Pinatubo: azufre que enfría, carbono que no
+## 2.8 El efecto Pinatubo: azufre que enfría, carbono que no
 
 El 15 de junio de 1991 el monte Pinatubo, en Luzón, Filipinas, explotó con un índice VEI 6: la mayor erupción del siglo que los satélites pudieron mirar de frente. Inyectó del orden de **17 a 20 millones de toneladas de dióxido de azufre** en la estratosfera (Self y el USGS; Bluth y otros). En semanas ese SO2 se volvió una niebla de sulfato que dio la vuelta al planeta.
 
@@ -150,7 +150,7 @@ Quedan tres lecciones que sí caben en este libro, y ninguna pide un himno.
 
 **Tres.** El enfriamiento fue transitorio. Un volcán no firma un tratado. El velo cae, el sol vuelve, y la curva de temperatura retoma. Eso vale para el que quiere usar Pinatubo como “el clima lo mandan los cráteres” y para el que quiere usarlo como termostato permanente: **ni lo uno ni lo otro**. Fue un experimento de la naturaleza, de dos años, con azufre. El expediente está. El patio, no.
 
-## 6.9 Geoingeniería: el plan B de quienes no logran el plan A
+## 2.9 Geoingeniería: el plan B de quienes no logran el plan A
 
 No hay tratado internacional vinculante que regule la geoingeniería solar —inyectar aerosoles en la estratosfera para reflejar luz—. Pinatubo es el análogo que citan: si un volcán enfrió medio grado con azufre, un programa de sulfatos podría “comprar tiempo”. En 2022, la startup Make Sunsets empezó a lanzar globos con dióxido de azufre desde México sin permiso, y México lo prohibió en 2023. El experimento académico más cauteloso (SCoPEx, Harvard) se canceló por presión política e indígena. La paradoja es real: la investigación seria se frena, y el actor privado sin control ya soltó material.
 

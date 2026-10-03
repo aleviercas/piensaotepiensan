@@ -8,14 +8,14 @@ Arquitectura compartida por las dos ediciones. Se preserva la numeración origin
 
 ## Parte II — El laboratorio de lo real
 - Capítulo 1 — La isla del doctor Moreau. Umbral: *La isla del doctor Moreau*, de H. G. Wells.
-- Capítulo 6 — El termómetro en el ombligo. Referencia: Peterson, Connolley y Fleck, *BAMS*, 2008.
-- Capítulo 7 — La impresora de dinero. Umbrales: *The Big Short* e ideas de Milton Friedman.
+- Capítulo 2 — El termómetro en el ombligo. Referencia: Peterson, Connolley y Fleck, *BAMS*, 2008.
+- Capítulo 3 — La impresora de dinero. Umbrales: *The Big Short* e ideas de Milton Friedman.
 
 ## Parte III — El guion invisible
-- Capítulo 2 — Quién tiró la primera piedra. Umbral: *Alexandros*, de Valerio Massimo Manfredi.
-- Capítulo 3 — Falsa bandera. Umbrales: *Braveheart* y *Gladiator*.
-- Capítulo 4 — La urna y lo que no se vota. Umbrales: *The Manchurian Candidate*, *Die Welle* y *12 Angry Men*.
-- Capítulo 5 — El ministerio de la verdad. Umbral: *1984*, de George Orwell.
+- Capítulo 4 — Quién tiró la primera piedra. Umbral: *Alexandros*, de Valerio Massimo Manfredi.
+- Capítulo 5 — Falsa bandera. Umbrales: *Braveheart* y *Gladiator*.
+- Capítulo 6 — La urna y lo que no se vota. Umbrales: *The Manchurian Candidate*, *Die Welle* y *12 Angry Men*.
+- Capítulo 7 — El ministerio de la verdad. Umbral: *1984*, de George Orwell.
 
 ## Parte IV — Los semiconductores ancestrales
 - Capítulo 8 — Skynet. Umbral: *Terminator*.
