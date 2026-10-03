@@ -1,6 +1,5 @@
 # Capítulo 7 — El ministerio de la verdad
 
-> **PARTE III — El guion invisible**
 ### Umbral narrativo
 
 *1984*, de George Orwell, acompaña este capítulo como ficción sobre el poder de nombrar, registrar y modificar lo que una sociedad cree recordar. No supone que todo medio sea un Ministerio de la Verdad: ayuda a observar mecanismos concretos de encuadre, omisión y repetición.
