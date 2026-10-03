@@ -8,11 +8,11 @@ Todo empieza con una pregunta que parece sencilla y se vuelve incómoda al soste
 
 ## Apertura de la Parte II — El laboratorio de lo real
 
-Una idea deja de ser solamente individual cuando organiza instituciones, define enemigos, legitima decisiones o establece qué puede decirse en público. Esta parte desplaza la pregunta desde la conciencia hacia la vida compartida: ¿cómo se forman los consensos y qué mecanismos los sostienen?
+El poder también se expresa en la manera de medir, explicar y distribuir. En ciencia y economía conviven datos, modelos, incertidumbres, incentivos y decisiones. El desafío no es desconfiar de todo ni aceptar todo, sino distinguir qué está observado, qué se infiere y qué se propone hacer a partir de ello.
 
 ## Apertura de la Parte III — El guion invisible
 
-El poder también se expresa en la manera de medir, explicar y distribuir. En ciencia y economía conviven datos, modelos, incertidumbres, incentivos y decisiones. El desafío no es desconfiar de todo ni aceptar todo, sino distinguir qué está observado, qué se infiere y qué se propone hacer a partir de ello.
+Una idea deja de ser solamente individual cuando organiza instituciones, define enemigos, legitima decisiones o establece qué puede decirse en público. Esta parte desplaza la pregunta desde la conciencia hacia la vida compartida: ¿cómo se forman los consensos y qué mecanismos los sostienen?
 
 ## Apertura de la Parte IV — Los semiconductores ancestrales
 
