@@ -1,6 +1,5 @@
 # Capítulo 12 — Seguir preguntando
 
-> **Fuera de las cinco partes — regreso a la Parte I: Filosofía**
 
 
 Once capítulos después, el hilo eran las dos de la puerta: **decisiones irracionales, ¿para quién?, y quién te está pensando.** Este cierre no agrega un tema: resume cómo se miró cada uno.
