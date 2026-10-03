@@ -1,7 +1,5 @@
 # Capítulo 1 — La isla del doctor Moreau
 
-> **PARTE II — El laboratorio de lo real**
-### Apertura de la Parte III
 
 Medir y decidir no son lo mismo. Esta parte observa cómo datos, modelos, incertidumbres e incentivos entran en las explicaciones que damos y en las políticas que elegimos.
 
