@@ -1,6 +1,5 @@
 # Capítulo 2 — El termómetro en el ombligo
 
-> **PARTE II — El laboratorio de lo real**
 ### Marco histórico para la lectura
 
 La prensa de las décadas de 1960 y 1970 publicó algunas advertencias sobre enfriamiento, pero eso no equivale a un consenso científico que anunciara una edad de hielo inminente. La revisión de Peterson, Connolley y Fleck de artículos científicos publicados entre 1965 y 1979 encontró que las proyecciones de calentamiento eran más numerosas que las de enfriamiento. Por eso, el capítulo puede examinar titulares, cambios de hipótesis y comunicación pública, distinguiendo esas capas en lugar de tratarlas como una sola voz.
